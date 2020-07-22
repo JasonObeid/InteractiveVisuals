@@ -1,4 +1,7 @@
 <style>
+    * {
+        box-sizing: border-box;
+    }
 
     body {
         font: 14px helvetica;
@@ -18,7 +21,7 @@
     }
 
     a.outline {
-        text-shadow: 0.5px 1px #ffcea6;
+        text-shadow: 0.5px 1px #ffa86b;
     }
 
     .d3-tip {
@@ -29,24 +32,26 @@
         color: #fff;
         border-radius: 2px;
     }
-        /* Creates a small triangle extender for the tooltip */
-        .d3-tip:after {
-            box-sizing: border-box;
-            display: inline;
-            font-size: 10px;
-            width: 100%;
-            line-height: 1;
-            color: rgba(0, 0, 0, 0.8);
-            content: "\25BC";
-            position: absolute;
-            text-align: center;
-        }
-        /* Style northward tooltips differently */
-        .d3-tip.n:after {
-            margin: -1px 0 0 0;
-            top: 100%;
-            left: 0;
-        }
+
+    /* Creates a small triangle extender for the tooltip */
+    .d3-tip:after {
+        box-sizing: border-box;
+        display: inline;
+        font-size: 10px;
+        width: 100%;
+        line-height: 1;
+        color: rgba(0, 0, 0, 0.8);
+        content: "\25BC";
+        position: absolute;
+        text-align: center;
+    }
+
+    /* Style northward tooltips differently */
+    .d3-tip.n:after {
+        margin: -1px 0 0 0;
+        top: 100%;
+        left: 0;
+    }
 
     table {
         text-align: center;
@@ -57,10 +62,12 @@
         font: 36px helvetica;
         text-align: center;
     }
+
     p#summary {
         font: 24px helvetica;
         text-align: left;
     }
+
     .button {
         display: inline-block;
         border-radius: 8px;
@@ -72,70 +79,102 @@
         padding: 12px;
         width: 30%;
         vertical-align: central;
-        text-align: center;
         transition: all 0.5s;
         cursor: pointer;
         margin: 5px;
     }
 
-        .button span {
-            cursor: pointer;
-            display: inline-block;
-            position: relative;
-            transition: 0.5s;
-        }
+    .button span {
+        cursor: pointer;
+        display: inline-block;
+        position: relative;
+        transition: 0.5s;
+    }
 
-            .button span:after {
-                content: '\00bb';
-                position: absolute;
-                opacity: 0;
-                top: 0;
-                right: -20px;
-                transition: 0.5s;
-            }
+    .button span:after {
+        content: '\00bb';
+        position: absolute;
+        opacity: 0;
+        top: 0;
+        right: -20px;
+        transition: 0.5s;
+    }
 
-        .button:hover span {
-            padding-right: 25px;
-        }
+    .button:hover span {
+        padding-right: 25px;
+    }
 
-            .button:hover span:after {
-                opacity: 1;
-                right: 0;
-            }
+    .button:hover span:after {
+        opacity: 1;
+        right: 0;
+    }
+
+    .grid-container {
+        flex-grow: initial;
+        text-align: center;
+        vertical-align: center;
+        display: grid;
+        grid-template-columns: 2.5fr 1.5fr;
+        grid-template-rows: 0.5fr 2.1fr 0.4fr;
+        gap: 10px 5px;
+        grid-template-areas: "Title Selector" "Chart Caption" "tts Meta";
+    }
+
+    .Title { grid-area: Title; }
+
+    .Chart { grid-area: Chart; }
+
+    .tts { grid-area: tts; }
+
+    .Caption { grid-area: Caption;
+               align-self: center;}
+
+    .gridY { opacity: 40% }
+
+    .gridX { opacity: 40% }
+    .button:hover {
+        background-color: #6bd8fb;
+    }
 </style>
 
-<html>
+<html lang="english">
 
 <head>
     <script>
-        var xAxis = "";
-        var yAxis = "";
-
-        var rootName = "3001_1";
-        var jsonPath = "/InteractiveVisualizations/data/d3/specs/" + rootName + ".json";
-        var csvPath = "/InteractiveVisualizations/data/d3/data/" + rootName + ".csv";
-        var summaryPath = "/InteractiveVisualizations/data/d3/summaries/" + rootName + "_summary.json";
-
-
-        /*var rootName = "53";
-        var jsonPath = "/InteractiveVisualizations/data/kong/specs/" + rootName + ".json";
-        var csvPath = "/InteractiveVisualizations/data/kong/data/" + rootName + ".csv";
-        var summaryPath = "/InteractiveVisualizations/data/kong/summaries/" + rootName + "_summary.json";*/
-
+        var labelArr = [];
+        var xLabel = "";
+        var yLabel = "";
+        var title = "";
         var graphType = "";
+        var columnType = "";
+        var data = [];
+        var idArrays = [];
+        var summary = [];
+
+        if (sessionStorage.getItem('chartNumber') != null) {
+            var rootName = sessionStorage.getItem('chartNumber')
+        }
+        else {
+            var rootName = '1'
+        }
+        /*
+        if (sessionStorage.getItem('chartType') != null) {
+            var type = sessionStorage.getItem('chartType')
+        }
+        else {
+            var type = 'line'
+        }*/
+
+        var summaryPath = "/InteractiveVisuals/generated/" + rootName + ".json";
+        function refresh() {
+            var x = document.getElementById('chartNumber').value;
+            //var y = document.getElementById('chartType').value;
+            sessionStorage.setItem('chartNumber', x);
+            //sessionStorage.setItem('chartType', y);
+            location.reload();
+        }
+
         function getMetaData() {
-            var metaRequestURL = jsonPath;
-            var metaRequest = new XMLHttpRequest();
-            metaRequest.open('GET', metaRequestURL);
-            metaRequest.responseType = 'json';
-            metaRequest.send();
-            metaRequest.onload = function () {
-                var jsonObj = metaRequest.response;
-                yAxis = jsonObj['encoding']["y"]["field"];
-                xAxis = jsonObj['encoding']["x"]["field"];
-                graphType = jsonObj.mark;
-                setTitle(xAxis, yAxis, graphType);
-            }
             var summaryRequestURL = summaryPath;
             var summaryRequest = new XMLHttpRequest();
             summaryRequest.open('GET', summaryRequestURL);
@@ -143,184 +182,393 @@
             summaryRequest.send();
             summaryRequest.onload = function () {
                 var jsonObj = summaryRequest.response;
+                graphType = jsonObj.graphType;
+                columnType = jsonObj.columnType;
+                var title = jsonObj.title;
+                if (columnType === "two") {
+                    yLabel = jsonObj.yAxis;
+                    xLabel = jsonObj.xAxis;
+                    data = jsonObj.data;
+                }
+                else if (columnType === "multi") {
+                    labelArr = jsonObj.labels;
+                    const length = jsonObj.data.length;
+                    data = jsonObj.data;
+                    xLabel = labelArr[0]
+                    //for (let i = 0; i < length; i++) {
+                    //    console.log(data[i]);
+                    //}
+                }
+                setTitle(title);
                 var summaryArray = jsonObj.summary;
                 var trendsArray = jsonObj.trends;
+                console.log(data);
+                console.log(trendsArray);
                 run(summaryArray, trendsArray);
             }
         }
 
-        function run(summaryArray, trendsArray) {
+        function run(summaryArray, trendsArray, chartData) {
             sumArrayLength = summaryArray.length;
-            if (graphType == "line") {
-                idArray = setGraphs(trendsArray);
-                lineGraph();
-                setSummary(summaryArray);
+            summary = summaryArray;
+            if (columnType === "two") {
+                if (graphType === "line") {
+                    let idArray = getLineIds(trendsArray);
+                    idArrays = idArray;
+                    lineGraph();
+                    setSummary(summaryArray);
+                    addLineListeners(idArray);
+                } else if (graphType === "bar") {
+                    let idArray = getBarIds(trendsArray);
+                    idArrays = idArray;
+                    barGraph();
+                    setSummary(summaryArray);
+                    addBarListeners(idArray);
+                }
             }
-            else if (graphType == "bar") {
-                idArray = setBarGraphs(trendsArray);
-                barGraph();
-                setSummary(summaryArray);
+            else if (columnType === "multi") {
+                if (graphType === "line") {
+                    let idArray = getLineIds(trendsArray);
+                    idArrays = idArray;
+                    multiLineGraph();
+                    setSummary(summaryArray);
+                    addLineListeners(idArray);
+                } else if (graphType === "bar") {
+                    let idArray = getBarIds(trendsArray);
+                    console.log(idArray);
+                    idArrays = idArray;
+                    multiBarGraph();
+                    setSummary(summaryArray);
+                    addBarListeners(idArray);
+                }
             }
         }
 
         var count = 0;
+        var lineCount = 0;
+
         function setId() {
             var id = ("Column" + count)
             d3.select(this).attr("id", id);
             xValue = d3.select(this).attr("xVal");
             yValue = d3.select(this).attr("yVal");
-            var string = yAxis + " is " + yValue + " at " + xAxis + " " + xValue;
+            var string = yLabel + " is " + yValue + " at " + xLabel + " " + xValue;
             document.getElementById(id).addEventListener("mouseover", function () {
                 textChange(string);
             });
             count = count + 1;
         }
 
-        function setTitle(x, y, graph) {
-            xAxis = x.replace(/_/g, " ");
-            yAxis = y.replace(/_/g, " ");
-            xLabel = x;
-            yLabel = y;
-            var title = graph + " graph of " + xAxis + " at " + yAxis;
+        function mulitLineSetID() {
+            /*if (count === data.length) {
+                count = 0;
+                lineCount++;
+            }
+            var id = ("Column[" + lineCount +  "][" + count + ']')*/
+
+            var id = ("Column" + count)
+            d3.select(this).attr("id", id);
+            lineValue = d3.select(this).attr("lineVal");
+            xValue = d3.select(this).attr("xVal");
+            yValue = d3.select(this).attr("yVal");
+            var string = lineValue + " is " + yValue + " at " + xLabel + " " + xValue;
+            document.getElementById(id).addEventListener("mouseover", function () {
+                textChange(string);
+            });
+            count++;
+        }
+
+        function mulitBarSetID() {
+            var id = ("Column" + count)
+            d3.select(this).attr("id", id);
+            barValue = d3.select(this).attr("barVal");
+            xValue = d3.select(this).attr("xVal");
+            yValue = d3.select(this).attr("yVal");
+            var string = barValue + " is " + yValue + " at " + xLabel + " " + xValue;
+            document.getElementById(id).addEventListener("mouseover", function () {
+                textChange(string);
+            });
+            count++;
+        }
+
+        function setTitle(title) {
             document.getElementById('title').innerText = title;
         }
 
         function setSummary(summaryArray) {
-            for (i = 0; i < summaryArray.length; i++) {
+            console.log(summaryArray)
+            for (let i = 0; i < summaryArray.length; i++) {
                 var anchor = document.createElement("A");
-                id = "A" + i
+                let id = "A" + i
                 anchor.setAttribute("id", id);
-                anchor.innerHTML = summaryArray[i];
+                tokens = summaryArray[i].split(" ")
+                for (let n = 0; n < tokens.length; n++) {
+                    let tokenAnchor = document.createElement("A");
+                    let subId = 'Token' + n;
+                    tokenAnchor.setAttribute("id", subId);
+                    tokenAnchor.innerHTML = tokens[n] + ' ';
+                    anchor.appendChild(tokenAnchor);
+                }
                 document.getElementById('summary').appendChild(anchor);
-                if (i > 0) {
-                    anchor.setAttribute("class", "outline");
-                    addTextListener(id, i);
-                }
             }
         }
 
-        function setGraphs(trendsArray) {
-            var idArray = [];
+        function getLineIds(trendsArray) {
+            let graphArray = [];
+            let tokenArray = [];
+            //iterate sentences
             for (n = 0; n < trendsArray.length; n++) {
-                start = trendsArray[n].start;
-                end = trendsArray[n].end;
-                ids = [];
-                for (m = start; m <= end; m++) {
-                    var id = "Column" + m;
-                    ids.push(id);
+                const keys = Object.keys(trendsArray[n])
+                const values = Object.values(trendsArray[n])
+                console.log(keys)
+
+                let sentenceGraphIds = []
+                let sentenceTokenIds = []
+                //iterate through trends and generate ranges
+                if (keys.length > 1) {
+                    for (let i = 0; i < keys.length - 1; i++) {
+                        trendTokenRanges = []
+                        trendGraphRanges = []
+                        tokenRangeStart = Math.min(keys[i], keys[i + 1])
+                        tokenRangeEnd = Math.max(keys[i], keys[i + 1])
+                        // console.log(tokenRangeStart);
+                        // console.log(tokenRangeEnd);
+                        // console.log(keys[i], keys[i + 1])
+                        for (let n = tokenRangeStart+i; n <= tokenRangeEnd; n++) {
+                            // console.log(i);
+                            const id = "Token" + n;
+                            trendTokenRanges.push(id);
+                        }
+                        graphRangeStart = Math.min(values[i], values[i + 1]);
+                        graphRangeEnd = Math.max(values[i], values[i + 1]);
+                        for (let i = graphRangeStart; i <= graphRangeEnd; i++) {
+                            const id = "Column" + i;
+                            trendGraphRanges.push(id);
+                        }
+                        sentenceGraphIds.push(trendGraphRanges);
+                        sentenceTokenIds.push(trendTokenRanges);
+                    }
                 }
-                idArray.push(ids);
+                else if (keys.length === 1){
+                    sentenceGraphIds.push("Column" + values);
+                    sentenceTokenIds.push("Token" + keys);
+                }
+                graphArray.push(sentenceGraphIds);
+                tokenArray.push(sentenceTokenIds);
             }
+            console.log(graphArray);
+            console.log(tokenArray);
+            let idArray = [graphArray, tokenArray];
             return idArray;
         }
 
-        function setBarGraphs(trendsArray) {
-            var idArray = [];
-            var ids = []
-            var min = trendsArray["minIndex"];
-            var max = trendsArray["maxIndex"];
-            ids.push("Column" + min);
-            ids.push("Column" + max);
-            idArray.push(ids);
+        function getBarIds(trendsArray) {
+            let graphArray = [];
+            let tokenArray = [];
+            //iterate sentences
+            for (n = 0; n < trendsArray.length; n++) {
+                const keys = Object.keys(trendsArray[n])
+                const values = Object.values(trendsArray[n])
+                let sentenceGraphIds = []
+                let sentenceTokenIds = []
+                //iterate through trends and generate ranges
+                for (let i = 0; i < keys.length; i++) {
+                    const newCol = "Column" + values[i];
+                    const newTok = "Token" + keys[i];
+                    sentenceGraphIds.push(newCol);
+                    sentenceTokenIds.push(newTok);
+                }
+                graphArray.push(sentenceGraphIds);
+                tokenArray.push(sentenceTokenIds);
+            }
+            console.log(graphArray);
+            console.log(tokenArray);
+            let idArray = [graphArray, tokenArray];
             return idArray;
         }
 
-        function lineListenerOver(id) {
-            for (var k = 0; k < idArray.length; k++) {
-                if (idArray[k].includes(id)) {
-                    var textid = "A" + (k + 1);
-                    document.getElementById(textid).style.backgroundColor = '#d9f6ff';
-                    for (var n = 0; n < idArray[k].length; n++) {
-                        document.getElementById(idArray[k][n]).style.fill = '#cf6830';
-                    }
-                }
-            }
-        }
-
-        function lineListenerOut(id) {
-            for (var j = 0; j < idArray.length; j++) {
-                if (idArray[j].includes(id)) {
-                    var textid = "A" + (j + 1);
-                    document.getElementById(textid).style.backgroundColor = 'transparent';
-                    for (var m = 0; m < idArray[j].length; m++) {
-                        document.getElementById(idArray[j][m]).style.fill = 'grey';
-                    }
-                }
-            }
-        }
-
-        function barListenerOver(id) {
-            var maxID = idArray[0][1];
-            var minID = idArray[0][0];
-            if (id == maxID) {
-                var textid = "A1"
-                document.getElementById(textid).style.backgroundColor = '#d9f6ff';
-                document.getElementById(maxID).style.fill = '#cf6830';
-            }
-            if (id == minID) {
-                var textid = "A2"
-                document.getElementById(textid).style.backgroundColor = '#d9f6ff';
-                document.getElementById(minID).style.fill = '#cf6830';
-            }
-        }
-
-        function barListenerOut(id) {
-            var maxID = idArray[0][1];
-            var minID = idArray[0][0];
-            if (id == maxID) {
-                var textid = "A1"
-                document.getElementById(textid).style.backgroundColor = 'transparent';
-                document.getElementById(maxID).style.fill = '#3093cf';
-            }
-            if (id == minID) {
-                var textid = "A2"
-                document.getElementById(textid).style.backgroundColor = 'transparent';
-                document.getElementById(minID).style.fill = '#3093cf';
-            }
-        }
-
-        function addTextListener(id, i) {
-            //add listener for summary anchor
-            if (graphType == "bar") {
-                var maxID = idArray[0][1];
-                var minID = idArray[0][0];
-                if (id == "A1") {
-                    document.getElementById(id).addEventListener("mouseover", function () {
-                        document.getElementById(id).style.backgroundColor = '#d9f6ff';
-                        document.getElementById(maxID).style.fill = '#cf6830';
-
-                    });
-                    document.getElementById(id).addEventListener("mouseout", function () {
-                        document.getElementById(id).style.backgroundColor = 'transparent';
-                        document.getElementById(maxID).style.fill = '#3093cf';
-                    });
-                }
-                if (id == "A2") {
-                    document.getElementById(id).addEventListener("mouseover", function () {
-                        document.getElementById(id).style.backgroundColor = '#d9f6ff';
-                        document.getElementById(minID).style.fill = '#cf6830';
-                    });
-                    document.getElementById(id).addEventListener("mouseout", function () {
-                        document.getElementById(id).style.backgroundColor = 'transparent';
-                        document.getElementById(minID).style.fill = '#3093cf';
-                    });
-                }
+        function setChartListeners(graphIds, trendAnchor) {
+            if (graphIds.toString().length < 9) {
+                let dot = document.getElementById(graphIds);
+                let graphFill = dot.getAttribute('fill');
+                dot.addEventListener("mouseover", function () {
+                    trendAnchor.style.backgroundColor = '#d9f6ff';
+                    dot.style.fill = shadeColor(graphFill, -50);
+                });
+                dot.addEventListener("mouseout", function () {
+                    trendAnchor.style.backgroundColor = 'transparent';
+                    dot.style.fill = graphFill;
+                });
             }
             else {
-                document.getElementById(id).addEventListener("mouseover", function () {
-                    document.getElementById(id).style.backgroundColor = '#d9f6ff';
-                    var graphIds = idArray[i - 1];
-                    for (var n = 0; n < graphIds.length; n++) {
-                        document.getElementById(graphIds[n]).style.fill = '#cf6830';
+                for (let i=0;i<graphIds.length;i++) {
+                    let dot = document.getElementById(graphIds[i]);
+                    dot.addEventListener("mouseover", function () {
+                        trendAnchor.style.backgroundColor = '#d9f6ff';
+                        for (graphId of graphIds) {
+                            let graph = document.getElementById(graphId);
+                            let graphFill = graph.getAttribute('fill')
+                            graph.style.fill = shadeColor(graphFill, -50);// = '#cf6830';
+                        }
+                    });
+                    dot.addEventListener("mouseout", function () {
+                        trendAnchor.style.backgroundColor = 'transparent';
+                        for (graphId of graphIds) {
+                            let graph = document.getElementById(graphId);
+                            let graphFill = graph.getAttribute('fill')
+                            graph.style.fill = graphFill;// = '#cf6830';
+                        }
+                    });
+                }
+            }
+        }
+
+        function addLineListeners(idArray) {
+            let sentences = idArray[1];
+            for (let i=0; i < sentences.length; i++) {
+                let trends = sentences[i];
+                let sentenceId = 'A'+i;
+                let sentence = document.getElementById(sentenceId);
+                for (let n=0; n < trends.length; n++) {
+                    trendArr = [];
+                    let trend = trends[n]
+                    //edge case where accessing a trend of length 1 will iterate through each character
+                    //one trend converted to string is 7 characters
+                    if (trend.toString().length < 7) {
+                        let tokenId = trends[0]
+                        let tokenEl = sentence.querySelector('#' + tokenId);
+                        let token = tokenEl.innerHTML;
+                        let trendAnchor = document.createElement("A");
+                        let id = "T" + n
+                        trendAnchor.setAttribute("id", id);
+                        trendAnchor.setAttribute("class", "outline");
+
+                        trendAnchor.innerHTML = token + ' ';
+                        trendAnchor.addEventListener("mouseover", function () {
+                            trendAnchor.style.backgroundColor = '#d9f6ff';
+                            for (graphId of idArray[0][i][n]) {
+                                let graph = document.getElementById(graphId);
+                                let graphFill = graph.getAttribute('fill')
+                                graph.style.fill = shadeColor(graphFill, -50);// = '#cf6830';
+                            }
+                        });
+                        trendAnchor.addEventListener("mouseout", function () {
+                            trendAnchor.style.backgroundColor = 'transparent';
+                            for (graphId of idArray[0][i][n]) {
+                                let graph = document.getElementById(graphId);
+                                let graphFill = graph.getAttribute('fill')
+                                graph.style.fill = graphFill;// = '#cf6830';
+                            }
+                        });
+                        sentence.replaceChild(trendAnchor, sentence.querySelector('#' + tokenId));
+                        setChartListeners(idArray[0][i][n], trendAnchor);
                     }
-                });
-                document.getElementById(id).addEventListener("mouseout", function () {
-                    document.getElementById(id).style.backgroundColor = 'transparent';
-                    var graphIds = idArray[i - 1];
-                    for (var n = 0; n < graphIds.length; n++) {
-                        document.getElementById(graphIds[n]).style.fill = 'grey';
+                    // Add listeners to line chart dots
+                    for (let m = 0; m < trend.length; m++) {
+                        let tokenId = trend[m];
+                        let tokenEl = sentence.querySelector('#' + tokenId);
+                        let token = tokenEl.innerHTML;
+                        trendArr.push(token)
+                        if (m === trend.length - 1) {
+                            let trendAnchor = document.createElement("A");
+                            let id = "T" + n
+                            trendAnchor.setAttribute("id", id);
+                            trendAnchor.setAttribute("class", "outline");
+                            trendAnchor.innerHTML = trendArr.join(' ') + ' ';
+                            trendAnchor.addEventListener("mouseover", function () {
+                                trendAnchor.style.backgroundColor = '#d9f6ff';
+                                for (graphId of idArray[0][i][n]) {
+                                    let graph = document.getElementById(graphId);
+                                    let graphFill = graph.getAttribute('fill')
+                                    graph.style.fill = shadeColor(graphFill, -50);// = '#cf6830';
+                                }
+                            });
+                            trendAnchor.addEventListener("mouseout", function () {
+                                trendAnchor.style.backgroundColor = 'transparent';
+                                for (graphId of idArray[0][i][n]) {
+                                    let graph = document.getElementById(graphId);
+                                    let graphFill = graph.getAttribute('fill')
+                                    graph.style.fill = graphFill;// = '#cf6830';
+                                }
+                            });
+                            sentence.replaceChild(trendAnchor, sentence.querySelector('#' + tokenId));
+                        } else {
+                            sentence.removeChild(sentence.querySelector('#' + tokenId));
+                        }
                     }
-                });
+                    trendAnchorId = "T" + n;
+                    let trendAnchor = sentence.querySelector('#' + trendAnchorId)
+                    setChartListeners(idArray[0][i][n], trendAnchor);
+                }
+            }
+        }
+
+        function addBarListeners(idArray) {
+            let sentences = idArray[1];
+            for (let i=0; i < sentences.length; i++) {
+                let trends = sentences[i];
+                let sentenceId = 'A'+i;
+                let sentence = document.getElementById(sentenceId);
+                if (trends.length === 1) {
+                    //edge case where accessing a trend of length 1 will iterate through each character
+                    //one trend converted to string is 7 characters
+                    if (trends.toString().length < 8) {
+                        let tokenId = trends[0]
+                        let tokenEl = sentence.querySelector('#' + tokenId);
+                        let token = tokenEl.innerHTML;
+                        let trendAnchor = document.createElement("A");
+                        let id = "T0"
+                        trendAnchor.setAttribute("id", id);
+                        trendAnchor.setAttribute("class", "outline");
+                        trendAnchor.innerHTML = token + ' ';
+                        const graphId = idArray[0][i][0]
+                        trendAnchor.addEventListener("mouseover", function () {
+                            trendAnchor.style.backgroundColor = '#d9f6ff';
+                            let graph = document.getElementById(graphId);
+                            let graphFill = graph.getAttribute('fill')
+                            graph.style.fill = shadeColor(graphFill, -50);// = '#cf6830';
+                        });
+                        trendAnchor.addEventListener("mouseout", function () {
+                            trendAnchor.style.backgroundColor = 'transparent';
+                            let graph = document.getElementById(graphId);
+                            let graphFill = graph.getAttribute('fill')
+                            graph.style.fill = graphFill;// = '#cf6830';
+                        });
+                        sentence.replaceChild(trendAnchor, sentence.querySelector('#' + tokenId));
+                        setChartListeners(graphId, trendAnchor);
+                    }
+                }
+                else if (trends.length > 1) {
+                    for (let n = 0; n < trends.length; n++) {
+                        trendArr = [];
+                        let trend = trends[n]
+                        // Add listeners to bars
+                        let tokenId = trend;
+                        let tokenEl = sentence.querySelector('#' + tokenId);
+                        let token = tokenEl.innerHTML;
+                        trendArr.push(token)
+                        let trendAnchor = document.createElement("A");
+                        let id = "T" + n
+                        trendAnchor.setAttribute("id", id);
+                        trendAnchor.setAttribute("class", "outline");
+                        trendAnchor.innerHTML = trendArr.join(' ') + ' ';
+                        const graphId = idArray[0][i][n]
+                        trendAnchor.addEventListener("mouseover", function () {
+                            trendAnchor.style.backgroundColor = '#d9f6ff';
+                            let graph = document.getElementById(graphId);
+                            let graphFill = graph.getAttribute('fill')
+                            graph.style.fill = shadeColor(graphFill, -50);// = '#cf6830';
+                        });
+                        trendAnchor.addEventListener("mouseout", function () {
+                            trendAnchor.style.backgroundColor = 'transparent';
+                            let graph = document.getElementById(graphId);
+                            let graphFill = graph.getAttribute('fill')
+                            graph.style.fill = graphFill;// = '#cf6830';
+                        });
+                        sentence.replaceChild(trendAnchor, sentence.querySelector('#' + tokenId));
+                        setChartListeners(graphId, trendAnchor);
+                    }
+                }
             }
         }
 
@@ -331,353 +579,705 @@
 
         function narrateSummary() {
             //executes on press of narrate summary button
+            let tokens = idArrays[1];
+            console.log(tokens)
             var audioPlayer = document.getElementById("audioPlayback");
-            var playCount = 0;
-            var txtID = "A0";
-            var text = document.getElementById(txtID).innerText;
-            var trendCount = sumArrayLength - 1;
-            console.log(trendCount);
-            speakText(text);
-            document.getElementById(txtID).style.backgroundColor = '#d9f6ff';
-            var handler = function () {
-                playCount = playCount + 1;
-                if (graphType == "line") {
-                    //multi-trend lines
-                    var graphIdsN = idArray[playCount - 1];
-                    var graphIdsM = idArray[playCount - 2];
-                    if (trendCount > 1) {
-                        if (playCount < sumArrayLength) {
-                            var txtIdN = "A" + playCount;
-                            var txtIdM = "A" + (playCount - 1);
-                            var text = document.getElementById(txtIdN).innerText;
-                            speakText(text);
-                            document.getElementById(txtIdM).style.backgroundColor = 'transparent';
-                            document.getElementById(txtIdN).style.backgroundColor = '#d9f6ff';
-                            if (playCount == 1) {
-                                for (var n = 0; n < graphIdsN.length; n++) {
-                                    document.getElementById(graphIdsN[n]).style.fill = '#cf6830';
-                                }
-                            }
-                            if (playCount > 1) {
-                                for (var n = 0; n < graphIdsN.length; n++) {
-                                    document.getElementById(graphIdsN[n]).style.fill = '#cf6830';
-                                }
-                                for (var m = 0; m < graphIdsM.length; m++) {
-                                    document.getElementById(graphIdsM[m]).style.fill = 'grey';
-                                }
-                            }
-                        }
-                        else if (playCount == sumArrayLength) {
-                            var graphIdsM = idArray[playCount - 2];
-                            document.getElementById(txtIdN).style.backgroundColor = 'transparent';
-                            audioPlayer.removeEventListener("ended", handler);
-                            for (var m = 0; m < graphIdsM.length; m++) {
-                                document.getElementById(graphIdsM[m]).style.fill = 'grey';
-                            }
-                        }
-                    }
-                    //uni-trend lines
-                    else {
-                        console.log(playCount);
-                        if (playCount < sumArrayLength) {
-                            var txtIdN = "A" + playCount;
-                            var txtIdM = "A" + (playCount - 1);
-                            var text = document.getElementById(txtIdN).innerText;
-                            speakText(text);
-                            document.getElementById(txtIdM).style.backgroundColor = 'transparent';
-                            document.getElementById(txtIdN).style.backgroundColor = '#d9f6ff';
-                            if (playCount == 1) {
-                                for (var n = 0; n < graphIdsN.length; n++) {
-                                    document.getElementById(graphIdsN[n]).style.fill = '#cf6830';
-                                }
-                            }
-                        }
-                        else if (playCount == sumArrayLength) {
-                            var graphIdsM = idArray[playCount - 2];
-                            var txtIdM = "A" + (playCount - 1);
-                            document.getElementById(txtIdM).style.backgroundColor = 'transparent';
-                            audioPlayer.removeEventListener("ended", handler);
-                            for (var m = 0; m < graphIdsM.length; m++) {
-                                document.getElementById(graphIdsM[m]).style.fill = 'grey';
-                            }
-                        }
-                    }
-                }
-                //bar graphs
-                else if (graphType == "bar") {
-                    var maxID = idArray[0][1];
-                    var minID = idArray[0][0];
-                    if (playCount < sumArrayLength) {
-                        var txtIdN = "A" + playCount;
-                        var txtIdM = "A" + (playCount - 1);
-                        var text = document.getElementById(txtIdN).innerText;
-                        speakText(text);
-                        document.getElementById(txtIdM).style.backgroundColor = 'transparent';
-                        document.getElementById(txtIdN).style.backgroundColor = '#d9f6ff';
-                        if (playCount == 1) {
-                            document.getElementById(maxID).style.fill = '#cf6830';
-                        }
-                        else if (playCount == 2) {
-                            document.getElementById(minID).style.fill = '#cf6830';
-                            document.getElementById(maxID).style.fill = '#3093cf';
-                        }
-                    }
-                    else if (playCount == sumArrayLength) {
-                        document.getElementById("A2").style.backgroundColor = 'transparent';
-                        audioPlayer.removeEventListener("ended", handler);
-                        document.getElementById(minID).style.fill = '#3093cf';
-                    }
+            let i = 0
+            // sentence 1
+            speakText(summary[0]);
+            let sentence = document.getElementById('A0');
+            sentence.style.backgroundColor = '#d9f6ff';
+            i++;
+            // next sentences. use onended handler so entire audio finishes before moving to next sentence
+            audioPlayer.onended = function() {
+                let priorSentence = document.getElementById('A'+(i-1));
+                priorSentence.style.backgroundColor = 'transparent';
+                if (i < summary.length) {
+                    const text = summary[i];
+                    speakText(text);
+                    let sentence = document.getElementById('A'+i);
+                    sentence.style.backgroundColor = '#d9f6ff';
+                    i++;
                 }
             };
-            audioPlayer.addEventListener("ended", handler);
+            audioPlayer.removeEventListener("ended", handler);
+        }
+
+        function isAlphaNumeric(str) {
+            var code, i, len;
+
+            for (i = 0, len = str.length; i < len; i++) {
+                code = str.charCodeAt(i);
+                if (!(code > 47 && code < 58) && // numeric (0-9)
+                    !(code > 64 && code < 91) && // upper alpha (A-Z)
+                    !(code > 96 && code < 123)) { // lower alpha (a-z)
+                    return false;
+                }
+            }
+            return true;
+        };
+
+        function isNumeric(str) {
+            var code, i, len;
+
+            for (i = 0, len = str.length; i < len; i++) {
+                code = str.charCodeAt(i);
+                if (!(code > 47 && code < 58)) {
+                    return false;
+                }
+            }
+            return true;
         }
     </script>
 </head>
 
 <body>
-    <section id="graph">
-        <!--Bar graph with-->
-        <script src="https://d3js.org/d3.v5.min.js"></script>
-        <script src="d3-tip.js"></script>
-        <script>
-            getMetaData();
-            function lineGraph() {
-                var margin = { top: 30, right: 40, bottom: 50, left: 100 },
-                    width = 1300 - margin.left - margin.right,
-                    height = 600 - margin.top - margin.bottom;
+<section id="graph">
+    <!--Bar graph with-->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="d3-tip.js"></script>
+    <script>
+        getMetaData();
+        function lineGraph() {
+            console.log(data);
+            var margin = {top: 30, right: 40, bottom: 50, left: 100},
+                width = 1300 - margin.left - margin.right,
+                height = 600 - margin.top - margin.bottom;
 
-                // append the svg object to the body of the page
-                var svg = d3.select("#chart")
-                    .append("svg")
-                    .attr("width", width + margin.left + margin.right)
-                    .attr("height", height + margin.top + margin.bottom)
-                    .append("g")
-                    .attr("transform",
-                        "translate(" + margin.left + "," + margin.top + ")");
+            // append the svg object to the body of the page
+            var svg = d3.select("#chart")
+                .append("svg")
+                .attr("width", width + margin.left + margin.right)
+                .attr("height", height + margin.top + margin.bottom)
+                .append("g")
+                .attr("transform",
+                    "translate(" + margin.left + "," + margin.top + ")");
 
-                //Read the data
-                d3.csv(csvPath).then(function (data) {
-                    var x = d3.scaleBand()
-                        .domain(data.map(function (d) { return d[xLabel]; }))
-                        .range([0, width])
-                        .padding(.1);
-                    svg.append("g")
-                        .attr("transform", "translate(0," + height + ")")
-                        .call(d3.axisBottom(x));
-                    // Add Y axis
-                    var y = d3.scaleLinear()
-                        .domain([0, d3.max(data, function (d) { return +d[yLabel]; })])
-                        .range([height, 0]);
-                    svg.append("g")
-                        .call(d3.axisLeft(y));
-                    var tip = d3.tip()
-                        .attr('class', 'd3-tip')
-                        .offset([-10, 0])
-                        .html(function (d) {
-                            return "<strong> " + yAxis + ":</strong> <span style='color:red'>" + d[yLabel] + "</span>";
-                        })
-                    svg.call(tip);
-                    // Add the line
-                    svg.append("path")
-                        .datum(data)
-                        .attr("id", "path1")
-                        .attr("fill", "none")
-                        .attr("stroke", "steelblue")
-                        .attr("stroke-width", 1.5)
-                        .attr("d", d3.line()
-                            .x(function (d) { return x(d[xLabel]) })
-                            .y(function (d) { return y(d[yLabel]) })
-                        );
-
-                    svg.selectAll(".dot")
-                        .data(data)
-                        .enter().append("circle")
-                        .attr("class", "dot") // Assign a class for styling
-                        .attr("xVal", function (d) { return d[xLabel] })
-                        .attr("yVal", function (d) { return d[yLabel] })
-                        .attr("cx", function (d) { return x(d[xLabel]) })
-                        .attr("cy", function (d) { return y(d[yLabel]) })
-                        .attr("r", 5)
-                        .attr("fill", "grey")
-                        .each(setId)
-                        .on('mouseover', function (d) {
-                            id = this.getAttribute("id")
-                            lineListenerOver(id)
-                            tip.show(d)
-                        })
-                        .on('mouseout', function (d) {
-                            id = this.getAttribute("id")
-                            lineListenerOut(id)
-                            tip.hide(d)
-                        })
-
-                    svg.append("text")
-                        .attr("transform",
-                            "translate(" + (width / 2) + " ," +
-                            (height + margin.top + 10) + ")")
-                        .attr("class", "label")
-                        .style("text-anchor", "middle")
-                        .text(xAxis);
-
-                    svg.append("text")
-                        .attr("transform", "rotate(-90)")
-                        .attr("y", 0 - margin.left)
-                        .attr("x", 0 - (height / 2) - (margin.top + margin.bottom))
-                        .attr("dy", "1em")
-                        .attr("class", "label")
-                        .text(yAxis);
-                });
+            // gridlines in x axis function
+            function make_x_gridlines() {
+                return d3.axisBottom(x)
+                    .ticks(5)
             }
 
-            function barGraph() {
-                var margin = { top: 30, right: 30, bottom: 50, left: 60 },
-                    width = 1400 - margin.left - margin.right,
-                    height = 600 - margin.top - margin.bottom;
+            // gridlines in y axis function
+            function make_y_gridlines() {
+                return d3.axisLeft(y)
+                    .ticks(5)
+            }
 
-                var x = d3.scaleBand()
-                    .rangeRound([0, width])
-                    .padding(.3);
+            //Read the data
+            //fix x axis values if it contains alpha chars
+            if (!isNumeric(data[0][xLabel])) {
+                data.forEach(function(d) {
+                    d[xLabel] = parseInt(d[xLabel]);
+                    d[yLabel] = +d[yLabel];
+                });
+            }
+            var x = d3.scaleLinear()
+                .domain(
+                    [d3.min(data, function (d) {
+                        return +d[xLabel];
+                    }), d3.max(data, function (d) {
+                        return +d[xLabel];
+                    })])
+                .range([0, width]);
+            svg.append("g")
+                .attr("transform", "translate(0," + height + ")")
+                .call(d3.axisBottom(x));
+            // Add Y axis
+            var y = d3.scaleLinear()
+                .domain([0, d3.max(data, function (d) {
+                    return +d[yLabel];
+                })])
+                .range([height, 0]);
+            svg.append("g")
+                .call(d3.axisLeft(y));
 
-                var y = d3.scaleLinear()
-                    .rangeRound([height, 0]);
-
-                tip = d3.tip()
-                    .attr('class', 'd3-tip')
-                    .offset([-10, 0])
-                    .html(function (d) {
-                        return "<strong> " + yAxis + ":</strong> <span style='color:red'>" + d[yLabel] + "</span>";
+            var tip = d3.tip()
+                .attr('class', 'd3-tip')
+                .offset([-10, 0])
+                .html(function (d) {
+                    return "<strong> " + yLabel + ":</strong> <span style='color:red'>" + d[yLabel] + "</span>";
+                })
+            svg.call(tip);
+            // Add the line
+            svg.append("path")
+                .datum(data)
+                .attr("id", "path1")
+                .attr("fill", "none")
+                .attr("stroke", "steelblue")
+                .attr("stroke-width", 2)
+                .attr("d", d3.line()
+                    .x(function (d) {
+                        return x(d[xLabel])
                     })
+                    .y(function (d) {
+                        return y(d[yLabel])
+                    })
+                );
 
-                var svg = d3.select("#chart").append("svg")
-                    .attr("width", width + margin.left + margin.right)
-                    .attr("height", height + margin.top + margin.bottom)
-                    .append("g")
-                    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+            svg.selectAll(".dot")
+                .data(data)
+                .enter().append("circle")
+                .attr("class", "dot") // Assign a class for styling
+                .attr("xVal", function (d) {
+                    return d[xLabel]
+                })
+                .attr("yVal", function (d) {
+                    return d[yLabel]
+                })
+                .attr("cx", function (d) {
+                    return x(d[xLabel])
+                })
+                .attr("cy", function (d) {
+                    return y(d[yLabel])
+                })
+                .attr("r", 5)
+                .attr("fill", "grey")
+                .each(setId)
+                .on('mouseover', function (d) {
+                    //id = this.getAttribute("id")
+                    //lineListenerOver(id)
+                    tip.show(d)
+                })
+                .on('mouseout', function (d) {
+                    //id = this.getAttribute("id")
+                    //lineListenerOut(id)
+                    tip.hide(d)
+                })
 
-                svg.call(tip);
+            svg.append("text")
+                .attr("transform",
+                    "translate(" + (width / 2) + " ," +
+                    (height + margin.top + 10) + ")")
+                .attr("class", "label")
+                .style("text-anchor", "middle")
+                .text(xLabel);
 
-                d3.csv(csvPath).then(function (data) {
-                    x.domain(data.map(function (d) {
-                        return d[xLabel];
-                    }));
-                    y.domain([0, d3.max(data, function (d) {
-                        return d3.format(".1e")(d[yLabel]);
-                    })]);
-                    svg.append("g")
-                        .attr("transform", "translate(0," + height + ")")
-                        .call(d3.axisBottom(x));
+            svg.append("text")
+                .attr("transform", "rotate(-90)")
+                .attr("y", 0 - margin.left)
+                .attr("x", 0 - (height / 2) - (margin.top + margin.bottom))
+                .attr("dy", "1em")
+                .attr("class", "label")
+                .text(yLabel);
 
-                    svg.append("g")
-                        .call(d3.axisLeft(y))
-                        .append("text")
-                        .attr("transform", "rotate(-90)")
-                        .attr("y", 6)
-                        .attr("dy", ".71em")
-                        .style("text-anchor", "end");
+            // add the X gridlines
+            svg.append("g")
+                .attr("class", "gridX")
+                .attr("transform", "translate(0," + height + ")")
+                .call(make_x_gridlines()
+                    .tickSize(-height)
+                    .tickFormat("")
+                )
 
-                    svg.selectAll(".bar")
-                        .data(data)
-                        .enter().append("rect")
-                        .attr("class", "bar")
-                        .attr("x", function (d) {
-                            return x(d[xLabel]);
-                        })
-                        .attr("width", x.bandwidth())
-                        .attr("y", function (d) {
-                            return y(d[yLabel]);
-                        })
-                        .attr("height", function (d) {
-                            return height - y(d[yLabel]);
-                        })
-                        .attr("xVal", function (d) { return d[xLabel] })
-                        .attr("yVal", function (d) { return d[yLabel] })
-                        .each(setId)
-                        .attr("fill", "#3093cf")
-                        .on('mouseover', function (d) {
-                            id = this.getAttribute("id")
-                            barListenerOver(id)
-                            tip.show(d)
-                        })
-                        .on('mouseout', function (d) {
-                            id = this.getAttribute("id")
-                            barListenerOut(id)
-                            tip.hide(d)
-                        });
-                });
+            // add the Y gridlines
+            svg.append("g")
+                .attr("class", "gridY")
+                .call(make_y_gridlines()
+                    .tickSize(-width)
+                    .tickFormat("")
+                )
+        }
 
-                svg.append("text")
-                    .attr("transform",
-                        "translate(" + (width / 2) + " ," +
-                        (height + margin.top + 10) + ")")
-                    .attr("class", "label")
-                    .style("text-anchor", "middle")
-                    .text(xAxis);
+        function multiLineGraph() {
+            console.log(data);
 
-                svg.append("text")
-                    .attr("transform", "rotate(-90)")
-                    .attr("y", 0 - margin.left)
-                    .attr("x", 0 - (height / 2) - (margin.top + margin.bottom))
-                    .attr("dy", "1em")
-                    .attr("class", "label")
-                    .text(yAxis);
+            var margin = {top: 30, right: 40, bottom: 50, left: 100},
+                width = 1300 - margin.left - margin.right,
+                height = 600 - margin.top - margin.bottom;
+
+            // append the svg object to the body of the page
+            var svg = d3.select("#chart")
+                .append("svg")
+                .attr("width", width + margin.left + margin.right)
+                .attr("height", height + margin.top + margin.bottom)
+                .append("g")
+                .attr("transform",
+                    "translate(" + margin.left + "," + margin.top + ")");
+
+            // gridlines in x axis function
+            function make_x_gridlines() {
+                return d3.axisBottom(x)
+                    .ticks(5)
             }
-        </script>
-        <!--Text to speech-->
-        <script src="https://sdk.amazonaws.com/js/aws-sdk-2.529.0.min.js"></script>
-        <script type="text/javascript">
-            // Initialize the Amazon Cognito credentials provider
-            AWS.config.region = 'us-east-1';
-            AWS.config.credentials = new AWS.CognitoIdentityCredentials({ IdentityPoolId: 'us-east-1:1dbc5481-8414-4da8-9fd9-2ecd12443250' });
-            function speakText(text) {
-                // Create the JSON parameters for getSynthesizeSpeechUrl
-                var speechParams = {
-                    OutputFormat: "mp3",
-                    Engine: "neural",
-                    SampleRate: "16000",
-                    Text: text,
-                    TextType: "text",
-                    VoiceId: "Matthew"
-                };
-                // Create the Polly service object and presigner object
-                var polly = new AWS.Polly({ apiVersion: '2016-06-10' });
-                var signer = new AWS.Polly.Presigner(speechParams, polly)
-                // Create presigned URL of synthesized speech file
-                signer.getSynthesizeSpeechUrl(speechParams, function (error, url) {
-                    if (error) {
-                        window.alert("AWS Polly error");
-                    } else {
-                        document.getElementById('audioSource').src = url;
-                        document.getElementById('audioPlayback').load();
-                        document.getElementById('audioPlayback').play();
+
+            // gridlines in y axis function
+            function make_y_gridlines() {
+                return d3.axisLeft(y)
+                    .ticks(5)
+            }
+
+            //convert string y values to int
+            data.forEach(function(d) {
+                for (let n = 0; n < labelArr.length; n++)
+                    /*if (isNaN(d[labelArr[n]])) {
+                        d[labelArr[n]] = 0;
+                    }*/
+                    if (isNumeric(d[labelArr[n]])) {
+                        d[labelArr[n]] = parseInt(d[labelArr[n]]);
+                    }
+            });
+            var xLabel = labelArr[0]
+            var x = d3.scaleLinear()
+                .domain(
+                    [d3.min(data, function (d) {
+                        return +d[xLabel];
+                    }), d3.max(data, function (d) {
+                        return +d[xLabel];
+                    })])
+                .range([0, width]);
+            svg.append("g")
+                .attr("transform", "translate(0," + height + ")")
+                .call(d3.axisBottom(x));
+
+            // Add Y axis
+            var keys = Object.keys(data[0]).slice(1);
+            var y = d3.scaleLinear()
+            // Scale the range of the data
+                .domain([0, d3.max(data, function (d) { return d3.max(keys, function (key) { return d[key]; }); })]).nice()
+                .range([height, 0]);
+            svg.append("g")
+                .call(d3.axisLeft(y));
+
+            var tip = d3.tip()
+                .attr('class', 'd3-tip')
+                .offset([-10, 0])
+                .html(function (d) {
+                    console.log(d)
+                    return "<strong> " + lineValue + ' at ' + xValue + ":</strong> <span style='color:red'>" + yValue + "</span>";
+                })
+            svg.call(tip);
+
+            var z = d3.scaleOrdinal()
+                .range(['#a6cee3','#1f78b4','#b2df8a','#33a02c','#fb9a99','#e31a1c','#fdbf6f','#ff7f00','#cab2d6']);
+
+            //iterate through non xAxis data
+            let count = 0;
+            for (let n = 1; n < labelArr.length; n++)
+            {
+                // Add the lines
+                svg.append("path")
+                    .datum(data)
+                    .attr("id", "path"+n)
+                    .attr("fill", "none")
+                    .attr("stroke", () => {
+                        return z(n-1)
+                    })
+                    .attr("stroke-width", 4)
+                    .attr("d", d3.line()
+                        .x(function (d) {
+                            return x(d[xLabel])
+                        })
+                        .y(function (d) {
+                            return y(d[labelArr[n]])
+                        })
+                    );
+                console.log(data.length - 1)
+                data.forEach(function(d, index) {
+                    svg.append("circle")
+                        .attr("class", "dot") // Assign a class for styling
+                        .attr("xVal", d[xLabel])
+                        .attr("yVal", d[labelArr[n]])
+                        .attr("lineVal", labelArr[n])
+                        .attr("cx", x(d[xLabel]))
+                        .attr("cy",y(d[labelArr[n]]))
+                        .attr("r", 5)
+                        .attr("fill", function () {
+                            const color = z(count)
+                            return shadeColor(color, 40)
+                        })
+                        .attr("stroke", "black")
+                        .attr("stroke-width", "1")
+                        .each(mulitLineSetID)
+                        .on('mouseover', function () {
+                            lineValue = labelArr[n];
+                            xValue = d[xLabel]
+                            yValue = d[labelArr[n]]
+                            tip.show([lineValue, xValue, yValue])
+                        })
+                        .on('mouseout', function () {
+                            tip.hide(d[labelArr[n]])
+                        });
+                    if (index === data.length - 1) {
+                        count += 1;
                     }
                 });
             }
-        </script>
-    </section>
-    <table align="left" width=100%" cellpadding="5">
-        <tr>
-            <th><h1 id="title"></h1></th>
-            <th></th>
-        </tr>
-        <tr>
-            <td><h3 id="summaryText">Hover over a point of data to hear its caption</h3></td>
-            <td rowspan="4"><p id="summary"></p></td>
-        </tr>
-        <tr>
-            <td id="chart"></td>
-        </tr>
-        <tr>
-            <td>
-                <button class="button" onclick="narrateSummary()">Narrate Summary</button>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <audio id="audioPlayback" controls>
-                    <source id="audioSource" type="audio/mp3" src="">
-                </audio>
-            </td>
-        </tr>
-    </table>
+
+            svg.append("text")
+                .attr("transform",
+                    "translate(" + (width / 2) + " ," +
+                    (height + margin.top + 10) + ")")
+                .attr("class", "label")
+                .style("text-anchor", "middle")
+                .text(xLabel);
+
+            // add the X gridlines
+            svg.append("g")
+                .attr("class", "gridX")
+                .attr("transform", "translate(0," + height + ")")
+                .call(make_x_gridlines()
+                    .tickSize(-height)
+                    .tickFormat("")
+                )
+
+            // add the Y gridlines
+            svg.append("g")
+                .attr("class", "gridY")
+                .call(make_y_gridlines()
+                    .tickSize(-width)
+                    .tickFormat("")
+                )
+
+            var legend = svg.append("g")
+                .attr("font-family", "sans-serif")
+                .attr("font-size", 10)
+                .attr("text-anchor", "end")
+                .selectAll("g")
+                .data(keys.slice().reverse())
+                .enter().append("g")
+                .attr("transform", function (d, i) { return "translate(0," + i * 20 + ")"; });
+
+            legend.append("rect")
+                .attr("x", width - 19)
+                .attr("width", 19)
+                .attr("height", 19)
+                .attr("fill", function (d) {
+                    const labelIndex = labelArr.indexOf(d) - 1;
+                    return z(labelIndex); });
+
+            legend.append("text")
+                .attr("x", width - 24)
+                .attr("y", 9.5)
+                .attr("dy", "0.32em")
+                .text(function (d) { return d; });
+        }
+
+        function barGraph() {
+            console.log(data);
+            var margin = {top: 30, right: 40, bottom: 50, left: 100},
+                width = 1300 - margin.left - margin.right,
+                height = 600 - margin.top - margin.bottom;
+
+            //convert string y values to int
+            data.forEach(function(d) {
+                d[xLabel] = d[xLabel];
+                d[yLabel] = parseInt(d[yLabel]);
+            });
+
+            var x = d3.scaleBand()
+                .range([0, width])
+                .padding(0.1);
+
+            var y = d3.scaleLinear()
+                .range([height, 0]);
+
+            tip = d3.tip()
+                .attr('class', 'd3-tip')
+                .offset([-10, 0])
+                .html(function (d) {
+                    return "<strong> " + yLabel + ":</strong> <span style='color:red'>" + d[yLabel] + "</span>";
+                })
+
+            var svg = d3.select("#chart").append("svg")
+                .attr("width", width + margin.left + margin.right)
+                .attr("height", height + margin.top + margin.bottom)
+                .append("g")
+                .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+            svg.call(tip);
+
+            x.domain(data.map(function (d) {
+                return d[xLabel];
+            }));
+            y.domain([0, d3.max(data, function (d) {
+                return (d[yLabel]);
+            })]);
+            svg.append("g")
+                .attr("transform", "translate(0," + height + ")")
+                .call(d3.axisBottom(x));
+
+            svg.append("g")
+                .call(d3.axisLeft(y))
+                .append("text")
+                .attr("transform", "rotate(-90)")
+                .attr("y", 6)
+                .attr("dy", ".71em")
+                .style("text-anchor", "end");
+
+            svg.selectAll(".bar")
+                .data(data)
+                .enter().append("rect")
+                .attr("class", "bar")
+                .attr("x", function (d) {
+                    return x(d[xLabel]);
+                })
+                .attr("width", x.bandwidth())
+                .attr("y", function (d) {
+                    return y(d[yLabel]);
+                })
+                .attr("height", function(d) { return height - y(d[yLabel]); })
+                .attr("xVal", function (d) {
+                    return d[xLabel]
+                })
+                .attr("yVal", function (d) {
+                    return d[yLabel]
+                })
+                .each(setId)
+                .attr("fill", "#3093cf")
+                .on('mouseover', function (d) {
+                    //id = this.getAttribute("id")
+                    //barListenerOver(id)
+                    tip.show(d)
+                })
+                .on('mouseout', function (d) {
+                    //id = this.getAttribute("id")
+                    //barListenerOut(id)
+                    tip.hide(d)
+                });
+
+            svg.append("text")
+                .attr("transform",
+                    "translate(" + (width / 2) + " ," +
+                    (height + margin.top + 10) + ")")
+                .attr("class", "label")
+                .style("text-anchor", "middle")
+                .text(xLabel);
+
+            svg.append("text")
+                .attr("transform", "rotate(-90)")
+                .attr("y", 0 - margin.left)
+                .attr("x", 0 - (height / 2) - (margin.top + margin.bottom))
+                .attr("dy", "1em")
+                .attr("class", "label")
+                .text(yLabel);
+        }
+
+        function multiBarGraph() {
+            var margin = {top: 30, right: 40, bottom: 50, left: 100},
+                width = 1300 - margin.left - margin.right,
+                height = 600 - margin.top - margin.bottom;
+
+            tip = d3.tip()
+                .attr('class', 'd3-tip')
+                .offset([-10, 0])
+                .html(function (d) {
+                    console.log(d)
+                    return "<strong> " + d.key + ' at ' + d.xValue + ":</strong> <span style='color:red'>" + d.value + "</span>";
+                })
+
+            var svg = d3.select("#chart").append("svg")
+                .attr("width", width + margin.left + margin.right)
+                .attr("height", height + margin.top + margin.bottom)
+                .append("g")
+                .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+            svg.call(tip);
+
+            var x0 = d3.scaleBand()
+                .rangeRound([0, width])
+                .paddingInner(0.1);
+
+            var x1 = d3.scaleBand()
+                .padding(0.05);
+
+            var y = d3.scaleLinear()
+                .rangeRound([height, 0]);
+
+            var z = d3.scaleOrdinal()
+                .range(["#8dd3c7",
+                    "#ffffb3",
+                    "#bebada",
+                    "#fb8072",
+                    "#80b1d3",
+                    "#fdb462",
+                    "#b3de69",
+                    "#fccde5",
+                    "#d9d9d9",
+                    "#bc80bd",
+                    "#ccebc5",
+                    "#ffed6f"]);
+
+            xLabel = labelArr[0];
+            //convert string y values to int
+            data.forEach(function(d) {
+                for (let n = 0; n < labelArr.length; n++)
+                {
+                    if ( n > 0 ) {
+                        if (isNaN(d[labelArr[n]])) {
+                            d[labelArr[n]] = 0;
+                        }
+                        else if (isNumeric(d[labelArr[n]])) {
+                            d[labelArr[n]] = parseInt(d[labelArr[n]]);
+                        }
+                    }
+                }
+            });
+
+            var keys = (Object.keys(data[0]));
+            let index = keys.indexOf(xLabel)
+            keys.splice(index, 1)
+            x0.domain(data.map(function (d) { return d[xLabel]; }));
+            x1.domain(keys).rangeRound([0, x0.bandwidth()]);
+            y.domain([0, d3.max(data, function (d) { return d3.max(keys, function (key) { return d[key]; }); })]).nice();
+            console.log(x0.domain())
+            console.log(x1.domain())
+            console.log(y.domain())
+            svg.append("g")
+                .selectAll("g")
+                .data(data)
+                .enter().append("g")
+                .attr("transform", function (d) { return "translate(" + x0(d[xLabel]) + ",0)"; })
+                .selectAll("rect")
+                .data(function (d) { return keys.map(function (key) {
+                    return { key: key, value: d[key], xValue: d[xLabel] }; }); })
+                .enter().append("rect")
+                .attr("x", function (d) { return x1(d.key); })
+                .attr("y", function (d) { return y(d.value); })
+                .attr("width", x1.bandwidth())
+                .attr("height", function (d) { return height - y(d.value); })
+                .attr("fill", function (d) { return z(d.key); })
+                .attr("stroke", "black")
+                .attr("barVal", function (d) {
+                    return d.key
+                })
+                .attr("xLabel", xLabel)
+                .attr("xVal", function (d) {
+                    return d.xValue
+                })
+                .attr("yVal", function (d) {
+                    return d.value
+                })
+                .each(mulitBarSetID)
+                .on('mouseover', function (d) {
+                    tip.show(d)
+                })
+                .on('mouseout', function (d) {
+                    tip.hide(d)
+                });;
+
+            svg.append("g")
+                .attr("class", "axis")
+                .attr("transform", "translate(0," + height + ")")
+                .call(d3.axisBottom(x0));
+
+            svg.append("g")
+                .attr("class", "axis")
+                .call(d3.axisLeft(y).ticks(null, "s"))
+                .append("text")
+                .attr("x", 2)
+                .attr("y", y(y.ticks().pop()) + 0.5)
+                .attr("dy", "0.32em")
+                .attr("fill", "#000")
+                .attr("font-weight", "bold")
+                .attr("text-anchor", "start")
+
+            var legend = svg.append("g")
+                .attr("font-family", "sans-serif")
+                .attr("font-size", 10)
+                .attr("text-anchor", "end")
+                .selectAll("g")
+                .data(keys.slice().reverse())
+                .enter().append("g")
+                .attr("transform", function (d, i) { return "translate(0," + i * 20 + ")"; });
+
+            legend.append("rect")
+                .attr("x", width - 19)
+                .attr("width", 19)
+                .attr("height", 19)
+                .attr("fill", z)
+                .attr("stroke", "black");
+
+            legend.append("text")
+                .attr("x", width - 24)
+                .attr("y", 9.5)
+                .attr("dy", "0.32em")
+                .text(function (d) { return d; });
+        }
+        //https://stackoverflow.com/questions/5560248/programmatically-lighten-or-darken-a-hex-color-or-rgb-and-blend-colors
+        //usage:
+        //shadeColor("#63C6FF",40); shadeColor("#63C6FF",-40);
+        function shadeColor(color, percent) {
+
+            var R = parseInt(color.substring(1,3),16);
+            var G = parseInt(color.substring(3,5),16);
+            var B = parseInt(color.substring(5,7),16);
+
+            R = parseInt(R * (100 + percent) / 100);
+            G = parseInt(G * (100 + percent) / 100);
+            B = parseInt(B * (100 + percent) / 100);
+
+            R = (R<255)?R:255;
+            G = (G<255)?G:255;
+            B = (B<255)?B:255;
+
+            var RR = ((R.toString(16).length==1)?"0"+R.toString(16):R.toString(16));
+            var GG = ((G.toString(16).length==1)?"0"+G.toString(16):G.toString(16));
+            var BB = ((B.toString(16).length==1)?"0"+B.toString(16):B.toString(16));
+
+            return "#"+RR+GG+BB;
+        }
+    </script>
+    <!--Text to speech-->
+    <script src="https://sdk.amazonaws.com/js/aws-sdk-2.529.0.min.js"></script>
+    <script type="text/javascript">
+        // Initialize the Amazon Cognito credentials provider
+        AWS.config.region = 'us-east-1';
+        AWS.config.credentials = new AWS.CognitoIdentityCredentials({IdentityPoolId: 'us-east-1:1dbc5481-8414-4da8-9fd9-2ecd12443250'});
+
+        function speakText(text) {
+            // Create the JSON parameters for getSynthesizeSpeechUrl
+            var speechParams = {
+                OutputFormat: "mp3",
+                Engine: "neural",
+                SampleRate: "16000",
+                Text: text,
+                TextType: "text",
+                VoiceId: "Matthew"
+            };
+            // Create the Polly service object and presigner object
+            var polly = new AWS.Polly({apiVersion: '2016-06-10'});
+            var signer = new AWS.Polly.Presigner(speechParams, polly)
+            // Create presigned URL of synthesized speech file
+            signer.getSynthesizeSpeechUrl(speechParams, function (error, url) {
+                if (error) {
+                    console.log("AWS Polly error");
+                } else {
+                    document.getElementById('audioSource').src = url;
+                    document.getElementById('audioPlayback').load();
+                    document.getElementById('audioPlayback').play();
+                }
+            });
+        }
+    </script>
+</section>
+<div class="grid-container">
+    <div class="Title">
+        <h1 id="title"></h1>
+        <h3 id="summaryText">Hover over a point of data to hear its caption</h3>
+    </div>
+    <div class="Chart" id="chart"></div>
+    <div class="tts">
+        <button class="button" onclick="narrateSummary()">Narrate Summary</button>
+        <br>
+        <audio controls id="audioPlayback">
+            <source id="audioSource" src="" type="audio/mp3">
+        </audio>
+    </div>
+    <div class="Caption">
+        <p id="summary"></p>
+    </div>
+    <div class="Selector">
+        <form method="post">
+            <label>chartNumber</label>
+            <input type="text" id="chartNumber" value="13">
+            </input>
+            <button type="button" class="active" onclick="refresh()">New chart</button>
+        </form>
+
+    </div>
+    <div class="Meta"></div>
+</div>
 </body>
 </html>
