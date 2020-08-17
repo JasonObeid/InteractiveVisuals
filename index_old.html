@@ -1,4 +1,7 @@
 <style>
+    * {
+        box-sizing: border-box;
+    }
 
     body {
         font: 14px helvetica;
@@ -18,7 +21,7 @@
     }
 
     a.outline {
-        text-shadow: 0.5px 1px #ffcea6;
+        text-shadow: 0.5px 1px #ffa86b;
     }
 
     .d3-tip {
@@ -105,27 +108,83 @@
         opacity: 1;
         right: 0;
     }
+
+    .gridY { opacity: 40% }
+
+    .gridX { opacity: 40% }
+
+    .button:hover {
+        background-color: #6bd8fb;
+    }
+
+    .grid-container {
+        flex-grow: initial;
+        text-align: center;
+        vertical-align: center;
+        display: grid;
+        grid-template-columns: 2.5fr 1.5fr;
+        grid-template-rows: 0.5fr 2fr 0.5fr;
+        gap: 10px 5px;
+        grid-template-areas: "Title Selector" "Chart Caption" "tts Meta";
+    }
+
+    .Title { grid-area: Title; }
+
+    .Selector {
+        vertical-align: center;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+        gap: 5px 5px;
+        grid-template-areas: "Label Text" "Navigation Submit";
+        grid-area: Selector;
+    }
+
+    .Label { grid-area: Label; }
+
+    .Text { grid-area: Text;}
+
+    .Navigation { grid-area: Navigation; }
+
+    .Submit { grid-area: Submit; }
+
+    .Chart { grid-area: Chart; }
+
+    .Caption { grid-area: Caption;
+        align-self: center;}
+
+    .tts { grid-area: tts; }
+
+    .Meta { grid-area: Meta; }
+
 </style>
 
 <html lang="english">
 
 <head>
     <script>
+        var labelArr = [];
         var xLabel = "";
         var yLabel = "";
         var title = "";
-
-        var rootName = "1";
-        var csvPath = "/InteractiveVisuals/data/" + rootName + ".csv";
-        var summaryPath = "/InteractiveVisuals/generated/" + rootName + ".json";
-
-
-        /*var rootName = "53";
-        var jsonPath = "/InteractiveVisuals/data/kong/specs/" + rootName + ".json";
-        var csvPath = "/InteractiveVisuals/data/kong/data/" + rootName + ".csv";
-        var summaryPath = "/InteractiveVisuals/data/kong/summaries/" + rootName + "_summary.json";*/
-
         var graphType = "";
+        var columnType = "";
+        var data = [];
+        var idArrays = [];
+        var summary = [];
+        var rootName = '33'
+        if (sessionStorage.getItem('chartNumber') != null) {
+            var rootName = sessionStorage.getItem('chartNumber')
+        }
+
+        var summaryPath = "/InteractiveVisuals/generated_baseline/" + rootName + ".json";
+        function refresh() {
+            var x = document.getElementById('chartNumber').value;
+            //var y = document.getElementById('chartType').value;
+            sessionStorage.setItem('chartNumber', x);
+            //sessionStorage.setItem('chartType', y);
+            location.reload();
+        }
 
         function getMetaData() {
             var summaryRequestURL = summaryPath;
@@ -135,29 +194,67 @@
             summaryRequest.send();
             summaryRequest.onload = function () {
                 var jsonObj = summaryRequest.response;
-                yLabel = jsonObj.yAxis;
-                xLabel = jsonObj.xAxis;
-                graphType = jsonObj.chartType;
+                graphType = jsonObj.graphType;
+                columnType = jsonObj.columnType;
                 var title = jsonObj.title;
+                if (columnType === "two") {
+                    yLabel = jsonObj.yAxis;
+                    xLabel = jsonObj.xAxis;
+                    data = jsonObj.data;
+                }
+                else if (columnType === "multi") {
+                    labelArr = jsonObj.labels;
+                    const length = jsonObj.data.length;
+                    data = jsonObj.data;
+                    xLabel = labelArr[0]
+                    //for (let i = 0; i < length; i++) {
+                    //    console.log(data[i]);
+                    //}
+                }
                 setTitle(title);
                 var summaryArray = jsonObj.summary;
                 var trendsArray = jsonObj.trends;
+                console.log(data);
                 console.log(trendsArray);
                 run(summaryArray, trendsArray);
             }
         }
 
         function run(summaryArray, trendsArray) {
-            sumArrayLength = summaryArray.length;
-            if (graphType === "line") {
-                idArray = setGraphs(trendsArray);
-                //lineGraph();
-                setSummary(summaryArray);
-            } else if (graphType === "bar") {
-                //idArray = setBarGraphs(trendsArray);
-                //barGraph();
-                setSummary(summaryArray);
+            if (columnType === "two") {
+                if (graphType === "line") {
+                    idArray = setGraphs(trendsArray);
+                    console.log(idArray);
+                    lineGraph();
+                    setSummary(summaryArray);
+                } else if (graphType === "bar") {
+                    idArray = setBarGraphs(trendsArray);
+                    console.log(idArray);
+                    barGraph();
+                    setSummary(summaryArray);
+                }
             }
+            else if (columnType === "multi") {
+                if (graphType === "line") {
+                    idArray = setBarGraphs(trendsArray);
+                    console.log(idArray);
+                    multiLineGraph();
+                    setSummary(summaryArray);
+                } else if (graphType === "bar") {
+                    idArray = setBarGraphs(trendsArray);
+                    console.log(idArray);
+                    multiBarGraph();
+                    setSummary(summaryArray);
+                }
+            }
+            document.getElementById('summary').childNodes.forEach(function(d) {
+                if (d.innerText.includes('_')) {
+                    while (d.innerText.includes('_')) {
+                        d.innerText = d.innerText.replace('_',  ' ')
+                    }
+                }
+            });
+            getCurrentChart();
         }
 
         var count = 0;
@@ -211,8 +308,15 @@
         function setBarGraphs(trendsArray) {
             var idArray = [];
             var ids = []
-            var min = trendsArray["minIndex"];
-            var max = trendsArray["maxIndex"];
+
+            if (columnType === 'multi') {
+                var min = trendsArray["secondIndex"];
+                var max = trendsArray["maxIndex"];
+            }
+            else if (columnType === 'two') {
+                var min = trendsArray["minIndex"];
+                var max = trendsArray["maxIndex"];
+            }
             ids.push("Column" + min);
             ids.push("Column" + max);
             idArray.push(ids);
@@ -431,7 +535,8 @@
     <script>
         getMetaData();
         function lineGraph() {
-            var margin = {top: 30, right: 40, bottom: 50, left: 100},
+            console.log(data);
+            var margin = {top: 30, right: 40, bottom: getBottomMargin(), left: 100},
                 width = 1300 - margin.left - margin.right,
                 height = 600 - margin.top - margin.bottom;
 
@@ -444,97 +549,148 @@
                 .attr("transform",
                     "translate(" + margin.left + "," + margin.top + ")");
 
+            // gridlines in x axis function
+            function make_x_gridlines() {
+                return d3.axisBottom(x)
+                    .ticks(5)
+            }
+
+            // gridlines in y axis function
+            function make_y_gridlines() {
+                return d3.axisLeft(y)
+                    .ticks(5)
+            }
+
             //Read the data
-            d3.csv(csvPath).then(function (data) {
-                var x = d3.scaleBand()
-                    .domain(data.map(function (d) {
-                        console.log(d)
-                        console.log(data)
-                        return d[xLabel];
-                    }))
-                    .range([0, width])
-                    .padding(.1);
-                svg.append("g")
-                    .attr("transform", "translate(0," + height + ")")
-                    .call(d3.axisBottom(x));
-                // Add Y axis
-                var y = d3.scaleLinear()
-                    .domain([0, d3.max(data, function (d) {
-                        return +d[yLabel];
+            //fix x axis values if it contains alpha chars
+            if (isNumeric(data[0][xLabel])) {
+                data.forEach(function(d) {
+                    d[xLabel] = parseInt(d[xLabel]) || parseFloat(d[xLabel]);
+                    d[yLabel] = +d[yLabel];
+                });
+            }
+            var x = d3.scaleLinear()
+                .domain(
+                    [d3.min(data, function (d) {
+                        return +d[xLabel];
+                    }), d3.max(data, function (d) {
+                        return +d[xLabel];
                     })])
-                    .range([height, 0]);
-                svg.append("g")
-                    .call(d3.axisLeft(y));
+                .range([0, width]);
+            svg.append("g")
+                .attr("transform", "translate(0," + height + ")")
+                .call(d3.axisBottom(x)
+                    .ticks(data.length - 1)
+                    .tickFormat(d3.format("d")))
+                .selectAll("text")
+                .style("text-anchor", "end")
+                .attr("dx", "-.8em")
+                .attr("dy", ".15em")
+                .attr("transform", "rotate(-65)");
+            // Add Y axis
+            //check if min value is negative
+            let min = d3.min(data, function (d) {
+                return +d[yLabel];
+            })
+            console.log(min)
+            if (min >= 0) {
+                min = 0
+            }
+            const max = d3.max(data, function (d) {
+                return +d[yLabel];
+            })
+            var y = d3.scaleLinear()
+                .domain([min, max])
+                .range([height, 0]);
+            svg.append("g")
+                .call(d3.axisLeft(y));
 
-                var tip = d3.tip()
-                    .attr('class', 'd3-tip')
-                    .offset([-10, 0])
-                    .html(function (d) {
-                        return "<strong> " + yLabel + ":</strong> <span style='color:red'>" + d[yLabel] + "</span>";
-                    })
-                svg.call(tip);
-                // Add the line
-                svg.append("path")
-                    .datum(data)
-                    .attr("id", "path1")
-                    .attr("fill", "none")
-                    .attr("stroke", "steelblue")
-                    .attr("stroke-width", 1.5)
-                    .attr("d", d3.line()
-                        .x(function (d) {
-                            return x(d[xLabel])
-                        })
-                        .y(function (d) {
-                            return y(d[yLabel])
-                        })
-                    );
-
-                svg.selectAll(".dot")
-                    .data(data)
-                    .enter().append("circle")
-                    .attr("class", "dot") // Assign a class for styling
-                    .attr("xVal", function (d) {
-                        return d[xLabel]
-                    })
-                    .attr("yVal", function (d) {
-                        return d[yLabel]
-                    })
-                    .attr("cx", function (d) {
+            var tip = d3.tip()
+                .attr('class', 'd3-tip')
+                .offset([-10, 0])
+                .html(function (d) {
+                    return "<strong> " + yLabel + ":</strong> <span style='color:red'>" + d[yLabel] + "</span>";
+                })
+            svg.call(tip);
+            // Add the line
+            svg.append("path")
+                .datum(data)
+                .attr("id", "path1")
+                .attr("fill", "none")
+                .attr("stroke", "steelblue")
+                .attr("stroke-width", 2)
+                .attr("d", d3.line()
+                    .x(function (d) {
                         return x(d[xLabel])
                     })
-                    .attr("cy", function (d) {
+                    .y(function (d) {
                         return y(d[yLabel])
                     })
-                    .attr("r", 5)
-                    .attr("fill", "grey")
-                    .each(setId)
-                    .on('mouseover', function (d) {
-                        id = this.getAttribute("id")
-                        lineListenerOver(id)
-                        tip.show(d)
-                    })
-                    .on('mouseout', function (d) {
-                        id = this.getAttribute("id")
-                        lineListenerOut(id)
-                        tip.hide(d)
-                    })
+                );
 
-                svg.append("text")
-                    .attr("transform",
-                        "translate(" + (width / 2) + " ," +
-                        (height + margin.top + 10) + ")")
-                    .attr("class", "label")
-                    .style("text-anchor", "middle")
-                    .text(xLabel);
+            svg.selectAll(".dot")
+                .data(data)
+                .enter().append("circle")
+                .attr("class", "dot") // Assign a class for styling
+                .attr("xVal", function (d) {
+                    return d[xLabel]
+                })
+                .attr("yVal", function (d) {
+                    return d[yLabel]
+                })
+                .attr("cx", function (d) {
+                    return x(d[xLabel])
+                })
+                .attr("cy", function (d) {
+                    return y(d[yLabel])
+                })
+                .attr("r", 5)
+                .attr("fill", "#2ba8fc")
+                .attr("stroke", "black")
+                .each(setId)
+                .on('mouseover', function (d) {
+                    //id = this.getAttribute("id")
+                    //lineListenerOver(id)
+                    tip.show(d)
+                })
+                .on('mouseout', function (d) {
+                    //id = this.getAttribute("id")
+                    //lineListenerOut(id)
+                    tip.hide(d)
+                })
 
-                svg.append("text")
-                    .attr("transform", "rotate(-90)")
-                    .attr("y", 0 - margin.left)
-                    .attr("x", 0 - (height / 2) - (margin.top + margin.bottom))
-                    .attr("dy", "1em")
-                    .attr("class", "label")
-                    .text(yLabel);
-            });
+            svg.append("text")
+                .attr("transform",
+                    "translate(" + (width / 2) + " ," +
+                    (height + margin.top - 40) + ")")
+                .attr("class", "label")
+                .style("text-anchor", "middle")
+                .text(xLabel);
+
+            svg.append("text")
+                .attr("transform", "rotate(-90)")
+                .attr("y", 0 - margin.left)
+                .attr("x", 0 - (height / 2) - (margin.top + margin.bottom))
+                .attr("dy", "1em")
+                .attr("class", "label")
+                .text(yLabel);
+
+            // add the X gridlines
+            svg.append("g")
+                .attr("class", "gridX")
+                .attr("transform", "translate(0," + height + ")")
+                .call(make_x_gridlines()
+                    .tickSize(-height)
+                    .tickFormat("")
+                )
+
+            // add the Y gridlines
+            svg.append("g")
+                .attr("class", "gridY")
+                .call(make_y_gridlines()
+                    .tickSize(-width)
+                    .tickFormat("")
+                )
         }
 
         function barGraph() {
@@ -543,11 +699,11 @@
                 height = 600 - margin.top - margin.bottom;
 
             var x = d3.scaleBand()
-                .rangeRound([0, width])
-                .padding(.3);
+                .range([0, width])
+                .padding(0.1);
 
             var y = d3.scaleLinear()
-                .rangeRound([height, 0]);
+                .range([height, 0]);
 
             tip = d3.tip()
                 .attr('class', 'd3-tip')
@@ -564,58 +720,58 @@
 
             svg.call(tip);
 
-            d3.csv(csvPath).then(function (data) {
-                x.domain(data.map(function (d) {
-                    return d[xLabel];
-                }));
-                y.domain([0, d3.max(data, function (d) {
-                    return d3.format(".1e")(d[yLabel]);
-                })]);
-                svg.append("g")
+            x.domain(data.map(function (d) {
+                console.log(d[xLabel])
+                return d[xLabel];
+            }));
+            y.domain([0, d3.max(data, function (d) {
+                return (d[yLabel]);
+            })]);
+
+            svg.append("g")
                     .attr("transform", "translate(0," + height + ")")
                     .call(d3.axisBottom(x));
 
-                svg.append("g")
-                    .call(d3.axisLeft(y))
-                    .append("text")
-                    .attr("transform", "rotate(-90)")
-                    .attr("y", 6)
-                    .attr("dy", ".71em")
-                    .style("text-anchor", "end");
+            svg.append("g")
+                .call(d3.axisLeft(y))
+                .append("text")
+                .attr("transform", "rotate(-90)")
+                .attr("y", 6)
+                .attr("dy", ".71em")
+                .style("text-anchor", "end");
 
-                svg.selectAll(".bar")
-                    .data(data)
-                    .enter().append("rect")
-                    .attr("class", "bar")
-                    .attr("x", function (d) {
-                        return x(d[xLabel]);
-                    })
-                    .attr("width", x.bandwidth())
-                    .attr("y", function (d) {
-                        return y(d[yLabel]);
-                    })
-                    .attr("height", function (d) {
-                        return height - y(d[yLabel]);
-                    })
-                    .attr("xVal", function (d) {
-                        return d[xLabel]
-                    })
-                    .attr("yVal", function (d) {
-                        return d[yLabel]
-                    })
-                    .each(setId)
-                    .attr("fill", "#3093cf")
-                    .on('mouseover', function (d) {
-                        id = this.getAttribute("id")
-                        barListenerOver(id)
-                        tip.show(d)
-                    })
-                    .on('mouseout', function (d) {
-                        id = this.getAttribute("id")
-                        barListenerOut(id)
-                        tip.hide(d)
-                    });
-            });
+            svg.selectAll(".bar")
+                .data(data)
+                .enter().append("rect")
+                .attr("class", "bar")
+                .attr("x", function (d) {
+                    return x(d[xLabel]);
+                })
+                .attr("width", x.bandwidth())
+                .attr("y", function (d) {
+                    return y(d[yLabel]);
+                })
+                .attr("height", function (d) {
+                    return height - y(d[yLabel]);
+                })
+                .attr("xVal", function (d) {
+                    return d[xLabel]
+                })
+                .attr("yVal", function (d) {
+                    return d[yLabel]
+                })
+                .each(setId)
+                .attr("fill", "#3093cf")
+                .on('mouseover', function (d) {
+                    id = this.getAttribute("id")
+                    barListenerOver(id)
+                    tip.show(d)
+                })
+                .on('mouseout', function (d) {
+                    id = this.getAttribute("id")
+                    barListenerOut(id)
+                    tip.hide(d)
+                });
 
             svg.append("text")
                 .attr("transform",
@@ -632,6 +788,436 @@
                 .attr("dy", "1em")
                 .attr("class", "label")
                 .text(yLabel);
+        }
+
+        function multiLineGraph() {
+            console.log(data);
+            var margin = {top: 30, right: 40, bottom: 50, left: 100},
+                width = 1300 - margin.left - margin.right,
+                height = 600 - margin.top - margin.bottom;
+
+            // append the svg object to the body of the page
+            var svg = d3.select("#chart")
+                .append("svg")
+                .attr("width", width + margin.left + margin.right)
+                .attr("height", height + margin.top + margin.bottom)
+                .append("g")
+                .attr("transform",
+                    "translate(" + margin.left + "," + margin.top + ")");
+
+            // gridlines in x axis function
+            function make_x_gridlines() {
+                return d3.axisBottom(x)
+                    .ticks(5)
+            }
+
+            // gridlines in y axis function
+            function make_y_gridlines() {
+                return d3.axisLeft(y)
+                    .ticks(5)
+            }
+
+            //convert string y values to int
+            data.forEach(function(d) {
+                for (let n = 0; n < labelArr.length; n++)
+                    /*if (isNaN(d[labelArr[n]])) {
+                        d[labelArr[n]] = 0;
+                    }*/
+                    if (isNumeric(d[labelArr[n]])) {
+                        d[labelArr[n]] = parseInt(d[labelArr[n]]) || parseFloat(d[labelArr[n]]);
+                    }
+            });
+            var xLabel = labelArr[0]
+            const minX = d3.min(data, function (d) {
+                return +d[xLabel];
+            });
+            const maxX = d3.max(data, function (d) {
+                return +d[xLabel];
+            });
+            console.log(minX, maxX)
+            var x = d3.scaleLinear()
+                .domain([minX, maxX])
+                .range([0, width]).nice();
+            svg.append("g")
+                .attr("transform", "translate(0," + height + ")")
+                .call(d3.axisBottom(x)
+                    .ticks(data.length - 1)
+                    .tickFormat(d3.format("d"))
+                )
+                .selectAll("text")
+                .style("text-anchor", "end")
+                .attr("dx", "-.8em")
+                .attr("dy", ".15em")
+                .attr("transform", "rotate(-65)");
+
+            // Add Y axis
+            var keys = Object.keys(data[0]).slice(1);
+            //check if graph has a negative min value
+            let min = d3.min(data, function (d) {
+                return d3.min(keys, function (key) { return d[key]; });
+            })
+            if (min >= 0) {
+                min = 0
+            }
+            const max = d3.max(data, function (d) {
+                return d3.max(keys, function (key) { return d[key]; });
+            })
+            var y = d3.scaleLinear()
+                // Scale the range of the data
+                .domain([min, max]).nice()
+                .range([height, 0]);
+            svg.append("g")
+                .call(d3.axisLeft(y));
+
+            var tip = d3.tip()
+                .attr('class', 'd3-tip')
+                .offset([-10, 0])
+                .html(function (d) {
+                    console.log(d)
+                    return "<strong> " + lineValue + ' at ' + xValue + ":</strong> <span style='color:red'>" + yValue + "</span>";
+                })
+            svg.call(tip);
+
+            var z = d3.scaleOrdinal()
+                .range(['#a6cee3','#1f78b4','#b2df8a','#33a02c','#fb9a99','#e31a1c','#fdbf6f','#ff7f00','#cab2d6']);
+
+            //iterate through non xAxis data
+            let count = 0;
+            for (let n = 1; n < labelArr.length; n++)
+            {
+                // Add the lines
+                svg.append("path")
+                    .datum(data)
+                    .attr("id", "path"+n)
+                    .attr("fill", "none")
+                    .attr("stroke", () => {
+                        return z(n-1)
+                    })
+                    .attr("stroke-width", 4)
+                    .attr("d", d3.line()
+                        .x(function (d) {
+                            return x(d[xLabel])
+                        })
+                        .y(function (d) {
+                            return y(d[labelArr[n]])
+                        })
+                    );
+                console.log(data.length - 1)
+                data.forEach(function(d, index) {
+                    svg.append("circle")
+                        .attr("lineIndex", count)
+                        .attr("dotIndex", index)
+                        .attr("class", "dot") // Assign a class for styling
+                        .attr("xVal", d[xLabel])
+                        .attr("yVal", d[labelArr[n]])
+                        .attr("lineVal", labelArr[n])
+                        .attr("cx", x(d[xLabel]))
+                        .attr("cy",y(d[labelArr[n]]))
+                        .attr("r", 5)
+                        .attr("fill", function () {
+                            const color = z(count)
+                            return shadeColor(color, 40)
+                        })
+                        .attr("stroke", "black")
+                        .attr("stroke-width", "1")
+                        .on('mouseover', function () {
+                            lineValue = labelArr[n];
+                            xValue = d[xLabel]
+                            yValue = d[labelArr[n]]
+                            tip.show([lineValue, xValue, yValue])
+                        })
+                        .on('mouseout', function () {
+                            tip.hide(d[labelArr[n]])
+                        });
+                    if (index === data.length - 1) {
+                        count += 1;
+                    }
+                });
+            }
+
+            svg.append("text")
+                .attr("transform",
+                    "translate(" + (width / 2) + " ," +
+                    (height + margin.top - 40) + ")")
+                .attr("class", "label")
+                .style("text-anchor", "middle")
+                .text(xLabel);
+
+            // add the X gridlines
+            svg.append("g")
+                .attr("class", "gridX")
+                .attr("transform", "translate(0," + height + ")")
+                .call(make_x_gridlines()
+                    .tickSize(-height)
+                    .tickFormat("")
+                )
+
+            // add the Y gridlines
+            svg.append("g")
+                .attr("class", "gridY")
+                .call(make_y_gridlines()
+                    .tickSize(-width)
+                    .tickFormat("")
+                )
+
+            var legend = svg.append("g")
+                .attr("font-family", "sans-serif")
+                .attr("font-size", 10)
+                .attr("text-anchor", "end")
+                .selectAll("g")
+                .data(keys.slice().reverse())
+                .enter().append("g")
+                .attr("transform", function (d, i) { return "translate(0," + i * 20 + ")"; });
+
+            legend.append("rect")
+                .attr("x", width - 19)
+                .attr("width", 19)
+                .attr("height", 19)
+                .attr("fill", function (d) {
+                    const labelIndex = labelArr.indexOf(d) - 1;
+                    return z(labelIndex); });
+
+            legend.append("text")
+                .attr("x", width - 24)
+                .attr("y", 9.5)
+                .attr("dy", "0.32em")
+                .text(function (d) { return d; });
+        }
+
+        function multiBarGraph() {
+            var margin = {top: 30, right: 40, bottom: 50, left: 100},
+                width = 1300 - margin.left - margin.right,
+                height = 600 - margin.top - margin.bottom;
+
+            tip = d3.tip()
+                .attr('class', 'd3-tip')
+                .offset([-10, 0])
+                .html(function (d) {
+                    console.log(d)
+                    return "<strong> " + d.key + ' at ' + d.xValue + ":</strong> <span style='color:red'>" + d.value + "</span>";
+                })
+
+            var svg = d3.select("#chart").append("svg")
+                .attr("width", width + margin.left + margin.right)
+                .attr("height", height + margin.top + margin.bottom)
+                .append("g")
+                .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+            svg.call(tip);
+
+            var x0 = d3.scaleBand()
+                .rangeRound([0, width])
+                .paddingInner(0.1);
+
+            var x1 = d3.scaleBand()
+                .padding(0.05);
+
+            var y = d3.scaleLinear()
+                .rangeRound([height, 0]);
+
+            var z = d3.scaleOrdinal()
+                .range(["#8dd3c7",
+                    "#ffffb3",
+                    "#bebada",
+                    "#fb8072",
+                    "#80b1d3",
+                    "#fdb462",
+                    "#b3de69",
+                    "#fccde5",
+                    "#d9d9d9",
+                    "#bc80bd",
+                    "#ccebc5",
+                    "#ffed6f"]);
+
+            //convert string y values to int
+            data.forEach(function(d) {
+                for (let n = 0; n < labelArr.length; n++)
+                {
+                    if ( n > 0 ) {
+                        if (isNaN(d[labelArr[n]])) {
+                            d[labelArr[n]] = 0;
+                        }
+                        else if (isNumeric(d[labelArr[n]])) {
+                            d[labelArr[n]] = parseInt(d[labelArr[n]]) || parseFloat(d[labelArr[n]]);
+                        }
+                    }
+                }
+            });
+
+            let keys = (Object.keys(data[0]));
+            let yValues = []
+            data.forEach(function(d) {
+                for (key of keys){
+                    if (key !== xLabel)
+                        yValues.push(parseInt(d[key]) || parseFloat(d[key]))
+                }
+            })
+            const max = yValues.reduce(function(a, b) {
+                return Math.max(a, b);
+            });
+            let index = keys.indexOf(xLabel)
+            keys.splice(index, 1)
+            x0.domain(data.map(function (d) { return d[xLabel]; }));
+            x1.domain(keys).rangeRound([0, x0.bandwidth()]);
+            y.domain([0, max]).nice();
+            console.log(x0.domain())
+            console.log(x1.domain())
+            console.log(y.domain())
+            svg.append("g")
+                .selectAll("g")
+                .data(data)
+                .enter().append("g")
+                .attr("transform", function (d) { return "translate(" + x0(d[xLabel]) + ",0)"; })
+                .selectAll("rect")
+                .data(function (d) { return keys.map(function (key) {
+                    return { key: key, value: d[key], xValue: d[xLabel] }; }); })
+                .enter().append("rect")
+                .attr("x", function (d) { return x1(d.key); })
+                .attr("y", function (d) {
+                    return y(d.value); })
+                .attr("width", x1.bandwidth())
+                .attr("height", function (d) {
+                    console.log(height)
+                    return height - y(d.value); })
+                .attr("fill", function (d) { return z(d.key); })
+                .attr("stroke", "black")
+                .attr("barVal", function (d) {
+                    return d.key
+                })
+                .attr("xLabel", xLabel)
+                .attr("xVal", function (d) {
+                    return d.xValue
+                })
+                .attr("yVal", function (d) {
+                    return d.value
+                })
+                .on('mouseover', function (d) {
+                    tip.show(d)
+                })
+                .on('mouseout', function (d) {
+                    tip.hide(d)
+                });
+
+            svg.append("g")
+                .attr("class", "axis")
+                .attr("transform", "translate(0," + height + ")")
+                .call(d3.axisBottom(x0))
+                .selectAll("text")
+                .style("text-anchor", "end")
+                .attr("dx", "-.8em")
+                .attr("dy", ".15em")
+                .attr("transform", "rotate(-65)");
+
+            svg.append("g")
+                .attr("class", "axis")
+                .call(d3.axisLeft(y).ticks(null, "s"))
+                .append("text")
+                .attr("x", 2)
+                .attr("y", y(y.ticks().pop()) + 0.5)
+                .attr("dy", "0.32em")
+                .attr("fill", "#000")
+                .attr("font-weight", "bold")
+                .attr("text-anchor", "start")
+
+            var legend = svg.append("g")
+                .attr("font-family", "sans-serif")
+                .attr("font-size", 10)
+                .attr("text-anchor", "end")
+                .selectAll("g")
+                .data(keys.slice().reverse())
+                .enter().append("g")
+                .attr("transform", function (d, i) { return "translate(40," + i * 20 +")"; });
+
+            legend.append("rect")
+                .attr("x", width - 19)
+                .attr("width", 19)
+                .attr("height", 19)
+                .attr("fill", z)
+                .attr("stroke", "black");
+
+            legend.append("text")
+                .attr("x", width - 24)
+                .attr("y", 9.5)
+                .attr("dy", "0.32em")
+                .text(function (d) { return d; });
+        }
+
+        function shadeColor(color, percent) {
+
+            var R = parseInt(color.substring(1,3),16);
+            var G = parseInt(color.substring(3,5),16);
+            var B = parseInt(color.substring(5,7),16);
+
+            R = parseInt(R * (100 + percent) / 100);
+            G = parseInt(G * (100 + percent) / 100);
+            B = parseInt(B * (100 + percent) / 100);
+
+            R = (R<255)?R:255;
+            G = (G<255)?G:255;
+            B = (B<255)?B:255;
+
+            var RR = ((R.toString(16).length==1)?"0"+R.toString(16):R.toString(16));
+            var GG = ((G.toString(16).length==1)?"0"+G.toString(16):G.toString(16));
+            var BB = ((B.toString(16).length==1)?"0"+B.toString(16):B.toString(16));
+
+            return "#"+RR+GG+BB;
+        }
+
+        function getCurrentChart(){
+            console.log(rootName)
+            document.getElementById('chartNumber').setAttribute('value', rootName);
+            document.getElementById('numberLabel').innerText = 'Chart #: ' + rootName + ' / 1057'
+        }
+
+        function nextChart() {
+            let next = parseInt(rootName) + 1
+            document.getElementById('chartNumber').setAttribute('value', next.toString());
+            refresh();
+        }
+
+        function previousChart() {
+            let previous = parseInt(rootName) - 1
+            document.getElementById('chartNumber').setAttribute('value', previous.toString());
+            refresh();
+        }
+
+        function getBottomMargin() {
+            const label = labelArr[0] || xLabel;
+            console.log(labelArr)
+            let labelLengths = []
+            data.forEach(function(d){
+                labelLengths.push(d[label].length)
+            })
+            const maxLabelLength = labelLengths.reduce(function(a, b) {
+                return Math.max(a, b);
+            });
+            return 20 +(maxLabelLength * 10)
+        }
+
+        function isAlphaNumeric(str) {
+            var code, i, len;
+
+            for (i = 0, len = str.length; i < len; i++) {
+                code = str.charCodeAt(i);
+                if (!(code > 47 && code < 58) && // numeric (0-9)
+                    !(code > 64 && code < 91) && // upper alpha (A-Z)
+                    !(code > 96 && code < 123)) { // lower alpha (a-z)
+                    return false;
+                }
+            }
+            return true;
+        };
+
+        function isNumeric(str) {
+            var code, i, len;
+
+            for (i = 0, len = str.length; i < len; i++) {
+                code = str.charCodeAt(i);
+                if (!(code > 47 && code < 58)) {
+                    return false;
+                }
+            }
+            return true;
         }
     </script>
     <!--Text to speech-->
@@ -667,30 +1253,40 @@
         }
     </script>
 </section>
-<table>
-    <tr>
-        <th><h1 id="title"></h1></th>
-        <th></th>
-    </tr>
-    <tr>
-        <td><h3 id="summaryText">Hover over a point of data to hear its caption</h3></td>
-        <td rowspan="4"><p id="summary"></p></td>
-    </tr>
-    <tr>
-        <td id="chart"></td>
-    </tr>
-    <tr>
-        <td>
-            <button class="button" onclick="narrateSummary()">Narrate Summary</button>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <audio controls id="audioPlayback">
-                <source id="audioSource" src="" type="audio/mp3">
-            </audio>
-        </td>
-    </tr>
-</table>
+
+<div class="grid-container">
+    <div class="Title">
+        <h1 id="title"></h1>
+        <h3 id="summaryText">Hover over a point of data to hear its caption</h3>
+    </div>
+    <div class="Chart" id="chart"></div>
+    <div class="tts">
+        <button class="button" onclick="narrateSummary()">Narrate Summary</button>
+        <br>
+        <audio controls id="audioPlayback">
+            <source id="audioSource" src="" type="audio/mp3">
+        </audio>
+    </div>
+    <div class="Caption">
+        <p id="summary"></p>
+    </div>
+    <div class="Selector">
+        <div>
+            <form method="post">
+            </form>
+        </div>
+        <div class="Label"><label id="numberLabel"></label></div>
+        <div class="Navigation">
+            <button type="button" id="previous" onclick="previousChart()"> < Previous </button>
+            <button type="button" id="next" onclick="nextChart()"> Next > </button>
+        </div>
+        <div class="Text"><input type="text" id="chartNumber" style="
+            width: 50%;"></input></div>
+        <div class="Submit">
+            <button type="button" class="active" onclick="refresh()">New chart</button>
+        </div>
+    </div>
+    <div class="Meta"></div>
+</div>
 </body>
 </html>
