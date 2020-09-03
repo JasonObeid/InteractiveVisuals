@@ -4,15 +4,24 @@
    "yAxis": "Sales in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 15 categories for the x axis representing Optical retailer, and a y axis representing Sales in million U.S. dollars.",
       " The highest category is found at Vision_Source where Sales in million U.S. dollars is 2840.0.",
       " The lowest category is found at Emerging_Vision_Inc. where Sales in million U.S. dollars is 110.4."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 14
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 14,
+         "12": 14
+      },
+      {}
+   ],
    "data": [
       {
          "Optical retailer": "Vision Source",

@@ -1,120 +1,70 @@
 {
-   "title": "Employment by economic sector in Finland 2019",
-   "labels": [
-      "Year",
-      "Agriculture",
-      "Industry",
-      "Services"
-   ],
-   "columnType": "multi",
+   "title": "Car rental in the U.S. - total cars in service 2002 to 2012",
+   "xAxis": "Year",
+   "yAxis": "Cars in service in thousands",
+   "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the Employment of the by economic sector Finland in from 2009 to 2019 . ",
-      "In 2019 , 3.69 % of the by were employed in Agriculture , 21.81 % in Industry and 74.5 % in Services . ",
-      "Employment of by in Finland \u2013 additional information In 2013 , Finland was the largest exporting country worldwide with an export value of about two billion U.S. dollars ."
+      "The statistic shows the total U.S. Cars in the global U.S. total from 2002 to 2006 and shows a forecast through to 2012 . ",
+      "In 2012 , global U.S. Cars amounted to 1857 thousands ."
    ],
    "trends": [
       {
-         "14": [
-            "10",
-            "0"
-         ],
-         "16": [
-            "0",
-            "0"
-         ]
+         "13": "0",
+         "15": "4",
+         "22": "10"
       },
       {
-         "1": [
-            "0",
-            "0"
-         ],
-         "3": [
-            "0",
-            "1"
-         ],
-         "13": [
-            "0",
-            "2"
-         ],
-         "18": [
-            "0",
-            "3"
-         ]
-      },
-      {
-         "9": [
-            "6",
-            "0"
-         ]
+         "1": "10",
+         "9": "10"
       }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Agriculture": "3.69",
-         "Industry": "21.81",
-         "Services": "74.5"
+         "Year": "2002",
+         "Cars in service in thousands": "1643"
       },
       {
-         "Year": "2018",
-         "Agriculture": "3.73",
-         "Industry": "21.97",
-         "Services": "74.3"
+         "Year": "2003",
+         "Cars in service in thousands": "1617"
       },
       {
-         "Year": "2017",
-         "Agriculture": "3.76",
-         "Industry": "22.16",
-         "Services": "74.08"
+         "Year": "2004",
+         "Cars in service in thousands": "1665"
       },
       {
-         "Year": "2016",
-         "Agriculture": "3.87",
-         "Industry": "22.16",
-         "Services": "73.98"
+         "Year": "2005",
+         "Cars in service in thousands": "1714"
       },
       {
-         "Year": "2015",
-         "Agriculture": "4.22",
-         "Industry": "21.7",
-         "Services": "74.07"
+         "Year": "2006",
+         "Cars in service in thousands": "1768"
       },
       {
-         "Year": "2014",
-         "Agriculture": "4.26",
-         "Industry": "21.9",
-         "Services": "73.85"
+         "Year": "2007",
+         "Cars in service in thousands": "1861"
       },
       {
-         "Year": "2013",
-         "Agriculture": "4.13",
-         "Industry": "22.85",
-         "Services": "73.02"
-      },
-      {
-         "Year": "2012",
-         "Agriculture": "4.16",
-         "Industry": "22.79",
-         "Services": "73.06"
-      },
-      {
-         "Year": "2011",
-         "Agriculture": "4.23",
-         "Industry": "23",
-         "Services": "72.78"
-      },
-      {
-         "Year": "2010",
-         "Agriculture": "4.44",
-         "Industry": "23.3",
-         "Services": "72.26"
+         "Year": "2008",
+         "Cars in service in thousands": "1813"
       },
       {
          "Year": "2009",
-         "Agriculture": "4.63",
-         "Industry": "23.95",
-         "Services": "71.43"
+         "Cars in service in thousands": "1637"
+      },
+      {
+         "Year": "2010",
+         "Cars in service in thousands": "1629"
+      },
+      {
+         "Year": "2011",
+         "Cars in service in thousands": "1761"
+      },
+      {
+         "Year": "2012",
+         "Cars in service in thousands": "1857"
       }
-   ]
+   ],
+   "gold": "This statistic represents the US rental car industry 's total number of cars in service between 2002 and 2012 . In 2012 , there were about 1.86 million rental cars in service , while the industry 's revenue grew to around 23.6 billion US dollars .\n"
 }

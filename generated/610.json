@@ -1,64 +1,101 @@
 {
-   "title": "Cyber bullying : common types of bullying 2019 , by gender",
-   "labels": [
-      "unknown",
-      "Male",
-      "Female"
-   ],
-   "columnType": "multi",
-   "graphType": "bar",
+   "title": "U.S. arms exports 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Export value in TIV in million constant (1990) U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Cyber bullying common types and bullying 2019 in the by , Saui-Arabia and I_have_cyber_bullied_others_(lifetime) , as at 2019 . ",
-      "As at 2019 , the Cyber bullying common types in the by amounted to 8.1 I_have_been_cyber_bullied_(lifetime) dollars per ton , whereas the bullying Female amounted to 4.6 I_have_been_cyber_bullied_(lifetime) dollars per ton . ",
-      "Cyber bullying is mainly used for the manufacture of antifreeze formulations and polyesters ."
+      "The statistic shows the total Export of U.S. exports 2000 2018 in the 2018 from 2000 to 2018 . ",
+      "In 2018 , 10508 million TIV of exports 2000 2018 were produced in the U.S. ."
    ],
    "trends": [
       {
-         "18": [
-            "3",
-            "0"
-         ]
+         "15": "18",
+         "17": "0"
       },
       {
-         "14": [
-            "2",
-            "1"
-         ],
-         "15": [
-            "1",
-            "0"
-         ],
-         "26": [
-            "2",
-            "2"
-         ],
-         "27": [
-            "1",
-            "0"
-         ]
-      },
-      {}
+         "1": "0",
+         "3": "0"
+      }
    ],
    "data": [
       {
-         "unknown": "I have been cyber bullied (previous 30 days)",
-         "Male": "17.7",
-         "Female": "17.1"
+         "Year": "2018",
+         "Export value in TIV in million constant (1990) U.S. dollars": "10508"
       },
       {
-         "unknown": "I have been cyber bullied (lifetime)",
-         "Male": "34.1",
-         "Female": "38.7"
+         "Year": "2017",
+         "Export value in TIV in million constant (1990) U.S. dollars": "12485"
       },
       {
-         "unknown": "I have cyber bullied others (previous 30 days)",
-         "Male": "8.1",
-         "Female": "4.6"
+         "Year": "2016",
+         "Export value in TIV in million constant (1990) U.S. dollars": "9955"
       },
       {
-         "unknown": "I have cyber bullied others (lifetime)",
-         "Male": "16.1",
-         "Female": "13.4"
+         "Year": "2015",
+         "Export value in TIV in million constant (1990) U.S. dollars": "9931"
+      },
+      {
+         "Year": "2014",
+         "Export value in TIV in million constant (1990) U.S. dollars": "9601"
+      },
+      {
+         "Year": "2013",
+         "Export value in TIV in million constant (1990) U.S. dollars": "7571"
+      },
+      {
+         "Year": "2012",
+         "Export value in TIV in million constant (1990) U.S. dollars": "9086"
+      },
+      {
+         "Year": "2011",
+         "Export value in TIV in million constant (1990) U.S. dollars": "9022"
+      },
+      {
+         "Year": "2010",
+         "Export value in TIV in million constant (1990) U.S. dollars": "8074"
+      },
+      {
+         "Year": "2009",
+         "Export value in TIV in million constant (1990) U.S. dollars": "6913"
+      },
+      {
+         "Year": "2008",
+         "Export value in TIV in million constant (1990) U.S. dollars": "6800"
+      },
+      {
+         "Year": "2007",
+         "Export value in TIV in million constant (1990) U.S. dollars": "7850"
+      },
+      {
+         "Year": "2006",
+         "Export value in TIV in million constant (1990) U.S. dollars": "7523"
+      },
+      {
+         "Year": "2005",
+         "Export value in TIV in million constant (1990) U.S. dollars": "6772"
+      },
+      {
+         "Year": "2004",
+         "Export value in TIV in million constant (1990) U.S. dollars": "6845"
+      },
+      {
+         "Year": "2003",
+         "Export value in TIV in million constant (1990) U.S. dollars": "5665"
+      },
+      {
+         "Year": "2002",
+         "Export value in TIV in million constant (1990) U.S. dollars": "4953"
+      },
+      {
+         "Year": "2001",
+         "Export value in TIV in million constant (1990) U.S. dollars": "5615"
+      },
+      {
+         "Year": "2000",
+         "Export value in TIV in million constant (1990) U.S. dollars": "7576"
       }
-   ]
+   ],
+   "gold": "The statistic shows total U.S. arms exports in the years 2000 to 2018 expressed in TIV . The TIV is based on the known unit production costs of a core set of weapons and is intended to represent the transfer of military resources rather than the financial value of the transfer . The TIV is expressed here in million constant U.S. dollars as of 1990 .\n"
 }

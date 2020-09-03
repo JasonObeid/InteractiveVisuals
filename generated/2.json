@@ -1,70 +1,43 @@
 {
-   "title": "Dominican Republic : poverty headcount ratio at 3.20 U.S. dollars a day 2005 to 2016",
+   "title": "Expenditure of affluent U.S. households on fees for social , recreation , health club",
    "xAxis": "Year",
-   "yAxis": "Percentage of population",
+   "yAxis": "Amount spent in U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The Republic rate in Dominican Republic has been oscillating throughout recent years . ",
-      "In 2016 , 5.9 percentage of the Argentine population were living on less than ratio 3.20 U.S. dollars day , down from 16.4 percentage of the population in 2005.In nominal terms , household income dollars capita in Dominican Republic has shown a significant improvement in 2016 ."
+      "The statistic shows the spent of the Disaster Recovery as a Service ( U.S. ) Amount U.S. , from 2013 to 2016 . ",
+      "In 2014 , the global U.S. Amount was predicted to reach 47.39 billion dollars in spent . ",
+      "Additional information - Disaster Recovery as a Service ( U.S. ) Within the field of information technology , disaster recovery is the process of replicating data on servers , either physical or virtual , as a precaution against man-made or natural disasters ."
    ],
    "trends": [
-      {},
       {
-         "1": "0",
-         "3": "0",
-         "22": "11",
-         "44": "0"
-      }
+         "19": "0",
+         "21": "3"
+      },
+      {
+         "1": "1",
+         "11": "1"
+      },
+      {}
    ],
    "data": [
       {
-         "Year": "2016",
-         "Percentage of population": "5.9"
-      },
-      {
-         "Year": "2015",
-         "Percentage of population": "6.4"
+         "Year": "2013",
+         "Amount spent in U.S. dollars": "46.58"
       },
       {
          "Year": "2014",
-         "Percentage of population": "7.8"
+         "Amount spent in U.S. dollars": "47.39"
       },
       {
-         "Year": "2013",
-         "Percentage of population": "10"
+         "Year": "2015",
+         "Amount spent in U.S. dollars": "51.52"
       },
       {
-         "Year": "2012",
-         "Percentage of population": "11.1"
-      },
-      {
-         "Year": "2011",
-         "Percentage of population": "10.4"
-      },
-      {
-         "Year": "2010",
-         "Percentage of population": "12"
-      },
-      {
-         "Year": "2009",
-         "Percentage of population": "12.2"
-      },
-      {
-         "Year": "2008",
-         "Percentage of population": "13.7"
-      },
-      {
-         "Year": "2007",
-         "Percentage of population": "13.3"
-      },
-      {
-         "Year": "2006",
-         "Percentage of population": "13.7"
-      },
-      {
-         "Year": "2005",
-         "Percentage of population": "16.4"
+         "Year": "2016",
+         "Amount spent in U.S. dollars": "56.15"
       }
-   ]
+   ],
+   "gold": "The statistic shows the expenditure of affluent households , or the so-called highest quintile , in the United States on fees and admissions for social , recreation , health club membership from 2013 to 2016 . In 2016 , affluent Americans spent some 56 U.S. dollars on fees and admissions for social , recreation , health club membership .\n"
 }

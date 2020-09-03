@@ -1,35 +1,54 @@
 {
-   "title": "Health/Fitness club companies -Virgin Active revenue 2012 to 2014",
-   "xAxis": "Year",
-   "yAxis": "Revenue in million U.S. dollars",
+   "title": "Global pork exports 2020 , by country",
+   "xAxis": "Country",
+   "yAxis": "Export volume in thousand metric tons",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic presents a forecast of the Health/Fitness club companies Revenue in Active from 2012 to 2014 . ",
-      "Itt was estimated that the 2014 Health/Fitness club companies Revenue for Active would be 1051.17 million U.S. dollars ."
+      "This statistic illustrates the Export volume of Global pork in exports 2020 by in 2020 . ",
+      "That year , United_States accounted for some 3221 thousand of the world 's exports 2020 by and was ranked second . ",
+      "exports 2020 by Country In 2020 , EU topped the ranking of the largest exports 2020 producing pork worldwide ."
    ],
    "trends": [
+      {},
       {
-         "14": "2",
-         "16": "0"
+         "3": "1",
+         "7": "1"
       },
       {
-         "5": "0",
-         "14": "0"
+         "8": "0"
       }
    ],
    "data": [
       {
-         "Year": "2014",
-         "Revenue in million U.S. dollars": "1051.17"
+         "Country": "EU",
+         "Export volume in thousand metric tons": "3900"
       },
       {
-         "Year": "2013",
-         "Revenue in million U.S. dollars": "1021.49"
+         "Country": "United States",
+         "Export volume in thousand metric tons": "3221"
       },
       {
-         "Year": "2012",
-         "Revenue in million U.S. dollars": "1002.72"
+         "Country": "Canada",
+         "Export volume in thousand metric tons": "1400"
+      },
+      {
+         "Country": "Brazil",
+         "Export volume in thousand metric tons": "1000"
+      },
+      {
+         "Country": "Mexico",
+         "Export volume in thousand metric tons": "250"
+      },
+      {
+         "Country": "China",
+         "Export volume in thousand metric tons": "100"
+      },
+      {
+         "Country": "Others",
+         "Export volume in thousand metric tons": "476"
       }
-   ]
+   ],
+   "gold": "This statistic depicts the forecast export volume of pork worldwide in 2020 , by leading country . The estimated pork exports of the United States were amounted to approximately 3.22 million metric tons in 2020 .\n"
 }

@@ -4,15 +4,24 @@
    "yAxis": "Average price per flower in eurocent",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 20 categories for the x axis representing Month, and a y axis representing Average price per flower in eurocent.",
       " The highest category is found at Nov_'19 where Average price per flower in eurocent is 36.0.",
       " The lowest category is found at Jul_'18 where Average price per flower in eurocent is 21.0."
    ],
-   "trends": {
-      "maxIndex": 1,
-      "minIndex": 17
-   },
+   "trends": [
+      {},
+      {
+         "7": 1,
+         "12": 1
+      },
+      {
+         "7": 17,
+         "12": 17
+      },
+      {}
+   ],
    "data": [
       {
          "Month": "Dec '19",

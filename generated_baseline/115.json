@@ -4,15 +4,24 @@
    "yAxis": "Number of pets in thousands",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 6 categories for the x axis representing Pet Type, and a y axis representing Number of pets in thousands.",
       " The highest category is found at Cat where Number of pets in thousands is 103828.0.",
       " The lowest category is found at Reptiles where Number of pets in thousands is 7848.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 5
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
    "data": [
       {
          "Pet Type": "Cat",

@@ -4,15 +4,24 @@
    "yAxis": "Number of followers",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 10 categories for the x axis representing Instagram User, and a y axis representing Number of followers.",
       " The highest category is found at angele_vl_(Ang\u00e8le_stage_name_of_Ang\u00e8le_Van_Laeken) where Number of followers is 2488193.0.",
       " The lowest category is found at matthiasgeerts_(Matthias_Geerts) where Number of followers is 308271.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 9
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
    "data": [
       {
          "Instagram User": "angele vl (Ang\u00e8le stage name of Ang\u00e8le Van Laeken)",

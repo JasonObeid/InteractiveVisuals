@@ -1,67 +1,62 @@
 {
-   "title": "Export of goods from China 2017",
-   "xAxis": "Year",
-   "yAxis": "Exports in billion U.S. dollars",
+   "title": "Dogs with the most Instagram followers worldwide 2017",
+   "xAxis": "Month",
+   "yAxis": "Number of followers in millions",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the total Exports of goods and from in the China from 2007 to 2017 . ",
-      "In 2017 , the total Exports of goods and from in the China amounted to 2263.33 billion U.S. ."
+      "This statistic gives information on the Dogs most on Instagram as of 2018 . ",
+      "As of that Month , Spanish player Jiff_Pom_@Jiffpom was ranked first Instagram almost 6.6 millions Instagram followers ."
    ],
    "trends": [
+      {},
       {
-         "14": "10",
-         "16": "0"
-      },
-      {
-         "1": "0",
-         "15": "0"
+         "7": "0",
+         "13": "0"
       }
    ],
    "data": [
       {
-         "Year": "2017",
-         "Exports in billion U.S. dollars": "2263.33"
+         "Month": "Jiff Pom @Jiffpom",
+         "Number of followers in millions": "6.6"
       },
       {
-         "Year": "2016",
-         "Exports in billion U.S. dollars": "2097.63"
+         "Month": "Doug the Pug @itsdougthepug",
+         "Number of followers in millions": "2.9"
       },
       {
-         "Year": "2015",
-         "Exports in billion U.S. dollars": "2273.47"
+         "Month": "Maruto @Marutaro",
+         "Number of followers in millions": "2.6"
       },
       {
-         "Year": "2014",
-         "Exports in billion U.S. dollars": "2342.29"
+         "Month": "Marnie @Marniethedog",
+         "Number of followers in millions": "2.1"
       },
       {
-         "Year": "2013",
-         "Exports in billion U.S. dollars": "2209.01"
+         "Month": "Tuna @tunameltsmyheart",
+         "Number of followers in millions": "1.9"
       },
       {
-         "Year": "2012",
-         "Exports in billion U.S. dollars": "2048.71"
+         "Month": "Loki @Loki the wolfdog",
+         "Number of followers in millions": "1.6"
       },
       {
-         "Year": "2011",
-         "Exports in billion U.S. dollars": "1898.38"
+         "Month": "Harlow Indiana and Reese of @harlowandsage",
+         "Number of followers in millions": "1.5"
       },
       {
-         "Year": "2010",
-         "Exports in billion U.S. dollars": "1577.75"
+         "Month": "Maddie @thiswildidea",
+         "Number of followers in millions": "1.2"
       },
       {
-         "Year": "2009",
-         "Exports in billion U.S. dollars": "1201.61"
+         "Month": "Manny @manny the frenchie",
+         "Number of followers in millions": "1.0"
       },
       {
-         "Year": "2008",
-         "Exports in billion U.S. dollars": "1430.69"
-      },
-      {
-         "Year": "2007",
-         "Exports in billion U.S. dollars": "1220.46"
+         "Month": "Loki and Bear @Lokistagram",
+         "Number of followers in millions": "1.0"
       }
-   ]
+   ],
+   "gold": "This statistic presents a ranking of the most popular dogs on Instagram as of October 2017 , sorted by the highest numbers of followers . Pomeranian Jiff Pom was the most-followed dog on the photo sharing app platform with 6.6 million followers .\n"
 }

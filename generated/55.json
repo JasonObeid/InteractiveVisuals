@@ -1,84 +1,102 @@
 {
-   "title": "Tea market : major importing countries worldwide 2018",
-   "xAxis": "Country",
-   "yAxis": "Trade value in million U.S. dollars",
+   "title": "Number of cars on the road in the United Kingdom ( UK ) 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of cars in millions",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the leading Tea market the major Trade value in 2018 . ",
-      "market defense value totaling USD 571.33 million , the Pakistan ranked first . ",
-      "Worldwide leaders in Trade value The Saudi_Arabia States lead the globe in Trade value in 2018 ."
+      "This statistic shows the cars Number of all cars in United Kingdom Kingdom 2000 to 2018 . ",
+      "The Number of cars increased over this period . ",
+      "In 2018 , the Number of cars to United Kingdom amounted to approximately 97.2 millions British pounds ."
    ],
    "trends": [
+      {
+         "12": "18",
+         "14": "0"
+      },
       {},
       {
-         "5": "0",
-         "9": "0"
-      },
-      {
-         "6": "6"
+         "1": "0"
       }
    ],
    "data": [
       {
-         "Country": "Pakistan",
-         "Trade value in million U.S. dollars": "571.33"
+         "Year": "2018",
+         "Number of cars in millions": "32.5"
       },
       {
-         "Country": "Russian Federation",
-         "Trade value in million U.S. dollars": "497.07"
+         "Year": "2017",
+         "Number of cars in millions": "32.2"
       },
       {
-         "Country": "USA",
-         "Trade value in million U.S. dollars": "487.29"
+         "Year": "2016",
+         "Number of cars in millions": "31.8"
       },
       {
-         "Country": "United Kingdom",
-         "Trade value in million U.S. dollars": "397.68"
+         "Year": "2015",
+         "Number of cars in millions": "31.2"
       },
       {
-         "Country": "United Arab Emirates",
-         "Trade value in million U.S. dollars": "323.16"
+         "Year": "2014",
+         "Number of cars in millions": "30.5"
       },
       {
-         "Country": "Egypt",
-         "Trade value in million U.S. dollars": "318.11"
+         "Year": "2013",
+         "Number of cars in millions": "30.9"
       },
       {
-         "Country": "Saudi Arabia",
-         "Trade value in million U.S. dollars": "252.52"
+         "Year": "2012",
+         "Number of cars in millions": "30.5"
       },
       {
-         "Country": "Germany",
-         "Trade value in million U.S. dollars": "237.39"
+         "Year": "2011",
+         "Number of cars in millions": "30.4"
       },
       {
-         "Country": "Morocco",
-         "Trade value in million U.S. dollars": "220.28"
+         "Year": "2010",
+         "Number of cars in millions": "30.3"
       },
       {
-         "Country": "Japan",
-         "Trade value in million U.S. dollars": "182.18"
+         "Year": "2009",
+         "Number of cars in millions": "30.1"
       },
       {
-         "Country": "France",
-         "Trade value in million U.S. dollars": "180.85"
+         "Year": "2008",
+         "Number of cars in millions": "30.3"
       },
       {
-         "Country": "China",
-         "Trade value in million U.S. dollars": "177.82"
+         "Year": "2007",
+         "Number of cars in millions": "30.2"
       },
       {
-         "Country": "China Hong Kong SAR",
-         "Trade value in million U.S. dollars": "151.85"
+         "Year": "2006",
+         "Number of cars in millions": "29.9"
       },
       {
-         "Country": "Afghanistan",
-         "Trade value in million U.S. dollars": "146.11"
+         "Year": "2005",
+         "Number of cars in millions": "29.8"
       },
       {
-         "Country": "Canada",
-         "Trade value in million U.S. dollars": "145.55"
+         "Year": "2004",
+         "Number of cars in millions": "29.4"
+      },
+      {
+         "Year": "2003",
+         "Number of cars in millions": "29.0"
+      },
+      {
+         "Year": "2002",
+         "Number of cars in millions": "28.5"
+      },
+      {
+         "Year": "2001",
+         "Number of cars in millions": "27.8"
+      },
+      {
+         "Year": "2000",
+         "Number of cars in millions": "27.2"
       }
-   ]
+   ],
+   "gold": "The United Kingdom is home to some 32.5 million passenger cars . After slowly increasing over the past years , figures reached their peak in 2018 , with UK roads busier than ever before . The only noticeable decline \u2013 apart from 2014 when the source changed \u2013 was seen in 2009 during the recession .\n"
 }

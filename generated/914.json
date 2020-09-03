@@ -1,119 +1,114 @@
 {
-   "title": "EU car sales : share of diesel engines 2013 - 2017 , by brand",
+   "title": "Employment by economic sector in Ireland 2019",
    "labels": [
-      "unknown",
-      "2013",
-      "2017"
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
    ],
    "columnType": "multi",
-   "graphType": "bar",
+   "graphType": "line",
    "summary": [
-      "This statistic shows the EU of VAT and/or PAYE based 2013 in the car sales , diesel engines and other reservation service and related activities sector in the United Kingdom from 2013 to 2017 , by unknown size band . ",
-      "As of 2019 , there were 8 2013 with a unknown of more than 5 Peugeot unknown in this sector ."
+      "The statistic shows the distribution of Employment in Ireland by economic sector from 2009 to 2019 . ",
+      "In 2019 , 4.98 % of the employees in Ireland were active in the agricultural sector , 18.27 % in Industry and 76.75 % in the Services sector ."
    ],
    "trends": [
-      {},
       {
-         "6": [
-            "17",
-            "2"
+         "13": [
+            "10",
+            "0"
          ],
          "15": [
-            "5",
+            "0",
             "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "3": [
+            "0",
+            "1"
+         ],
+         "17": [
+            "0",
+            "2"
+         ],
+         "22": [
+            "0",
+            "3"
          ]
       }
    ],
    "data": [
       {
-         "unknown": "Volvo",
-         "2013": "87",
-         "2017": "79"
+         "Year": "2019",
+         "Agriculture": "4.98",
+         "Industry": "18.27",
+         "Services": "76.75"
       },
       {
-         "unknown": "BMW",
-         "2013": "81",
-         "2017": "68"
+         "Year": "2018",
+         "Agriculture": "5.02",
+         "Industry": "18.47",
+         "Services": "76.51"
       },
       {
-         "unknown": "Mercedes",
-         "2013": "71",
-         "2017": "68"
+         "Year": "2017",
+         "Agriculture": "5.06",
+         "Industry": "18.83",
+         "Services": "76.12"
       },
       {
-         "unknown": "Audi",
-         "2013": "75",
-         "2017": "59"
+         "Year": "2016",
+         "Agriculture": "5.33",
+         "Industry": "18.56",
+         "Services": "76.11"
       },
       {
-         "unknown": "Renault",
-         "2013": "60",
-         "2017": "49"
+         "Year": "2015",
+         "Agriculture": "5.33",
+         "Industry": "18.1",
+         "Services": "76.57"
       },
       {
-         "unknown": "Peugeot",
-         "2013": "61",
-         "2017": "49"
+         "Year": "2014",
+         "Agriculture": "5.43",
+         "Industry": "17.3",
+         "Services": "77.27"
       },
       {
-         "unknown": "Nissan",
-         "2013": "51",
-         "2017": "47"
+         "Year": "2013",
+         "Agriculture": "5.76",
+         "Industry": "17.23",
+         "Services": "77.01"
       },
       {
-         "unknown": "Volkswagen",
-         "2013": "56",
-         "2017": "47"
+         "Year": "2012",
+         "Agriculture": "5.77",
+         "Industry": "16.98",
+         "Services": "77.25"
       },
       {
-         "unknown": "Ford",
-         "2013": "45",
-         "2017": "44"
+         "Year": "2011",
+         "Agriculture": "5.73",
+         "Industry": "17.45",
+         "Services": "76.82"
       },
       {
-         "unknown": "Citroen",
-         "2013": "64",
-         "2017": "43"
+         "Year": "2010",
+         "Agriculture": "5.75",
+         "Industry": "18.09",
+         "Services": "76.16"
       },
       {
-         "unknown": "Skoda",
-         "2013": "46",
-         "2017": "41"
-      },
-      {
-         "unknown": "Dacia",
-         "2013": "52",
-         "2017": "39"
-      },
-      {
-         "unknown": "Kia",
-         "2013": "45",
-         "2017": "39"
-      },
-      {
-         "unknown": "Fiat",
-         "2013": "31",
-         "2017": "36"
-      },
-      {
-         "unknown": "Hyundai",
-         "2013": "39",
-         "2017": "32"
-      },
-      {
-         "unknown": "Opel",
-         "2013": "41",
-         "2017": "30"
-      },
-      {
-         "unknown": "Seat",
-         "2013": "44",
-         "2017": "29"
-      },
-      {
-         "unknown": "Toyota",
-         "2013": "26",
-         "2017": "8"
+         "Year": "2009",
+         "Agriculture": "5.59",
+         "Industry": "19.85",
+         "Services": "74.56"
       }
-   ]
+   ],
+   "gold": "The statistic shows the distribution of employment in Ireland by economic sector from 2009 to 2019 . In 2019 , 4.98 percent of the employees in Ireland were active in the agricultural sector , 18.27 percent in industry and 76.75 percent in the service sector .\n"
 }

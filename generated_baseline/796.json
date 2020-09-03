@@ -4,15 +4,24 @@
    "yAxis": "Payroll in thousand U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 30 categories for the x axis representing Month, and a y axis representing Payroll in thousand U.S. dollars.",
       " The highest category is found at Zlatan_Ibrahimovic where Payroll in thousand U.S. dollars is 7200.0.",
       " The lowest category is found at Diedie_Traore where Payroll in thousand U.S. dollars is 56.25."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 29
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 29,
+         "12": 29
+      },
+      {}
+   ],
    "data": [
       {
          "Month": "Zlatan Ibrahimovic",

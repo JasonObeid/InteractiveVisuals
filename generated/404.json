@@ -1,97 +1,67 @@
 {
-   "title": "Global mango production 2000 to 2017",
+   "title": "Revenue of Sonic Corporation in the U.S. from 2009 to 2018",
    "xAxis": "Year",
-   "yAxis": "Million metric tons",
+   "yAxis": "Revenue in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows mango production Million metric in the Global between 2000 and 2017 . ",
-      "Here , the metric of Million derived from mango fuels came to approximately 50.65 tons British thermal units in 2017 . ",
-      "mango production energies \u2013 additional informationFossil fuels are hydrocarbon-containing natural resources formed from the remains of dead plants or animals that have been subject to immense pressure from a buildup of layers over million of years ."
+      "The statistic depicts the annual Revenue of Sonic Corporation from 2009 to 2018 . ",
+      "In 2018 , Sonic Corporation ' Revenue amounted to around 423.59 million U.S. dollars . ",
+      "After spin-offs of other product segments , Koninklijke Sonic Corporation N.V. today is a company focused on healthcare/medical technology ."
    ],
    "trends": [
       {
-         "11": "17",
-         "13": "0"
+         "9": "9",
+         "11": "0"
       },
       {
-         "13": "0",
-         "19": "0"
+         "1": "0",
+         "9": "0"
       },
       {}
    ],
    "data": [
       {
+         "Year": "2018",
+         "Revenue in million U.S. dollars": "423.59"
+      },
+      {
          "Year": "2017",
-         "Million metric tons": "50.65"
+         "Revenue in million U.S. dollars": "477.27"
       },
       {
          "Year": "2016",
-         "Million metric tons": "46.51"
+         "Revenue in million U.S. dollars": "606.32"
       },
       {
          "Year": "2015",
-         "Million metric tons": "46.33"
+         "Revenue in million U.S. dollars": "606.09"
       },
       {
          "Year": "2014",
-         "Million metric tons": "45.22"
+         "Revenue in million U.S. dollars": "552.35"
       },
       {
          "Year": "2013",
-         "Million metric tons": "42.66"
+         "Revenue in million U.S. dollars": "542.59"
       },
       {
          "Year": "2012",
-         "Million metric tons": "40.44"
+         "Revenue in million U.S. dollars": "543.73"
       },
       {
          "Year": "2011",
-         "Million metric tons": "39.26"
+         "Revenue in million U.S. dollars": "545.95"
       },
       {
          "Year": "2010",
-         "Million metric tons": "37.14"
+         "Revenue in million U.S. dollars": "550.93"
       },
       {
          "Year": "2009",
-         "Million metric tons": "34.88"
-      },
-      {
-         "Year": "2008",
-         "Million metric tons": "35.62"
-      },
-      {
-         "Year": "2007",
-         "Million metric tons": "34.86"
-      },
-      {
-         "Year": "2006",
-         "Million metric tons": "33.85"
-      },
-      {
-         "Year": "2005",
-         "Million metric tons": "31.63"
-      },
-      {
-         "Year": "2004",
-         "Million metric tons": "29.72"
-      },
-      {
-         "Year": "2003",
-         "Million metric tons": "29.73"
-      },
-      {
-         "Year": "2002",
-         "Million metric tons": "26.22"
-      },
-      {
-         "Year": "2001",
-         "Million metric tons": "24.92"
-      },
-      {
-         "Year": "2000",
-         "Million metric tons": "24.72"
+         "Revenue in million U.S. dollars": "706.28"
       }
-   ]
+   ],
+   "gold": "This statistic shows the revenue of Sonic Corporation in the United States from 2009 to 2018 . In 2018 , Sonic Corp. generated a revenue of 423.59 million U.S. dollars . Sonic Corporation , founded in Oklahoma , United States in 1953 , is a drive-in fast-food restaurant chain .\n"
 }

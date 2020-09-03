@@ -1,104 +1,56 @@
 {
-   "title": "Average daily temperatures in the United Kingdom ( UK ) 2001 to 2019",
+   "title": "Missing persons cases 2012 to 2019",
    "xAxis": "Year",
-   "yAxis": "Degrees Celsius",
+   "yAxis": "Number of cases",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Degrees of Scottish Celsius United the rest of the United Kingdom 2001 to 2019 . ",
-      "With the exception of 2002 , 2011 and 2015 , the Degrees of UK Celsius has increased United 10.2 % in 2010 to approximately 10.9 % by 2014 ."
+      "The statistic shows the Number of cases in Missing from 2012 to H1_2019 . ",
+      "According to the report , there were 1.58 million cases who had personal wealth of over 10 billion yuan in Missing 2018 , decreased from 1.61 million in the previous Year ."
    ],
    "trends": [
       {
-         "16": "18",
-         "18": "0"
+         "10": "7",
+         "12": "0"
       },
       {
-         "4": "17",
-         "6": "8",
-         "8": "4",
-         "18": "18",
-         "21": "9",
-         "24": "5",
-         "27": "5"
+         "22": "1"
       }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Degrees Celsius": "10.5"
+         "Year": "H1 2019",
+         "Number of cases": "236656"
       },
       {
          "Year": "2018",
-         "Degrees Celsius": "10.6"
+         "Number of cases": "229687"
       },
       {
          "Year": "2017",
-         "Degrees Celsius": "10.6"
+         "Number of cases": "211219"
       },
       {
          "Year": "2016",
-         "Degrees Celsius": "10.3"
+         "Number of cases": "189110"
       },
       {
          "Year": "2015",
-         "Degrees Celsius": "10.3"
+         "Number of cases": "166280"
       },
       {
          "Year": "2014",
-         "Degrees Celsius": "10.9"
+         "Number of cases": "149036"
       },
       {
          "Year": "2013",
-         "Degrees Celsius": "9.7"
+         "Number of cases": "133989"
       },
       {
          "Year": "2012",
-         "Degrees Celsius": "9.8"
-      },
-      {
-         "Year": "2011",
-         "Degrees Celsius": "10.7"
-      },
-      {
-         "Year": "2010",
-         "Degrees Celsius": "9.0"
-      },
-      {
-         "Year": "2009",
-         "Degrees Celsius": "10.1"
-      },
-      {
-         "Year": "2008",
-         "Degrees Celsius": "10.0"
-      },
-      {
-         "Year": "2007",
-         "Degrees Celsius": "10.5"
-      },
-      {
-         "Year": "2006",
-         "Degrees Celsius": "10.8"
-      },
-      {
-         "Year": "2005",
-         "Degrees Celsius": "10.5"
-      },
-      {
-         "Year": "2004",
-         "Degrees Celsius": "10.6"
-      },
-      {
-         "Year": "2003",
-         "Degrees Celsius": "10.6"
-      },
-      {
-         "Year": "2002",
-         "Degrees Celsius": "10.8"
-      },
-      {
-         "Year": "2001",
-         "Degrees Celsius": "10.2"
+         "Number of cases": "120791"
       }
-   ]
+   ],
+   "gold": "In June 2019 , the number of cases of missing people amounted to 236,656 . More specifically , the chart displays the total number of reports recorded by the Police between 1974 and June 2019 . In 1974 , a database recording the number of missing people cases was started .\n"
 }

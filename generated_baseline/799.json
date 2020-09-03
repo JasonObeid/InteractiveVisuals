@@ -4,15 +4,24 @@
    "yAxis": "Year on year percentage change",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 25 categories for the x axis representing Month, and a y axis representing Year on year percentage change.",
       " The highest category is found at Nov_'18 where Year on year percentage change is 2.78.",
       " The lowest category is found at Nov_'19 where Year on year percentage change is 0.39."
    ],
-   "trends": {
-      "maxIndex": 14,
-      "minIndex": 2
-   },
+   "trends": [
+      {},
+      {
+         "7": 14,
+         "12": 14
+      },
+      {
+         "7": 2,
+         "12": 2
+      },
+      {}
+   ],
    "data": [
       {
          "Month": "Jan '20",

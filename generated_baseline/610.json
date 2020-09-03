@@ -4,54 +4,36 @@
    "yAxis": "Export value in TIV in million constant (1990) U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Export value in TIV in million constant (1990) U.S. dollars, with a total of 19 data points. The chart has 5 significant trends.",
-      " The longest trend is extremely negative which exists from 2017 to 2013.",
-      " On the contrary, the next significant trend is extremely negative which exists from 2012 to 2008.",
-      " Contrarily, the next significant trend is extremely negative which exists from 2007 to 2005.",
-      " Conversely, the next significant trend is extremely negative which exists from 2004 to 2002.",
-      " Differently, the next significant trend is extremely positive which exists from 2002 to 2000."
+      " The longest trend is extremely positive which exists from 2018 to 2013.",
+      " In a similar manner, the next significant trend is extremely positive which exists from 2013 to 2008.",
+      " Also, the next significant trend is moderately positive which exists from 2008 to 2005.",
+      " Similarly, the next significant trend is extremely positive which exists from 2005 to 2002.",
+      " Additionally, the next significant trend is slightly negative which exists from 2002 to 2000."
    ],
    "trends": [
+      {},
       {
-         "Length": 5,
-         "direction": "negative",
-         "start": 1,
-         "end": 5,
-         "trend": "y=1018.2x+-2041764.4",
-         "magnitude": "extremely"
+         "1": "0",
+         "12": "5"
       },
       {
-         "Length": 5,
-         "direction": "negative",
-         "start": 6,
-         "end": 10,
-         "trend": "y=668.1x+-1334902.0",
-         "magnitude": "extremely"
+         "3": "5",
+         "14": "10"
       },
       {
-         "Length": 3,
-         "direction": "negative",
-         "start": 11,
-         "end": 13,
-         "trend": "y=539.0x+-1073852.33",
-         "magnitude": "extremely"
+         "3": "10",
+         "14": "13"
       },
       {
-         "Length": 3,
-         "direction": "negative",
-         "start": 14,
-         "end": 16,
-         "trend": "y=946.0x+-1889017.0",
-         "magnitude": "extremely"
+         "3": "13",
+         "14": "16"
       },
       {
-         "Length": 3,
-         "direction": "positive",
-         "start": 16,
-         "end": 18,
-         "trend": "y=-1311.5x+2630359.5",
-         "magnitude": "extremely"
+         "3": "16",
+         "14": "18"
       }
    ],
    "data": [

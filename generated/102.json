@@ -1,137 +1,56 @@
 {
-   "title": "Share of individuals who wear spectacles in selected European countries 2017",
-   "xAxis": "Country",
-   "yAxis": "Individuals who wear spectacles",
+   "title": "Most popular multi-purpose cleaning products in the United Kingdom ( UK ) 2013",
+   "xAxis": "Product Type",
+   "yAxis": "Share of respondents currently purchasing",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the global Slovakia of the European who in 2017 . ",
-      "In 2017 , approximately 85 % of the who wear in the Share ."
+      "This statistic displays the Most popular multi-purpose cleaning in the United Kingdom ( UK ) , ranked by Most purchased among consumers in a survey conducted in 2013 . ",
+      "According to the survey results , the leading alcoholic spirit Flash was purchased by 38 % of respondents , followed by Bailey 's Mr_Muscle at 31 % ."
    ],
    "trends": [
+      {},
       {
-         "5": "0"
-      },
-      {
-         "4": "0"
+         "10": "0",
+         "14": "0",
+         "23": "1",
+         "25": "1"
       }
    ],
    "data": [
       {
-         "Country": "Slovakia",
-         "Individuals who wear spectacles": "85"
+         "Product Type": "Flash",
+         "Share of respondents currently purchasing": "38"
       },
       {
-         "Country": "Serbia",
-         "Individuals who wear spectacles": "70"
+         "Product Type": "Mr Muscle",
+         "Share of respondents currently purchasing": "31"
       },
       {
-         "Country": "United Kingdom",
-         "Individuals who wear spectacles": "68"
+         "Product Type": "Dettol",
+         "Share of respondents currently purchasing": "30"
       },
       {
-         "Country": "Denmark",
-         "Individuals who wear spectacles": "65"
+         "Product Type": "Supermarket's own spray cleaner",
+         "Share of respondents currently purchasing": "28"
       },
       {
-         "Country": "Finland",
-         "Individuals who wear spectacles": "65"
+         "Product Type": "Cif",
+         "Share of respondents currently purchasing": "22"
       },
       {
-         "Country": "Norway",
-         "Individuals who wear spectacles": "63"
+         "Product Type": "Cif (cream)",
+         "Share of respondents currently purchasing": "22"
       },
       {
-         "Country": "Germany",
-         "Individuals who wear spectacles": "63"
+         "Product Type": "Dettol (wipes)",
+         "Share of respondents currently purchasing": "21"
       },
       {
-         "Country": "France",
-         "Individuals who wear spectacles": "58"
-      },
-      {
-         "Country": "Netherlands",
-         "Individuals who wear spectacles": "57"
-      },
-      {
-         "Country": "Austria",
-         "Individuals who wear spectacles": "52"
-      },
-      {
-         "Country": "Portugal",
-         "Individuals who wear spectacles": "52"
-      },
-      {
-         "Country": "Switzerland",
-         "Individuals who wear spectacles": "52"
-      },
-      {
-         "Country": "Italy",
-         "Individuals who wear spectacles": "51"
-      },
-      {
-         "Country": "Latvia",
-         "Individuals who wear spectacles": "50"
-      },
-      {
-         "Country": "Bulgaria",
-         "Individuals who wear spectacles": "50"
-      },
-      {
-         "Country": "Spain",
-         "Individuals who wear spectacles": "49"
-      },
-      {
-         "Country": "Czech Republic",
-         "Individuals who wear spectacles": "45"
-      },
-      {
-         "Country": "Romania",
-         "Individuals who wear spectacles": "45"
-      },
-      {
-         "Country": "Greece",
-         "Individuals who wear spectacles": "45"
-      },
-      {
-         "Country": "Ireland",
-         "Individuals who wear spectacles": "44"
-      },
-      {
-         "Country": "Hungary",
-         "Individuals who wear spectacles": "40"
-      },
-      {
-         "Country": "Belgium",
-         "Individuals who wear spectacles": "40"
-      },
-      {
-         "Country": "Estonia",
-         "Individuals who wear spectacles": "38"
-      },
-      {
-         "Country": "Ukraine",
-         "Individuals who wear spectacles": "35"
-      },
-      {
-         "Country": "Slovenia",
-         "Individuals who wear spectacles": "30"
-      },
-      {
-         "Country": "Poland",
-         "Individuals who wear spectacles": "30"
-      },
-      {
-         "Country": "Cyprus",
-         "Individuals who wear spectacles": "25"
-      },
-      {
-         "Country": "Turkey",
-         "Individuals who wear spectacles": "20"
-      },
-      {
-         "Country": "Croatia",
-         "Individuals who wear spectacles": "15"
+         "Product Type": "Cilit bang",
+         "Share of respondents currently purchasing": "20"
       }
-   ]
+   ],
+   "gold": "This statistic displays the leading surface and multi-purpose cleaning product brands in the United Kingdom , according to a survey conducted November 2013 . Flash surface sprays ranked highest with 38 percent of respondents purchasing their products at the time of survey .\n"
 }

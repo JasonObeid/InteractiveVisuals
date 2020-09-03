@@ -4,18 +4,16 @@
    "yAxis": "Spending in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Spending in million U.S. dollars with a total of 4 data points. The chart has one significant trend.",
-      " This trend is extremely negative which exists from 2020 to 2015."
+      " This trend is positive which exists from 2020 to 2015."
    ],
    "trends": [
+      {},
       {
-         "Length": 4,
-         "direction": "negative",
-         "start": 0,
-         "end": 3,
-         "trend": "y=203.57x+-410024.32",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "3"
       }
    ],
    "data": [

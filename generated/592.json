@@ -1,98 +1,57 @@
 {
-   "title": "Google network sites : advertising revenue 2001 to 2019",
+   "title": "De Beers ' revenue 2011 to 2018",
    "xAxis": "Year",
-   "yAxis": "Revenue in billion U.S. dollars",
+   "yAxis": "Revenue in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic represents Google 's total Revenue worldwide between 2001 and 2019 . ",
-      "The Google Group is a multinational exploration , development production , and processing corporation . ",
-      "It is headquartered in London , UK ."
+      "The statistic shows the Revenue of the De Beers from 2011 to 2018 . ",
+      "In 2018 , the De Beers Revenue of the Major League Baseball franchise amounted to 6082 million U.S. dollars ."
    ],
    "trends": [
       {
-         "9": "18",
-         "11": "0"
+         "9": "0",
+         "11": "7"
       },
-      {},
-      {}
+      {
+         "1": "7",
+         "14": "7"
+      }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Revenue in billion U.S. dollars": "21.55"
-      },
-      {
-         "Year": "2018",
-         "Revenue in billion U.S. dollars": "20.01"
-      },
-      {
-         "Year": "2017",
-         "Revenue in billion U.S. dollars": "17.62"
-      },
-      {
-         "Year": "2016",
-         "Revenue in billion U.S. dollars": "15.6"
-      },
-      {
-         "Year": "2015",
-         "Revenue in billion U.S. dollars": "15.03"
-      },
-      {
-         "Year": "2014",
-         "Revenue in billion U.S. dollars": "14.54"
-      },
-      {
-         "Year": "2013",
-         "Revenue in billion U.S. dollars": "13.65"
+         "Year": "2011",
+         "Revenue in million U.S. dollars": "3320"
       },
       {
          "Year": "2012",
-         "Revenue in billion U.S. dollars": "12.47"
+         "Revenue in million U.S. dollars": "4028"
       },
       {
-         "Year": "2011",
-         "Revenue in billion U.S. dollars": "10.39"
+         "Year": "2013",
+         "Revenue in million U.S. dollars": "6404"
       },
       {
-         "Year": "2010",
-         "Revenue in billion U.S. dollars": "8.79"
+         "Year": "2014",
+         "Revenue in million U.S. dollars": "7114"
       },
       {
-         "Year": "2009",
-         "Revenue in billion U.S. dollars": "7.17"
+         "Year": "2015",
+         "Revenue in million U.S. dollars": "4671"
       },
       {
-         "Year": "2008",
-         "Revenue in billion U.S. dollars": "6.71"
+         "Year": "2016",
+         "Revenue in million U.S. dollars": "6068"
       },
       {
-         "Year": "2007",
-         "Revenue in billion U.S. dollars": "5.79"
+         "Year": "2017",
+         "Revenue in million U.S. dollars": "5841"
       },
       {
-         "Year": "2006",
-         "Revenue in billion U.S. dollars": "4.16"
-      },
-      {
-         "Year": "2005",
-         "Revenue in billion U.S. dollars": "2.69"
-      },
-      {
-         "Year": "2004",
-         "Revenue in billion U.S. dollars": "1.55"
-      },
-      {
-         "Year": "2003",
-         "Revenue in billion U.S. dollars": "0.63"
-      },
-      {
-         "Year": "2002",
-         "Revenue in billion U.S. dollars": "0.1"
-      },
-      {
-         "Year": "2001",
-         "Revenue in billion U.S. dollars": "0.0"
+         "Year": "2018",
+         "Revenue in million U.S. dollars": "6082"
       }
-   ]
+   ],
+   "gold": "In 2018 , the revenue of diamond mining company De Beers was about 6.1 billion U.S. dollars . De Beers De Beers was founded by Cecil Rhodes in 1888 , a British businessman and politician in Southern Africa . The company is now headquarted in London .\n"
 }

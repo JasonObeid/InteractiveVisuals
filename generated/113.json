@@ -1,109 +1,97 @@
 {
-   "title": "Unemployment rate in Brazil 2019",
+   "title": "Global lemon and lime production 2000 to 2017",
    "xAxis": "Year",
-   "yAxis": "Unemployment rate",
+   "yAxis": "Production in million metric tons",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the Unemployment rate in Brazil from 1999 to 2019 . ",
-      "In 2019 , the Unemployment rate in Brazil was at about 12.22 % . ",
-      "Trade in Brazil is a growing market and recognized as one of the world 's newest industrialized countries ."
+      "The statistic depicts the Production of the lemon lime , a franchise of the National Football League , from 2000 to 2017 . ",
+      "In 2017 , the Production of the lemon lime was 17.22 million metric tons ."
    ],
    "trends": [
       {
-         "9": "20",
-         "11": "0"
+         "19": "17",
+         "21": "0"
       },
       {
          "1": "0",
-         "11": "0"
-      },
-      {}
+         "10": "0"
+      }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Unemployment rate": "12.22"
-      },
-      {
-         "Year": "2018",
-         "Unemployment rate": "12.54"
-      },
-      {
          "Year": "2017",
-         "Unemployment rate": "12.83"
+         "Production in million metric tons": "17.22"
       },
       {
          "Year": "2016",
-         "Unemployment rate": "11.61"
+         "Production in million metric tons": "17.35"
       },
       {
          "Year": "2015",
-         "Unemployment rate": "8.44"
+         "Production in million metric tons": "16.99"
       },
       {
          "Year": "2014",
-         "Unemployment rate": "6.67"
+         "Production in million metric tons": "16.25"
       },
       {
          "Year": "2013",
-         "Unemployment rate": "6.99"
+         "Production in million metric tons": "15.23"
       },
       {
          "Year": "2012",
-         "Unemployment rate": "7.19"
+         "Production in million metric tons": "15.01"
       },
       {
          "Year": "2011",
-         "Unemployment rate": "6.69"
+         "Production in million metric tons": "15.07"
       },
       {
          "Year": "2010",
-         "Unemployment rate": "8.36"
+         "Production in million metric tons": "14.85"
       },
       {
          "Year": "2009",
-         "Unemployment rate": "8.28"
+         "Production in million metric tons": "17.23"
       },
       {
          "Year": "2008",
-         "Unemployment rate": "7.34"
+         "Production in million metric tons": "17.18"
       },
       {
          "Year": "2007",
-         "Unemployment rate": "8.33"
+         "Production in million metric tons": "16.25"
       },
       {
          "Year": "2006",
-         "Unemployment rate": "8.64"
+         "Production in million metric tons": "13.66"
       },
       {
          "Year": "2005",
-         "Unemployment rate": "9.57"
+         "Production in million metric tons": "12.33"
       },
       {
          "Year": "2004",
-         "Unemployment rate": "9.11"
+         "Production in million metric tons": "12.3"
       },
       {
          "Year": "2003",
-         "Unemployment rate": "9.99"
+         "Production in million metric tons": "12.62"
       },
       {
          "Year": "2002",
-         "Unemployment rate": "9.37"
+         "Production in million metric tons": "12.3"
       },
       {
          "Year": "2001",
-         "Unemployment rate": "9.61"
+         "Production in million metric tons": "12.16"
       },
       {
          "Year": "2000",
-         "Unemployment rate": "9.89"
-      },
-      {
-         "Year": "1999",
-         "Unemployment rate": "10.21"
+         "Production in million metric tons": "11.38"
       }
-   ]
+   ],
+   "gold": "This statistic depicts the production of lemons and limes worldwide from 2000 to 2017 . According to the report , global lemon and lime production amounted to approximately 17.22 million metric tons in 2017 .\n"
 }

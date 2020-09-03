@@ -1,85 +1,104 @@
 {
-   "title": "Music genres preferred by consumers in the U.S. 2018",
-   "xAxis": "Response",
-   "yAxis": "Share of respondents",
-   "columnType": "two",
+   "title": "Leading automotive manufacturing countries in Europe 2018",
+   "labels": [
+      "Country",
+      "Passenger Cars",
+      "Commercial Vehicles",
+      "Total"
+   ],
+   "columnType": "multi",
    "graphType": "bar",
    "summary": [
-      "The statistic presents the results of a survey conducted in 2018 and 2019 to find out about the situation of Jazz and Electronic/dance ( in ) equality across 27 countries . ",
-      "When asked which were the main by Latin Jazz and were consumers in U.S. , 56.8 % of respondents answered Rock ."
+      "The statistic shows the Europe automotive of manufacturing countries Europe 2018 from Germany to Romania , broken down 2018 . ",
+      "In France , the Europe automotive of manufacturing Passenger Spain Cars amounted to approximately 949365 million U.S. dollars ."
    ],
    "trends": [
       {
-         "20": "7",
-         "22": "6"
+         "12": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "9",
+            "0"
+         ]
       },
       {
-         "7": "13",
-         "8": "7",
-         "10": "7",
-         "21": "0"
+         "1": [
+            "2",
+            "0"
+         ],
+         "9": [
+            "1",
+            "0"
+         ],
+         "14": [
+            "6",
+            "1"
+         ]
       }
    ],
    "data": [
       {
-         "Response": "Rock",
-         "Share of respondents": "56.8"
+         "Country": "Germany",
+         "Passenger Cars": "5645581",
+         "Commercial Vehicles": "505258",
+         "Total": "6150839"
       },
       {
-         "Response": "Pop",
-         "Share of respondents": "56.1"
+         "Country": "Spain",
+         "Passenger Cars": "2291492",
+         "Commercial Vehicles": "635574",
+         "Total": "2927066"
       },
       {
-         "Response": "Country",
-         "Share of respondents": "49.9"
+         "Country": "France",
+         "Passenger Cars": "1674717",
+         "Commercial Vehicles": "601623",
+         "Total": "2276340"
       },
       {
-         "Response": "R&B and Soul",
-         "Share of respondents": "38.9"
+         "Country": "United Kingdom",
+         "Passenger Cars": "1671166",
+         "Commercial Vehicles": "73486",
+         "Total": "1744652"
       },
       {
-         "Response": "Hip Hop",
-         "Share of respondents": "37.4"
+         "Country": "Czech Republic",
+         "Passenger Cars": "1413881",
+         "Commercial Vehicles": "6112",
+         "Total": "1419993"
       },
       {
-         "Response": "Easy Listening",
-         "Share of respondents": "32.7"
+         "Country": "Italy",
+         "Passenger Cars": "742642",
+         "Commercial Vehicles": "342801",
+         "Total": "1085443"
       },
       {
-         "Response": "Electronic/dance",
-         "Share of respondents": "20.6"
+         "Country": "Slovakia",
+         "Passenger Cars": "949365",
+         "Commercial Vehicles": "0",
+         "Total": "949365"
       },
       {
-         "Response": "Jazz",
-         "Share of respondents": "20.2"
+         "Country": "Poland",
+         "Passenger Cars": "514700",
+         "Commercial Vehicles": "175029",
+         "Total": "689729"
       },
       {
-         "Response": "Blues",
-         "Share of respondents": "20"
+         "Country": "Hungary",
+         "Passenger Cars": "472107",
+         "Commercial Vehicles": "0",
+         "Total": "472107"
       },
       {
-         "Response": "Classical and Opera",
-         "Share of respondents": "17.4"
-      },
-      {
-         "Response": "Heavy metal",
-         "Share of respondents": "16.9"
-      },
-      {
-         "Response": "Reggae",
-         "Share of respondents": "16.1"
-      },
-      {
-         "Response": "Folk",
-         "Share of respondents": "14.1"
-      },
-      {
-         "Response": "Latin",
-         "Share of respondents": "11"
-      },
-      {
-         "Response": "Other",
-         "Share of respondents": "9.3"
+         "Country": "Romania",
+         "Passenger Cars": "364654",
+         "Commercial Vehicles": "0",
+         "Total": "364654"
       }
-   ]
+   ],
+   "gold": "This statistic illustrates the ten leading countries in terms of automotive manufacturers in Europe in 2018 , categorized per vehicle type . That year , Germany was the leading automobile manufacturer , with approximately 6.1 million vehicles produced . Of these , the majority were passenger cars .\n"
 }

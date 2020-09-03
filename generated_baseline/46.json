@@ -4,15 +4,24 @@
    "yAxis": "Total assets in billion U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 25 categories for the x axis representing Insurers, and a y axis representing Total assets in billion U.S. dollars.",
       " The highest category is found at Prudential_Financial where Total assets in billion U.S. dollars is 577.91.",
       " The lowest category is found at Guardian where Total assets in billion U.S. dollars is 75.59."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 24
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 24,
+         "12": 24
+      },
+      {}
+   ],
    "data": [
       {
          "Insurers": "Prudential Financial",

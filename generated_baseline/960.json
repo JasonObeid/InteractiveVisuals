@@ -4,15 +4,24 @@
    "yAxis": "GDP in million chained 2012 Canadian dollars",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 20 categories for the x axis representing Industry, and a y axis representing GDP in million chained 2012 Canadian dollars.",
       " The highest category is found at Real_estate_and_rental_and_leasing where GDP in million chained 2012 Canadian dollars is 254294.0.",
       " The lowest category is found at Management_of_companies_and_enterprises where GDP in million chained 2012 Canadian dollars is 9303.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 19
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
    "data": [
       {
          "Industry": "Real estate and rental and leasing",

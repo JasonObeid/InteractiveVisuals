@@ -10,16 +10,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 10 categories for the x axis of Country representing 2015, 2016, 2017, 2018, 2019.",
+      "This grouped bar chart has 10 categories for the x axis of Country representing 2015, 2016, 2017, 2018, and 2019.",
       " The highest category is found at China with a mean value of 11280.0.",
       " The second highest category is found at Laos with a mean value of 1602.0.",
       " This represents a difference of 150.3%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "5",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "5",
+            "1"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "China",

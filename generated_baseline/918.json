@@ -4,15 +4,24 @@
    "yAxis": "Number of physicians",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 10 categories for the x axis representing Specialty area, and a y axis representing Number of physicians.",
       " The highest category is found at Total_specialty where Number of physicians is 6342.0.",
       " The lowest category is found at Endocrinology_diabetes_&_metabolism where Number of physicians is 71.0."
    ],
-   "trends": {
-      "maxIndex": 9,
-      "minIndex": 7
-   },
+   "trends": [
+      {},
+      {
+         "7": 9,
+         "12": 9
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
    "data": [
       {
          "Specialty area": "Psychiatry",

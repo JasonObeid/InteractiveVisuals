@@ -4,15 +4,24 @@
    "yAxis": "Number of aircraft orders",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 11 categories for the x axis representing Airline, and a y axis representing Number of aircraft orders.",
       " The highest category is found at Unidentified where Number of aircraft orders is 49.0.",
       " The lowest category is found at FedEx_Express where Number of aircraft orders is 7.0."
    ],
-   "trends": {
-      "maxIndex": 10,
-      "minIndex": 9
-   },
+   "trends": [
+      {},
+      {
+         "7": 10,
+         "12": 10
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
    "data": [
       {
          "Airline": "Emirates",

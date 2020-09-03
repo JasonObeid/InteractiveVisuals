@@ -1,66 +1,82 @@
 {
-   "title": "Number of monthly active Instagram users 2013 to 2018\n",
-   "xAxis": "Month",
-   "yAxis": "Number of users in millions",
-   "columnType": "two",
-   "graphType": "bar",
-   "summary": [
-      "This bar chart has 12 categories for the x axis representing Month, and a y axis representing Number of users in millions.",
-      " The highest category is found at Jun_'18 where Number of users in millions is 1000.0.",
-      " The lowest category is found at Jan_'13 where Number of users in millions is 90.0."
+   "title": "Harley-Davidson - motorcycle sales by region 2017/2018",
+   "labels": [
+      "Year",
+      "U.S.",
+      "Canada",
+      "Europe, Middle East, Africa (EMEA)",
+      "Asia-Pacific",
+      "Latin America"
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 11
-   },
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 5 lines.",
+      " The line representing U.S. had the highest values across Year with a mean value of 140420.0.",
+      " This peaked at 2017 with a value of 147972.0. ",
+      " The line with the second highest values was Europe, Middle East, Africa (EMEA) with a mean value of 45768.5.",
+      " This line peaked at 2018 with a value of 46602.0"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "1",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "15": [
+            "1",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "2"
+         ],
+         "10": [
+            "0",
+            "2"
+         ]
+      }
+   ],
    "data": [
       {
-         "Month": "Jun '18",
-         "Number of users in millions": 1000.0
+         "Year": "2017",
+         "U.S.": "147972",
+         "Canada": "10081",
+         "Europe, Middle East, Africa (EMEA)": "44935",
+         "Asia-Pacific": "30348",
+         "Latin America": "9452"
       },
       {
-         "Month": "Sep '17",
-         "Number of users in millions": 800.0
-      },
-      {
-         "Month": "Apr '17",
-         "Number of users in millions": 700.0
-      },
-      {
-         "Month": "Dec '16",
-         "Number of users in millions": 600.0
-      },
-      {
-         "Month": "Jun '16",
-         "Number of users in millions": 500.0
-      },
-      {
-         "Month": "Sep '15",
-         "Number of users in millions": 400.0
-      },
-      {
-         "Month": "Dec '14",
-         "Number of users in millions": 300.0
-      },
-      {
-         "Month": "Mar '14",
-         "Number of users in millions": 200.0
-      },
-      {
-         "Month": "Sep '13",
-         "Number of users in millions": 150.0
-      },
-      {
-         "Month": "Jun '13",
-         "Number of users in millions": 130.0
-      },
-      {
-         "Month": "Feb '13",
-         "Number of users in millions": 100.0
-      },
-      {
-         "Month": "Jan '13",
-         "Number of users in millions": 90.0
+         "Year": "2018",
+         "U.S.": "132868",
+         "Canada": "9690",
+         "Europe, Middle East, Africa (EMEA)": "46602",
+         "Asia-Pacific": "28724",
+         "Latin America": "10167"
       }
    ]
 }

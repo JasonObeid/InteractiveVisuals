@@ -1,70 +1,118 @@
 {
-   "title": "Toyota 's R & D expenditure 2007 to 2019\n",
-   "xAxis": "Financial year",
-   "yAxis": "R&D spending in million Japanese yen",
-   "columnType": "two",
-   "graphType": "bar",
-   "summary": [
-      "This bar chart has 13 categories for the x axis representing Financial year, and a y axis representing R&D spending in million Japanese yen.",
-      " The highest category is found at 2018 where R&D spending in million Japanese yen is 1064200.0.",
-      " The lowest category is found at 2010 where R&D spending in million Japanese yen is 725345.0."
+   "title": "Daily internet usage per capita worldwide 2011 - 2021 , by device",
+   "labels": [
+      "Year",
+      "Desktop",
+      "Mobile"
    ],
-   "trends": {
-      "maxIndex": 1,
-      "minIndex": 9
-   },
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 2 lines.",
+      " The line representing Mobile had the highest values across Year with a mean value of 92.0.",
+      " This peaked at 2021 with a value of 155.0. ",
+      " The line with the second highest values was Desktop with a mean value of 42.1.",
+      " This line peaked at 2013 with a value of 49.0"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "9": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "10",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "10": [
+            "0",
+            "0"
+         ]
+      }
+   ],
    "data": [
       {
-         "Financial year": "2019",
-         "R&D spending in million Japanese yen": 1048800.0
+         "Year": "2011",
+         "Desktop": "43",
+         "Mobile": "32"
       },
       {
-         "Financial year": "2018",
-         "R&D spending in million Japanese yen": 1064200.0
+         "Year": "2012",
+         "Desktop": "47",
+         "Mobile": "36"
       },
       {
-         "Financial year": "2017",
-         "R&D spending in million Japanese yen": 1037500.0
+         "Year": "2013",
+         "Desktop": "49",
+         "Mobile": "45"
       },
       {
-         "Financial year": "2016",
-         "R&D spending in million Japanese yen": 1055600.0
+         "Year": "2014",
+         "Desktop": "47",
+         "Mobile": "63"
       },
       {
-         "Financial year": "2015",
-         "R&D spending in million Japanese yen": 1004547.0
+         "Year": "2015",
+         "Desktop": "42",
+         "Mobile": "81"
       },
       {
-         "Financial year": "2014",
-         "R&D spending in million Japanese yen": 910517.0
+         "Year": "2016",
+         "Desktop": "40",
+         "Mobile": "94"
       },
       {
-         "Financial year": "2013",
-         "R&D spending in million Japanese yen": 807454.0
+         "Year": "2017",
+         "Desktop": "42",
+         "Mobile": "109"
       },
       {
-         "Financial year": "2012",
-         "R&D spending in million Japanese yen": 779806.0
+         "Year": "2018",
+         "Desktop": "39",
+         "Mobile": "122"
       },
       {
-         "Financial year": "2011",
-         "R&D spending in million Japanese yen": 730340.0
+         "Year": "2019 ",
+         "Desktop": "39",
+         "Mobile": "132"
       },
       {
-         "Financial year": "2010",
-         "R&D spending in million Japanese yen": 725345.0
+         "Year": "2020 ",
+         "Desktop": "38",
+         "Mobile": "143"
       },
       {
-         "Financial year": "2009",
-         "R&D spending in million Japanese yen": 904075.0
-      },
-      {
-         "Financial year": "2008",
-         "R&D spending in million Japanese yen": 958882.0
-      },
-      {
-         "Financial year": "2007",
-         "R&D spending in million Japanese yen": 890782.0
+         "Year": "2021",
+         "Desktop": "37",
+         "Mobile": "155"
       }
    ]
 }

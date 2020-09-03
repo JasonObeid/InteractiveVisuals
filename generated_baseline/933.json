@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 12 categories for the x axis of Country representing 2012, 2013.",
+      "This grouped bar chart has 12 categories for the x axis of Country representing 2012, and 2013.",
       " The highest category is found at Australia with a mean value of 364.0.",
       " The second highest category is found at South Korea with a mean value of 151.5.",
       " This represents a difference of 82.4%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "14": [
+            "2",
+            "2"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "Australia",

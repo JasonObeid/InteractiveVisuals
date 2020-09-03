@@ -1,69 +1,91 @@
 {
-   "title": "Urbanization in Finland 2018",
-   "xAxis": "Year",
-   "yAxis": "Share of urban population in total population",
+   "title": "Mercedes : market share of new car registrations in the EU 2019",
+   "xAxis": "Month",
+   "yAxis": "Market share",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the degree of Urbanization in Finland from 2008 to 2018 . ",
-      "Urbanization means the Share of urban population in the total population of a country . ",
-      "In 2018 , 85.38 % of Finland 's total population lived in urban areas and cities ."
+      "The statistic shows Mercedes market share of car registrations EU in the EU between 2018 and 2019 . ",
+      "In 2019 , Mercedes market share of car registrations EU in the EU stood at 5.9 % . ",
+      "The Mercedes Motor Company , a South Korean registrations manufacturer belonging to the Mercedes Kia Automotive Group , was founded in 1967 by Chung Ju-Yung ."
    ],
    "trends": [
-      {
-         "10": "10",
-         "12": "0"
-      },
       {},
       {
-         "1": "0",
-         "3": "0"
-      }
+         "15": "0"
+      },
+      {}
    ],
    "data": [
       {
-         "Year": "2018",
-         "Share of urban population in total population": "85.38"
+         "Month": "Dec 19",
+         "Market share": "5.9"
       },
       {
-         "Year": "2017",
-         "Share of urban population in total population": "85.33"
+         "Month": "Nov 19",
+         "Market share": "6.2"
       },
       {
-         "Year": "2016",
-         "Share of urban population in total population": "85.28"
+         "Month": "Oct 19",
+         "Market share": "6.4"
       },
       {
-         "Year": "2015",
-         "Share of urban population in total population": "85.23"
+         "Month": "Sep 19",
+         "Market share": "6.9"
       },
       {
-         "Year": "2014",
-         "Share of urban population in total population": "85.18"
+         "Month": "Aug 19",
+         "Market share": "5.7"
       },
       {
-         "Year": "2013",
-         "Share of urban population in total population": "85.13"
+         "Month": "Jul 19",
+         "Market share": "5.6"
       },
       {
-         "Year": "2012",
-         "Share of urban population in total population": "84.84"
+         "Month": "Jun 19",
+         "Market share": "4.9"
       },
       {
-         "Year": "2011",
-         "Share of urban population in total population": "84.31"
+         "Month": "May 19",
+         "Market share": "5.3"
       },
       {
-         "Year": "2010",
-         "Share of urban population in total population": "83.77"
+         "Month": "Apr 19",
+         "Market share": "5.5"
       },
       {
-         "Year": "2009",
-         "Share of urban population in total population": "83.43"
+         "Month": "Mar 19",
+         "Market share": "4.9"
       },
       {
-         "Year": "2008",
-         "Share of urban population in total population": "83.3"
+         "Month": "Feb 19",
+         "Market share": "5.3"
+      },
+      {
+         "Month": "Jan 19",
+         "Market share": "5.3"
+      },
+      {
+         "Month": "Dec 18",
+         "Market share": "6.6"
+      },
+      {
+         "Month": "Nov 18",
+         "Market share": "6.4"
+      },
+      {
+         "Month": "Oct 18",
+         "Market share": "6.8"
+      },
+      {
+         "Month": "Sep 18",
+         "Market share": "7.2"
+      },
+      {
+         "Month": "Aug 18",
+         "Market share": "4.6"
       }
-   ]
+   ],
+   "gold": "This statistic shows Mercedes 's share of new car registrations in the EU between August 2018 and December 2019 . In December 2019 , Mercedes had a market share of 5.9 percent in the EU . At 71,300 units , the brand 's vehicle sales were about 8.5 percent above the same month one year earlier , mainly thanks to increased demand from German customers .\n"
 }

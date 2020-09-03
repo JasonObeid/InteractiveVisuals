@@ -1,60 +1,70 @@
 {
-   "title": "Runner-up at World Cup tournaments by country 1930 to 2014",
-   "xAxis": "Country",
-   "yAxis": "Number of runners-up",
+   "title": "Gross domestic product ( GDP ) growth rate in Kenya 2024",
+   "xAxis": "Year",
+   "yAxis": "GDP growth compared to previous year",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the share of tournaments runners-up Runner-up World Cup runners-up country in 1930 , Country . ",
-      "In 1930 , tournaments Runner-up World Cup runners-up by in Germany accounted for around 4 % of the world 's total tournaments runners-up grid-connected World Cup runners-up ."
+      "The statistic shows the growth in real GDP in Kenya from 2014 to 2018 , with projections up until 2024 . ",
+      "In 2018 , Kenya 's real Gross domestic product increased by around 6.32 % compared to the previous Year ."
    ],
    "trends": [
-      {},
       {
-         "9": "0",
-         "13": "0"
+         "11": "10",
+         "13": "6",
+         "19": "0"
+      },
+      {
+         "1": "6",
+         "12": "6"
       }
    ],
    "data": [
       {
-         "Country": "Germany",
-         "Number of runners-up": "4"
+         "Year": "2024",
+         "GDP growth compared to previous year": "5.85"
       },
       {
-         "Country": "Netherlands the",
-         "Number of runners-up": "3"
+         "Year": "2023",
+         "GDP growth compared to previous year": "5.84"
       },
       {
-         "Country": "Argentina",
-         "Number of runners-up": "3"
+         "Year": "2022",
+         "GDP growth compared to previous year": "5.84"
       },
       {
-         "Country": "Czech Republic",
-         "Number of runners-up": "2"
+         "Year": "2021",
+         "GDP growth compared to previous year": "5.82"
       },
       {
-         "Country": "Brazil",
-         "Number of runners-up": "2"
+         "Year": "2020",
+         "GDP growth compared to previous year": "6.05"
       },
       {
-         "Country": "Czechoslovakia",
-         "Number of runners-up": "2"
+         "Year": "2019",
+         "GDP growth compared to previous year": "5.6"
       },
       {
-         "Country": "Italy",
-         "Number of runners-up": "2"
+         "Year": "2018",
+         "GDP growth compared to previous year": "6.32"
       },
       {
-         "Country": "Hungary",
-         "Number of runners-up": "2"
+         "Year": "2017",
+         "GDP growth compared to previous year": "4.86"
       },
       {
-         "Country": "France",
-         "Number of runners-up": "1"
+         "Year": "2016",
+         "GDP growth compared to previous year": "5.88"
       },
       {
-         "Country": "Sweden",
-         "Number of runners-up": "1"
+         "Year": "2015",
+         "GDP growth compared to previous year": "5.72"
+      },
+      {
+         "Year": "2014",
+         "GDP growth compared to previous year": "5.36"
       }
-   ]
+   ],
+   "gold": "The statistic shows the growth in real GDP in Kenya from 2014 to 2018 , with projections up until 2024 . In 2018 , Kenya 's real gross domestic product grew by around 6.32 percent compared to the previous year .\n"
 }

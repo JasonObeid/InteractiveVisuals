@@ -4,27 +4,21 @@
    "yAxis": "Number of arrivals in millions",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Number of arrivals in millions, with a total of 13 data points. The chart has 2 significant trends.",
-      " The longest trend is extremely negative which exists from 2018 to 2009.",
-      " On the other hand, the next significant trend is extremely negative which exists from 2008 to 2006."
+      " The longest trend is extremely positive which exists from 2018 to 2009.",
+      " Likewise, the next significant trend is slightly positive which exists from 2009 to 2006."
    ],
    "trends": [
+      {},
       {
-         "Length": 10,
-         "direction": "negative",
-         "start": 0,
-         "end": 9,
-         "trend": "y=0.18x+-357.56",
-         "magnitude": "extremely"
+         "1": "0",
+         "12": "9"
       },
       {
-         "Length": 3,
-         "direction": "negative",
-         "start": 10,
-         "end": 12,
-         "trend": "y=0.12x+-229.34",
-         "magnitude": "extremely"
+         "3": "9",
+         "14": "12"
       }
    ],
    "data": [

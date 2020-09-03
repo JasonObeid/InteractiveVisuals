@@ -1,0 +1,48 @@
+{
+   "title": "Number of registered voters in the United States 1996 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of registered voters in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the volume of wheat produced in canada from 2010 to 2018 . In 2018 , there were 10.11 incidents of identity theft per capita in canada .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Number of registered voters in millions": 153.07
+      },
+      {
+         "Year": "2016",
+         "Number of registered voters in millions": 157.6
+      },
+      {
+         "Year": "2014",
+         "Number of registered voters in millions": 142.17
+      },
+      {
+         "Year": "2012",
+         "Number of registered voters in millions": 153.16
+      },
+      {
+         "Year": "2010",
+         "Number of registered voters in millions": 137.26
+      },
+      {
+         "Year": "2008",
+         "Number of registered voters in millions": 146.31
+      },
+      {
+         "Year": "2004",
+         "Number of registered voters in millions": 142.07
+      },
+      {
+         "Year": "2000",
+         "Number of registered voters in millions": 129.55
+      },
+      {
+         "Year": "1996",
+         "Number of registered voters in millions": 127.66
+      }
+   ]
+}

@@ -1,136 +1,131 @@
 {
-   "title": "World ranking of Denmark 's national football team 1993 to 2019",
+   "title": "Pharmacy and drug store sales in the U.S. 1992 to 2018",
    "xAxis": "Year",
-   "yAxis": "FIFA World Ranking position",
+   "yAxis": "Billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the FIFA World Ranking of the Denmark 's national football from 1993 to 2019 . ",
-      "Until 2013 , the football did not reach a position better than 25 . ",
-      "Rank 46 was the lowest result of the football , which was reached in 2016 ."
+      "This timeline shows Pharmacy , drug and store sales U.S. in the 1992 from to 2018 . ",
+      "In 2018 , U.S. Pharmacy , drug and store sales U.S. amounted to about 285.87 billion U.S. dollars.Additional information on the drug and gifts market in the USThe statistic above shows how U.S. in the Pharmacy , drug and store sector fell following the market crash in 2008 , as did retail in the 1992 overall . ",
+      "A comparison of Pharmacy purchases in 2015 between millennials and consumers aged 35 and over shows that younger people are choosing travel and entertainment over more traditional gifts than their older counterparts ."
    ],
    "trends": [
+      {},
       {
-         "14": "0",
-         "16": "26"
+         "15": "0"
       },
-      {
-         "1": "20",
-         "12": "20"
-      },
-      {
-         "1": "23",
-         "14": "23"
-      }
+      {}
    ],
    "data": [
       {
-         "Year": "1993",
-         "FIFA World Ranking position": "6"
+         "Year": "18",
+         "Billion U.S. dollars": "285.87"
       },
       {
-         "Year": "1994",
-         "FIFA World Ranking position": "14"
+         "Year": "17",
+         "Billion U.S. dollars": "276.92"
       },
       {
-         "Year": "1995",
-         "FIFA World Ranking position": "9"
+         "Year": "16",
+         "Billion U.S. dollars": "271.88"
       },
       {
-         "Year": "1996",
-         "FIFA World Ranking position": "6"
+         "Year": "15",
+         "Billion U.S. dollars": "263.47"
       },
       {
-         "Year": "1997",
-         "FIFA World Ranking position": "8"
+         "Year": "14",
+         "Billion U.S. dollars": "250.55"
       },
       {
-         "Year": "1998",
-         "FIFA World Ranking position": "19"
+         "Year": "13",
+         "Billion U.S. dollars": "235.55"
       },
       {
-         "Year": "1999",
-         "FIFA World Ranking position": "11"
+         "Year": "12",
+         "Billion U.S. dollars": "229.95"
       },
       {
-         "Year": "2000",
-         "FIFA World Ranking position": "22"
+         "Year": "11",
+         "Billion U.S. dollars": "231.25"
       },
       {
-         "Year": "2001",
-         "FIFA World Ranking position": "18"
+         "Year": "10",
+         "Billion U.S. dollars": "222.23"
       },
       {
-         "Year": "2002",
-         "FIFA World Ranking position": "12"
+         "Year": "9",
+         "Billion U.S. dollars": "217.26"
       },
       {
-         "Year": "2003",
-         "FIFA World Ranking position": "13"
+         "Year": "8",
+         "Billion U.S. dollars": "210.86"
       },
       {
-         "Year": "2004",
-         "FIFA World Ranking position": "14"
+         "Year": "7",
+         "Billion U.S. dollars": "202.28"
       },
       {
-         "Year": "2005",
-         "FIFA World Ranking position": "13"
+         "Year": "6",
+         "Billion U.S. dollars": "191.02"
       },
       {
-         "Year": "2006",
-         "FIFA World Ranking position": "21"
+         "Year": "5",
+         "Billion U.S. dollars": "179.17"
       },
       {
-         "Year": "2007",
-         "FIFA World Ranking position": "31"
+         "Year": "4",
+         "Billion U.S. dollars": "169.23"
       },
       {
-         "Year": "2008",
-         "FIFA World Ranking position": "37"
+         "Year": "3",
+         "Billion U.S. dollars": "165.52"
       },
       {
-         "Year": "2009",
-         "FIFA World Ranking position": "28"
+         "Year": "2",
+         "Billion U.S. dollars": "153.94"
       },
       {
-         "Year": "2010",
-         "FIFA World Ranking position": "28"
+         "Year": "1",
+         "Billion U.S. dollars": "141.77"
       },
       {
-         "Year": "2011",
-         "FIFA World Ranking position": "11"
+         "Year": "0",
+         "Billion U.S. dollars": "130.86"
       },
       {
-         "Year": "2012",
-         "FIFA World Ranking position": "23"
+         "Year": "99",
+         "Billion U.S. dollars": "121.28"
       },
       {
-         "Year": "2013",
-         "FIFA World Ranking position": "25"
+         "Year": "98",
+         "Billion U.S. dollars": "108.42"
       },
       {
-         "Year": "2014",
-         "FIFA World Ranking position": "30"
+         "Year": "97",
+         "Billion U.S. dollars": "98.82"
       },
       {
-         "Year": "2015",
-         "FIFA World Ranking position": "42"
+         "Year": "96",
+         "Billion U.S. dollars": "91.81"
       },
       {
-         "Year": "2016",
-         "FIFA World Ranking position": "46"
+         "Year": "95",
+         "Billion U.S. dollars": "85.84"
       },
       {
-         "Year": "2017",
-         "FIFA World Ranking position": "12"
+         "Year": "94",
+         "Billion U.S. dollars": "81.99"
       },
       {
-         "Year": "2018",
-         "FIFA World Ranking position": "10"
+         "Year": "93",
+         "Billion U.S. dollars": "79.71"
       },
       {
-         "Year": "2019",
-         "FIFA World Ranking position": "10"
+         "Year": "92",
+         "Billion U.S. dollars": "77.79"
       }
-   ]
+   ],
+   "gold": "This timeline depicts pharmacy and drug store sales in the United States from 1992 to 2018 . In 2018 , U.S. pharmacy and drug store sales amounted to about 285.87 billion U.S. dollars.U.S . Pharmacies and Drug Stores IndustryThe retail drug industry is comprised of pharmacies or drugstores , as they are known in North America .\n"
 }

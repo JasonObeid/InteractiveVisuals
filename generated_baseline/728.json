@@ -4,15 +4,24 @@
    "yAxis": "Number of subscribers in thousands",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 7 categories for the x axis representing Month, and a y axis representing Number of subscribers in thousands.",
       " The highest category is found at June_2018 where Number of subscribers in thousands is 3000.0.",
       " The lowest category is found at December_2016 where Number of subscribers in thousands is 20.0."
    ],
-   "trends": {
-      "maxIndex": 1,
-      "minIndex": 6
-   },
+   "trends": [
+      {},
+      {
+         "7": 1,
+         "12": 1
+      },
+      {
+         "7": 6,
+         "12": 6
+      },
+      {}
+   ],
    "data": [
       {
          "Month": "April 2019",

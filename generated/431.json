@@ -1,52 +1,72 @@
 {
-   "title": "Net sales share of Est\u00e9e Lauder worldwide 2017 , by distribution channel",
-   "xAxis": "Distribution channel",
-   "yAxis": "Net sales share",
-   "columnType": "two",
+   "title": "Merck KGaA 's revenue by segment 2014 to 2018",
+   "labels": [
+      "Health Segment",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018"
+   ],
+   "columnType": "multi",
    "graphType": "bar",
    "summary": [
-      "This statistic depicts the Distribution of channel share per day in the Est\u00e9e Lauder ( ) in 2017 . ",
-      "Approximately 69 % of sales share between Department_stores and Freestanding_retail_stores channel Est\u00e9e in that year ."
+      "This statistic shows the revenue of KGaA Health sales in the United Kingdom ( Merck KGaA ) in 2014 with a Merck for 2018 , Health Segment . ",
+      "Superstore and hypermarket revenue of sales is predicted to fall from 6621 % to 6621 % in 2018 , with revenue expected to increase through discounter , Life_Science and Performance_Materials channels . ",
+      "KGaA shopping in the United Kingdom ( Merck KGaA ) is currently dominated 2018 the 'big 2060 ' Performance_Materials , Tesco Sainsbury 's , Asda and Morrisons , although the 's revenue of KGaA stores has been increasingly volatile ."
    ],
    "trends": [
       {},
       {
-         "7": "0",
-         "9": "2"
+         "11": [
+            "0",
+            "1"
+         ],
+         "27": [
+            "1",
+            "0"
+         ],
+         "29": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "15": [
+            "2",
+            "1"
+         ],
+         "17": [
+            "2",
+            "0"
+         ]
       }
    ],
    "data": [
       {
-         "Distribution channel": "Department stores",
-         "Net sales share": "42"
+         "Health Segment": "Healthcare",
+         "2014": "6621",
+         "2015": "6934",
+         "2016": "6855",
+         "2017": "6999",
+         "2018": "6246"
       },
       {
-         "Distribution channel": "Travel retail",
-         "Net sales share": "14"
+         "Health Segment": "Life Science",
+         "2014": "2683",
+         "2015": "3355",
+         "2016": "5658",
+         "2017": "5882",
+         "2018": "6185"
       },
       {
-         "Distribution channel": "Freestanding retail stores",
-         "Net sales share": "11"
-      },
-      {
-         "Distribution channel": "Specialty-multi",
-         "Net sales share": "11"
-      },
-      {
-         "Distribution channel": "Perfumeries",
-         "Net sales share": "5"
-      },
-      {
-         "Distribution channel": "Salon and spa",
-         "Net sales share": "3"
-      },
-      {
-         "Distribution channel": "Online",
-         "Net sales share": "7"
-      },
-      {
-         "Distribution channel": "Other",
-         "Net sales share": "7"
+         "Health Segment": "Performance Materials",
+         "2014": "2060",
+         "2015": "2556",
+         "2016": "2511",
+         "2017": "2446",
+         "2018": "2406"
       }
-   ]
+   ],
+   "gold": "The statistic depicts the revenue of pharmaceutical and chemical company Merck KGaA ( EMD ) from 2014 to 2018 , distributed by segment . During 2015 , Merck KGaA 's healthcare division generated some 6.63 billion euros of revenue . In the United States , Merck KGaA is also known as `` EMD Chemicals '' or `` German Merck '' .\n"
 }

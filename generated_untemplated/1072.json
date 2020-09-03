@@ -1,0 +1,36 @@
+{
+   "title": "Total assets of Royal Bank of Canada 2014 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Total assets in billion Canadian dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic presents the value of cement applications worldwide from 2014 to 2019 . In 2014 , the global tech spending is forecast to amount to 3212 billion u.s. dollars , up from 10.99 billion u.s. dollars in 2014 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2019",
+         "Total assets in billion Canadian dollars": 1428.94
+      },
+      {
+         "Year": "2018",
+         "Total assets in billion Canadian dollars": 1334.73
+      },
+      {
+         "Year": "2017",
+         "Total assets in billion Canadian dollars": 1212.85
+      },
+      {
+         "Year": "2016",
+         "Total assets in billion Canadian dollars": 1180.26
+      },
+      {
+         "Year": "2015",
+         "Total assets in billion Canadian dollars": 1074.21
+      },
+      {
+         "Year": "2014",
+         "Total assets in billion Canadian dollars": 940.55
+      }
+   ]
+}

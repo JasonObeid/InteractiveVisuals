@@ -1,107 +1,86 @@
 {
-   "title": "Unemployment rate in Kenya 2019",
+   "title": "Nuclear power plants : permanent shutdowns 2005 to 2019",
    "xAxis": "Year",
-   "yAxis": "Unemployment rate",
+   "yAxis": "Number of shutdowns",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Unemployment rate in Kenya from 1999 to 2019 . ",
-      "In 2019 , the Unemployment rate in Kenya was at approximately 9.31 % ."
+      "This statistic shows the number of plants passengers on Nuclear power between 2005 and 2019 . ",
+      "Nuclear power carried about 13 million passengers on plants flights across the Nuclear in 2019 2011 . "
    ],
    "trends": [
       {
-         "9": "20",
-         "11": "0"
+         "12": "14",
+         "14": "0"
       },
       {
-         "1": "0",
-         "11": "0"
+         "4": "8",
+         "14": "0",
+         "15": "8"
       }
    ],
    "data": [
       {
          "Year": "2019",
-         "Unemployment rate": "9.31"
+         "Number of shutdowns": "3"
       },
       {
          "Year": "2018",
-         "Unemployment rate": "9.31"
+         "Number of shutdowns": "7"
       },
       {
          "Year": "2017",
-         "Unemployment rate": "9.29"
+         "Number of shutdowns": "5"
       },
       {
          "Year": "2016",
-         "Unemployment rate": "9.63"
+         "Number of shutdowns": "4"
       },
       {
          "Year": "2015",
-         "Unemployment rate": "9.68"
+         "Number of shutdowns": "7"
       },
       {
          "Year": "2014",
-         "Unemployment rate": "9.59"
+         "Number of shutdowns": "1"
       },
       {
          "Year": "2013",
-         "Unemployment rate": "9.79"
+         "Number of shutdowns": "6"
       },
       {
          "Year": "2012",
-         "Unemployment rate": "9.66"
+         "Number of shutdowns": "3"
       },
       {
          "Year": "2011",
-         "Unemployment rate": "9.68"
+         "Number of shutdowns": "13"
       },
       {
          "Year": "2010",
-         "Unemployment rate": "9.73"
+         "Number of shutdowns": "1"
       },
       {
          "Year": "2009",
-         "Unemployment rate": "9.6"
+         "Number of shutdowns": "3"
       },
       {
          "Year": "2008",
-         "Unemployment rate": "8.93"
+         "Number of shutdowns": "2"
       },
       {
          "Year": "2007",
-         "Unemployment rate": "9.07"
+         "Number of shutdowns": "1"
       },
       {
          "Year": "2006",
-         "Unemployment rate": "9.44"
+         "Number of shutdowns": "8"
       },
       {
          "Year": "2005",
-         "Unemployment rate": "9.78"
-      },
-      {
-         "Year": "2004",
-         "Unemployment rate": "9.97"
-      },
-      {
-         "Year": "2003",
-         "Unemployment rate": "10.1"
-      },
-      {
-         "Year": "2002",
-         "Unemployment rate": "10.09"
-      },
-      {
-         "Year": "2001",
-         "Unemployment rate": "9.9"
-      },
-      {
-         "Year": "2000",
-         "Unemployment rate": "9.9"
-      },
-      {
-         "Year": "1999",
-         "Unemployment rate": "10"
+         "Number of shutdowns": "2"
       }
-   ]
+   ],
+   "gold": "This statistic represents the global number of permanent nuclear reactor shutdowns between 2005 and August 2019 . Following the nuclear accident in Japan in March 2011 , four reactors at Fukushima Daiichi nuclear power plant were shut down permanently . In total , there were seven permanent shutdowns in 2018 .\n"
 }

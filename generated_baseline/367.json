@@ -4,15 +4,24 @@
    "yAxis": "Sales price in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 10 categories for the x axis representing Top Level Domains, and a y axis representing Sales price in million U.S. dollars.",
       " The highest category is found at .web_(Jul_'16) where Sales price in million U.S. dollars is 135.0.",
       " The lowest category is found at .vip_(Sep_'14) where Sales price in million U.S. dollars is 3.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 9
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
    "data": [
       {
          "Top Level Domains": ".web (Jul '16)",

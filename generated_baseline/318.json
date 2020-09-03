@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 7 categories for the x axis of Response representing Male, Female.",
+      "This grouped bar chart has 7 categories for the x axis of Response representing Male, and Female.",
       " The highest category is found at Several times a day with a mean value of 47.5.",
       " The second highest category is found at Every day with a mean value of 22.5.",
       " This represents a difference of 71.4%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Response": "Several times a day",

@@ -1,70 +1,58 @@
 {
-   "title": "Gross domestic product ( GDP ) growth rate in New Zealand 2024",
-   "xAxis": "Year",
-   "yAxis": "GDP growth compared to previous year",
+   "title": "Most preferred sources of entertainment in India in 2011",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "In 2018 , the growth in real Gross domestic product ( GDP ) in New Zealand was up 5.1 % from the Year before , continuing a trend of positive growth in GDP . ",
-      "It is projected that New Zealand 's real GDP will grow through 2024 , though at a declining rate to around 2.49 % . ",
-      "In 2018 , New Zealand 's GDP reached over 586 billion U.S. dollars ."
+      "This statistic presents the Most preferred and balm entertainment in India 2011 , India 2011 consumption . ",
+      "As of the survey conducted in 2011 , 51 % of Russian consumers used Using_the_internet_for_social_or_personal_interests Shoulders , making it the Most shampoo/balm brand ."
    ],
    "trends": [
+      {},
       {
-         "1": "6"
-      },
-      {
-         "11": "0",
-         "20": "0"
-      },
-      {
-         "1": "6"
+         "8": "0",
+         "14": "0"
       }
    ],
    "data": [
       {
-         "Year": "2024",
-         "GDP growth compared to previous year": "2.49"
+         "Response": "Using the internet for social or personal interests",
+         "Share of respondents": "51"
       },
       {
-         "Year": "2023",
-         "GDP growth compared to previous year": "2.46"
+         "Response": "Watching television (any device)",
+         "Share of respondents": "51"
       },
       {
-         "Year": "2022",
-         "GDP growth compared to previous year": "2.6"
+         "Response": "Reading newspapers (either printed or online)",
+         "Share of respondents": "46"
       },
       {
-         "Year": "2021",
-         "GDP growth compared to previous year": "2.62"
+         "Response": "Listening to music (using any device)",
+         "Share of respondents": "37"
       },
       {
-         "Year": "2020",
-         "GDP growth compared to previous year": "2.7"
+         "Response": "Reading books (either physical books or via an e-book reader/online)",
+         "Share of respondents": "26"
       },
       {
-         "Year": "2019",
-         "GDP growth compared to previous year": "2.51"
+         "Response": "Reading magazines (either printed or online)",
+         "Share of respondents": "26"
       },
       {
-         "Year": "2018",
-         "GDP growth compared to previous year": "2.81"
+         "Response": "Going to the movies",
+         "Share of respondents": "24"
       },
       {
-         "Year": "2017",
-         "GDP growth compared to previous year": "2.62"
+         "Response": "Playing videogames (handhelds PC console mobile/cellular/smartphone online)",
+         "Share of respondents": "14"
       },
       {
-         "Year": "2016",
-         "GDP growth compared to previous year": "4.18"
-      },
-      {
-         "Year": "2015",
-         "GDP growth compared to previous year": "4"
-      },
-      {
-         "Year": "2014",
-         "GDP growth compared to previous year": "3.13"
+         "Response": "Listening to the radio (any format/device)",
+         "Share of respondents": "12"
       }
-   ]
+   ],
+   "gold": "The statistic shows the most preferred sources of entertainment for respondents from India in 2011 . During the Deloitte survey , 51 percent of respondents stated that using the internet for social or personal interests was their favorite source of entertainment .\n"
 }

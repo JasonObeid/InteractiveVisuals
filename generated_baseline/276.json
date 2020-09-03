@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 15 categories for the x axis of Month representing Prize money, Endorsements.",
+      "This grouped bar chart has 15 categories for the x axis of Month representing Prize money, and Endorsements.",
       " The highest category is found at Serena Williams (tennis) with a mean value of 14.6.",
       " The second highest category is found at Naomi Osaka (tennis) with a mean value of 12.15.",
       " This represents a difference of 18.3%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Month": "Serena Williams (tennis)",

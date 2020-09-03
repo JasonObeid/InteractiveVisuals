@@ -1,104 +1,127 @@
 {
-   "title": "Average annual wage in Mexico 2000 to 2018",
-   "xAxis": "Year",
-   "yAxis": "Average wage in U.S. dollars",
+   "title": "Cesarean sections in selected countries 2017",
+   "xAxis": "Country",
+   "yAxis": "Cesarean sections per 1,000 live births",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Average of Scottish wage Mexico the rest of the United Kingdom Mexico 2000 to 2018 . ",
-      "With the exception of 2001 , 2010 and 2014 , the Average of Mexico wage has increased Mexico 15904.75 % in 2000 to approximately 17283.74 % by 2007 ."
+      "The statistic shows the Cesarean of sections per that were studying in the Spain States as of 2019 . ",
+      "The numbers are ordered 2017 countries of 2017 . ",
+      "In the academic year 2017 , there were 531.4 sections per from Turkey studying in the Spain States ."
    ],
    "trends": [
       {
-         "16": "18",
-         "18": "0"
+         "13": "13"
       },
+      {},
       {
-         "4": "17",
-         "6": "8",
-         "8": "4",
-         "18": "18",
-         "21": "18",
-         "24": "11",
-         "27": "11"
+         "8": "0",
+         "12": "0",
+         "16": "13"
       }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Average wage in U.S. dollars": "16297.71"
+         "Country": "Turkey",
+         "Cesarean sections per 1,000 live births": "531.4"
       },
       {
-         "Year": "2017",
-         "Average wage in U.S. dollars": "16110.18"
+         "Country": "Korea",
+         "Cesarean sections per 1,000 live births": "451.9"
       },
       {
-         "Year": "2016",
-         "Average wage in U.S. dollars": "16135.65"
+         "Country": "Poland",
+         "Cesarean sections per 1,000 live births": "393.0"
       },
       {
-         "Year": "2015",
-         "Average wage in U.S. dollars": "16231.23"
+         "Country": "Hungary",
+         "Cesarean sections per 1,000 live births": "373.0"
       },
       {
-         "Year": "2014",
-         "Average wage in U.S. dollars": "16028.6"
+         "Country": "Italy",
+         "Cesarean sections per 1,000 live births": "338.2"
       },
       {
-         "Year": "2013",
-         "Average wage in U.S. dollars": "16050.28"
+         "Country": "United States",
+         "Cesarean sections per 1,000 live births": "320.0"
       },
       {
-         "Year": "2012",
-         "Average wage in U.S. dollars": "16050.3"
+         "Country": "Switzerland",
+         "Cesarean sections per 1,000 live births": "318.6"
       },
       {
-         "Year": "2011",
-         "Average wage in U.S. dollars": "16328.24"
+         "Country": "Germany",
+         "Cesarean sections per 1,000 live births": "301.7"
       },
       {
-         "Year": "2010",
-         "Average wage in U.S. dollars": "16183.11"
+         "Country": "Slovak Republic",
+         "Cesarean sections per 1,000 live births": "296.8"
       },
       {
-         "Year": "2009",
-         "Average wage in U.S. dollars": "17268.96"
+         "Country": "Luxembourg",
+         "Cesarean sections per 1,000 live births": "296.8"
       },
       {
-         "Year": "2008",
-         "Average wage in U.S. dollars": "17150.17"
+         "Country": "Austria",
+         "Cesarean sections per 1,000 live births": "292.5"
       },
       {
-         "Year": "2007",
-         "Average wage in U.S. dollars": "17283.74"
+         "Country": "Canada",
+         "Cesarean sections per 1,000 live births": "277.3"
       },
       {
-         "Year": "2006",
-         "Average wage in U.S. dollars": "17217.98"
+         "Country": "United Kingdom",
+         "Cesarean sections per 1,000 live births": "273.8"
       },
       {
-         "Year": "2005",
-         "Average wage in U.S. dollars": "17244.57"
+         "Country": "Spain",
+         "Cesarean sections per 1,000 live births": "243.7"
       },
       {
-         "Year": "2004",
-         "Average wage in U.S. dollars": "17139.21"
+         "Country": "Lithuania",
+         "Cesarean sections per 1,000 live births": "222.6"
       },
       {
-         "Year": "2003",
-         "Average wage in U.S. dollars": "17039.28"
+         "Country": "Slovenia",
+         "Cesarean sections per 1,000 live births": "213.8"
       },
       {
-         "Year": "2002",
-         "Average wage in U.S. dollars": "16747.59"
+         "Country": "Belgium",
+         "Cesarean sections per 1,000 live births": "209.7"
       },
       {
-         "Year": "2001",
-         "Average wage in U.S. dollars": "16811.85"
+         "Country": "France",
+         "Cesarean sections per 1,000 live births": "197.0"
       },
       {
-         "Year": "2000",
-         "Average wage in U.S. dollars": "15904.75"
+         "Country": "Estonia",
+         "Cesarean sections per 1,000 live births": "194.4"
+      },
+      {
+         "Country": "Latvia",
+         "Cesarean sections per 1,000 live births": "193.9"
+      },
+      {
+         "Country": "Sweden",
+         "Cesarean sections per 1,000 live births": "166.4"
+      },
+      {
+         "Country": "Finland",
+         "Cesarean sections per 1,000 live births": "164.9"
+      },
+      {
+         "Country": "Iceland",
+         "Cesarean sections per 1,000 live births": "161.7"
+      },
+      {
+         "Country": "Norway",
+         "Cesarean sections per 1,000 live births": "159.5"
+      },
+      {
+         "Country": "Israel",
+         "Cesarean sections per 1,000 live births": "148.4"
       }
-   ]
+   ],
+   "gold": "Among all countries that are part of the Organization for Economic Co-operation and Development ( OECD ) , Turkey , followed by Korea , had the highest rate of Caesarean section births ( or C-sections ) . At that time , the rate of C-sections in Turkey was 531.4 per 1,000 live births . Among global regions , Latin America and the Caribbean had the highest percentage of births that were delivered by C-section , while West and Central Africa had the lowest rates of Cesarean section births .\n"
 }

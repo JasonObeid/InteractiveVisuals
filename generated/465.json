@@ -1,70 +1,112 @@
 {
-   "title": "Total population of Argentina 2024",
-   "xAxis": "Year",
-   "yAxis": "Inhabitants in millions",
+   "title": "The richest people in America as of 2019",
+   "xAxis": "Month",
+   "yAxis": "Net worth in billion U.S. dollars",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Total population of Argentina from 2014 to 2018 , with projections up until 2024 . ",
-      "In 2018 , the Total population of Argentina was around 44.56 millions people . ",
-      "See Switzerland 's population figures for comparison ."
+      "The ranking of the America 2019 who earned their fortune in the 2019 business is headed by Jeff_Bezos_&_family_(Amazon.com) founder , who is sitting in first place with a personal Net worth of 131.0 billion U.S. dollars . ",
+      "Bill_Gates_(Microsoft) founder Bill_Gates_(Microsoft) was ranked second with 96.5 billion U.S. dollars . ",
+      "Both Jeff_Bezos_&_family_(Amazon.com) and Bill_Gates_(Microsoft) are also featured in the top 5 ranking of the America Americans of 2019 ."
    ],
    "trends": [
       {
-         "9": "10",
-         "11": "6",
-         "17": "0"
+         "17": "0",
+         "19": "0",
+         "33": "0"
       },
       {
-         "1": "6",
-         "10": "6"
+         "0": "1",
+         "2": "1",
+         "7": "1"
       },
-      {}
+      {
+         "1": "0",
+         "3": "1"
+      }
    ],
    "data": [
       {
-         "Year": "2024",
-         "Inhabitants in millions": "47.6"
+         "Month": "Jeff Bezos & family (Amazon.com)",
+         "Net worth in billion U.S. dollars": "131.0"
       },
       {
-         "Year": "2023",
-         "Inhabitants in millions": "47.08"
+         "Month": "Bill Gates (Microsoft)",
+         "Net worth in billion U.S. dollars": "96.5"
       },
       {
-         "Year": "2022",
-         "Inhabitants in millions": "46.56"
+         "Month": "Warren Buffett (Berkshire Hathaway)",
+         "Net worth in billion U.S. dollars": "82.5"
       },
       {
-         "Year": "2021",
-         "Inhabitants in millions": "46.05"
+         "Month": "Larry Ellison (Oracle)",
+         "Net worth in billion U.S. dollars": "62.5"
       },
       {
-         "Year": "2020",
-         "Inhabitants in millions": "45.55"
+         "Month": "Mark Zuckerberg (Facebook)",
+         "Net worth in billion U.S. dollars": "62.3"
       },
       {
-         "Year": "2019",
-         "Inhabitants in millions": "45.05"
+         "Month": "Michael Bloomberg (Bloomberg LP )",
+         "Net worth in billion U.S. dollars": "55.5"
       },
       {
-         "Year": "2018",
-         "Inhabitants in millions": "44.56"
+         "Month": "Larry Page (Google)",
+         "Net worth in billion U.S. dollars": "50.8"
       },
       {
-         "Year": "2017",
-         "Inhabitants in millions": "44.07"
+         "Month": "Charles Koch (Koch Industries)",
+         "Net worth in billion U.S. dollars": "50.5"
       },
       {
-         "Year": "2016",
-         "Inhabitants in millions": "43.59"
+         "Month": "David Koch (Koch Industries)",
+         "Net worth in billion U.S. dollars": "50.5"
       },
       {
-         "Year": "2015",
-         "Inhabitants in millions": "43.13"
+         "Month": "Sergey Brin (Google)",
+         "Net worth in billion U.S. dollars": "49.8"
       },
       {
-         "Year": "2014",
-         "Inhabitants in millions": "42.67"
+         "Month": "Jim Walton (Walmart)",
+         "Net worth in billion U.S. dollars": "44.6"
+      },
+      {
+         "Month": "Alice Walton (Walmart)",
+         "Net worth in billion U.S. dollars": "44.4"
+      },
+      {
+         "Month": "S. Robson Walton (Walmart)",
+         "Net worth in billion U.S. dollars": "44.3"
+      },
+      {
+         "Month": "Steve Ballmer (Microsoft)",
+         "Net worth in billion U.S. dollars": "41.2"
+      },
+      {
+         "Month": "Sheldon Adelson (Las Vegas Sands)",
+         "Net worth in billion U.S. dollars": "35.1"
+      },
+      {
+         "Month": "Michael Dell (Dell Technologies)",
+         "Net worth in billion U.S. dollars": "34.3"
+      },
+      {
+         "Month": "Phil Knight & family (Nike)",
+         "Net worth in billion U.S. dollars": "33.4"
+      },
+      {
+         "Month": "Jacqueline Mars (Mars)",
+         "Net worth in billion U.S. dollars": "23.9"
+      },
+      {
+         "Month": "John Mars (Mars)",
+         "Net worth in billion U.S. dollars": "23.9"
+      },
+      {
+         "Month": "Elon Musk (Tesla Motors SpaceX)",
+         "Net worth in billion U.S. dollars": "22.3"
       }
-   ]
+   ],
+   "gold": "This statistic presents the estimated net worth of the 20 richest people in America as of 2019 . At this time Jeff Bezos was the richest man in the United States with an estimated net worth of 131 billion U.S. dollars . Richest people in the United States - additional information Every year since 1982 , the American business magazine Forbes has been compiling lists of the 400 richest people in the United States , known as the `` Forbes 400 .\n"
 }

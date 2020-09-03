@@ -1,115 +1,111 @@
 {
-   "title": "U.S. usage reach of leading social networks 2017 , by age group",
-   "labels": [
-      "Platform",
-      "Age 18-29",
-      "Age 30-59",
-      "Age 60+"
-   ],
-   "columnType": "multi",
-   "graphType": "bar",
+   "title": "Unemployment rate in Cambodia 2019",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic presents a ranking of the U.S. usage mobile Google+ leading in the U.S. as of 2018 . ",
-      "During the survey period , 81 % of respondents stated that they used their mobile to LinkedIn or one to 1 30-59 18-29 ."
+      "The statistic shows the Unemployment rate in Cambodia from 1999 to 2019 . ",
+      "In 2019 , the Unemployment rate in Cambodia amounted to about 1.02 % . ",
+      "Economy of Cambodia holds the sixth largest economy and is the ninth most populated country in the EU , with the country 's population remaining relatively stagnant over the past decade ."
    ],
    "trends": [
       {
-         "10": [
-            "1",
-            "0"
-         ]
+         "9": "20",
+         "11": "0"
       },
       {
-         "5": [
-            "0",
-            "2"
-         ],
-         "16": [
-            "3",
-            "0"
-         ],
-         "18": [
-            "3",
-            "0"
-         ],
-         "21": [
-            "5",
-            "3"
-         ]
-      }
+         "1": "0",
+         "11": "0"
+      },
+      {}
    ],
    "data": [
       {
-         "Platform": "Facebook",
-         "Age 18-29": "86",
-         "Age 30-59": "81",
-         "Age 60+": "67"
+         "Year": "2019",
+         "Unemployment rate": "1.02"
       },
       {
-         "Platform": "Google+",
-         "Age 18-29": "26",
-         "Age 30-59": "23",
-         "Age 60+": "9"
+         "Year": "2018",
+         "Unemployment rate": "1.05"
       },
       {
-         "Platform": "Instagram",
-         "Age 18-29": "58",
-         "Age 30-59": "31",
-         "Age 60+": "7"
+         "Year": "2017",
+         "Unemployment rate": "1.06"
       },
       {
-         "Platform": "LinkedIn",
-         "Age 18-29": "19",
-         "Age 30-59": "21",
-         "Age 60+": "15"
+         "Year": "2016",
+         "Unemployment rate": "1.13"
       },
       {
-         "Platform": "Pinterest",
-         "Age 18-29": "37",
-         "Age 30-59": "28",
-         "Age 60+": "20"
+         "Year": "2015",
+         "Unemployment rate": "1.2"
       },
       {
-         "Platform": "Reddit",
-         "Age 18-29": "15",
-         "Age 30-59": "5",
-         "Age 60+": "1"
+         "Year": "2014",
+         "Unemployment rate": "1.23"
       },
       {
-         "Platform": "Snapchat",
-         "Age 18-29": "45",
-         "Age 30-59": "16",
-         "Age 60+": "1"
+         "Year": "2013",
+         "Unemployment rate": "1.28"
       },
       {
-         "Platform": "Tumblr",
-         "Age 18-29": "21",
-         "Age 30-59": "7",
-         "Age 60+": "2"
+         "Year": "2012",
+         "Unemployment rate": "1.28"
       },
       {
-         "Platform": "Twitter",
-         "Age 18-29": "47",
-         "Age 30-59": "39",
-         "Age 60+": "16"
+         "Year": "2011",
+         "Unemployment rate": "1.32"
       },
       {
-         "Platform": "YouTube",
-         "Age 18-29": "71",
-         "Age 30-59": "52",
-         "Age 60+": "25"
+         "Year": "2010",
+         "Unemployment rate": "1.38"
       },
       {
-         "Platform": "Other",
-         "Age 18-29": "1",
-         "Age 30-59": "1",
-         "Age 60+": "1"
+         "Year": "2009",
+         "Unemployment rate": "1.28"
       },
       {
-         "Platform": "I don\u2019t use social media",
-         "Age 18-29": "2",
-         "Age 30-59": "9",
-         "Age 60+": "27"
+         "Year": "2008",
+         "Unemployment rate": "1.15"
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": "1.17"
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": "1.28"
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": "1.47"
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": "1.56"
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": "1.57"
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": "1.63"
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": "1.64"
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": "2.45"
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": "2.55"
       }
-   ]
+   ],
+   "gold": "This statistic shows the unemployment rate in Cambodia from 1999 to 2019 . In 2019 , the unemployment rate in Cambodia was 1.02 percent .\n"
 }

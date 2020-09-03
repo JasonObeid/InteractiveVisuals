@@ -4,15 +4,24 @@
    "yAxis": "Number of points",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 10 categories for the x axis representing Campaign/Brand (Agency), and a y axis representing Number of points.",
       " The highest category is found at Let's_make_viral_products_instead!_/Carvaan_(the_Womb_Mumbai) where Number of points is 75.2.",
       " The lowest category is found at Original_is_Never_Finished_/_adidas_Originals_(Johannes_Leonardo_New_York) where Number of points is 44.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 9
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
    "data": [
       {
          "Campaign/Brand (Agency)": "Let's make viral products instead! /Carvaan (the Womb Mumbai)",

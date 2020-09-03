@@ -1,93 +1,73 @@
 {
-   "title": "Number of straight and same-sex marriages in the Netherlands 2008 to 2018",
-   "labels": [
-      "Year",
-      "Between man and woman",
-      "Same-sex marriages"
-   ],
-   "columnType": "multi",
+   "title": "U.S. passenger-miles : Intercity/Amtrak 2007 to 2018",
+   "xAxis": "Year",
+   "yAxis": "U.S. passenger-miles in millions",
+   "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Number estimated annual straight to same-sex different universities and college institutions in the marriages for academic years 2008 to 2018 . ",
-      "The Number straight of attendance ( which includes tuition , fees room and board ) in Between marriages in-state institutions was 1502 Netherlands dollars in the academic Year 2018 ."
+      "The statistic shows the U.S. of passenger-miles due to Intercity/Amtrak from 2007 to 2018 . ",
+      "In 2018 , a total U.S. of 6361 people were kidnapped as a result of Intercity/Amtrak ."
    ],
    "trends": [
       {
-         "21": [
-            "0",
-            "0"
-         ],
-         "23": [
-            "10",
-            "0"
-         ]
+         "11": "11",
+         "13": "0"
       },
       {
-         "22": [
-            "10",
-            "2"
-         ],
-         "29": [
-            "10",
-            "0"
-         ]
+         "1": "0",
+         "7": "0"
       }
    ],
    "data": [
       {
-         "Year": "2008",
-         "Between man and woman": "74030",
-         "Same-sex marriages": "1408"
-      },
-      {
-         "Year": "2009",
-         "Between man and woman": "72119",
-         "Same-sex marriages": "1358"
-      },
-      {
-         "Year": "2010",
-         "Between man and woman": "74045",
-         "Same-sex marriages": "1354"
-      },
-      {
-         "Year": "2011",
-         "Between man and woman": "70217",
-         "Same-sex marriages": "1355"
-      },
-      {
-         "Year": "2012",
-         "Between man and woman": "69030",
-         "Same-sex marriages": "1285"
-      },
-      {
-         "Year": "2013",
-         "Between man and woman": "63327",
-         "Same-sex marriages": "1222"
-      },
-      {
-         "Year": "2014",
-         "Between man and woman": "64074",
-         "Same-sex marriages": "1259"
-      },
-      {
-         "Year": "2015",
-         "Between man and woman": "62912",
-         "Same-sex marriages": "1396"
-      },
-      {
-         "Year": "2016",
-         "Between man and woman": "63813",
-         "Same-sex marriages": "1436"
+         "Year": "2018",
+         "U.S. passenger-miles in millions": "6361"
       },
       {
          "Year": "2017",
-         "Between man and woman": "63027",
-         "Same-sex marriages": "1375"
+         "U.S. passenger-miles in millions": "6563"
       },
       {
-         "Year": "2018",
-         "Between man and woman": "62813",
-         "Same-sex marriages": "1502"
+         "Year": "2016",
+         "U.S. passenger-miles in millions": "6520"
+      },
+      {
+         "Year": "2015",
+         "U.S. passenger-miles in millions": "6536"
+      },
+      {
+         "Year": "2014",
+         "U.S. passenger-miles in millions": "6675"
+      },
+      {
+         "Year": "2013",
+         "U.S. passenger-miles in millions": "7283"
+      },
+      {
+         "Year": "2012",
+         "U.S. passenger-miles in millions": "6752"
+      },
+      {
+         "Year": "2011",
+         "U.S. passenger-miles in millions": "6568"
+      },
+      {
+         "Year": "2010",
+         "U.S. passenger-miles in millions": "6420"
+      },
+      {
+         "Year": "2009",
+         "U.S. passenger-miles in millions": "5914"
+      },
+      {
+         "Year": "2008",
+         "U.S. passenger-miles in millions": "6179"
+      },
+      {
+         "Year": "2007",
+         "U.S. passenger-miles in millions": "5784"
       }
-   ]
+   ],
+   "gold": "This graph shows Amtrak/Intercity passenger-miles traveled in the United States from 2007 to 2018 . In 2018 , passengers traveled around 6.36 billion miles by Intercity/Amtrak . Amtrak , also known as the National Railroad Passenger Corporation , is a publicly funded service .\n"
 }

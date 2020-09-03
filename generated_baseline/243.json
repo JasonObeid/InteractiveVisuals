@@ -1,126 +1,130 @@
 {
-   "title": "Indiana - Poverty rate 2000 to 2018\n",
-   "xAxis": "Year",
-   "yAxis": "Percentage of population",
-   "columnType": "two",
+   "title": "Employment by economic sector in Peru 2019",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Percentage of population, with a total of 19 data points. The chart has 4 significant trends.",
-      " The longest trend is extremely positive which exists from 2018 to 2013.",
-      " Likewise, the next significant trend is extremely negative which exists from 2011 to 2007.",
-      " Differently, the next significant trend is extremely negative which exists from 2006 to 2003.",
-      " On the contrary, the next significant trend is strongly negative which exists from 2002 to 2000."
+      "This line chart has 3 lines.",
+      " The line representing Services had the highest values across Year with a mean value of 55.8.",
+      " This peaked at 2019 with a value of 57.1. ",
+      " The line with the second highest values was Agriculture with a mean value of 27.8.",
+      " This line peaked at 2009 with a value of 28.5"
    ],
    "trends": [
+      {},
       {
-         "Length": 6,
-         "direction": "positive",
-         "start": 0,
-         "end": 5,
-         "trend": "y=-0.56x+1137.3",
-         "magnitude": "extremely"
+         "2": [
+            "0",
+            "2"
+         ],
+         "16": [
+            "10",
+            "2"
+         ]
       },
       {
-         "Length": 5,
-         "direction": "negative",
-         "start": 7,
-         "end": 11,
-         "trend": "y=0.96x+-1914.48",
-         "magnitude": "extremely"
+         "1": [
+            "0",
+            "2"
+         ],
+         "9": [
+            "0",
+            "2"
+         ]
       },
       {
-         "Length": 4,
-         "direction": "negative",
-         "start": 12,
-         "end": 15,
-         "trend": "y=0.77x+-1531.89",
-         "magnitude": "extremely"
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "10",
+            "0"
+         ]
       },
       {
-         "Length": 3,
-         "direction": "negative",
-         "start": 16,
-         "end": 18,
-         "trend": "y=0.4x+-790.13",
-         "magnitude": "strongly"
+         "1": [
+            "0",
+            "0"
+         ],
+         "10": [
+            "0",
+            "0"
+         ]
       }
    ],
    "data": [
       {
+         "Year": "2019",
+         "Agriculture": "27.21",
+         "Industry": "15.64",
+         "Services": "57.15"
+      },
+      {
          "Year": "2018",
-         "Percentage of population": 13.1
+         "Agriculture": "27.46",
+         "Industry": "15.64",
+         "Services": "56.9"
       },
       {
          "Year": "2017",
-         "Percentage of population": 13.5
+         "Agriculture": "27.69",
+         "Industry": "15.65",
+         "Services": "56.65"
       },
       {
          "Year": "2016",
-         "Percentage of population": 14.1
+         "Agriculture": "28.38",
+         "Industry": "16.22",
+         "Services": "55.41"
       },
       {
          "Year": "2015",
-         "Percentage of population": 14.5
+         "Agriculture": "28.26",
+         "Industry": "16.57",
+         "Services": "55.17"
       },
       {
          "Year": "2014",
-         "Percentage of population": 15.2
+         "Agriculture": "28.03",
+         "Industry": "16.37",
+         "Services": "55.6"
       },
       {
          "Year": "2013",
-         "Percentage of population": 15.9
+         "Agriculture": "27.41",
+         "Industry": "17.02",
+         "Services": "55.56"
       },
       {
          "Year": "2012",
-         "Percentage of population": 15.6
+         "Agriculture": "27.44",
+         "Industry": "17.03",
+         "Services": "55.53"
       },
       {
          "Year": "2011",
-         "Percentage of population": 16.0
+         "Agriculture": "28.28",
+         "Industry": "16.48",
+         "Services": "55.24"
       },
       {
          "Year": "2010",
-         "Percentage of population": 15.3
+         "Agriculture": "27.73",
+         "Industry": "16.86",
+         "Services": "55.42"
       },
       {
          "Year": "2009",
-         "Percentage of population": 14.1
-      },
-      {
-         "Year": "2008",
-         "Percentage of population": 13.1
-      },
-      {
-         "Year": "2007",
-         "Percentage of population": 12.3
-      },
-      {
-         "Year": "2006",
-         "Percentage of population": 12.7
-      },
-      {
-         "Year": "2005",
-         "Percentage of population": 12.2
-      },
-      {
-         "Year": "2004",
-         "Percentage of population": 10.8
-      },
-      {
-         "Year": "2003",
-         "Percentage of population": 10.6
-      },
-      {
-         "Year": "2002",
-         "Percentage of population": 10.9
-      },
-      {
-         "Year": "2001",
-         "Percentage of population": 9.8
-      },
-      {
-         "Year": "2000",
-         "Percentage of population": 10.1
+         "Agriculture": "28.52",
+         "Industry": "16.44",
+         "Services": "55.04"
       }
    ]
 }

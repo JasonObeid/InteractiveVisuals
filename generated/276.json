@@ -1,34 +1,20 @@
 {
-   "title": "Top U.S. states for hop production 2019",
+   "title": "The highest-paid female athletes 2019",
    "labels": [
-      "Year",
-      "Washington",
-      "Oregon",
-      "Idaho"
+      "Month",
+      "Prize money",
+      "Endorsements"
    ],
    "columnType": "multi",
-   "graphType": "line",
+   "graphType": "bar",
    "summary": [
-      "This statistic depicts the Top of U.S. states for hop in the production from 2019 to 2018 , 2019 . ",
-      "In 2019 , U.S. states for hop in the production amounted to approximately 77727.7 million production dollars ."
+      "The statistic shows a breakdown of the highest-paid in 2019 . ",
+      "2019 earned 4.2 million U.S. dollars 2019 salary and bonuses 25.0 million U.S. dollars 2019 endorsement deals ."
    ],
    "trends": [
+      {},
       {
-         "14": [
-            "1",
-            "0"
-         ],
-         "16": [
-            "0",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "1",
-            "0"
-         ],
-         "13": [
+         "2": [
             "0",
             "1"
          ]
@@ -36,16 +22,80 @@
    ],
    "data": [
       {
-         "Year": "2018",
-         "Washington": "77727.7",
-         "Oregon": "12936.2",
-         "Idaho": "16242.8"
+         "Month": "Serena Williams (tennis)",
+         "Prize money": "4.2",
+         "Endorsements": "25.0"
       },
       {
-         "Year": "2019",
-         "Washington": "82014.9",
-         "Oregon": "13023.2",
-         "Idaho": "17003.1"
+         "Month": "Naomi Osaka (tennis)",
+         "Prize money": "8.3",
+         "Endorsements": "16.0"
+      },
+      {
+         "Month": "Angelique Kerber (tennis)",
+         "Prize money": "5.3",
+         "Endorsements": "6.5"
+      },
+      {
+         "Month": "Simona Halep (tennis)",
+         "Prize money": "6.2",
+         "Endorsements": "4.0"
+      },
+      {
+         "Month": "Sloane Stephens (tennis)",
+         "Prize money": "4.1",
+         "Endorsements": "5.5"
+      },
+      {
+         "Month": "Caroline Wozniacki (tennis)",
+         "Prize money": "3.5",
+         "Endorsements": "4.0"
+      },
+      {
+         "Month": "Maria Sharapova (tennis)",
+         "Prize money": "1.0",
+         "Endorsements": "6.0"
+      },
+      {
+         "Month": "Karolina Pliskova (tennis)",
+         "Prize money": "4.6",
+         "Endorsements": "1.7"
+      },
+      {
+         "Month": "Elina Svitolina (tennis)",
+         "Prize money": "4.6",
+         "Endorsements": "1.5"
+      },
+      {
+         "Month": "Venus Williams (tennis)",
+         "Prize money": "0.9",
+         "Endorsements": "5.0"
+      },
+      {
+         "Month": "Garbine Muguruza (tennis)",
+         "Prize money": "2.4",
+         "Endorsements": "3.5"
+      },
+      {
+         "Month": "Alex Morgan (soccer)",
+         "Prize money": "0.25",
+         "Endorsements": "5.5"
+      },
+      {
+         "Month": "P.V. Sindhu (badminton)",
+         "Prize money": "0.5",
+         "Endorsements": "5.0"
+      },
+      {
+         "Month": "Madison Keys (tennis)",
+         "Prize money": "2.5",
+         "Endorsements": "3.0"
+      },
+      {
+         "Month": "Ariya Jutanugarn (golf)",
+         "Prize money": "3.3",
+         "Endorsements": "2.0"
       }
-   ]
+   ],
+   "gold": "The graph depicts the 10 highest-paid female athletes worldwide in 2019 . Serena Williams earned about 29.2 million U.S. dollars from salaries , prize money , endorsements , appearances and licensing .\n"
 }

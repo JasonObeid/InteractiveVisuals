@@ -1,0 +1,36 @@
+{
+   "title": "PetSmart 's revenue in the U.S. 2014/15 - 2019/20\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "The statistic shows the total revenue of petco animal supplies in the united from 2014/15 to 2019/20 . The company generated revenue amounting to around 3.02 billion u.s. dollars in 2018/19 . petco 's number of stores in North America amounted to 1,482 in 2019 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2019/20",
+         "Revenue in million U.S. dollars": 7091.1
+      },
+      {
+         "Year": "2018/19",
+         "Revenue in million U.S. dollars": 6492.5
+      },
+      {
+         "Year": "2017/18",
+         "Revenue in million U.S. dollars": 5256.5
+      },
+      {
+         "Year": "2016/17",
+         "Revenue in million U.S. dollars": 5393.7
+      },
+      {
+         "Year": "2015/16",
+         "Revenue in million U.S. dollars": 5039.7
+      },
+      {
+         "Year": "2014/15",
+         "Revenue in million U.S. dollars": 4900.8
+      }
+   ]
+}

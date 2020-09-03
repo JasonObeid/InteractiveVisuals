@@ -1,315 +1,114 @@
 {
-   "title": "Average wages by country , in purchasing power parity dollars , 2012",
-   "xAxis": "Country",
-   "yAxis": "Average monthly wage in U.S. dollars",
-   "columnType": "two",
-   "graphType": "bar",
+   "title": "Distribution of gross domestic product ( GDP ) across economic sectors Cuba 2018",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
    "summary": [
-      "The statistic shows the degree of country Average in power parity worldwide . ",
-      "According to the Average Index , Tajikistan occupied the last place in country Average with 227 Average monthly in 2012 . ",
-      "Norway and Luxembourg were ranked first and second with 4089 and 3678 out of 100 Average monthly respectively ."
+      "This statistic shows the Distribution of the gross domestic product ( GDP ) across economic sectors in Cuba from 2008 to 2018 . ",
+      "In 2018 , Agriculture contributed around 3.78 % to the GDP of Cuba , 25.12 % came from the Industry and 69.97 % from the service sector ."
    ],
    "trends": [
-      {},
       {
-         "6": "71",
-         "15": "71"
+         "19": [
+            "10",
+            "0"
+         ],
+         "21": [
+            "0",
+            "0"
+         ]
       },
       {
-         "0": "1",
-         "2": "0",
-         "9": "0",
-         "11": "1"
+         "1": [
+            "0",
+            "0"
+         ],
+         "6": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "0",
+            "2"
+         ],
+         "21": [
+            "0",
+            "3"
+         ]
       }
    ],
    "data": [
       {
-         "Country": "Luxembourg",
-         "Average monthly wage in U.S. dollars": "4089"
+         "Year": "2018",
+         "Agriculture": "3.78",
+         "Industry": "25.12",
+         "Services": "69.97"
       },
       {
-         "Country": "Norway",
-         "Average monthly wage in U.S. dollars": "3678"
+         "Year": "2017",
+         "Agriculture": "3.8",
+         "Industry": "24.36",
+         "Services": "70.82"
       },
       {
-         "Country": "Austria",
-         "Average monthly wage in U.S. dollars": "3437"
+         "Year": "2016",
+         "Agriculture": "3.94",
+         "Industry": "22.94",
+         "Services": "72.05"
       },
       {
-         "Country": "United States",
-         "Average monthly wage in U.S. dollars": "3263"
+         "Year": "2015",
+         "Agriculture": "3.84",
+         "Industry": "22.35",
+         "Services": "72.76"
       },
       {
-         "Country": "United Kingdom",
-         "Average monthly wage in U.S. dollars": "3065"
+         "Year": "2014",
+         "Agriculture": "3.94",
+         "Industry": "22.15",
+         "Services": "72.88"
       },
       {
-         "Country": "Belgium",
-         "Average monthly wage in U.S. dollars": "3035"
+         "Year": "2013",
+         "Agriculture": "3.92",
+         "Industry": "23.15",
+         "Services": "71.77"
       },
       {
-         "Country": "Sweden",
-         "Average monthly wage in U.S. dollars": "3023"
+         "Year": "2012",
+         "Agriculture": "3.85",
+         "Industry": "23.37",
+         "Services": "71.66"
       },
       {
-         "Country": "Ireland",
-         "Average monthly wage in U.S. dollars": "2997"
+         "Year": "2011",
+         "Agriculture": "3.6",
+         "Industry": "22.26",
+         "Services": "73.01"
       },
       {
-         "Country": "Finland",
-         "Average monthly wage in U.S. dollars": "2925"
+         "Year": "2010",
+         "Agriculture": "3.61",
+         "Industry": "22.89",
+         "Services": "72.47"
       },
       {
-         "Country": "Korea (Republic of)",
-         "Average monthly wage in U.S. dollars": "2903"
+         "Year": "2009",
+         "Agriculture": "3.93",
+         "Industry": "22.6",
+         "Services": "72.45"
       },
       {
-         "Country": "France",
-         "Average monthly wage in U.S. dollars": "2886"
-      },
-      {
-         "Country": "Canada",
-         "Average monthly wage in U.S. dollars": "2724"
-      },
-      {
-         "Country": "Germany",
-         "Average monthly wage in U.S. dollars": "2720"
-      },
-      {
-         "Country": "Singapore",
-         "Average monthly wage in U.S. dollars": "2616"
-      },
-      {
-         "Country": "Australia",
-         "Average monthly wage in U.S. dollars": "2610"
-      },
-      {
-         "Country": "Cyprus",
-         "Average monthly wage in U.S. dollars": "2605"
-      },
-      {
-         "Country": "Japan",
-         "Average monthly wage in U.S. dollars": "2522"
-      },
-      {
-         "Country": "Italy",
-         "Average monthly wage in U.S. dollars": "2445"
-      },
-      {
-         "Country": "Iceland",
-         "Average monthly wage in U.S. dollars": "2431"
-      },
-      {
-         "Country": "Spain",
-         "Average monthly wage in U.S. dollars": "2352"
-      },
-      {
-         "Country": "Greece",
-         "Average monthly wage in U.S. dollars": "2300"
-      },
-      {
-         "Country": "New Zealand",
-         "Average monthly wage in U.S. dollars": "2283"
-      },
-      {
-         "Country": "South Africa",
-         "Average monthly wage in U.S. dollars": "1838"
-      },
-      {
-         "Country": "Malta",
-         "Average monthly wage in U.S. dollars": "1808"
-      },
-      {
-         "Country": "Israel",
-         "Average monthly wage in U.S. dollars": "1804"
-      },
-      {
-         "Country": "Czech Republic",
-         "Average monthly wage in U.S. dollars": "1786"
-      },
-      {
-         "Country": "Croatia",
-         "Average monthly wage in U.S. dollars": "1756"
-      },
-      {
-         "Country": "Turkey",
-         "Average monthly wage in U.S. dollars": "1731"
-      },
-      {
-         "Country": "Qatar",
-         "Average monthly wage in U.S. dollars": "1690"
-      },
-      {
-         "Country": "Hong Kong (China)",
-         "Average monthly wage in U.S. dollars": "1545"
-      },
-      {
-         "Country": "Poland",
-         "Average monthly wage in U.S. dollars": "1536"
-      },
-      {
-         "Country": "Slovakia",
-         "Average monthly wage in U.S. dollars": "1385"
-      },
-      {
-         "Country": "Hungary",
-         "Average monthly wage in U.S. dollars": "1374"
-      },
-      {
-         "Country": "Macedonia",
-         "Average monthly wage in U.S. dollars": "1345"
-      },
-      {
-         "Country": "Bosnia & Herzegovina",
-         "Average monthly wage in U.S. dollars": "1338"
-      },
-      {
-         "Country": "Estonia",
-         "Average monthly wage in U.S. dollars": "1267"
-      },
-      {
-         "Country": "Russian Federation",
-         "Average monthly wage in U.S. dollars": "1215"
-      },
-      {
-         "Country": "Jamaica",
-         "Average monthly wage in U.S. dollars": "1135"
-      },
-      {
-         "Country": "Lithuania",
-         "Average monthly wage in U.S. dollars": "1109"
-      },
-      {
-         "Country": "Argentina",
-         "Average monthly wage in U.S. dollars": "1108"
-      },
-      {
-         "Country": "Latvia",
-         "Average monthly wage in U.S. dollars": "1098"
-      },
-      {
-         "Country": "Serbia",
-         "Average monthly wage in U.S. dollars": "1058"
-      },
-      {
-         "Country": "Chile",
-         "Average monthly wage in U.S. dollars": "1021"
-      },
-      {
-         "Country": "Botswana",
-         "Average monthly wage in U.S. dollars": "996"
-      },
-      {
-         "Country": "Malaysia",
-         "Average monthly wage in U.S. dollars": "961"
-      },
-      {
-         "Country": "Belarus",
-         "Average monthly wage in U.S. dollars": "959"
-      },
-      {
-         "Country": "Romania",
-         "Average monthly wage in U.S. dollars": "954"
-      },
-      {
-         "Country": "Bahrain",
-         "Average monthly wage in U.S. dollars": "917"
-      },
-      {
-         "Country": "Panama",
-         "Average monthly wage in U.S. dollars": "831"
-      },
-      {
-         "Country": "Mauritius",
-         "Average monthly wage in U.S. dollars": "783"
-      },
-      {
-         "Country": "Brazil",
-         "Average monthly wage in U.S. dollars": "778"
-      },
-      {
-         "Country": "Macau (China)",
-         "Average monthly wage in U.S. dollars": "758"
-      },
-      {
-         "Country": "Kazakhstan",
-         "Average monthly wage in U.S. dollars": "753"
-      },
-      {
-         "Country": "Bulgaria",
-         "Average monthly wage in U.S. dollars": "750"
-      },
-      {
-         "Country": "Colombia",
-         "Average monthly wage in U.S. dollars": "692"
-      },
-      {
-         "Country": "Ukraine",
-         "Average monthly wage in U.S. dollars": "686"
-      },
-      {
-         "Country": "China",
-         "Average monthly wage in U.S. dollars": "656"
-      },
-      {
-         "Country": "Mexico",
-         "Average monthly wage in U.S. dollars": "609"
-      },
-      {
-         "Country": "Georgia",
-         "Average monthly wage in U.S. dollars": "603"
-      },
-      {
-         "Country": "Azerbaijan",
-         "Average monthly wage in U.S. dollars": "596"
-      },
-      {
-         "Country": "Egypt",
-         "Average monthly wage in U.S. dollars": "548"
-      },
-      {
-         "Country": "Thailand",
-         "Average monthly wage in U.S. dollars": "489"
-      },
-      {
-         "Country": "Armenia",
-         "Average monthly wage in U.S. dollars": "471"
-      },
-      {
-         "Country": "Dominican Republic",
-         "Average monthly wage in U.S. dollars": "462"
-      },
-      {
-         "Country": "Moldova (Republic of)",
-         "Average monthly wage in U.S. dollars": "438"
-      },
-      {
-         "Country": "Mongolia",
-         "Average monthly wage in U.S. dollars": "415"
-      },
-      {
-         "Country": "Syrian Arab Republic",
-         "Average monthly wage in U.S. dollars": "364"
-      },
-      {
-         "Country": "Kyrgyzstan Republic",
-         "Average monthly wage in U.S. dollars": "336"
-      },
-      {
-         "Country": "India",
-         "Average monthly wage in U.S. dollars": "295"
-      },
-      {
-         "Country": "Philippines",
-         "Average monthly wage in U.S. dollars": "279"
-      },
-      {
-         "Country": "Pakistan",
-         "Average monthly wage in U.S. dollars": "255"
-      },
-      {
-         "Country": "Tajikistan",
-         "Average monthly wage in U.S. dollars": "227"
+         "Year": "2008",
+         "Agriculture": "3.82",
+         "Industry": "22.39",
+         "Services": "72.32"
       }
-   ]
+   ],
+   "gold": "This statistic shows the distribution of the gross domestic product ( GDP ) across economic sectors in Cuba from 2008 to 2018 . In 2018 , agriculture contributed around 3.78 percent to the GDP of Cuba , 25.12 percent came from the industry and 69.97 percent from the services sector .\n"
 }

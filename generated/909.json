@@ -1,101 +1,132 @@
 {
-   "title": "Per capita real GDP of California 2000 to 2018",
+   "title": "Gross domestic product ( GDP ) in Syria 2010",
    "xAxis": "Year",
-   "yAxis": "Per capita real GDP in chained 2012 U.S. dollars",
+   "yAxis": "Gross domestic product in billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Per capita real Gross Domestic Product of California from 2000 to 2018 . ",
-      "In 2018 , the Per capita real GDP of California stood at 68803 2012 U.S. dollars ."
+      "The statistic shows Gross domestic product ( GDP ) in Syria from 1984 to 2010 . ",
+      "Gross domestic product ( GDP ) denotes the aggregate value of all services and goods produced within a country in any given Year . ",
+      "GDP is an important indicator of a country 's economic power ."
    ],
    "trends": [
       {
-         "13": "18",
-         "15": "0"
+         "12": "26",
+         "14": "0"
       },
-      {
-         "1": "0",
-         "12": "0",
-         "13": "0",
-         "14": "6"
-      }
+      {},
+      {}
    ],
    "data": [
       {
-         "Year": "2018",
-         "Per capita real GDP in chained 2012 U.S. dollars": "68803"
-      },
-      {
-         "Year": "2017",
-         "Per capita real GDP in chained 2012 U.S. dollars": "66262"
-      },
-      {
-         "Year": "2016",
-         "Per capita real GDP in chained 2012 U.S. dollars": "63785"
-      },
-      {
-         "Year": "2015",
-         "Per capita real GDP in chained 2012 U.S. dollars": "62347"
-      },
-      {
-         "Year": "2014",
-         "Per capita real GDP in chained 2012 U.S. dollars": "59871"
-      },
-      {
-         "Year": "2013",
-         "Per capita real GDP in chained 2012 U.S. dollars": "58015"
-      },
-      {
-         "Year": "2012",
-         "Per capita real GDP in chained 2012 U.S. dollars": "56492"
-      },
-      {
-         "Year": "2011",
-         "Per capita real GDP in chained 2012 U.S. dollars": "55565"
-      },
-      {
          "Year": "2010",
-         "Per capita real GDP in chained 2012 U.S. dollars": "55147"
+         "Gross domestic product in billion U.S. dollars": "60.04"
       },
       {
          "Year": "2009",
-         "Per capita real GDP in chained 2012 U.S. dollars": "54827"
+         "Gross domestic product in billion U.S. dollars": "53.94"
       },
       {
          "Year": "2008",
-         "Per capita real GDP in chained 2012 U.S. dollars": "57675"
+         "Gross domestic product in billion U.S. dollars": "52.63"
       },
       {
          "Year": "2007",
-         "Per capita real GDP in chained 2012 U.S. dollars": "58030"
+         "Gross domestic product in billion U.S. dollars": "40.49"
       },
       {
          "Year": "2006",
-         "Per capita real GDP in chained 2012 U.S. dollars": "57527"
+         "Gross domestic product in billion U.S. dollars": "33.82"
       },
       {
          "Year": "2005",
-         "Per capita real GDP in chained 2012 U.S. dollars": "55547"
+         "Gross domestic product in billion U.S. dollars": "28.88"
       },
       {
          "Year": "2004",
-         "Per capita real GDP in chained 2012 U.S. dollars": "53474"
+         "Gross domestic product in billion U.S. dollars": "25.2"
       },
       {
          "Year": "2003",
-         "Per capita real GDP in chained 2012 U.S. dollars": "51780"
+         "Gross domestic product in billion U.S. dollars": "21.7"
       },
       {
          "Year": "2002",
-         "Per capita real GDP in chained 2012 U.S. dollars": "50002"
+         "Gross domestic product in billion U.S. dollars": "22.76"
       },
       {
          "Year": "2001",
-         "Per capita real GDP in chained 2012 U.S. dollars": "49385"
+         "Gross domestic product in billion U.S. dollars": "20.98"
       },
       {
          "Year": "2000",
-         "Per capita real GDP in chained 2012 U.S. dollars": "50310"
+         "Gross domestic product in billion U.S. dollars": "19.86"
+      },
+      {
+         "Year": "1999",
+         "Gross domestic product in billion U.S. dollars": "16.79"
+      },
+      {
+         "Year": "1998",
+         "Gross domestic product in billion U.S. dollars": "16.14"
+      },
+      {
+         "Year": "1997",
+         "Gross domestic product in billion U.S. dollars": "16.57"
+      },
+      {
+         "Year": "1996",
+         "Gross domestic product in billion U.S. dollars": "17.76"
+      },
+      {
+         "Year": "1995",
+         "Gross domestic product in billion U.S. dollars": "16.56"
+      },
+      {
+         "Year": "1994",
+         "Gross domestic product in billion U.S. dollars": "15.11"
+      },
+      {
+         "Year": "1993",
+         "Gross domestic product in billion U.S. dollars": "13.8"
+      },
+      {
+         "Year": "1992",
+         "Gross domestic product in billion U.S. dollars": "13.26"
+      },
+      {
+         "Year": "1991",
+         "Gross domestic product in billion U.S. dollars": "12.74"
+      },
+      {
+         "Year": "1990",
+         "Gross domestic product in billion U.S. dollars": "12.3"
+      },
+      {
+         "Year": "1989",
+         "Gross domestic product in billion U.S. dollars": "9.85"
+      },
+      {
+         "Year": "1988",
+         "Gross domestic product in billion U.S. dollars": "16.54"
+      },
+      {
+         "Year": "1987",
+         "Gross domestic product in billion U.S. dollars": "32.5"
+      },
+      {
+         "Year": "1986",
+         "Gross domestic product in billion U.S. dollars": "25.43"
+      },
+      {
+         "Year": "1985",
+         "Gross domestic product in billion U.S. dollars": "21.18"
+      },
+      {
+         "Year": "1984",
+         "Gross domestic product in billion U.S. dollars": "19.17"
       }
-   ]
+   ],
+   "gold": "The statistic shows gross domestic product ( GDP ) in Syria from 1984 to 2010 . Gross domestic product ( GDP ) denotes the aggregate value of all services and goods produced within a country in any given year . GDP is an important indicator of a country 's economic power .\n"
 }

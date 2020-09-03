@@ -8,16 +8,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 3 categories for the x axis of Company representing 2017, 2018, 2019.",
-      " The highest category is found at Innovative Medicines with a mean value of 7.816666666666666.",
-      " The second highest category is found at Sandoz with a mean value of 0.9433333333333334.",
+      "This grouped bar chart has 3 categories for the x axis of Company representing 2017, 2018, and 2019.",
+      " The highest category is found at Innovative Medicines with a mean value of 7.82.",
+      " The second highest category is found at Sandoz with a mean value of 0.94.",
       " This represents a difference of 156.9%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "3",
+            "1"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Company": "Innovative Medicines",

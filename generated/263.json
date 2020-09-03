@@ -1,100 +1,78 @@
 {
-   "title": "Number of hospitals in Germany 2000 to 2017",
+   "title": "Population density in Texas 1960 to 2018",
    "xAxis": "Year",
-   "yAxis": "Number of hospitals",
+   "yAxis": "Number of residents per square mile",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "According to a survey conducted by the Organization for Economic Cooperation and Development ( OECD ) , the Number of hospitals in Germany steadily decreased between the years 2000 and 2013 , going from 2242 to 1942 within twelve years . ",
-      "Nevertheless , this trend was abruptly reverted during the first Year of the Hollande Presidency : the Number of hospitals jumped from 1942 in 2017 to 2242 in 2000 . ",
-      "The Number of Public hospitals in Germany have increased during Hollande 's presidency During the first Year of the former French president Fran\u00e7ois Hollande Presidency , the Number of publicly owned hospitals in Germany also increased at an abrupt pace , going from 928 in 2013 to 1,458 hospitals in 2014 ."
+      "This graph depicts the Population density in the federal state of Texas from 1960 to 2018 . ",
+      "In 2018 , the Population density of Texas stood at 109.9 per square mile of land area ."
    ],
    "trends": [
       {
-         "28": "16",
-         "30": "4",
-         "34": "16",
-         "36": "0"
+         "13": "12",
+         "15": "0"
       },
       {
-         "22": "0",
-         "24": "0",
-         "26": "16",
-         "28": "16"
-      },
-      {
-         "45": "4",
-         "50": "3"
+         "1": "0",
+         "10": "0",
+         "11": "0"
       }
    ],
    "data": [
       {
+         "Year": "2018",
+         "Number of residents per square mile": "109.9"
+      },
+      {
          "Year": "2017",
-         "Number of hospitals": "1942"
+         "Number of residents per square mile": "108.4"
       },
       {
          "Year": "2016",
-         "Number of hospitals": "1951"
+         "Number of residents per square mile": "106.7"
       },
       {
          "Year": "2015",
-         "Number of hospitals": "1956"
+         "Number of residents per square mile": "105.2"
       },
       {
          "Year": "2014",
-         "Number of hospitals": "1980"
+         "Number of residents per square mile": "103.2"
       },
       {
          "Year": "2013",
-         "Number of hospitals": "1996"
+         "Number of residents per square mile": "101.2"
       },
       {
          "Year": "2012",
-         "Number of hospitals": "2017"
-      },
-      {
-         "Year": "2011",
-         "Number of hospitals": "2045"
+         "Number of residents per square mile": "99.8"
       },
       {
          "Year": "2010",
-         "Number of hospitals": "2064"
-      },
-      {
-         "Year": "2009",
-         "Number of hospitals": "2084"
-      },
-      {
-         "Year": "2008",
-         "Number of hospitals": "2083"
-      },
-      {
-         "Year": "2007",
-         "Number of hospitals": "2087"
-      },
-      {
-         "Year": "2006",
-         "Number of hospitals": "2104"
-      },
-      {
-         "Year": "2005",
-         "Number of hospitals": "2139"
-      },
-      {
-         "Year": "2004",
-         "Number of hospitals": "2166"
-      },
-      {
-         "Year": "2003",
-         "Number of hospitals": "2197"
-      },
-      {
-         "Year": "2002",
-         "Number of hospitals": "2221"
+         "Number of residents per square mile": "96.3"
       },
       {
          "Year": "2000",
-         "Number of hospitals": "2242"
+         "Number of residents per square mile": "79.8"
+      },
+      {
+         "Year": "1990",
+         "Number of residents per square mile": "65.0"
+      },
+      {
+         "Year": "1980",
+         "Number of residents per square mile": "54.5"
+      },
+      {
+         "Year": "1970",
+         "Number of residents per square mile": "42.9"
+      },
+      {
+         "Year": "1960",
+         "Number of residents per square mile": "36.6"
       }
-   ]
+   ],
+   "gold": "This graph shows the population density in the federal state of Texas from 1960 to 2018 . In 2018 , the population density of Texas stood at 109.9 residents per square mile of land area .\n"
 }

@@ -1,51 +1,73 @@
 {
-   "title": "Mexico : age distribution of internet users 2019",
+   "title": "Sales forecast for eye care product Restasis in U.S. 2014 to 2025",
    "xAxis": "Year",
-   "yAxis": "Share of respondents",
+   "yAxis": "Sales in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "In 2019 , it appears that the majority of French teenagers were in middle school when they had 2019 . ",
-      "Love appears to be an important area of life at a age users , with more than 50 % of age French distribution stating that love relationships were important for them . ",
-      "2019 love experiences Even though new technologies and smartphones may have changed the way teenagers live 2019 love life , it seems that the users for 2019 love and sex experiences has Over_55_years really changed 45-54_years the 6-11_years ."
+      "The statistic above shows Restasis 's forecast for from the fiscal Year of 2014 to the fiscal Year of 2025 . ",
+      "In the fiscal Year of 2025 , the Swiss-based cement manufacturer generated forecast for of around 1650 million U.S. dollars ( or about 27.89 million U.S. dollars ) ."
    ],
    "trends": [
-      {},
-      {},
       {
-         "32": "6",
-         "35": "5",
-         "37": "0"
+         "13": "0",
+         "19": "11"
+      },
+      {
+         "5": "11",
+         "16": "11"
       }
    ],
    "data": [
       {
-         "Year": "6-11 years",
-         "Share of respondents": "12"
+         "Year": "2014",
+         "Sales in million U.S. dollars": "1084"
       },
       {
-         "Year": "12-17 years",
-         "Share of respondents": "14"
+         "Year": "2015",
+         "Sales in million U.S. dollars": "1217"
       },
       {
-         "Year": "18-24 years",
-         "Share of respondents": "18"
+         "Year": "2016",
+         "Sales in million U.S. dollars": "1361"
       },
       {
-         "Year": "25-34 years",
-         "Share of respondents": "22"
+         "Year": "2017",
+         "Sales in million U.S. dollars": "1524"
       },
       {
-         "Year": "35-44 years",
-         "Share of respondents": "14"
+         "Year": "2018",
+         "Sales in million U.S. dollars": "1679"
       },
       {
-         "Year": "45-54 years",
-         "Share of respondents": "12"
+         "Year": "2019",
+         "Sales in million U.S. dollars": "1830"
       },
       {
-         "Year": "Over 55 years",
-         "Share of respondents": "8"
+         "Year": "2020",
+         "Sales in million U.S. dollars": "1975"
+      },
+      {
+         "Year": "2021",
+         "Sales in million U.S. dollars": "2115"
+      },
+      {
+         "Year": "2022",
+         "Sales in million U.S. dollars": "2242"
+      },
+      {
+         "Year": "2023",
+         "Sales in million U.S. dollars": "2332"
+      },
+      {
+         "Year": "2024",
+         "Sales in million U.S. dollars": "1914"
+      },
+      {
+         "Year": "2025",
+         "Sales in million U.S. dollars": "1650"
       }
-   ]
+   ],
+   "gold": "This statistic represents a sales forecast for eye care product Restasis in the United States between 2014 and 2025 . It is expected that Restasis will generate around 2.3 billion U.S. dollars in 2023 .\n"
 }

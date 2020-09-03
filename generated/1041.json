@@ -1,63 +1,62 @@
 {
-   "title": "Average per game attendance Manchester United 2009 to 2019",
-   "xAxis": "Year",
-   "yAxis": "Average attendance",
+   "title": "Largest Ecuadorian-American population groups in the U.S. , by county 2010",
+   "xAxis": "Population Group",
+   "yAxis": "Population number",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic depicts the Average per game attendance at games of the Manchester United United 2009 from the 2009/10 season to the 2018/19 season . ",
-      "In 2018/19 , the Average attendance at the games was at 74879 ."
+      "This statistic depicts the Largest Ecuadorian-American Population groups in different counties across the Ecuadorian-American U.S. as of 2010 . ",
+      "At this time there were 98512 people of Cuban origin living in Queens_County_NY Florida ."
    ],
    "trends": [
+      {},
       {
-         "17": "9",
-         "21": "0"
-      },
-      {
-         "1": "0",
-         "11": "0"
+         "5": "0",
+         "12": "0"
       }
    ],
    "data": [
       {
-         "Year": "2018/19",
-         "Average attendance": "74879"
+         "Population Group": "Queens County NY",
+         "Population number": "98512"
       },
       {
-         "Year": "2017/18",
-         "Average attendance": "75102"
+         "Population Group": "Kings County NJ",
+         "Population number": "28684"
       },
       {
-         "Year": "2016/17",
-         "Average attendance": "75305"
+         "Population Group": "Hudson County NJ",
+         "Population number": "26650"
       },
       {
-         "Year": "2015/16",
-         "Average attendance": "75279"
+         "Population Group": "Essex County NJ",
+         "Population number": "25169"
       },
       {
-         "Year": "2014/15",
-         "Average attendance": "75335"
+         "Population Group": "Bronx County NY",
+         "Population number": "23206"
       },
       {
-         "Year": "2013/14",
-         "Average attendance": "75203"
+         "Population Group": "Westchester County NY",
+         "Population number": "22460"
       },
       {
-         "Year": "2012/13",
-         "Average attendance": "75530"
+         "Population Group": "Miami-Dade County FL",
+         "Population number": "19832"
       },
       {
-         "Year": "2011/12",
-         "Average attendance": "75387"
+         "Population Group": "Los Angeles County CA",
+         "Population number": "19588"
       },
       {
-         "Year": "2010/11",
-         "Average attendance": "75104"
+         "Population Group": "Cook County IL",
+         "Population number": "19450"
       },
       {
-         "Year": "2009/10",
-         "Average attendance": "74864"
+         "Population Group": "Suffolk County NY",
+         "Population number": "17638"
       }
-   ]
+   ],
+   "gold": "This statistic depicts the largest Ecuadorian-American population groups living in different counties across the United States as of 2010 . At this time there were 98,512 people of Ecuadorian origin living in Queens County in New York .\n"
 }

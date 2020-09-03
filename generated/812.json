@@ -1,143 +1,49 @@
 {
-   "title": "Employment rate - women in the U.S. 1990 to 2019",
+   "title": "Coffee consumption in the U.S. 2013/14 - 2018/19",
    "xAxis": "Year",
-   "yAxis": "Employment rate",
+   "yAxis": "Consumption in million 60-kilogram bags",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Employment rate in the U.S. from 1990 to 2019 . ",
-      "In 1990 , this rate stood at 54.3 % . ",
-      "Employment rate stood at 53.1 % in 2019 ."
+      "The statistic shows a forecast for the U.S. caused by Coffee consumption in U.S. from 2013/2014 to 2018/2019 . ",
+      "In the Year 2018/2019 , Coffee consumption U.S. of is estimated to reach 26.5 60-kilogram bags ."
    ],
    "trends": [
-      {},
       {
-         "7": "29"
+         "15": "5",
+         "17": "0"
       },
       {
-         "4": "7"
+         "3": "0",
+         "15": "0"
       }
    ],
    "data": [
       {
-         "Year": "'19",
-         "Employment rate": "55.4"
+         "Year": "2018/2019",
+         "Consumption in million 60-kilogram bags": "26.5"
       },
       {
-         "Year": "'18",
-         "Employment rate": "54.9"
+         "Year": "2017/2018",
+         "Consumption in million 60-kilogram bags": "25.84"
       },
       {
-         "Year": "'17",
-         "Employment rate": "54.6"
+         "Year": "2016/2017",
+         "Consumption in million 60-kilogram bags": "25.02"
       },
       {
-         "Year": "'16",
-         "Employment rate": "54.1"
+         "Year": "2015/2016",
+         "Consumption in million 60-kilogram bags": "25.11"
       },
       {
-         "Year": "'15",
-         "Employment rate": "53.7"
+         "Year": "2014/2015",
+         "Consumption in million 60-kilogram bags": "23.58"
       },
       {
-         "Year": "'14",
-         "Employment rate": "53.5"
-      },
-      {
-         "Year": "'13",
-         "Employment rate": "53.2"
-      },
-      {
-         "Year": "'12",
-         "Employment rate": "53.1"
-      },
-      {
-         "Year": "'11",
-         "Employment rate": "53.2"
-      },
-      {
-         "Year": "'10",
-         "Employment rate": "53.6"
-      },
-      {
-         "Year": "'09",
-         "Employment rate": "54.4"
-      },
-      {
-         "Year": "'08",
-         "Employment rate": "56.2"
-      },
-      {
-         "Year": "'07",
-         "Employment rate": "56.6"
-      },
-      {
-         "Year": "'06",
-         "Employment rate": "56.6"
-      },
-      {
-         "Year": "'05",
-         "Employment rate": "56.2"
-      },
-      {
-         "Year": "'04",
-         "Employment rate": "56"
-      },
-      {
-         "Year": "'03",
-         "Employment rate": "56.1"
-      },
-      {
-         "Year": "'02",
-         "Employment rate": "56.3"
-      },
-      {
-         "Year": "'01",
-         "Employment rate": "57"
-      },
-      {
-         "Year": "'00",
-         "Employment rate": "57.5"
-      },
-      {
-         "Year": "'99",
-         "Employment rate": "57.4"
-      },
-      {
-         "Year": "'98",
-         "Employment rate": "57.1"
-      },
-      {
-         "Year": "'97",
-         "Employment rate": "56.8"
-      },
-      {
-         "Year": "'96",
-         "Employment rate": "56"
-      },
-      {
-         "Year": "'95",
-         "Employment rate": "55.6"
-      },
-      {
-         "Year": "'94",
-         "Employment rate": "55.3"
-      },
-      {
-         "Year": "'93",
-         "Employment rate": "54.1"
-      },
-      {
-         "Year": "'92",
-         "Employment rate": "53.8"
-      },
-      {
-         "Year": "'91",
-         "Employment rate": "53.7"
-      },
-      {
-         "Year": "'90",
-         "Employment rate": "54.3"
+         "Year": "2013/2014",
+         "Consumption in million 60-kilogram bags": "23.81"
       }
-   ]
+   ],
+   "gold": "Coffee consumption in the United States amounted to nearly 26.5 million 60-kilogram bags in the 2018/2019 fiscal year . This is an increase from the total U.S. coffee consumption in the previous fiscal year , at 25.84 million 60-kilogram bags in the United States . Coffee production The coffee plant has its origins in Ethiopia and is now grown all over the world .\n"
 }

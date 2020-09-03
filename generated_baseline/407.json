@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 5 categories for the x axis of Country representing Yes, No.",
+      "This grouped bar chart has 5 categories for the x axis of Country representing Yes, and No.",
       " The highest category is found at Northern Ireland with a mean value of 50.0.",
       " The second highest category is found at Scotland with a mean value of 50.0.",
       " This represents a difference of 0.0%."
    ],
-   "trends": {
-      "maxIndex": 3,
-      "secondIndex": 3
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "13": [
+            "2",
+            "3"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "14": [
+            "2",
+            "2"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "England",

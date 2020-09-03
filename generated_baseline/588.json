@@ -4,15 +4,24 @@
    "yAxis": "Percentage change",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 81 categories for the x axis representing Month, and a y axis representing Percentage change.",
       " The highest category is found at Aug_14 where Percentage change is 34.0.",
       " The lowest category is found at Jun_16 where Percentage change is 0.5."
    ],
-   "trends": {
-      "maxIndex": 61,
-      "minIndex": 39
-   },
+   "trends": [
+      {},
+      {
+         "7": 61,
+         "12": 61
+      },
+      {
+         "7": 39,
+         "12": 39
+      },
+      {}
+   ],
    "data": [
       {
          "Month": "Sep 19",

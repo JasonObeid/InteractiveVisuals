@@ -1,46 +1,51 @@
 {
-   "title": "Usage frequency of headphones in the United States 2017",
-   "xAxis": "Response",
-   "yAxis": "Share of respondents",
+   "title": "Instagram : number of brand sponsored influencer posts 2016 to 2020",
+   "xAxis": "Year",
+   "yAxis": "Annual posts in millions",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the results of a 2017 survey regarding patriotism in the States . ",
-      "The respondents were asked how proud they are to be an United States . ",
-      "In 2017 , some 31 % of survey respondents stated they were daily proud to be an United States ."
+      "The statistic shows the Annual of posts millions in Instagram 2016 , with a projection from 2019 to 2020 . ",
+      "In 2016 , the Annual of posts millions amounted to about 1.26 millions . ",
+      "In 2020 , the millions of the posts above the age of millions was forecasted to reach 6.12 millions ."
    ],
    "trends": [
-      {},
-      {},
       {
-         "4": "0",
-         "12": "0"
+         "13": "0",
+         "19": "3",
+         "21": "4"
+      },
+      {
+         "1": "0",
+         "13": "0"
+      },
+      {
+         "1": "4",
+         "17": "4"
       }
    ],
    "data": [
       {
-         "Response": "daily",
-         "Share of respondents": "31"
+         "Year": "2016",
+         "Annual posts in millions": "1.26"
       },
       {
-         "Response": "several times a week",
-         "Share of respondents": "24"
+         "Year": "2017",
+         "Annual posts in millions": "2.58"
       },
       {
-         "Response": "once a week",
-         "Share of respondents": "6"
+         "Year": "2018",
+         "Annual posts in millions": "3.7"
       },
       {
-         "Response": "several times a month",
-         "Share of respondents": "6"
+         "Year": "2019",
+         "Annual posts in millions": "4.95"
       },
       {
-         "Response": "less often",
-         "Share of respondents": "14"
-      },
-      {
-         "Response": "never",
-         "Share of respondents": "18"
+         "Year": "2020",
+         "Annual posts in millions": "6.12"
       }
-   ]
+   ],
+   "gold": "This statistic presents the number of brand sponsored influencer posts on Instagram from 2016 to 2020 . In 2018 , there were 3.7 million brand sponsored influencer posts on the social platform . The volume of sponsored content on Instagram is projected to amount to 4.95 million posts in 2019 .\n"
 }

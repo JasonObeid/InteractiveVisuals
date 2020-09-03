@@ -1,64 +1,62 @@
 {
-   "title": "All-time most viewed YouTube channel owners 2020",
-   "xAxis": "Month",
-   "yAxis": "All-time channel views in billions",
+   "title": "Leading baby wipes vendors in the U.S. 2016 , based on sales",
+   "xAxis": "Company",
+   "yAxis": "Million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the distribution of most viewed channel owners in the YouTube in , 2020 total channel . ",
-      "In , 35.18 billions of the YouTube channel views was Ryan's_World ."
+      "The statistic shows the Million of U.S. dollars in the period from 1900 to 2016 . ",
+      "Million U.S. dollars in Private_label amounted to 494.4 million in 2016 ."
    ],
    "trends": [
       {},
       {
-         "3": "0",
-         "11": "0"
+         "5": "0",
+         "8": "0"
       }
    ],
    "data": [
       {
-         "Month": "Ryan's World",
-         "All-time channel views in billions": "35.18"
+         "Company": "Private label",
+         "Million U.S. dollars": "494.4"
       },
       {
-         "Month": "PewDiePie",
-         "All-time channel views in billions": "24.44"
+         "Company": "Kimberly Clark Corp.",
+         "Million U.S. dollars": "416.2"
       },
       {
-         "Month": "Like Nastya Vlog",
-         "All-time channel views in billions": "22.68"
+         "Company": "Procter & Gamble",
+         "Million U.S. dollars": "276.6"
       },
       {
-         "Month": "\u273f Kids Diana Show",
-         "All-time channel views in billions": "17.01"
+         "Company": "Seventh Generation",
+         "Million U.S. dollars": "9.6"
       },
       {
-         "Month": "DanTDM (TheDiamondMinecart)",
-         "All-time channel views in billions": "16.01"
+         "Company": "The Honest Co.",
+         "Million U.S. dollars": "8.6"
       },
       {
-         "Month": "Fun Toys Collector Disney",
-         "All-time channel views in billions": "14.86"
+         "Company": "Johnson & Johnson",
+         "Million U.S. dollars": "7.1"
       },
       {
-         "Month": "Vlad and Nikita",
-         "All-time channel views in billions": "14.07"
+         "Company": "Nice-Pak Products",
+         "Million U.S. dollars": "6.3"
       },
       {
-         "Month": "FGTeeV",
-         "All-time channel views in billions": "13.11"
+         "Company": "Paper Partners",
+         "Million U.S. dollars": "6.1"
       },
       {
-         "Month": "Family Fun Pack",
-         "All-time channel views in billions": "12.66"
+         "Company": "Kas Direct",
+         "Million U.S. dollars": "5.7"
       },
       {
-         "Month": "CookieSwirlC",
-         "All-time channel views in billions": "12.42"
-      },
-      {
-         "Month": "Markiplier",
-         "All-time channel views in billions": "12.29"
+         "Company": "Irish Breeze",
+         "Million U.S. dollars": "4.4"
       }
-   ]
+   ],
+   "gold": "The statistic shows the leading baby wipes vendors in the United States in 2016 , based on sales . In that year , Kimberly Clark was the second largest U.S. baby wipes vendor with sales of 416.2 million U.S. dollars . Total sales of U.S. baby wipes vendors amounted to about 1.25 billion U.S. dollars in 2016 .\n"
 }

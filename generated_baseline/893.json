@@ -4,36 +4,36 @@
    "yAxis": "Producer Price Index (100=1982)",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Producer Price Index (100=1982), with a total of 30 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely negative which exists from '08 to '02.",
-      " But, the next significant trend is extremely negative which exists from '96 to '90.",
-      " Differently, the next significant trend is extremely negative which exists from '14 to '09."
+      "This line chart has an x axis representing Year and a y axis representing Producer Price Index (100=1982), with a total of 30 data points. The chart has 5 significant trends.",
+      " The longest trend is slightly positive which exists from '98 to '90.",
+      " Also, the next significant trend is extremely positive which exists from '09 to '02.",
+      " In a similar manner, the next significant trend is slightly negative which exists from '19 to '14.",
+      " On the contrary, the next significant trend is extremely positive which exists from '14 to '09.",
+      " Also, the next significant trend is slightly positive which exists from '02 to '98."
    ],
    "trends": [
+      {},
       {
-         "Length": 7,
-         "direction": "negative",
-         "start": 11,
-         "end": 17,
-         "trend": "y=9.38x+110.3",
-         "magnitude": "extremely"
+         "1": "21",
+         "12": "29"
       },
       {
-         "Length": 7,
-         "direction": "negative",
-         "start": 23,
-         "end": 29,
-         "trend": "y=1.92x+-58.45",
-         "magnitude": "extremely"
+         "3": "10",
+         "14": "17"
       },
       {
-         "Length": 6,
-         "direction": "negative",
-         "start": 5,
-         "end": 10,
-         "trend": "y=6.27x+122.86",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "5"
+      },
+      {
+         "3": "5",
+         "14": "10"
+      },
+      {
+         "3": "17",
+         "14": "21"
       }
    ],
    "data": [

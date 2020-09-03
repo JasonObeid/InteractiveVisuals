@@ -4,15 +4,24 @@
    "yAxis": "Circulation",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 2 categories for the x axis representing Day, and a y axis representing Circulation.",
       " The highest category is found at Sunday where Circulation is 378602.0.",
       " The lowest category is found at Daily where Circulation is 130283.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 1
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 1,
+         "12": 1
+      },
+      {}
+   ],
    "data": [
       {
          "Day": "Sunday",

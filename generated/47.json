@@ -1,99 +1,111 @@
 {
-   "title": "American customer satisfaction index : Burger King restaurants in the U.S. 2000 to 2019",
+   "title": "Youth unemployment rate in Zambia in 2019",
    "xAxis": "Year",
-   "yAxis": "ACSI score",
+   "yAxis": "Youth unemployment rate",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the American customer satisfaction index scores of Burger King restaurants in the U.S. from 2000 to 2019 . ",
-      "Burger King 's ACSI score was 76 2019.The limited-service restaurant industry was not measured in 2004 ."
+      "The statistic shows the Youth unemployment rate in Zambia from 1999 and 2019 . ",
+      "According to the source , the data are ILO estimates . ",
+      "In 2019 , the estimated Youth unemployment rate in Zambia was at 15.94 % ."
    ],
    "trends": [
       {
-         "16": "18",
-         "18": "0"
+         "10": "20",
+         "12": "0"
       },
+      {},
       {
-         "5": "0",
-         "6": "0"
+         "1": "0",
+         "12": "0"
       }
    ],
    "data": [
       {
          "Year": "2019",
-         "ACSI score": "76"
+         "Youth unemployment rate": "15.94"
       },
       {
          "Year": "2018",
-         "ACSI score": "76"
+         "Youth unemployment rate": "16.09"
       },
       {
          "Year": "2017",
-         "ACSI score": "77"
+         "Youth unemployment rate": "16.12"
       },
       {
          "Year": "2016",
-         "ACSI score": "76"
+         "Youth unemployment rate": "16.39"
       },
       {
          "Year": "2015",
-         "ACSI score": "72"
+         "Youth unemployment rate": "16.49"
       },
       {
          "Year": "2014",
-         "ACSI score": "76"
+         "Youth unemployment rate": "16.92"
       },
       {
          "Year": "2013",
-         "ACSI score": "76"
+         "Youth unemployment rate": "17.05"
       },
       {
          "Year": "2012",
-         "ACSI score": "75"
+         "Youth unemployment rate": "17.03"
       },
       {
          "Year": "2011",
-         "ACSI score": "75"
+         "Youth unemployment rate": "21.45"
       },
       {
          "Year": "2010",
-         "ACSI score": "74"
+         "Youth unemployment rate": "26.83"
       },
       {
          "Year": "2009",
-         "ACSI score": "69"
+         "Youth unemployment rate": "21.44"
       },
       {
          "Year": "2008",
-         "ACSI score": "71"
+         "Youth unemployment rate": "16.02"
       },
       {
          "Year": "2007",
-         "ACSI score": "69"
+         "Youth unemployment rate": "19.3"
       },
       {
          "Year": "2006",
-         "ACSI score": "70"
+         "Youth unemployment rate": "23.17"
       },
       {
          "Year": "2005",
-         "ACSI score": "71"
+         "Youth unemployment rate": "28.26"
+      },
+      {
+         "Year": "2004",
+         "Youth unemployment rate": "26.75"
       },
       {
          "Year": "2003",
-         "ACSI score": "68"
+         "Youth unemployment rate": "25.55"
       },
       {
          "Year": "2002",
-         "ACSI score": "68"
+         "Youth unemployment rate": "24.6"
       },
       {
          "Year": "2001",
-         "ACSI score": "65"
+         "Youth unemployment rate": "23.08"
       },
       {
          "Year": "2000",
-         "ACSI score": "67"
+         "Youth unemployment rate": "21.34"
+      },
+      {
+         "Year": "1999",
+         "Youth unemployment rate": "20.88"
       }
-   ]
+   ],
+   "gold": "The statistic shows the youth unemployment rate in Zambia from 1999 and 2019 . According to the source , the data are ILO estimates . In 2019 , the estimated youth unemployment rate in Zambia was at 15.94 percent .\n"
 }

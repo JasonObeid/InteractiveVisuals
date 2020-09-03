@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 8 categories for the x axis of 2014 World Cup Matches representing ESPN/ABC, Univision.",
+      "This grouped bar chart has 8 categories for the x axis of 2014 World Cup Matches representing ESPN/ABC, and Univision.",
       " The highest category is found at World Cup Final - Germany vs. Argentina (07/13/14)(Univision & ABC) with a mean value of 13.25.",
       " The second highest category is found at Group match - USA vs. Portugal (06/22/14)(Univision & ESPN) with a mean value of 12.35.",
       " This represents a difference of 7.0%."
    ],
-   "trends": {
-      "maxIndex": 7,
-      "secondIndex": 7
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "7"
+         ],
+         "13": [
+            "2",
+            "7"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "14": [
+            "2",
+            "2"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "2014 World Cup Matches": "Opening match - Brazil vs. Croatia (06/12/14)(Univision & ESPN)",

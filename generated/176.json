@@ -1,49 +1,114 @@
 {
-   "title": "Automobile production - automatic transmission forecast 2010 to 2015",
-   "xAxis": "Year",
-   "yAxis": "Million transmissions",
-   "columnType": "two",
+   "title": "Employment by economic sector in South Africa 2019",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
    "graphType": "line",
    "summary": [
-      "This statistic shows a Automobile of the volume of production Million globally from 2010 to 2015 . ",
-      "By 2015 , it is predicted that production Million will reach nearly 28.65 million transmissions transmission . ",
-      "production is most commonly used for making steels , nonferrous alloys , and electroplating ."
+      "The statistic shows the distribution of Employment in South Africa by economic sector from 2009 to 2019 . ",
+      "In 2019 , 5.09 % of the employees in South Africa were active in the agricultural sector , 23.18 % in Industry and 71.73 % in the service sector ."
    ],
    "trends": [
       {
-         "13": "0",
-         "15": "5"
+         "13": [
+            "10",
+            "0"
+         ],
+         "15": [
+            "0",
+            "0"
+         ]
       },
       {
-         "1": "5",
-         "12": "5"
-      },
-      {}
+         "1": [
+            "0",
+            "0"
+         ],
+         "3": [
+            "0",
+            "1"
+         ],
+         "17": [
+            "0",
+            "2"
+         ],
+         "22": [
+            "0",
+            "3"
+         ]
+      }
    ],
    "data": [
       {
-         "Year": "2010",
-         "Million transmissions": "25.03"
+         "Year": "2019",
+         "Agriculture": "5.09",
+         "Industry": "23.18",
+         "Services": "71.73"
       },
       {
-         "Year": "2011",
-         "Million transmissions": "25.36"
+         "Year": "2018",
+         "Agriculture": "5.16",
+         "Industry": "23.24",
+         "Services": "71.6"
       },
       {
-         "Year": "2012",
-         "Million transmissions": "26.72"
+         "Year": "2017",
+         "Agriculture": "5.22",
+         "Industry": "23.3",
+         "Services": "71.48"
       },
       {
-         "Year": "2013",
-         "Million transmissions": "27.82"
-      },
-      {
-         "Year": "2014",
-         "Million transmissions": "28.46"
+         "Year": "2016",
+         "Agriculture": "5.57",
+         "Industry": "23.33",
+         "Services": "71.1"
       },
       {
          "Year": "2015",
-         "Million transmissions": "28.65"
+         "Agriculture": "5.61",
+         "Industry": "23.83",
+         "Services": "70.56"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "4.65",
+         "Industry": "23.42",
+         "Services": "71.93"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "4.98",
+         "Industry": "23.52",
+         "Services": "71.5"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "4.84",
+         "Industry": "23.45",
+         "Services": "71.72"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "4.6",
+         "Industry": "24.18",
+         "Services": "71.22"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "4.86",
+         "Industry": "24.4",
+         "Services": "70.74"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "5.07",
+         "Industry": "25.26",
+         "Services": "69.68"
       }
-   ]
+   ],
+   "gold": "The statistic shows the distribution of employment in South Africa by economic sector from 2009 to 2019 . In 2019 , 5.09 percent of the employees in South Africa were active in the agricultural sector , 23.18 percent in industry and 71.73 percent in the service sector .\n"
 }

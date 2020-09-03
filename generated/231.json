@@ -1,56 +1,97 @@
 {
-   "title": "Ford 's vehicle sales market share in the U.S. 2003 to 2019",
+   "title": "Franchise value of the Boston Red Sox 2002 to 2019",
    "xAxis": "Year",
-   "yAxis": "Market share",
+   "yAxis": "Franchise value in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Ford 's vehicle sales scores of Ford in the share from 2003 to 2019 . ",
-      "Ford had an Market share of 14.08 in 2019 , down from 14.29 points the previous Year ."
+      "This graph depicts the value of the Boston Red Sox Red Franchise of the National Basketball Association from 2002 to 2019 . ",
+      "In 2019 , the Franchise had an estimated value of 3200 million U.S. dollars ."
    ],
    "trends": [
       {
-         "15": "7",
-         "17": "0"
+         "16": "17",
+         "18": "0"
       },
       {
-         "6": "0",
-         "8": "0",
-         "12": "1"
+         "1": "0",
+         "10": "0"
       }
    ],
    "data": [
       {
          "Year": "2019",
-         "Market share": "14.08"
+         "Franchise value in million U.S. dollars": "3200"
       },
       {
          "Year": "2018",
-         "Market share": "14.29"
+         "Franchise value in million U.S. dollars": "2800"
+      },
+      {
+         "Year": "2017",
+         "Franchise value in million U.S. dollars": "2700"
       },
       {
          "Year": "2016",
-         "Market share": "14.8"
+         "Franchise value in million U.S. dollars": "2300"
+      },
+      {
+         "Year": "2015",
+         "Franchise value in million U.S. dollars": "2100"
+      },
+      {
+         "Year": "2014",
+         "Franchise value in million U.S. dollars": "1500"
+      },
+      {
+         "Year": "2013",
+         "Franchise value in million U.S. dollars": "1312"
       },
       {
          "Year": "2012",
-         "Market share": "15.22"
+         "Franchise value in million U.S. dollars": "1000"
+      },
+      {
+         "Year": "2011",
+         "Franchise value in million U.S. dollars": "912"
+      },
+      {
+         "Year": "2010",
+         "Franchise value in million U.S. dollars": "870"
       },
       {
          "Year": "2009",
-         "Market share": "15.29"
+         "Franchise value in million U.S. dollars": "833"
+      },
+      {
+         "Year": "2008",
+         "Franchise value in million U.S. dollars": "816"
+      },
+      {
+         "Year": "2007",
+         "Franchise value in million U.S. dollars": "724"
       },
       {
          "Year": "2006",
-         "Market share": "16.04"
+         "Franchise value in million U.S. dollars": "617"
       },
       {
          "Year": "2005",
-         "Market share": "17.01"
+         "Franchise value in million U.S. dollars": "563"
+      },
+      {
+         "Year": "2004",
+         "Franchise value in million U.S. dollars": "533"
       },
       {
          "Year": "2003",
-         "Market share": "19.19"
+         "Franchise value in million U.S. dollars": "488"
+      },
+      {
+         "Year": "2002",
+         "Franchise value in million U.S. dollars": "426"
       }
-   ]
+   ],
+   "gold": "This graph depicts the value of the Boston Red Sox franchise of Major League Baseball from 2002 to 2019 . In 2019 , the franchise had an estimated value of 3.2 billion U.S. dollars.The Boston Red Sox are owned by John Henry and Thomas Werner , who bought the franchise for 380 million U.S. dollars in 2002 .\n"
 }

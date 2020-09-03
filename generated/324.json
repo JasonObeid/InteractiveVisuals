@@ -1,89 +1,58 @@
 {
-   "title": "Fatality rate per 100,000 drivers licensed in the U.S. 1990 to 2017",
-   "xAxis": "Year",
-   "yAxis": "Fatalities per 100,000 licensed drivers",
+   "title": "Number of eSports games players worldwide 2017",
+   "xAxis": "Sport",
+   "yAxis": "Number of players in millions",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic displays the annual Fatalities of U.S. per 100,000 annum from 1990 to 2017 . ",
-      "The largest Fatalities of U.S. per 100,000 was in 2010 with a total production of 26.7 million 100,000 of per . ",
-      "Since then the total Fatalities of per 100,000 has declined ."
+      "The statistic shows the Number of in 2017 , players Sport . ",
+      "In 2017 , there were 100.0 DOTA_2 players in Number ."
    ],
    "trends": [
+      {},
       {
-         "13": "15",
-         "15": "0"
-      },
-      {
-         "9": "7",
-         "15": "15"
-      },
-      {}
+         "5": "0",
+         "6": "3"
+      }
    ],
    "data": [
       {
-         "Year": "2017",
-         "Fatalities per 100,000 licensed drivers": "16.48"
+         "Sport": "League of Legends",
+         "Number of players in millions": "100.0"
       },
       {
-         "Year": "2016",
-         "Fatalities per 100,000 licensed drivers": "17.05"
+         "Sport": "Call of Duty",
+         "Number of players in millions": "28.1"
       },
       {
-         "Year": "2015",
-         "Fatalities per 100,000 licensed drivers": "16.27"
+         "Sport": "Hearthstone",
+         "Number of players in millions": "23.9"
       },
       {
-         "Year": "2014",
-         "Fatalities per 100,000 licensed drivers": "15.29"
+         "Sport": "DOTA 2",
+         "Number of players in millions": "12.6"
       },
       {
-         "Year": "2013",
-         "Fatalities per 100,000 licensed drivers": "15.5"
+         "Sport": "World of Tanks",
+         "Number of players in millions": "12.3"
       },
       {
-         "Year": "2012",
-         "Fatalities per 100,000 licensed drivers": "15.95"
+         "Sport": "FIFA 17",
+         "Number of players in millions": "12.3"
       },
       {
-         "Year": "2011",
-         "Fatalities per 100,000 licensed drivers": "15.33"
+         "Sport": "Counter-Strike: Global Offensive",
+         "Number of players in millions": "11.9"
       },
       {
-         "Year": "2010",
-         "Fatalities per 100,000 licensed drivers": "15.71"
+         "Sport": "PlayerUnknown's Battlegrounds",
+         "Number of players in millions": "6.8"
       },
       {
-         "Year": "2009",
-         "Fatalities per 100,000 licensed drivers": "16.16"
-      },
-      {
-         "Year": "2008",
-         "Fatalities per 100,000 licensed drivers": "17.96"
-      },
-      {
-         "Year": "2007",
-         "Fatalities per 100,000 licensed drivers": "20.05"
-      },
-      {
-         "Year": "2006",
-         "Fatalities per 100,000 licensed drivers": "21.06"
-      },
-      {
-         "Year": "2005",
-         "Fatalities per 100,000 licensed drivers": "21.7"
-      },
-      {
-         "Year": "2000",
-         "Fatalities per 100,000 licensed drivers": "22.0"
-      },
-      {
-         "Year": "1995",
-         "Fatalities per 100,000 licensed drivers": "23.68"
-      },
-      {
-         "Year": "1990",
-         "Fatalities per 100,000 licensed drivers": "26.7"
+         "Sport": "StarCraft II",
+         "Number of players in millions": "2.4"
       }
-   ]
+   ],
+   "gold": "The statistic presents information on the number of players of selected eSports games worldwide as of August 2017 . According to the data , League of Legends was a leader based on number of eSports players . In the presented period the game had a player base of 100 million , while World of Tanks ranked fifth with 12.3 million players in the measured period .\n"
 }

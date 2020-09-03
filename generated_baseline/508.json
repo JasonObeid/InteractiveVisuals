@@ -4,15 +4,24 @@
    "yAxis": "Number of residents in thousands",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 50 categories for the x axis representing Metropolitan Areas, and a y axis representing Number of residents in thousands.",
       " The highest category is found at New_York-Newark-Jersey_City_NY-NJ-PA where Number of residents in thousands is 19979.48.",
       " The lowest category is found at Buffalo-Cheektowaga-Niagara_Falls_NY where Number of residents in thousands is 1130.15."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 49
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 49,
+         "12": 49
+      },
+      {}
+   ],
    "data": [
       {
          "Metropolitan Areas": "New York-Newark-Jersey City NY-NJ-PA",

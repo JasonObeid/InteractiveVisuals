@@ -4,36 +4,46 @@
    "yAxis": "Euro cents per kilowatt-hour",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Euro cents per kilowatt-hour, with a total of 19 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely negative which exists from 2012_S1 to 2010_S1.",
-      " Conversely, the next significant trend is strongly positive which exists from 2017_S2 to 2016_S1.",
-      " In a similar manner, the next significant trend is extremely positive which exists from 2019_S1 to 2018_S1."
+      "This line chart has an x axis representing Year and a y axis representing Euro cents per kilowatt-hour, with a total of 19 data points. The chart has 7 significant trends.",
+      " The longest trend is moderately negative which exists from 2018_S1 to 2016_S1.",
+      " Differently, the next significant trend is extremely positive which exists from 2012_S1 to 2010_S1.",
+      " In a similar manner, the next significant trend is slightly negative which exists from 2019_S1 to 2018_S1.",
+      " But, the next significant trend is moderately negative which exists from 2016_S1 to 2015_S1.",
+      " But, the next significant trend is moderately negative which exists from 2015_S1 to 2014_S1.",
+      " But, the next significant trend is moderately negative which exists from 2014_S1 to 2013_S1.",
+      " Contrarily, the next significant trend is moderately negative which exists from 2013_S1 to 2012_S1."
    ],
    "trends": [
+      {},
       {
-         "Length": 5,
-         "direction": "negative",
-         "start": 14,
-         "end": 18,
-         "trend": "y=1.68x+-3351.06",
-         "magnitude": "extremely"
+         "1": "2",
+         "12": "6"
       },
       {
-         "Length": 4,
-         "direction": "positive",
-         "start": 3,
-         "end": 6,
-         "trend": "y=-0.56x+1169.9",
-         "magnitude": "strongly"
+         "3": "14",
+         "14": "18"
       },
       {
-         "Length": 3,
-         "direction": "positive",
-         "start": 0,
-         "end": 2,
-         "trend": "y=-1.41x+2866.54",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "6",
+         "14": "8"
+      },
+      {
+         "3": "8",
+         "14": "10"
+      },
+      {
+         "3": "10",
+         "14": "12"
+      },
+      {
+         "3": "12",
+         "14": "14"
       }
    ],
    "data": [

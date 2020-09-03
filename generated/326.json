@@ -1,147 +1,106 @@
 {
-   "title": "Twitter : quarterly net income 2012 to 2019",
-   "xAxis": "Quarter",
-   "yAxis": "Net income/loss in million U.S. dollars",
+   "title": "American imports of corn 2001 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Imports in million bushels",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the market Net of Twitter in the income 2012 market ( unit income/loss ) from the first Quarter of 2012 to the fourth Quarter of 2019 . ",
-      "In the fourth Quarter of 2019 , Twitter quarterly market Net in the 2012 market was at 118.77 million U.S. dollars ."
+      "The American imports temperature in the American ( ) has remained relatively stable since 2001 , with corn rarely straying below 57 Imports million . ",
+      "In 2019 , the American had and American imports temperature of 28 Imports million . ",
+      "The highest American imports temperature during the period shown was recorded in 2014 at 160 Imports million ."
    ],
    "trends": [
-      {},
       {
-         "17": "0"
+         "15": "18",
+         "22": "3"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      },
+      {
+         "12": "5",
+         "14": "7"
       }
    ],
    "data": [
       {
-         "Quarter": "Q4 '19",
-         "Net income/loss in million U.S. dollars": "118.77"
+         "Year": "2019",
+         "Imports in million bushels": "28"
       },
       {
-         "Quarter": "Q3 '19",
-         "Net income/loss in million U.S. dollars": "36.52"
+         "Year": "2018",
+         "Imports in million bushels": "36"
       },
       {
-         "Quarter": "Q2 '19",
-         "Net income/loss in million U.S. dollars": "1119.56"
+         "Year": "2017",
+         "Imports in million bushels": "57"
       },
       {
-         "Quarter": "Q1 '19",
-         "Net income/loss in million U.S. dollars": "190.8"
+         "Year": "2016",
+         "Imports in million bushels": "57"
       },
       {
-         "Quarter": "Q4 '18",
-         "Net income/loss in million U.S. dollars": "255.3"
+         "Year": "2015",
+         "Imports in million bushels": "68"
       },
       {
-         "Quarter": "Q3 '18",
-         "Net income/loss in million U.S. dollars": "789.18"
+         "Year": "2014",
+         "Imports in million bushels": "32"
       },
       {
-         "Quarter": "Q2 '18",
-         "Net income/loss in million U.S. dollars": "100.12"
+         "Year": "2013",
+         "Imports in million bushels": "36"
       },
       {
-         "Quarter": "Q1 '18",
-         "Net income/loss in million U.S. dollars": "61.0"
+         "Year": "2012",
+         "Imports in million bushels": "160"
       },
       {
-         "Quarter": "Q4 '17",
-         "Net income/loss in million U.S. dollars": "91.08"
+         "Year": "2011",
+         "Imports in million bushels": "29"
       },
       {
-         "Quarter": "Q3 '17",
-         "Net income/loss in million U.S. dollars": "-21.1"
+         "Year": "2010",
+         "Imports in million bushels": "28"
       },
       {
-         "Quarter": "Q2 '17",
-         "Net income/loss in million U.S. dollars": "-116.49"
+         "Year": "2009",
+         "Imports in million bushels": "8"
       },
       {
-         "Quarter": "Q1 '17",
-         "Net income/loss in million U.S. dollars": "-61.56"
+         "Year": "2008",
+         "Imports in million bushels": "14"
       },
       {
-         "Quarter": "Q4 '16",
-         "Net income/loss in million U.S. dollars": "-167.05"
+         "Year": "2007",
+         "Imports in million bushels": "20"
       },
       {
-         "Quarter": "Q3 '16",
-         "Net income/loss in million U.S. dollars": "-102.87"
+         "Year": "2006",
+         "Imports in million bushels": "12"
       },
       {
-         "Quarter": "Q2 '16",
-         "Net income/loss in million U.S. dollars": "-107.22"
+         "Year": "2005",
+         "Imports in million bushels": "9"
       },
       {
-         "Quarter": "Q1 '16",
-         "Net income/loss in million U.S. dollars": "-79.73"
+         "Year": "2004",
+         "Imports in million bushels": "11"
       },
       {
-         "Quarter": "Q4 '15",
-         "Net income/loss in million U.S. dollars": "-90.24"
+         "Year": "2003",
+         "Imports in million bushels": "14"
       },
       {
-         "Quarter": "Q3 '15",
-         "Net income/loss in million U.S. dollars": "-131.69"
+         "Year": "2002",
+         "Imports in million bushels": "14"
       },
       {
-         "Quarter": "Q2 '15",
-         "Net income/loss in million U.S. dollars": "-136.66"
-      },
-      {
-         "Quarter": "Q1 '15",
-         "Net income/loss in million U.S. dollars": "-162.44"
-      },
-      {
-         "Quarter": "Q4 '14",
-         "Net income/loss in million U.S. dollars": "-125.35"
-      },
-      {
-         "Quarter": "Q3 '14",
-         "Net income/loss in million U.S. dollars": "-175.46"
-      },
-      {
-         "Quarter": "Q2 '14",
-         "Net income/loss in million U.S. dollars": "-144.64"
-      },
-      {
-         "Quarter": "Q1 '14",
-         "Net income/loss in million U.S. dollars": "-132.36"
-      },
-      {
-         "Quarter": "Q4 '13",
-         "Net income/loss in million U.S. dollars": "-511.47"
-      },
-      {
-         "Quarter": "Q3 '13",
-         "Net income/loss in million U.S. dollars": "-64.6"
-      },
-      {
-         "Quarter": "Q2 '13",
-         "Net income/loss in million U.S. dollars": "-42.23"
-      },
-      {
-         "Quarter": "Q1 '13",
-         "Net income/loss in million U.S. dollars": "-27.03"
-      },
-      {
-         "Quarter": "Q4 '12",
-         "Net income/loss in million U.S. dollars": "-8.71"
-      },
-      {
-         "Quarter": "Q3 '12",
-         "Net income/loss in million U.S. dollars": "-21.59"
-      },
-      {
-         "Quarter": "Q2 '12",
-         "Net income/loss in million U.S. dollars": "-27.58"
-      },
-      {
-         "Quarter": "Q1 '12",
-         "Net income/loss in million U.S. dollars": "-21.52"
+         "Year": "2001",
+         "Imports in million bushels": "10"
       }
-   ]
+   ],
+   "gold": "This statistic shows imports of corn in the United States from 2001 to 2019 . According to the report , U.S. corn imports amounted to approximately 57 million bushels in 2016 , down from 68 million bushels the previous year .\n"
 }

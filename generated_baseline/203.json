@@ -4,45 +4,31 @@
    "yAxis": "Youth unemployment rate",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Youth unemployment rate, with a total of 21 data points. The chart has 4 significant trends.",
-      " The longest trend is extremely negative which exists from 2014 to 2008.",
-      " On the other hand, the next significant trend is extremely positive which exists from 2008 to 2003.",
-      " Likewise, the next significant trend is extremely negative which exists from 2003 to 1999.",
-      " Differently, the next significant trend is extremely positive which exists from 2017 to 2014."
+      " The longest trend is moderately positive which exists from 2014 to 2008.",
+      " Correspondingly, the next significant trend is moderately negative which exists from 2019 to 2014.",
+      " But, the next significant trend is slightly negative which exists from 2008 to 2003.",
+      " On the other hand, the next significant trend is extremely positive which exists from 2003 to 1999."
    ],
    "trends": [
+      {},
       {
-         "Length": 7,
-         "direction": "negative",
-         "start": 5,
-         "end": 11,
-         "trend": "y=0.99x+-1959.66",
-         "magnitude": "extremely"
+         "1": "5",
+         "12": "11"
       },
       {
-         "Length": 6,
-         "direction": "positive",
-         "start": 11,
-         "end": 16,
-         "trend": "y=-3.28x+6613.87",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "5"
       },
       {
-         "Length": 5,
-         "direction": "negative",
-         "start": 16,
-         "end": 20,
-         "trend": "y=2.92x+-5807.06",
-         "magnitude": "extremely"
+         "3": "11",
+         "14": "16"
       },
       {
-         "Length": 4,
-         "direction": "positive",
-         "start": 2,
-         "end": 5,
-         "trend": "y=-0.14x+314.94",
-         "magnitude": "extremely"
+         "3": "16",
+         "14": "20"
       }
    ],
    "data": [

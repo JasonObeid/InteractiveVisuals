@@ -4,15 +4,24 @@
    "yAxis": "Revenue in million GBP",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 28 categories for the x axis representing Quarter, and a y axis representing Revenue in million GBP.",
       " The highest category is found at Q4_2015 where Revenue in million GBP is 844.0.",
       " The lowest category is found at Q3_2013 where Revenue in million GBP is 444.0."
    ],
-   "trends": {
-      "maxIndex": 15,
-      "minIndex": 23
-   },
+   "trends": [
+      {},
+      {
+         "7": 15,
+         "12": 15
+      },
+      {
+         "7": 23,
+         "12": 23
+      },
+      {}
+   ],
    "data": [
       {
          "Quarter": "Q3 2019",

@@ -1,71 +1,54 @@
 {
-   "title": "Number of homicides in Denmark 2009 to 2019",
-   "xAxis": "Year",
-   "yAxis": "Number of homicides",
+   "title": "Italy : natural gas imports 2018 , by country of origin",
+   "xAxis": "Country",
+   "yAxis": "Natural gas imports in million cubic meters",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Number of homicides in 2009 Denmark from 2009 to 2019 . ",
-      "In 2019 , there were 48 homicides in Denmark . ",
-      "Gambling in Denmark - additional information The Number of homicides in Denmark increased by more than 2,000 between 2007 and 2018 ."
+      "The Russia industry accounted for a 32321 million Natural of gas Italy imports in 2018 , which amounted to about 2,136 metric tons . ",
+      "Russia was therefore the largest Italy demanding industry gas . ",
+      "Golds uses Italy is a transition metal that has bright yellow coloring ."
    ],
    "trends": [
       {
-         "13": "10",
-         "15": "0"
-      },
-      {
          "1": "0",
-         "5": "0"
+         "6": "0"
       },
       {
-         "21": "1"
-      }
+         "0": "0"
+      },
+      {}
    ],
    "data": [
       {
-         "Year": "2019",
-         "Number of homicides": "48"
+         "Country": "Russia",
+         "Natural gas imports in million cubic meters": "32321"
       },
       {
-         "Year": "2018",
-         "Number of homicides": "52"
+         "Country": "Algeria",
+         "Natural gas imports in million cubic meters": "17970"
       },
       {
-         "Year": "2017",
-         "Number of homicides": "54"
+         "Country": "Qatar",
+         "Natural gas imports in million cubic meters": "6535"
       },
       {
-         "Year": "2016",
-         "Number of homicides": "49"
+         "Country": "Libya",
+         "Natural gas imports in million cubic meters": "4466"
       },
       {
-         "Year": "2015",
-         "Number of homicides": "46"
+         "Country": "Norway",
+         "Natural gas imports in million cubic meters": "3159"
       },
       {
-         "Year": "2014",
-         "Number of homicides": "59"
+         "Country": "Holland",
+         "Natural gas imports in million cubic meters": "1003"
       },
       {
-         "Year": "2013",
-         "Number of homicides": "41"
-      },
-      {
-         "Year": "2012",
-         "Number of homicides": "43"
-      },
-      {
-         "Year": "2011",
-         "Number of homicides": "49"
-      },
-      {
-         "Year": "2010",
-         "Number of homicides": "49"
-      },
-      {
-         "Year": "2009",
-         "Number of homicides": "56"
+         "Country": "Others",
+         "Natural gas imports in million cubic meters": "2419"
       }
-   ]
+   ],
+   "gold": "In 2018 , Russia \u2013 with 32,321 million cubic meters of natural gas exported to Italy - was the main supplier of this fuel . In the same year , Italy imported 17,970 million cubic meters of natural gas from Algeria and 6,535 million cubic meters from Qatar . Overall , the volume of natural gas imported from Russia oscillated throughout the past years , even though it was quite steady from 2014 to 2017 .\n"
 }

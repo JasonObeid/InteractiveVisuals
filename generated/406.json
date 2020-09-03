@@ -1,34 +1,94 @@
 {
-   "title": "Witcher game series unit sales worldwide as of August 2015",
-   "xAxis": "Game release (year of release)",
-   "yAxis": "Number of units sold in millions",
+   "title": "Average player salary in the Bundesliga 2019/20 , by team",
+   "xAxis": "Month",
+   "yAxis": "Average player salary in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic illustrates the number of series unit sales in the Witcher in 2015 , August Game release . ",
-      "In 2015 , 6.01 millions Witcher Number owned a The_Witcher_3:_Wild_Hunt_(2015) unit dryer . ",
-      "As of 2015 , almost 80 millions of Witcher Number had a unit dryer ."
+      "The statistic shows a ranking of the Month of the Month team player Average ( Bundesliga ) player in . ",
+      "The professional Month squad of Bayern_Munich Munich had an Average ( Bundesliga ) player of 8.12 million U.S. ."
    ],
    "trends": [
       {},
       {
-         "3": "0",
-         "9": "0"
-      },
-      {}
+         "5": "0",
+         "15": "0"
+      }
    ],
    "data": [
       {
-         "Game release (year of release)": "The Witcher 3: Wild Hunt (2015)",
-         "Number of units sold in millions": "6.01"
+         "Month": "Bayern Munich",
+         "Average player salary in million U.S. dollars": "8.12"
       },
       {
-         "Game release (year of release)": "The Witcher 2: Assasins of Kings (2011)",
-         "Number of units sold in millions": "1.7"
+         "Month": "Borussia Dortmund",
+         "Average player salary in million U.S. dollars": "4.97"
       },
       {
-         "Game release (year of release)": "The Witcher (2007)",
-         "Number of units sold in millions": "1.0"
+         "Month": "Bayer Leverkusen",
+         "Average player salary in million U.S. dollars": "3.19"
+      },
+      {
+         "Month": "RB Leipzig",
+         "Average player salary in million U.S. dollars": "2.42"
+      },
+      {
+         "Month": "Wolfsburg",
+         "Average player salary in million U.S. dollars": "2.41"
+      },
+      {
+         "Month": "Schalke",
+         "Average player salary in million U.S. dollars": "2.19"
+      },
+      {
+         "Month": "Borussia Monchengladbach",
+         "Average player salary in million U.S. dollars": "1.92"
+      },
+      {
+         "Month": "Hoffenheim",
+         "Average player salary in million U.S. dollars": "1.7"
+      },
+      {
+         "Month": "Werder Bremen",
+         "Average player salary in million U.S. dollars": "1.57"
+      },
+      {
+         "Month": "Eintracht Frankfurt",
+         "Average player salary in million U.S. dollars": "1.54"
+      },
+      {
+         "Month": "Hertha Berlin",
+         "Average player salary in million U.S. dollars": "1.3"
+      },
+      {
+         "Month": "FC Koln",
+         "Average player salary in million U.S. dollars": "1.22"
+      },
+      {
+         "Month": "Augsburg",
+         "Average player salary in million U.S. dollars": "1.02"
+      },
+      {
+         "Month": "Mainz",
+         "Average player salary in million U.S. dollars": "0.85"
+      },
+      {
+         "Month": "Fortuna Dusseldorf",
+         "Average player salary in million U.S. dollars": "0.76"
+      },
+      {
+         "Month": "SC Freiburg",
+         "Average player salary in million U.S. dollars": "0.73"
+      },
+      {
+         "Month": "Union Berlin",
+         "Average player salary in million U.S. dollars": "0.68"
+      },
+      {
+         "Month": "Paderborn",
+         "Average player salary in million U.S. dollars": "0.42"
       }
-   ]
+   ],
+   "gold": "In the 2019/2020 season , Bayern Munich was the highest paying club in the German Bundesliga . The average annual player salary in that season was 8.12 million U.S. dollars , while in Paderborn , the lowest paying club in the Bundesliga , it was 0.42 million U.S. dollars . 18 clubs consistently play in the first Bundesliga in Germany .\n"
 }

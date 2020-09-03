@@ -9,16 +9,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 54 categories for the x axis of State representing Donald J. Trump, Ted Cruz, Marco Rubio, John Kasich.",
+      "This grouped bar chart has 54 categories for the x axis of State representing Donald J. Trump, Ted Cruz, Marco Rubio, and John Kasich.",
       " The highest category is found at Total with a mean value of 581.5.",
       " The second highest category is found at California with a mean value of 43.0.",
       " This represents a difference of 172.5%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "5"
+         ],
+         "14": [
+            "4",
+            "5"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "State": "Total",

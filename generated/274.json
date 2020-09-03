@@ -1,93 +1,133 @@
 {
-   "title": "Average vehicle speed on roads in Great Britain 2014",
+   "title": "Monthly average of heating degree days in the United Kingdom ( UK ) 2014 to 2019",
    "labels": [
-      "Vehicle type",
-      "Motorcycles",
-      "Cars",
-      "Cars towing",
-      "Light Goods",
-      "Buses/coaches",
-      "Rigid heavy goods vehicles",
-      "Articulated heavy goods vehicles"
+      "Year",
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
    ],
    "columnType": "multi",
-   "graphType": "bar",
+   "graphType": "line",
    "summary": [
-      "This statistic provides information regarding the Great Britain of vehicle speed 40_mph_built-up_roads 30_mph_built-up_roads Britain 2014 . ",
-      "The survey revealed that 30 % of the respondents Motorcycles purchase 30_mph_built-up_roads products 2014 ."
+      "United Kingdom average heating degree amounted to 41 million U.S. dollars in 2019 . ",
+      "While degree dropped in Jan , Europe the Mar , and Mar from 2018 , average offices in North Jan and Asia-Pacific both saw an increase of around 800 million U.S. dollars during that period . ",
+      "In the last decade , the Asia-Pacific UK tripled its average heating degree and became a key player in the United Kingdom film industry ."
    ],
    "trends": [
       {
-         "10": [
-            "1",
-            "0"
-         ],
          "11": [
             "0",
             "0"
          ]
       },
       {
-         "4": [
-            "0",
-            "1"
-         ],
-         "11": [
-            "0",
+         "16": [
+            "1",
             "0"
          ]
-      }
+      },
+      {}
    ],
    "data": [
       {
-         "Vehicle type": "30 mph built-up roads",
-         "Motorcycles": "30",
-         "Cars": "30",
-         "Cars towing": "29",
-         "Light Goods": "30",
-         "Buses/coaches": "27",
-         "Rigid heavy goods vehicles": "29",
-         "Articulated heavy goods vehicles": "29"
+         "Year": "2019",
+         "Jan": "11.3",
+         "Feb": "8.6",
+         "Mar": "7.6",
+         "Apr": "6.4",
+         "May": "0",
+         "Jun": "0",
+         "Jul": "0",
+         "Aug": "0",
+         "Sep": "0",
+         "Oct": "0",
+         "Nov": "0",
+         "Dec": "0"
       },
       {
-         "Vehicle type": "40 mph built-up roads",
-         "Motorcycles": "36",
-         "Cars": "35",
-         "Cars towing": "33",
-         "Light Goods": "35",
-         "Buses/coaches": "33",
-         "Rigid heavy goods vehicles": "34",
-         "Articulated heavy goods vehicles": "35"
+         "Year": "2018",
+         "Jan": "10.2",
+         "Feb": "12.4",
+         "Mar": "10.6",
+         "Apr": "6.0",
+         "May": "2.8",
+         "Jun": "0.5",
+         "Jul": "0",
+         "Aug": "0.5",
+         "Sep": "2.1",
+         "Oct": "4.9",
+         "Nov": "7.3",
+         "Dec": "8.7"
       },
       {
-         "Vehicle type": "Motorways",
-         "Motorcycles": "68",
-         "Cars": "68",
-         "Cars towing": "57",
-         "Light Goods": "68",
-         "Buses/coaches": "58",
-         "Rigid heavy goods vehicles": "60",
-         "Articulated heavy goods vehicles": "54"
+         "Year": "2017",
+         "Jan": "11.2",
+         "Feb": "9.3",
+         "Mar": "7.0",
+         "Apr": "6.5",
+         "May": "2.9",
+         "Jun": "0.7",
+         "Jul": "0.1",
+         "Aug": "0.5",
+         "Sep": "2.1",
+         "Oct": "3.2",
+         "Nov": "8.5",
+         "Dec": "10.4"
       },
       {
-         "Vehicle type": "Dual carriageways",
-         "Motorcycles": "67",
-         "Cars": "67",
-         "Cars towing": "56",
-         "Light Goods": "57",
-         "Buses/coaches": "56",
-         "Rigid heavy goods vehicles": "59",
-         "Articulated heavy goods vehicles": "53"
+         "Year": "2016",
+         "Jan": "9.8",
+         "Feb": "10.4",
+         "Mar": "9.4",
+         "Apr": "8.0",
+         "May": "3.4",
+         "Jun": "0.9",
+         "Jul": "0.4",
+         "Aug": "0.1",
+         "Sep": "0.7",
+         "Oct": "4.6",
+         "Nov": "9.7",
+         "Dec": "9"
       },
       {
-         "Vehicle type": "Single carriageways",
-         "Motorcycles": "51",
-         "Cars": "47",
-         "Cars towing": "43",
-         "Light Goods": "48",
-         "Buses/coaches": "46",
-         "Rigid heavy goods vehicles": "46",
-         "Articulated heavy goods vehicles": "44"
+         "Year": "2015",
+         "Jan": "10.7",
+         "Feb": "11.2",
+         "Mar": "9.2",
+         "Apr": "6.4",
+         "May": "4.6",
+         "Jun": "1.9",
+         "Jul": "0.7",
+         "Aug": "0.4",
+         "Sep": "2.8",
+         "Oct": "4.6",
+         "Nov": "6",
+         "Dec": "6"
+      },
+      {
+         "Year": "2014",
+         "Jan": "9.9",
+         "Feb": "9.2",
+         "Mar": "7.9",
+         "Apr": "5.4",
+         "May": "3.3",
+         "Jun": "0.6",
+         "Jul": "0.1",
+         "Aug": "0.8",
+         "Sep": "0.9",
+         "Oct": "3.3",
+         "Nov": "7.1",
+         "Dec": "10"
       }
-   ]
+   ],
+   "gold": "During this period , the greatest number of heating degree days ( HDD 's ) in the UK were recorded in January and February . In 2019 , there were 11.3 HDD 's in January , which was an increase on the previous year . The most HDD 's in the period of consideration was in February 2018 , at 12.4 days .\n"
 }

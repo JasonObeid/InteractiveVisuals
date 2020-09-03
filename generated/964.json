@@ -1,123 +1,81 @@
 {
-   "title": "U.S. government - Budget surplus or deficit 2000 to 2025",
-   "xAxis": "Year",
-   "yAxis": "Surplus/deficit in trillion U.S. dollars",
-   "columnType": "two",
-   "graphType": "line",
+   "title": "Trust in online customer reviews 2014 to 2018",
+   "labels": [
+      "Response",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
    "summary": [
-      "This statistic shows the total Surplus/deficit of trillion that Budget surplus in the deficit from 2000 to . ",
-      "In 2000 , there were around 0.24 trillion in the deficit ."
+      "The statistic shows the Trust online customer reviews 2014 in and 2018 . ",
+      "As of 2018 , 31 % of respondents said their Trust online customer reviews technology was Yes_always modeling ( FDM ) ."
    ],
    "trends": [
       {},
       {
-         "6": "25"
+         "4": [
+            "1",
+            "2"
+         ],
+         "16": [
+            "0",
+            "0"
+         ]
       }
    ],
    "data": [
       {
-         "Year": "'25",
-         "Surplus/deficit in trillion U.S. dollars": "-0.53"
+         "Response": "Yes always",
+         "2014": "0",
+         "2015": "8",
+         "2016": "18",
+         "2017": "19",
+         "2018": "19"
       },
       {
-         "Year": "'24",
-         "Surplus/deficit in trillion U.S. dollars": "-0.55"
+         "Response": "Yes if I believe the reviews are authentic",
+         "2014": "22",
+         "2015": "31",
+         "2016": "27",
+         "2017": "27",
+         "2018": "19"
       },
       {
-         "Year": "'23",
-         "Surplus/deficit in trillion U.S. dollars": "-0.75"
+         "Response": "Yes for some types of businesses no for others",
+         "2014": "34",
+         "2015": "22",
+         "2016": "19",
+         "2017": "20",
+         "2018": "15"
       },
       {
-         "Year": "'22",
-         "Surplus/deficit in trillion U.S. dollars": "-0.92"
+         "Response": "Yes if there are multiple customer reviews to read",
+         "2014": "26",
+         "2015": "19",
+         "2016": "20",
+         "2017": "20",
+         "2018": "25"
       },
       {
-         "Year": "'21",
-         "Surplus/deficit in trillion U.S. dollars": "-0.97"
+         "Response": "No I am often skeptical about online reviews",
+         "2014": "0",
+         "2015": "0",
+         "2016": "12",
+         "2017": "13",
+         "2018": "16"
       },
       {
-         "Year": "'20",
-         "Surplus/deficit in trillion U.S. dollars": "-1.08"
-      },
-      {
-         "Year": "'19",
-         "Surplus/deficit in trillion U.S. dollars": "-0.98"
-      },
-      {
-         "Year": "'18",
-         "Surplus/deficit in trillion U.S. dollars": "-0.78"
-      },
-      {
-         "Year": "'17",
-         "Surplus/deficit in trillion U.S. dollars": "-0.67"
-      },
-      {
-         "Year": "'16",
-         "Surplus/deficit in trillion U.S. dollars": "-0.58"
-      },
-      {
-         "Year": "'15",
-         "Surplus/deficit in trillion U.S. dollars": "-0.44"
-      },
-      {
-         "Year": "'14",
-         "Surplus/deficit in trillion U.S. dollars": "-0.48"
-      },
-      {
-         "Year": "'13",
-         "Surplus/deficit in trillion U.S. dollars": "-0.68"
-      },
-      {
-         "Year": "'12",
-         "Surplus/deficit in trillion U.S. dollars": "-1.08"
-      },
-      {
-         "Year": "'11",
-         "Surplus/deficit in trillion U.S. dollars": "-1.3"
-      },
-      {
-         "Year": "'10",
-         "Surplus/deficit in trillion U.S. dollars": "-1.29"
-      },
-      {
-         "Year": "'09",
-         "Surplus/deficit in trillion U.S. dollars": "-1.41"
-      },
-      {
-         "Year": "'08",
-         "Surplus/deficit in trillion U.S. dollars": "-0.46"
-      },
-      {
-         "Year": "'07",
-         "Surplus/deficit in trillion U.S. dollars": "-0.16"
-      },
-      {
-         "Year": "'06",
-         "Surplus/deficit in trillion U.S. dollars": "-0.25"
-      },
-      {
-         "Year": "'05",
-         "Surplus/deficit in trillion U.S. dollars": "-0.32"
-      },
-      {
-         "Year": "'04",
-         "Surplus/deficit in trillion U.S. dollars": "-0.41"
-      },
-      {
-         "Year": "'03",
-         "Surplus/deficit in trillion U.S. dollars": "-0.38"
-      },
-      {
-         "Year": "'02",
-         "Surplus/deficit in trillion U.S. dollars": "-0.16"
-      },
-      {
-         "Year": "'01",
-         "Surplus/deficit in trillion U.S. dollars": "0.13"
-      },
-      {
-         "Year": "'00",
-         "Surplus/deficit in trillion U.S. dollars": "0.24"
+         "Response": "No I don't trust reviews at all",
+         "2014": "17",
+         "2015": "20",
+         "2016": "4",
+         "2017": "3",
+         "2018": "6"
       }
-   ]
+   ],
+   "gold": "This statistic compares consumers trust in online reviews compared to personal recommendations . During the October 2018 survey it was found that 19 percent of respondents trusted online reviews if they believed them to be authentic .\n"
 }

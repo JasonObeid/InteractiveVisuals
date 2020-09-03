@@ -4,36 +4,26 @@
    "yAxis": "Expenditure in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Expenditure in million U.S. dollars, with a total of 9 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely positive which exists from 2017 to 2013.",
-      " Similarly, the next significant trend is moderately negative which exists from 2013 to 2010.",
-      " Contrarily, the next significant trend is extremely negative which exists from 2018 to 2017."
+      " The longest trend is slightly negative which exists from 2017 to 2013.",
+      " But, the next significant trend is moderately positive which exists from 2013 to 2010.",
+      " Additionally, the next significant trend is extremely positive which exists from 2018 to 2017."
    ],
    "trends": [
+      {},
       {
-         "Length": 5,
-         "direction": "positive",
-         "start": 1,
-         "end": 5,
-         "trend": "y=-89.5x+180858.3",
-         "magnitude": "extremely"
+         "1": "1",
+         "12": "5"
       },
       {
-         "Length": 4,
-         "direction": "negative",
-         "start": 5,
-         "end": 8,
-         "trend": "y=-18.1x+37107.4",
-         "magnitude": "moderately"
+         "3": "5",
+         "14": "8"
       },
       {
-         "Length": 2,
-         "direction": "negative",
-         "start": 0,
-         "end": 1,
-         "trend": "y=38.0x+-76255.0",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "1"
       }
    ],
    "data": [

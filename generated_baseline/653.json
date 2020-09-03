@@ -4,15 +4,24 @@
    "yAxis": "Number of home runs",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 10 categories for the x axis representing Players, and a y axis representing Number of home runs.",
       " The highest category is found at Carlos_Delgado where Number of home runs is 336.0.",
       " The lowest category is found at Ernie_Whitt where Number of home runs is 131.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 9
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
    "data": [
       {
          "Players": "Carlos Delgado",

@@ -1,57 +1,93 @@
 {
-   "title": "U.S. market share of men 's electric shaver manufacturer 2004 to 2008",
+   "title": "Google : global corporate demography 2014 - 2019 , by gender",
    "labels": [
-      "unknown",
-      "2004",
-      "2008"
+      "Year",
+      "Female",
+      "Male"
    ],
    "columnType": "multi",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 7 categories for the x axis of unknown representing 2004, 2008.",
-      " The highest category is found at Philips (Norelco) with a mean value of 39.0.",
-      " The second highest category is found at Spectrum Brands (Remington/Rayovac) with a mean value of 37.0.",
-      " This represents a difference of 5.3%."
+      "This line chart has 2 lines.",
+      " The line representing Male had the highest values across Year with a mean value of 69.2.",
+      " This peaked at 2014 with a value of 69.4. ",
+      " The line with the second highest values was Female with a mean value of 30.9.",
+      " This line peaked at 2019 with a value of 31.6"
    ],
-   "trends": {
-      "maxIndex": 1,
-      "secondIndex": 1
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "5",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "9": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "5",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "10": [
+            "0",
+            "0"
+         ]
+      }
+   ],
    "data": [
       {
-         "unknown": "Spectrum Brands (Remington/Rayovac)",
-         "2004": "33",
-         "2008": "41"
+         "Year": "2014",
+         "Female": "30.6",
+         "Male": "69.4"
       },
       {
-         "unknown": "Philips (Norelco)",
-         "2004": "44",
-         "2008": "34"
+         "Year": "2015",
+         "Female": "30.6",
+         "Male": "69.4"
       },
       {
-         "unknown": "Proctor & Gamble (Gillette/Braun)",
-         "2004": "14",
-         "2008": "10"
+         "Year": "2016",
+         "Female": "30.6",
+         "Male": "69.4"
       },
       {
-         "unknown": "Conair",
-         "2004": "0",
-         "2008": "8"
+         "Year": "2017",
+         "Female": "30.8",
+         "Male": "69.2"
       },
       {
-         "unknown": "Matsushita (Panasonic)",
-         "2004": "5",
-         "2008": "5"
+         "Year": "2018",
+         "Female": "30.9",
+         "Male": "69.1"
       },
       {
-         "unknown": "Wahl",
-         "2004": "3",
-         "2008": "0"
-      },
-      {
-         "unknown": "Others",
-         "2004": "1",
-         "2008": "2"
+         "Year": "2019",
+         "Female": "31.6",
+         "Male": "68.4"
       }
    ]
 }

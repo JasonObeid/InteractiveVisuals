@@ -1,19 +1,20 @@
 {
-   "title": "Gross domestic product ( GDP ) of Ukraine 2024",
+   "title": "Gross domestic product ( GDP ) in Israel 2024",
    "xAxis": "Year",
-   "yAxis": "GDP in billion U.S. dollars",
+   "yAxis": "Gross domestic product in billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Gross domestic product ( GDP ) in Ukraine from 1994 to 2018 , with projections up until 2024 . ",
-      "GDP refers to the total market value of all goods and services that are produced within a country per Year . ",
-      "It is an important indicator of the economic strength of a country ."
+      "The statistic shows Gross domestic product ( GDP ) in Israel from 1984 to 2018 , with projections up until 2024 . ",
+      "Gross domestic product ( GDP ) denotes the aggregate value of all services and goods produced within a country in any given Year . ",
+      "GDP is an important indicator of a country 's economic power ."
    ],
    "trends": [
       {
-         "13": "30",
-         "15": "6",
-         "21": "0"
+         "12": "40",
+         "14": "6",
+         "20": "0"
       },
       {},
       {}
@@ -21,127 +22,168 @@
    "data": [
       {
          "Year": "2024",
-         "GDP in billion U.S. dollars": "204.49"
+         "Gross domestic product in billion U.S. dollars": "511.65"
       },
       {
          "Year": "2023",
-         "GDP in billion U.S. dollars": "193.32"
+         "Gross domestic product in billion U.S. dollars": "483.88"
       },
       {
          "Year": "2022",
-         "GDP in billion U.S. dollars": "182.52"
+         "Gross domestic product in billion U.S. dollars": "457.45"
       },
       {
          "Year": "2021",
-         "GDP in billion U.S. dollars": "172.23"
+         "Gross domestic product in billion U.S. dollars": "433.17"
       },
       {
          "Year": "2020",
-         "GDP in billion U.S. dollars": "161.87"
+         "Gross domestic product in billion U.S. dollars": "410.5"
       },
       {
          "Year": "2019",
-         "GDP in billion U.S. dollars": "150.4"
+         "Gross domestic product in billion U.S. dollars": "387.72"
       },
       {
          "Year": "2018",
-         "GDP in billion U.S. dollars": "130.86"
+         "Gross domestic product in billion U.S. dollars": "370.59"
       },
       {
          "Year": "2017",
-         "GDP in billion U.S. dollars": "112.13"
+         "Gross domestic product in billion U.S. dollars": "353.25"
       },
       {
          "Year": "2016",
-         "GDP in billion U.S. dollars": "93.31"
+         "Gross domestic product in billion U.S. dollars": "318.95"
       },
       {
          "Year": "2015",
-         "GDP in billion U.S. dollars": "90.49"
+         "Gross domestic product in billion U.S. dollars": "299.81"
       },
       {
          "Year": "2014",
-         "GDP in billion U.S. dollars": "130.57"
+         "Gross domestic product in billion U.S. dollars": "309.56"
       },
       {
          "Year": "2013",
-         "GDP in billion U.S. dollars": "179.57"
+         "Gross domestic product in billion U.S. dollars": "292.92"
       },
       {
          "Year": "2012",
-         "GDP in billion U.S. dollars": "175.71"
+         "Gross domestic product in billion U.S. dollars": "257.44"
       },
       {
          "Year": "2011",
-         "GDP in billion U.S. dollars": "163.16"
+         "Gross domestic product in billion U.S. dollars": "261.72"
       },
       {
          "Year": "2010",
-         "GDP in billion U.S. dollars": "136.01"
+         "Gross domestic product in billion U.S. dollars": "233.73"
       },
       {
          "Year": "2009",
-         "GDP in billion U.S. dollars": "117.08"
+         "Gross domestic product in billion U.S. dollars": "207.45"
       },
       {
          "Year": "2008",
-         "GDP in billion U.S. dollars": "181.31"
+         "Gross domestic product in billion U.S. dollars": "215.96"
       },
       {
          "Year": "2007",
-         "GDP in billion U.S. dollars": "143.26"
+         "Gross domestic product in billion U.S. dollars": "178.74"
       },
       {
          "Year": "2006",
-         "GDP in billion U.S. dollars": "107.77"
+         "Gross domestic product in billion U.S. dollars": "153.98"
       },
       {
          "Year": "2005",
-         "GDP in billion U.S. dollars": "86.0"
+         "Gross domestic product in billion U.S. dollars": "142.41"
       },
       {
          "Year": "2004",
-         "GDP in billion U.S. dollars": "64.75"
+         "Gross domestic product in billion U.S. dollars": "135.34"
       },
       {
          "Year": "2003",
-         "GDP in billion U.S. dollars": "50.1"
+         "Gross domestic product in billion U.S. dollars": "126.81"
       },
       {
          "Year": "2002",
-         "GDP in billion U.S. dollars": "42.34"
+         "Gross domestic product in billion U.S. dollars": "121.04"
       },
       {
          "Year": "2001",
-         "GDP in billion U.S. dollars": "37.86"
+         "Gross domestic product in billion U.S. dollars": "130.67"
       },
       {
          "Year": "2000",
-         "GDP in billion U.S. dollars": "32.33"
+         "Gross domestic product in billion U.S. dollars": "132.24"
       },
       {
          "Year": "1999",
-         "GDP in billion U.S. dollars": "32.66"
+         "Gross domestic product in billion U.S. dollars": "117.01"
       },
       {
          "Year": "1998",
-         "GDP in billion U.S. dollars": "43.32"
+         "Gross domestic product in billion U.S. dollars": "115.86"
       },
       {
          "Year": "1997",
-         "GDP in billion U.S. dollars": "51.87"
+         "Gross domestic product in billion U.S. dollars": "114.62"
       },
       {
          "Year": "1996",
-         "GDP in billion U.S. dollars": "46.08"
+         "Gross domestic product in billion U.S. dollars": "109.86"
       },
       {
          "Year": "1995",
-         "GDP in billion U.S. dollars": "38.28"
+         "Gross domestic product in billion U.S. dollars": "100.24"
       },
       {
          "Year": "1994",
-         "GDP in billion U.S. dollars": "38.01"
+         "Gross domestic product in billion U.S. dollars": "84.38"
+      },
+      {
+         "Year": "1993",
+         "Gross domestic product in billion U.S. dollars": "73.92"
+      },
+      {
+         "Year": "1992",
+         "Gross domestic product in billion U.S. dollars": "73.55"
+      },
+      {
+         "Year": "1991",
+         "Gross domestic product in billion U.S. dollars": "65.82"
+      },
+      {
+         "Year": "1990",
+         "Gross domestic product in billion U.S. dollars": "58.02"
+      },
+      {
+         "Year": "1989",
+         "Gross domestic product in billion U.S. dollars": "49.17"
+      },
+      {
+         "Year": "1988",
+         "Gross domestic product in billion U.S. dollars": "48.33"
+      },
+      {
+         "Year": "1987",
+         "Gross domestic product in billion U.S. dollars": "39.01"
+      },
+      {
+         "Year": "1986",
+         "Gross domestic product in billion U.S. dollars": "32.66"
+      },
+      {
+         "Year": "1985",
+         "Gross domestic product in billion U.S. dollars": "26.53"
+      },
+      {
+         "Year": "1984",
+         "Gross domestic product in billion U.S. dollars": "28.55"
       }
-   ]
+   ],
+   "gold": "The statistic shows the gross domestic product ( GDP ) in Israel from 1984 to 2018 , with projections up until 2024 . Gross domestic product ( GDP ) denotes the aggregate value of all services and goods produced within a country in any given year . GDP is an important indicator of a country 's economic power .\n"
 }

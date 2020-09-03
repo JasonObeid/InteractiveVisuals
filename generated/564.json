@@ -1,120 +1,140 @@
 {
-   "title": "Share of economic sectors in the GDP in Malaysia 2018",
-   "labels": [
-      "Year",
-      "Agriculture",
-      "Industry",
-      "Services"
-   ],
-   "columnType": "multi",
-   "graphType": "line",
+   "title": "Computer tomography scanner density by country 2017",
+   "xAxis": "Country",
+   "yAxis": "CT scanners per million population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the Share of the economic sectors GDP Malaysia in from 2008 to 2018 . ",
-      "In 2018 , 7.54 % of the economic were employed in Agriculture , 38.3 % in Industry and 52.96 % in Services . ",
-      "Share of economic in Malaysia \u2013 additional information In 2012 , Malaysia was the largest exporting country worldwide with an export value of about two billion U.S. dollars ."
+      "The statistic shows the CT of scanners per in the Ireland member states as of country 2017 . ",
+      "The source defines CT of scanners per in Iceland was 42.64 scanners per ."
    ],
    "trends": [
       {
-         "14": [
-            "10",
-            "0"
-         ],
-         "16": [
-            "0",
-            "0"
-         ]
+         "10": "13"
       },
       {
-         "1": [
-            "0",
-            "0"
-         ],
-         "3": [
-            "0",
-            "1"
-         ],
-         "13": [
-            "0",
-            "2"
-         ],
-         "18": [
-            "0",
-            "3"
-         ]
-      },
-      {
-         "9": [
-            "6",
-            "0"
-         ]
+         "8": "1",
+         "10": "2"
       }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Agriculture": "7.54",
-         "Industry": "38.3",
-         "Services": "52.96"
+         "Country": "Australia",
+         "CT scanners per million population": "64.35"
       },
       {
-         "Year": "2017",
-         "Agriculture": "8.61",
-         "Industry": "38.13",
-         "Services": "51.85"
+         "Country": "Iceland",
+         "CT scanners per million population": "44.33"
       },
       {
-         "Year": "2016",
-         "Agriculture": "8.46",
-         "Industry": "37.68",
-         "Services": "52.53"
+         "Country": "United States",
+         "CT scanners per million population": "42.64"
       },
       {
-         "Year": "2015",
-         "Agriculture": "8.29",
-         "Industry": "38.45",
-         "Services": "52.01"
+         "Country": "Denmark",
+         "CT scanners per million population": "39.83"
       },
       {
-         "Year": "2014",
-         "Agriculture": "8.87",
-         "Industry": "39.92",
-         "Services": "50.12"
+         "Country": "Switzerland",
+         "CT scanners per million population": "38.93"
       },
       {
-         "Year": "2013",
-         "Agriculture": "9.11",
-         "Industry": "39.89",
-         "Services": "49.94"
+         "Country": "South Korea",
+         "CT scanners per million population": "38.18"
       },
       {
-         "Year": "2012",
-         "Agriculture": "9.79",
-         "Industry": "40.14",
-         "Services": "49.02"
+         "Country": "Greece",
+         "CT scanners per million population": "36.66"
       },
       {
-         "Year": "2011",
-         "Agriculture": "11.45",
-         "Industry": "39.82",
-         "Services": "47.77"
+         "Country": "Latvia",
+         "CT scanners per million population": "36.23"
       },
       {
-         "Year": "2010",
-         "Agriculture": "10.09",
-         "Industry": "40.5",
-         "Services": "48.48"
+         "Country": "Germany",
+         "CT scanners per million population": "35.17"
       },
       {
-         "Year": "2009",
-         "Agriculture": "9.22",
-         "Industry": "40.97",
-         "Services": "48.84"
+         "Country": "Italy",
+         "CT scanners per million population": "34.29"
       },
       {
-         "Year": "2008",
-         "Agriculture": "9.97",
-         "Industry": "45.11",
-         "Services": "43.95"
+         "Country": "Austria",
+         "CT scanners per million population": "29.07"
+      },
+      {
+         "Country": "Chile",
+         "CT scanners per million population": "24.27"
+      },
+      {
+         "Country": "Finland",
+         "CT scanners per million population": "24.2"
+      },
+      {
+         "Country": "Ireland",
+         "CT scanners per million population": "19.23"
+      },
+      {
+         "Country": "Spain",
+         "CT scanners per million population": "18.26"
+      },
+      {
+         "Country": "New Zealand",
+         "CT scanners per million population": "17.9"
+      },
+      {
+         "Country": "Estonia",
+         "CT scanners per million population": "17.48"
+      },
+      {
+         "Country": "Poland",
+         "CT scanners per million population": "17.33"
+      },
+      {
+         "Country": "France",
+         "CT scanners per million population": "17.33"
+      },
+      {
+         "Country": "Slovak Rep.",
+         "CT scanners per million population": "17.31"
+      },
+      {
+         "Country": "Luxembourg",
+         "CT scanners per million population": "16.77"
+      },
+      {
+         "Country": "Czech Rep.",
+         "CT scanners per million population": "15.52"
+      },
+      {
+         "Country": "Canada",
+         "CT scanners per million population": "15.28"
+      },
+      {
+         "Country": "Slovenia",
+         "CT scanners per million population": "15.01"
+      },
+      {
+         "Country": "Turkey",
+         "CT scanners per million population": "14.53"
+      },
+      {
+         "Country": "Netherlands",
+         "CT scanners per million population": "13.04"
+      },
+      {
+         "Country": "Israel",
+         "CT scanners per million population": "9.65"
+      },
+      {
+         "Country": "Hungary",
+         "CT scanners per million population": "8.86"
+      },
+      {
+         "Country": "Mexico",
+         "CT scanners per million population": "6.12"
       }
-   ]
+   ],
+   "gold": "Computer tomography ( CT ) scanners are vital medical technology used in the diagnosis and monitoring of various medical conditions . CT scanner utilize x-ray technology to make images of bones , vessels and other internal organs . As of 2017 , Australia had the largest number of CT scanners per one million population with 64.35 scanners per million people .\n"
 }

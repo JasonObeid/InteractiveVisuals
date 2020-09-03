@@ -4,18 +4,16 @@
    "yAxis": "Spending in billion euros",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Spending in billion euros with a total of 8 data points. The chart has one significant trend.",
-      " This trend is extremely negative which exists from 2028 to 2012."
+      " This trend is positive which exists from 2028 to 2012."
    ],
    "trends": [
+      {},
       {
-         "Length": 8,
-         "direction": "negative",
-         "start": 0,
-         "end": 7,
-         "trend": "y=0.92x+-1831.03",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "7"
       }
    ],
    "data": [

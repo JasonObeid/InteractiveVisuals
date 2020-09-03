@@ -1,147 +1,37 @@
 {
-   "title": "Super Bowl TV ratings in the U.S. 1990 to 2020",
-   "xAxis": "Year",
-   "yAxis": "Super Bowl TV rating",
+   "title": "Uber users in the United States 2017 , by device",
+   "xAxis": "Device",
+   "yAxis": "Number of visits",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Super Bowl of the world population from 0 to 99 . ",
-      "By 99 , the Bowl Super is Super Bowl TV to be 40.2 years of Bowl ."
+      "This statistic shows the visits of the Uber users United in the States in 2017 , device . ",
+      "In that year , Uber stores in the United States generated approximately 17.7 visits worth of fule visits device users month ."
    ],
    "trends": [
+      {},
       {
-         "11": "20",
-         "13": "21"
-      },
-      {
-         "1": "21",
-         "11": "21"
+         "11": "0"
       }
    ],
    "data": [
       {
-         "Year": "20",
-         "Super Bowl TV rating": "41.6"
+         "Device": "Smartphone",
+         "Number of visits": "17.7"
       },
       {
-         "Year": "19",
-         "Super Bowl TV rating": "41.1"
+         "Device": "Tablet",
+         "Number of visits": "1.2"
       },
       {
-         "Year": "18",
-         "Super Bowl TV rating": "43.1"
+         "Device": "Desktop",
+         "Number of visits": "6.8"
       },
       {
-         "Year": "17",
-         "Super Bowl TV rating": "45.3"
-      },
-      {
-         "Year": "16",
-         "Super Bowl TV rating": "46.6"
-      },
-      {
-         "Year": "15",
-         "Super Bowl TV rating": "47.5"
-      },
-      {
-         "Year": "14",
-         "Super Bowl TV rating": "46.4"
-      },
-      {
-         "Year": "13",
-         "Super Bowl TV rating": "46.3"
-      },
-      {
-         "Year": "12",
-         "Super Bowl TV rating": "47.0"
-      },
-      {
-         "Year": "11",
-         "Super Bowl TV rating": "46.0"
-      },
-      {
-         "Year": "10",
-         "Super Bowl TV rating": "45.0"
-      },
-      {
-         "Year": "9",
-         "Super Bowl TV rating": "42.0"
-      },
-      {
-         "Year": "8",
-         "Super Bowl TV rating": "43.1"
-      },
-      {
-         "Year": "7",
-         "Super Bowl TV rating": "42.6"
-      },
-      {
-         "Year": "6",
-         "Super Bowl TV rating": "41.6"
-      },
-      {
-         "Year": "5",
-         "Super Bowl TV rating": "41.1"
-      },
-      {
-         "Year": "4",
-         "Super Bowl TV rating": "41.4"
-      },
-      {
-         "Year": "3",
-         "Super Bowl TV rating": "40.7"
-      },
-      {
-         "Year": "2",
-         "Super Bowl TV rating": "40.4"
-      },
-      {
-         "Year": "1",
-         "Super Bowl TV rating": "40.4"
-      },
-      {
-         "Year": "0",
-         "Super Bowl TV rating": "43.3"
-      },
-      {
-         "Year": "99",
-         "Super Bowl TV rating": "40.2"
-      },
-      {
-         "Year": "98",
-         "Super Bowl TV rating": "44.5"
-      },
-      {
-         "Year": "97",
-         "Super Bowl TV rating": "43.3"
-      },
-      {
-         "Year": "96",
-         "Super Bowl TV rating": "46.0"
-      },
-      {
-         "Year": "95",
-         "Super Bowl TV rating": "41.3"
-      },
-      {
-         "Year": "94",
-         "Super Bowl TV rating": "45.5"
-      },
-      {
-         "Year": "93",
-         "Super Bowl TV rating": "45.1"
-      },
-      {
-         "Year": "92",
-         "Super Bowl TV rating": "40.3"
-      },
-      {
-         "Year": "91",
-         "Super Bowl TV rating": "41.9"
-      },
-      {
-         "Year": "90",
-         "Super Bowl TV rating": "39.0"
+         "Device": "Mobile-only",
+         "Number of visits": "16.6"
       }
-   ]
+   ],
+   "gold": "By far the most common method to access the ride-sharing platform Uber in the United States is via smartphone ; around 17.7 million U.S. adults had accessed Uber via smartphone as of April 2017 \u2013 significantly higher than the next most popular platform , desktop computers , with 6.8 million users . The U.S. ride sharing market Uber is the largest ride-sharing platform in the United States , accounting for just under 70 percent of the total market as of October 2018 . However Lyft , the next-largest ride sharing platform in the U.S. , has seen significant growth in ridership over the last five years , narrowing the gap between it and Uber .\n"
 }

@@ -1,57 +1,62 @@
 {
-   "title": "Projected world population distribution , by age group 2020 to 2100",
-   "labels": [
-      "Year",
-      "0 - 14 years",
-      "15 - 59 years",
-      "60 years and over"
-   ],
-   "columnType": "multi",
-   "graphType": "line",
+   "title": "10 Countries in Asia Pacific with the largest number of Christians in 2010",
+   "xAxis": "Country",
+   "yAxis": "Estimated Christian population in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the Projected of world by from 2020 to 2100 . ",
-      "In 2020 , the revenue from smartwatch Projected by amounted to 25.4 billion U.S. dollars ."
+      "The statistic shows the countries worldwide with the most Estimated of Asia Pacific Countries Christian in 2010 . ",
+      "Philippines was the Country with the most Asia Pacific Countries worldwide with a total of 86.79 millions Asia Pacific Christian , a share of 10 millions of the global Asia Pacific Countries ."
    ],
    "trends": [
+      {},
       {
-         "9": [
-            "2",
-            "0"
-         ],
-         "11": [
-            "0",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "2",
-            "0"
-         ],
-         "11": [
-            "2",
-            "1"
-         ]
+         "0": "0",
+         "14": "0"
       }
    ],
    "data": [
       {
-         "Year": "2100",
-         "0 - 14 years": "17.4",
-         "15 - 59 years": "54.3",
-         "60 years and over": "28.2"
+         "Country": "Philippines",
+         "Estimated Christian population in millions": "86.79"
       },
       {
-         "Year": "2050",
-         "0 - 14 years": "21.1",
-         "15 - 59 years": "57.5",
-         "60 years and over": "21.4"
+         "Country": "China",
+         "Estimated Christian population in millions": "67.07"
       },
       {
-         "Year": "2020",
-         "0 - 14 years": "25.4",
-         "15 - 59 years": "61.1",
-         "60 years and over": "13.5"
+         "Country": "India",
+         "Estimated Christian population in millions": "31.85"
+      },
+      {
+         "Country": "Indonesia",
+         "Estimated Christian population in millions": "21.16"
+      },
+      {
+         "Country": "Australia",
+         "Estimated Christian population in millions": "16.03"
+      },
+      {
+         "Country": "South Korea",
+         "Estimated Christian population in millions": "14.1"
+      },
+      {
+         "Country": "Vietnam",
+         "Estimated Christian population in millions": "7.03"
+      },
+      {
+         "Country": "Papua New Guinea",
+         "Estimated Christian population in millions": "6.8"
+      },
+      {
+         "Country": "Kazakhstan",
+         "Estimated Christian population in millions": "4.19"
+      },
+      {
+         "Country": "Burma (Myanmar)",
+         "Estimated Christian population in millions": "3.79"
       }
-   ]
+   ],
+   "gold": "This statistic shows the 10 countries in Asia Pacific with the largest number of Christians in 2010 . 67.07 million Christians lived in China .\n"
 }

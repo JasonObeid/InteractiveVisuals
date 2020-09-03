@@ -1,98 +1,130 @@
 {
-   "title": "Revenue from top 20 women health products in the U.S. 2016\n",
-   "xAxis": "Product name (company)",
-   "yAxis": "Revenue in million U.S. dollars",
-   "columnType": "two",
-   "graphType": "bar",
-   "summary": [
-      "This bar chart has 20 categories for the x axis representing Product name (company), and a y axis representing Revenue in million U.S. dollars.",
-      " The highest category is found at Prolia_(Amgen) where Revenue in million U.S. dollars is 1049.0.",
-      " The lowest category is found at Junel/Loestrin_(Teva) where Revenue in million U.S. dollars is 79.0."
+   "title": "Distribution of the workforce across economic sectors in China 2018",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 19
-   },
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 3 lines.",
+      " The line representing Services had the highest values across Year with a mean value of 39.1.",
+      " This peaked at 2018 with a value of 46.3. ",
+      " The line with the second highest values was Agriculture with a mean value of 32.1.",
+      " This line peaked at 2008 with a value of 39.6"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "16": [
+            "10",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "2"
+         ],
+         "9": [
+            "0",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "10",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "10": [
+            "0",
+            "0"
+         ]
+      }
+   ],
    "data": [
       {
-         "Product name (company)": "Prolia (Amgen)",
-         "Revenue in million U.S. dollars": 1049.0
+         "Year": "2018",
+         "Agriculture": "26.1",
+         "Industry": "27.6",
+         "Services": "46.3"
       },
       {
-         "Product name (company)": "Premarin (Pfizer)",
-         "Revenue in million U.S. dollars": 956.0
+         "Year": "2017",
+         "Agriculture": "27",
+         "Industry": "28.1",
+         "Services": "44.9"
       },
       {
-         "Product name (company)": "Mirena (Bayer)",
-         "Revenue in million U.S. dollars": 776.0
+         "Year": "2016",
+         "Agriculture": "27.7",
+         "Industry": "28.8",
+         "Services": "43.5"
       },
       {
-         "Product name (company)": "Forteo (Eli Lilly)",
-         "Revenue in million U.S. dollars": 771.0
+         "Year": "2015",
+         "Agriculture": "28.3",
+         "Industry": "29.3",
+         "Services": "42.4"
       },
       {
-         "Product name (company)": "NuvaRing (Merck)",
-         "Revenue in million U.S. dollars": 576.0
+         "Year": "2014",
+         "Agriculture": "29.5",
+         "Industry": "29.9",
+         "Services": "40.6"
       },
       {
-         "Product name (company)": "Nexplanon (Merck)",
-         "Revenue in million U.S. dollars": 420.0
+         "Year": "2013",
+         "Agriculture": "31.4",
+         "Industry": "30.1",
+         "Services": "38.5"
       },
       {
-         "Product name (company)": "Lo Loestrin Fe (Allergan)",
-         "Revenue in million U.S. dollars": 404.0
+         "Year": "2012",
+         "Agriculture": "33.6",
+         "Industry": "30.3",
+         "Services": "36.1"
       },
       {
-         "Product name (company)": "Estrace Cream (Allergan)",
-         "Revenue in million U.S. dollars": 379.0
+         "Year": "2011",
+         "Agriculture": "34.8",
+         "Industry": "29.5",
+         "Services": "35.7"
       },
       {
-         "Product name (company)": "Makena (AMAG Pharm.)",
-         "Revenue in million U.S. dollars": 334.0
+         "Year": "2010",
+         "Agriculture": "36.7",
+         "Industry": "28.7",
+         "Services": "34.6"
       },
       {
-         "Product name (company)": "Minastrin 24 FE (Allergan)",
-         "Revenue in million U.S. dollars": 326.0
+         "Year": "2009",
+         "Agriculture": "38.1",
+         "Industry": "27.8",
+         "Services": "34.1"
       },
       {
-         "Product name (company)": "Vagifem (Novo Nordisk)",
-         "Revenue in million U.S. dollars": 302.0
-      },
-      {
-         "Product name (company)": "Lupron (AbbVie)",
-         "Revenue in million U.S. dollars": 285.0
-      },
-      {
-         "Product name (company)": "Gonal-F (Merck KGaA)",
-         "Revenue in million U.S. dollars": 221.0
-      },
-      {
-         "Product name (company)": "Follistim (Merck)",
-         "Revenue in million U.S. dollars": 157.0
-      },
-      {
-         "Product name (company)": "Yasmin (Bayer)",
-         "Revenue in million U.S. dollars": 142.0
-      },
-      {
-         "Product name (company)": "Oral contrception franchise (J&J/Pfizer)",
-         "Revenue in million U.S. dollars": 129.0
-      },
-      {
-         "Product name (company)": "Natazia (Bayer)",
-         "Revenue in million U.S. dollars": 104.0
-      },
-      {
-         "Product name (company)": "Minivelle (Hisamitsu)",
-         "Revenue in million U.S. dollars": 88.0
-      },
-      {
-         "Product name (company)": "Caltrate (Pfizer)",
-         "Revenue in million U.S. dollars": 87.0
-      },
-      {
-         "Product name (company)": "Junel/Loestrin (Teva)",
-         "Revenue in million U.S. dollars": 79.0
+         "Year": "2008",
+         "Agriculture": "39.6",
+         "Industry": "27.2",
+         "Services": "33.2"
       }
    ]
 }

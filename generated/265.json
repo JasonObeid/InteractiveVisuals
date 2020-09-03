@@ -1,163 +1,111 @@
 {
-   "title": "Foreign exchange earnings from tourism India 2012 - 2019 by month",
-   "labels": [
-      "Month",
-      "2012",
-      "2013",
-      "2014",
-      "2015",
-      "2016",
-      "2017",
-      "2018",
-      "2019"
-   ],
-   "columnType": "multi",
-   "graphType": "bar",
+   "title": "Unemployment rate in the Bahamas 2019",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Foreign exchange earnings from tourism India in 2012 , Month . ",
-      "In that year , the Foreign exchange earnings from tourism of 2012 in India 2012 amounted to 1.02 ."
+      "The statistic shows the Unemployment rate in Bahamas from 1999 to 2019 . ",
+      "In 2019 , the Unemployment rate in Bahamas was estimated to be 11.5 % . ",
+      "Bahamas 's economy in comparison to other BRIC states Bahamas possesses one of the fastest-growing economies in the world and as a result , Bahamas is recognized as one of the G-20 major economies as well a member of the BRIC countries , an association that is made up of rapidly growing economies ."
    ],
    "trends": [
-      {},
       {
-         "17": [
-            "7",
-            "1"
-         ]
-      }
+         "9": "20",
+         "11": "0"
+      },
+      {
+         "1": "0",
+         "12": "0"
+      },
+      {}
    ],
    "data": [
       {
-         "Month": "Dec",
-         "2012": "1.93",
-         "2013": "1.94",
-         "2014": "2.07",
-         "2015": "2.13",
-         "2016": "2.44",
-         "2017": "3.02",
-         "2018": "2.76",
-         "2019": "0"
+         "Year": "2019",
+         "Unemployment rate": "11.5"
       },
       {
-         "Month": "Nov",
-         "2012": "1.78",
-         "2013": "1.7",
-         "2014": "1.85",
-         "2015": "1.91",
-         "2016": "2.11",
-         "2017": "2.55",
-         "2018": "2.3",
-         "2019": "0"
+         "Year": "2018",
+         "Unemployment rate": "11.85"
       },
       {
-         "Month": "Oct",
-         "2012": "1.54",
-         "2013": "1.4",
-         "2014": "1.64",
-         "2015": "1.62",
-         "2016": "1.81",
-         "2017": "2.18",
-         "2018": "2.0",
-         "2019": "0"
+         "Year": "2017",
+         "Unemployment rate": "12.38"
       },
       {
-         "Month": "Sep",
-         "2012": "1.22",
-         "2013": "1.22",
-         "2014": "1.49",
-         "2015": "1.57",
-         "2016": "1.74",
-         "2017": "2.15",
-         "2018": "2.1",
-         "2019": "0"
+         "Year": "2016",
+         "Unemployment rate": "12.7"
       },
       {
-         "Month": "Aug",
-         "2012": "1.31",
-         "2013": "1.33",
-         "2014": "1.71",
-         "2015": "1.75",
-         "2016": "1.88",
-         "2017": "2.15",
-         "2018": "2.37",
-         "2019": "0"
+         "Year": "2015",
+         "Unemployment rate": "12"
       },
       {
-         "Month": "July",
-         "2012": "1.51",
-         "2013": "1.44",
-         "2014": "1.71",
-         "2015": "1.88",
-         "2016": "2.13",
-         "2017": "2.3",
-         "2018": "2.47",
-         "2019": "0"
+         "Year": "2014",
+         "Unemployment rate": "13.8"
       },
       {
-         "Month": "Jun",
-         "2012": "1.16",
-         "2013": "1.23",
-         "2014": "1.47",
-         "2015": "1.5",
-         "2016": "1.59",
-         "2017": "2.01",
-         "2018": "2.12",
-         "2019": "2.3"
+         "Year": "2013",
+         "Unemployment rate": "16.18"
       },
       {
-         "Month": "May",
-         "2012": "1.02",
-         "2013": "1.21",
-         "2014": "1.34",
-         "2015": "1.49",
-         "2016": "1.53",
-         "2017": "1.9",
-         "2018": "1.89",
-         "2019": "1.97"
+         "Year": "2012",
+         "Unemployment rate": "14.02"
       },
       {
-         "Month": "Apr",
-         "2012": "1.31",
-         "2013": "1.33",
-         "2014": "1.52",
-         "2015": "1.61",
-         "2016": "1.73",
-         "2017": "2.21",
-         "2018": "2.38",
-         "2019": "2.46"
+         "Year": "2011",
+         "Unemployment rate": "14.52"
       },
       {
-         "Month": "Mar",
-         "2012": "1.56",
-         "2013": "1.76",
-         "2014": "1.72",
-         "2015": "1.78",
-         "2016": "1.94",
-         "2017": "2.22",
-         "2018": "2.65",
-         "2019": "2.32"
+         "Year": "2010",
+         "Unemployment rate": "14.32"
       },
       {
-         "Month": "Feb",
-         "2012": "1.73",
-         "2013": "1.91",
-         "2014": "1.85",
-         "2015": "1.88",
-         "2016": "2.0",
-         "2017": "2.29",
-         "2018": "2.76",
-         "2019": "2.52"
+         "Year": "2009",
+         "Unemployment rate": "14.25"
       },
       {
-         "Month": "Jan",
-         "2012": "1.68",
-         "2013": "1.98",
-         "2014": "1.88",
-         "2015": "1.95",
-         "2016": "2.03",
-         "2017": "2.32",
-         "2018": "2.79",
-         "2019": "2.56"
+         "Year": "2008",
+         "Unemployment rate": "8.18"
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": "7.88"
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": "7.54"
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": "10.2"
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": "10.2"
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": "10.84"
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": "9.05"
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": "6.87"
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": "7.15"
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": "7.45"
       }
-   ]
+   ],
+   "gold": "This statistic shows the unemployment rate in the Bahamas from 1999 to 2019 . In 2019 , the unemployment rate in the Bahamas was at approximately 11.5 percent .\n"
 }

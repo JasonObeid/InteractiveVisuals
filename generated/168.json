@@ -1,99 +1,96 @@
 {
-   "title": "Leading car manufacturing countries worldwide 2018",
+   "title": "Gender distribution of newspaper journalists in the U.S. 2017 , by publication",
    "labels": [
-      "Country",
-      "Cars",
-      "Commercial vehicles"
+      "Newspaper",
+      "Female",
+      "Male"
    ],
    "columnType": "multi",
    "graphType": "bar",
    "summary": [
-      "This statistic shows the Leading car in the manufacturing countries worldwide in 2018 . ",
-      "In that year , China was the Leading producer with a manufacturing countries rate of approximately 4279.77 million U.S. dollars ."
+      "This statistic shows the 2017 of newspaper journalists U.S. across as of 2017 , broken down publication group . ",
+      "During the reported period , the highest U.S. 2017 belonged to consumers between the ages of 35 to 49 across all regions in U.S. , with 52 % ."
    ],
    "trends": [
       {},
       {
-         "4": [
-            "0",
-            "0"
-         ],
-         "16": [
-            "0",
+         "26": [
+            "13",
             "2"
          ]
       }
    ],
    "data": [
       {
-         "Country": "China",
-         "Cars": "23529.42",
-         "Commercial vehicles": "4279.77"
+         "Newspaper": "USA Today",
+         "Female": "31",
+         "Male": "69"
       },
       {
-         "Country": "United States",
-         "Cars": "2795.97",
-         "Commercial vehicles": "8518.73"
+         "Newspaper": "Chicago Sun Times",
+         "Female": "32",
+         "Male": "68"
       },
       {
-         "Country": "Japan",
-         "Cars": "8358.22",
-         "Commercial vehicles": "1370.31"
+         "Newspaper": "The Wall Street Journal",
+         "Female": "36",
+         "Male": "64"
       },
       {
-         "Country": "India",
-         "Cars": "4064.77",
-         "Commercial vehicles": "1109.87"
+         "Newspaper": "Houston Chronicle",
+         "Female": "38",
+         "Male": "62"
       },
       {
-         "Country": "Germany",
-         "Cars": "5120.41",
-         "Commercial vehicles": "0.0"
+         "Newspaper": "San Jose Mercury News",
+         "Female": "38",
+         "Male": "62"
       },
       {
-         "Country": "Mexico",
-         "Cars": "1575.81",
-         "Commercial vehicles": "2524.72"
+         "Newspaper": "The New York Times",
+         "Female": "41",
+         "Male": "59"
       },
       {
-         "Country": "South Korea",
-         "Cars": "3661.73",
-         "Commercial vehicles": "367.1"
+         "Newspaper": "Chicago Tribune",
+         "Female": "42",
+         "Male": "58"
       },
       {
-         "Country": "Brazil",
-         "Cars": "2386.76",
-         "Commercial vehicles": "493.05"
+         "Newspaper": "New York Post",
+         "Female": "42",
+         "Male": "58"
       },
       {
-         "Country": "Spain",
-         "Cars": "2267.4",
-         "Commercial vehicles": "552.17"
+         "Newspaper": "Los Angeles Times",
+         "Female": "43",
+         "Male": "57"
       },
       {
-         "Country": "France",
-         "Cars": "1763.0",
-         "Commercial vehicles": "507.0"
+         "Newspaper": "Newsday",
+         "Female": "43",
+         "Male": "57"
       },
       {
-         "Country": "Thailand",
-         "Cars": "877.02",
-         "Commercial vehicles": "1290.68"
+         "Newspaper": "The Washington Post",
+         "Female": "44",
+         "Male": "56"
       },
       {
-         "Country": "Canada",
-         "Cars": "655.9",
-         "Commercial vehicles": "1364.94"
+         "Newspaper": "The Dallas Morning News",
+         "Female": "44",
+         "Male": "56"
       },
       {
-         "Country": "Russia",
-         "Cars": "1563.57",
-         "Commercial vehicles": "204.1"
+         "Newspaper": "The Arizona Republic",
+         "Female": "46",
+         "Male": "54"
       },
       {
-         "Country": "UK",
-         "Cars": "1519.44",
-         "Commercial vehicles": "84.89"
+         "Newspaper": "The Philadelphia Inquirer",
+         "Female": "48",
+         "Male": "52"
       }
-   ]
+   ],
+   "gold": "The statistic shows the gender breakdown of journalists employed at selected newspapers in the Unites States as of November 2017 . According to the report , 41 percent of the journalists reporting for the New York Times were female as of the date of survey , and 48 percent of journalists at The Philadelphia Inquirer were women . The publication with the lowest share of female journalists was USA Today with 31 percent of women working for the newspaper in that role .\n"
 }

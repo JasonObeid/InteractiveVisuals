@@ -1,54 +1,190 @@
 {
-   "title": "Preferred online retail payment methods worldwide 2017\n",
-   "xAxis": "Payment Method",
-   "yAxis": "Share of online shoppers",
-   "columnType": "two",
-   "graphType": "bar",
-   "summary": [
-      "This bar chart has 9 categories for the x axis representing Payment Method, and a y axis representing Share of online shoppers.",
-      " The highest category is found at Credit_cards where Share of online shoppers is 42.0.",
-      " The lowest category is found at Cryptocurrencies_(Bitcoin) where Share of online shoppers is 3.0."
+   "title": "Anthracite coal imports to the United Kingdom ( UK ) 2008 - 2018 , by country",
+   "labels": [
+      "Year",
+      "EU",
+      "Australia",
+      "China",
+      "Colombia",
+      "South Africa",
+      "Russia",
+      "USA",
+      "Other countries"
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 7
-   },
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 8 lines.",
+      " The line representing EU had the highest values across Year with a mean value of 62.5.",
+      " This peaked at 2013 with a value of 109.0. ",
+      " The line with the second highest values was Russia with a mean value of 25.4.",
+      " This line peaked at 2018 with a value of 52.0"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "10",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "5"
+         ],
+         "15": [
+            "10",
+            "5"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "5"
+         ],
+         "10": [
+            "0",
+            "5"
+         ]
+      }
+   ],
    "data": [
       {
-         "Payment Method": "Credit cards",
-         "Share of online shoppers": 42.0
+         "Year": "2018",
+         "EU": "62",
+         "Australia": "0",
+         "China": "4",
+         "Colombia": "0",
+         "South Africa": "0",
+         "Russia": "52",
+         "USA": "0",
+         "Other countries": "1"
       },
       {
-         "Payment Method": "Electronic payment (PayPal if available)",
-         "Share of online shoppers": 39.0
+         "Year": "2017",
+         "EU": "33",
+         "Australia": "0",
+         "China": "10",
+         "Colombia": "0",
+         "South Africa": "0",
+         "Russia": "50",
+         "USA": "1",
+         "Other countries": "22"
       },
       {
-         "Payment Method": "Debit cards",
-         "Share of online shoppers": 28.0
+         "Year": "2016",
+         "EU": "60",
+         "Australia": "0",
+         "China": "11",
+         "Colombia": "0",
+         "South Africa": "0",
+         "Russia": "8",
+         "USA": "3",
+         "Other countries": "11"
       },
       {
-         "Payment Method": "Cash on delivery",
-         "Share of online shoppers": 23.0
+         "Year": "2015",
+         "EU": "55",
+         "Australia": "0",
+         "China": "23",
+         "Colombia": "0",
+         "South Africa": "6",
+         "Russia": "10",
+         "USA": "0",
+         "Other countries": "8"
       },
       {
-         "Payment Method": "Bank transfers",
-         "Share of online shoppers": 20.0
+         "Year": "2014",
+         "EU": "42",
+         "Australia": "0",
+         "China": "29",
+         "Colombia": "9",
+         "South Africa": "7",
+         "Russia": "35",
+         "USA": "0",
+         "Other countries": "5"
       },
       {
-         "Payment Method": "Gift cards or vouchers",
-         "Share of online shoppers": 15.0
+         "Year": "2013",
+         "EU": "109",
+         "Australia": "0",
+         "China": "33",
+         "Colombia": "0",
+         "South Africa": "6",
+         "Russia": "12",
+         "USA": "0",
+         "Other countries": "0"
       },
       {
-         "Payment Method": "Mobile payment",
-         "Share of online shoppers": 14.0
+         "Year": "2012",
+         "EU": "106",
+         "Australia": "0",
+         "China": "13",
+         "Colombia": "0",
+         "South Africa": "7",
+         "Russia": "0",
+         "USA": "0",
+         "Other countries": "0"
       },
       {
-         "Payment Method": "Cryptocurrencies (Bitcoin)",
-         "Share of online shoppers": 3.0
+         "Year": "2011",
+         "EU": "96",
+         "Australia": "0",
+         "China": "51",
+         "Colombia": "0",
+         "South Africa": "0",
+         "Russia": "0",
+         "USA": "0",
+         "Other countries": "0"
       },
       {
-         "Payment Method": "Other",
-         "Share of online shoppers": 3.0
+         "Year": "2010",
+         "EU": "72",
+         "Australia": "12",
+         "China": "17",
+         "Colombia": "11",
+         "South Africa": "0",
+         "Russia": "43",
+         "USA": "0",
+         "Other countries": "0"
+      },
+      {
+         "Year": "2009",
+         "EU": "41",
+         "Australia": "0",
+         "China": "14",
+         "Colombia": "0",
+         "South Africa": "20",
+         "Russia": "34",
+         "USA": "0",
+         "Other countries": "0"
+      },
+      {
+         "Year": "2008",
+         "EU": "11",
+         "Australia": "0",
+         "China": "51",
+         "Colombia": "0",
+         "South Africa": "31",
+         "Russia": "35",
+         "USA": "16",
+         "Other countries": "1"
       }
    ]
 }

@@ -11,16 +11,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 5 categories for the x axis of Product Name representing 2013, 2014, 2015, 2016, 2017, 2018.",
-      " The highest category is found at Revlimid (cancer) with a mean value of 6651.166666666667.",
-      " The second highest category is found at Pomalyst/Imnovid (cancer) with a mean value of 1155.5166666666667.",
+      "This grouped bar chart has 5 categories for the x axis of Product Name representing 2013, 2014, 2015, 2016, 2017, and 2018.",
+      " The highest category is found at Revlimid (cancer) with a mean value of 6651.17.",
+      " The second highest category is found at Pomalyst/Imnovid (cancer) with a mean value of 1155.52.",
       " This represents a difference of 140.8%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "6",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "6",
+            "1"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Product Name": "Revlimid (cancer)",

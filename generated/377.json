@@ -1,107 +1,75 @@
 {
-   "title": "Unemployment rate of Ukraine 2019",
-   "xAxis": "Year",
-   "yAxis": "Share of unemployed persons in total labor force",
+   "title": "Cost of an angioplasty in various countries 2019",
+   "xAxis": "Country",
+   "yAxis": "Cost in U.S. dollars",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Share of unemployed persons in the Unemployment from 1999 to 2019 . ",
-      "In 2019 , there were a total 9.31 unemployed reported in the Unemployment ."
+      "The graph shows the Cost of U.S. dollars in international Cost Eastern countries as of 2019 . ",
+      "The data reveals that United_States had the highest Cost of U.S. dollars , followed 2019 South_Korea with 28200 U.S. dollars ."
    ],
    "trends": [
+      {},
       {
-         "12": "20",
-         "14": "0"
-      },
-      {
-         "1": "0",
-         "7": "0"
+         "4": "0",
+         "15": "1",
+         "17": "0"
       }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Share of unemployed persons in total labor force": "9.31"
+         "Country": "United States",
+         "Cost in U.S. dollars": "28200"
       },
       {
-         "Year": "2018",
-         "Share of unemployed persons in total labor force": "9.38"
+         "Country": "South Korea",
+         "Cost in U.S. dollars": "17700"
       },
       {
-         "Year": "2017",
-         "Share of unemployed persons in total labor force": "9.51"
+         "Country": "Costa Rica",
+         "Cost in U.S. dollars": "13800"
       },
       {
-         "Year": "2016",
-         "Share of unemployed persons in total labor force": "9.35"
+         "Country": "Singapore",
+         "Cost in U.S. dollars": "13400"
       },
       {
-         "Year": "2015",
-         "Share of unemployed persons in total labor force": "9.14"
+         "Country": "Mexico",
+         "Cost in U.S. dollars": "10400"
       },
       {
-         "Year": "2014",
-         "Share of unemployed persons in total labor force": "9.27"
+         "Country": "Malaysia",
+         "Cost in U.S. dollars": "8000"
       },
       {
-         "Year": "2013",
-         "Share of unemployed persons in total labor force": "7.17"
+         "Country": "Israel",
+         "Cost in U.S. dollars": "7500"
       },
       {
-         "Year": "2012",
-         "Share of unemployed persons in total labor force": "7.53"
+         "Country": "Colombia",
+         "Cost in U.S. dollars": "7100"
       },
       {
-         "Year": "2011",
-         "Share of unemployed persons in total labor force": "7.86"
+         "Country": "India",
+         "Cost in U.S. dollars": "5700"
       },
       {
-         "Year": "2010",
-         "Share of unemployed persons in total labor force": "8.1"
+         "Country": "Poland",
+         "Cost in U.S. dollars": "5300"
       },
       {
-         "Year": "2009",
-         "Share of unemployed persons in total labor force": "8.84"
+         "Country": "Jordan",
+         "Cost in U.S. dollars": "5000"
       },
       {
-         "Year": "2008",
-         "Share of unemployed persons in total labor force": "6.36"
+         "Country": "Turkey",
+         "Cost in U.S. dollars": "4800"
       },
       {
-         "Year": "2007",
-         "Share of unemployed persons in total labor force": "6.35"
-      },
-      {
-         "Year": "2006",
-         "Share of unemployed persons in total labor force": "6.81"
-      },
-      {
-         "Year": "2005",
-         "Share of unemployed persons in total labor force": "7.18"
-      },
-      {
-         "Year": "2004",
-         "Share of unemployed persons in total labor force": "8.59"
-      },
-      {
-         "Year": "2003",
-         "Share of unemployed persons in total labor force": "9.06"
-      },
-      {
-         "Year": "2002",
-         "Share of unemployed persons in total labor force": "10.14"
-      },
-      {
-         "Year": "2001",
-         "Share of unemployed persons in total labor force": "11.06"
-      },
-      {
-         "Year": "2000",
-         "Share of unemployed persons in total labor force": "11.71"
-      },
-      {
-         "Year": "1999",
-         "Share of unemployed persons in total labor force": "11.86"
+         "Country": "Thailand",
+         "Cost in U.S. dollars": "4200"
       }
-   ]
+   ],
+   "gold": "This statistic compares the cost of an angioplasty procedure in selected countries as of 2018 . In the United States , an angioplasty cost 28,200 U.S. dollars , while in Costa Rica such a procedure cost less than half of that price .\n"
 }

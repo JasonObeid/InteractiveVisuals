@@ -4,27 +4,26 @@
    "yAxis": "Youth unemployment rate",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Youth unemployment rate, with a total of 21 data points. The chart has 2 significant trends.",
-      " The longest trend is extremely negative which exists from 2015 to 2006.",
-      " On the other hand, the next significant trend is extremely positive which exists from 2006 to 1999."
+      "This line chart has an x axis representing Year and a y axis representing Youth unemployment rate, with a total of 21 data points. The chart has 3 significant trends.",
+      " The longest trend is extremely positive which exists from 2015 to 2006.",
+      " Similarly, the next significant trend is slightly negative which exists from 2006 to 1999.",
+      " Contrarily, the next significant trend is moderately negative which exists from 2019 to 2015."
    ],
    "trends": [
+      {},
       {
-         "Length": 10,
-         "direction": "negative",
-         "start": 4,
-         "end": 13,
-         "trend": "y=0.59x+-1177.78",
-         "magnitude": "extremely"
+         "1": "4",
+         "12": "13"
       },
       {
-         "Length": 8,
-         "direction": "positive",
-         "start": 13,
-         "end": 20,
-         "trend": "y=-1.01x+2033.27",
-         "magnitude": "extremely"
+         "3": "13",
+         "14": "20"
+      },
+      {
+         "3": "0",
+         "14": "4"
       }
    ],
    "data": [

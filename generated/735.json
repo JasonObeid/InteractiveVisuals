@@ -1,103 +1,162 @@
 {
-   "title": "Prices of Boeing aircraft in 2019",
-   "xAxis": "Aircraft type",
-   "yAxis": "Price in million U.S. dollars",
+   "title": "Forecast of dividend yield of companies of Ibex 35 Spain 2019",
+   "xAxis": "Company",
+   "yAxis": "Percentage dividend yield",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the Prices Boeing of Price million in the 2019 in , 2019 Aircraft . ",
-      "The leading state-owned type was the Prices Aircraft in the 2019 , with 442.2 million dollars in the 2019 in ."
+      "The statistic above shows the growth of the Forecast dividend yield Percentage in Ibex Spain 2019 , Company . ",
+      "That year Mediaset registered the highest Percentage of the Forecast dividend yield , with 8.46 percentage ."
    ],
    "trends": [
       {},
       {
-         "13": "0"
+         "2": "0",
+         "14": "0"
       }
    ],
    "data": [
       {
-         "Aircraft type": "777-9",
-         "Price in million U.S. dollars": "442.2"
+         "Company": "Mediaset",
+         "Percentage dividend yield": "8.46"
       },
       {
-         "Aircraft type": "747-8 Freighter",
-         "Price in million U.S. dollars": "419.2"
+         "Company": "Ence",
+         "Percentage dividend yield": "6.7"
       },
       {
-         "Aircraft type": "747-8",
-         "Price in million U.S. dollars": "418.4"
+         "Company": "Repsol",
+         "Percentage dividend yield": "6.54"
       },
       {
-         "Aircraft type": "777-8",
-         "Price in million U.S. dollars": "410.2"
+         "Company": "Endesa",
+         "Percentage dividend yield": "6.27"
       },
       {
-         "Aircraft type": "777-300ER",
-         "Price in million U.S. dollars": "375.5"
+         "Company": "Enagas",
+         "Percentage dividend yield": "6.25"
       },
       {
-         "Aircraft type": "777 Freighter",
-         "Price in million U.S. dollars": "352.3"
+         "Company": "Sabadell",
+         "Percentage dividend yield": "5.9"
       },
       {
-         "Aircraft type": "777-200LR",
-         "Price in million U.S. dollars": "346.9"
+         "Company": "IAG (Iberia)",
+         "Percentage dividend yield": "5.85"
       },
       {
-         "Aircraft type": "787-10",
-         "Price in million U.S. dollars": "338.4"
+         "Company": "Mapfre",
+         "Percentage dividend yield": "5.84"
       },
       {
-         "Aircraft type": "777-200ER",
-         "Price in million U.S. dollars": "306.6"
+         "Company": "Caixabank",
+         "Percentage dividend yield": "5.79"
       },
       {
-         "Aircraft type": "787-9",
-         "Price in million U.S. dollars": "292.5"
+         "Company": "Acerinox",
+         "Percentage dividend yield": "5.77"
       },
       {
-         "Aircraft type": "787-8",
-         "Price in million U.S. dollars": "248.3"
+         "Company": "Telef\u00f3nica",
+         "Percentage dividend yield": "5.55"
       },
       {
-         "Aircraft type": "767-300 Freighter",
-         "Price in million U.S. dollars": "220.3"
+         "Company": "Santander",
+         "Percentage dividend yield": "5.47"
       },
       {
-         "Aircraft type": "767-300ER",
-         "Price in million U.S. dollars": "217.9"
+         "Company": "BBVA",
+         "Percentage dividend yield": "5.37"
       },
       {
-         "Aircraft type": "737 MAX 10",
-         "Price in million U.S. dollars": "134.9"
+         "Company": "Bankia",
+         "Percentage dividend yield": "5.34"
       },
       {
-         "Aircraft type": "737 MAX 9",
-         "Price in million U.S. dollars": "128.9"
+         "Company": "REE",
+         "Percentage dividend yield": "5.33"
       },
       {
-         "Aircraft type": "737 MAX 200",
-         "Price in million U.S. dollars": "124.8"
+         "Company": "Naturgy",
+         "Percentage dividend yield": "5.13"
       },
       {
-         "Aircraft type": "737 MAX 8",
-         "Price in million U.S. dollars": "121.6"
+         "Company": "ACS",
+         "Percentage dividend yield": "5.07"
       },
       {
-         "Aircraft type": "737-900ER",
-         "Price in million U.S. dollars": "112.6"
+         "Company": "Bankinter",
+         "Percentage dividend yield": "4.73"
       },
       {
-         "Aircraft type": "737-800",
-         "Price in million U.S. dollars": "106.1"
+         "Company": "AENA",
+         "Percentage dividend yield": "4.42"
       },
       {
-         "Aircraft type": "737 MAX 7",
-         "Price in million U.S. dollars": "99.7"
+         "Company": "Iberdrola",
+         "Percentage dividend yield": "4.38"
       },
       {
-         "Aircraft type": "737-700",
-         "Price in million U.S. dollars": "89.1"
+         "Company": "Merlin Prop",
+         "Percentage dividend yield": "4.3"
+      },
+      {
+         "Company": "Inditex",
+         "Percentage dividend yield": "4.17"
+      },
+      {
+         "Company": "T\u00e9cnicas Reunidas",
+         "Percentage dividend yield": "3.82"
+      },
+      {
+         "Company": "Accciona",
+         "Percentage dividend yield": "3.72"
+      },
+      {
+         "Company": "Viscofan",
+         "Percentage dividend yield": "3.32"
+      },
+      {
+         "Company": "Ferrovial",
+         "Percentage dividend yield": "3.17"
+      },
+      {
+         "Company": "CIE Automotive",
+         "Percentage dividend yield": "2.8"
+      },
+      {
+         "Company": "Immobiliaria Colonial",
+         "Percentage dividend yield": "2.22"
+      },
+      {
+         "Company": "Melia Hotels INTL",
+         "Percentage dividend yield": "2.09"
+      },
+      {
+         "Company": "Amadeus",
+         "Percentage dividend yield": "1.82"
+      },
+      {
+         "Company": "Grifols",
+         "Percentage dividend yield": "1.63"
+      },
+      {
+         "Company": "Indra",
+         "Percentage dividend yield": "1.31"
+      },
+      {
+         "Company": "Siemens Gamesa",
+         "Percentage dividend yield": "0.7"
+      },
+      {
+         "Company": "Cellnex Telecom",
+         "Percentage dividend yield": "0.36"
+      },
+      {
+         "Company": "Arcelormittal",
+         "Percentage dividend yield": "0"
       }
-   ]
+   ],
+   "gold": "The Ibex 35 is Spain 's main stock market index , featuring 35 of the companies with the most liquid assets that are traded in the Madrid Stock Exchange or Bolsa de Madrid in Spanish . Out of the 35 entities , the Madrid-based television network Mediaset Espa\u00f1a had the highest dividend yield during the time in consideration at 8.46 percent . The energy and cellulose-specialized company Ence came in second on the list , at 6.7 percent of dividend yield in 2019 .\n"
 }

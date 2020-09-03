@@ -1,73 +1,49 @@
 {
-   "title": "Northrop Grumman - expenditure on research and development 2008 to 2019",
-   "xAxis": "Year",
-   "yAxis": "Expenditures in million U.S. dollars",
+   "title": "Singapore resident population as of June 2018 by ethnic group",
+   "xAxis": "Ethnicity",
+   "yAxis": "Population in thousands",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Expenditures million of Northrop Grumman in the Northrop Grumman from 2008 to 2019 . ",
-      "In 2019 , the Expenditures million of Northrop Grumman was approximately 953 million dollars . ",
-      "Northrop Grumman is a chain of discount variety stores that operates in 44 dollars states ."
+      "In 2018 , Chinese thousands accounted for the largest thousands of Singapore population ethnic Others , with a 2969.28 thousands . ",
+      "535.82 thousands of the company population Others was made through Malays thousands that year . ",
+      "Malays thousands setting the pace strong growth of Singapore population Malays segment \u2013 rising seven thousands since 2012 \u2013 has contributed towards the falling thousands of its Chinese Ethnicity ."
    ],
    "trends": [
       {
-         "13": "11",
-         "15": "0"
+         "3": "0",
+         "15": "3",
+         "19": "0"
       },
       {
-         "1": "0",
-         "11": "0"
+         "0": "1",
+         "7": "3",
+         "11": "1"
       },
-      {}
+      {
+         "0": "1",
+         "12": "1",
+         "30": "0"
+      }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Expenditures in million U.S. dollars": "953"
+         "Ethnicity": "Chinese",
+         "Population in thousands": "2969.28"
       },
       {
-         "Year": "2018",
-         "Expenditures in million U.S. dollars": "764"
+         "Ethnicity": "Malays",
+         "Population in thousands": "535.82"
       },
       {
-         "Year": "2017",
-         "Expenditures in million U.S. dollars": "639"
+         "Ethnicity": "Indians",
+         "Population in thousands": "360.53"
       },
       {
-         "Year": "2016",
-         "Expenditures in million U.S. dollars": "705"
-      },
-      {
-         "Year": "2015",
-         "Expenditures in million U.S. dollars": "712"
-      },
-      {
-         "Year": "2014",
-         "Expenditures in million U.S. dollars": "569"
-      },
-      {
-         "Year": "2013",
-         "Expenditures in million U.S. dollars": "507"
-      },
-      {
-         "Year": "2012",
-         "Expenditures in million U.S. dollars": "520"
-      },
-      {
-         "Year": "2011",
-         "Expenditures in million U.S. dollars": "543"
-      },
-      {
-         "Year": "2010",
-         "Expenditures in million U.S. dollars": "580"
-      },
-      {
-         "Year": "2009",
-         "Expenditures in million U.S. dollars": "588"
-      },
-      {
-         "Year": "2008",
-         "Expenditures in million U.S. dollars": "543"
+         "Ethnicity": "Others",
+         "Population in thousands": "128.65"
       }
-   ]
+   ],
+   "gold": "As of June 2017 , the population of Singaporeans who were ethnic Chinese was around 2.97 million . Singapore is a multi-ethnic and multi-religious society , with residents categorized into four main ethnic groups : Chinese , Malay , Indian , and Other ethnicities .\n"
 }

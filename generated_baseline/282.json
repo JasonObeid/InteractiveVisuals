@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 5 categories for the x axis of Defense Category representing 2017/18, 2018/19.",
+      "This grouped bar chart has 5 categories for the x axis of Defense Category representing 2017/18, and 2018/19.",
       " The highest category is found at Military defense with a mean value of 37194.5.",
       " The second highest category is found at R&D defense with a mean value of 1285.0.",
       " This represents a difference of 186.6%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "14": [
+            "2",
+            "3"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Defense Category": "Military defense",

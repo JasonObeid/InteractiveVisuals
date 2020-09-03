@@ -1,87 +1,69 @@
 {
-   "title": "Busiest U.S. airports - number of passengers 2018",
-   "xAxis": "U.S. airport",
-   "yAxis": "Passengers enplanements in millions",
+   "title": "Gini index of Taiwan 2008 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Gini's concentration coefficient",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the U.S. enplanements of the U.S. airports number passengers in 2018 . ",
-      "In that year , Atlanta_GA_(ATL) was the airports number U.S. in the world . ",
-      "The European U.S. airports number passengers was estimated to be about 52.26 millions ."
+      "The statistic depicts Gini 's index Gini's concentration between the 2008 and 2018 fiscal years . ",
+      "Gini 's index Gini's concentration reached around 33.8 % coefficient ( or about 33 billion U.S. dollars ) in its 2018 fiscal Year ."
    ],
    "trends": [
-      {},
       {
-         "4": "0"
+         "10": "10",
+         "12": "0"
       },
       {
-         "11": "0"
+         "7": "0",
+         "20": "0"
       }
    ],
    "data": [
       {
-         "U.S. airport": "Atlanta GA (ATL)",
-         "Passengers enplanements in millions": "52.26"
+         "Year": "2018",
+         "Gini's concentration coefficient": "33.8"
       },
       {
-         "U.S. airport": "Los Angeles CA (LAX)",
-         "Passengers enplanements in millions": "43.27"
+         "Year": "2017",
+         "Gini's concentration coefficient": "33.7"
       },
       {
-         "U.S. airport": "Chicago IL (ORD)",
-         "Passengers enplanements in millions": "40.04"
+         "Year": "2016",
+         "Gini's concentration coefficient": "33.6"
       },
       {
-         "U.S. airport": "Dallas TX (DFW)",
-         "Passengers enplanements in millions": "32.92"
+         "Year": "2015",
+         "Gini's concentration coefficient": "33.8"
       },
       {
-         "U.S. airport": "Denver CO (DEN)",
-         "Passengers enplanements in millions": "31.68"
+         "Year": "2014",
+         "Gini's concentration coefficient": "33.6"
       },
       {
-         "U.S. airport": "New York NY (JFK)",
-         "Passengers enplanements in millions": "30.75"
+         "Year": "2013",
+         "Gini's concentration coefficient": "33.6"
       },
       {
-         "U.S. airport": "San Francisco CA (SFO)",
-         "Passengers enplanements in millions": "28.0"
+         "Year": "2012",
+         "Gini's concentration coefficient": "33.8"
       },
       {
-         "U.S. airport": "Seattle WA(SEA)",
-         "Passengers enplanements in millions": "24.08"
+         "Year": "2011",
+         "Gini's concentration coefficient": "34.2"
       },
       {
-         "U.S. airport": "Las Vegas NV (LAS)",
-         "Passengers enplanements in millions": "24.01"
+         "Year": "2010",
+         "Gini's concentration coefficient": "34.2"
       },
       {
-         "U.S. airport": "Orlando FL (MCO)",
-         "Passengers enplanements in millions": "23.33"
+         "Year": "2009",
+         "Gini's concentration coefficient": "34.5"
       },
       {
-         "U.S. airport": "Newark NJ (EWR)",
-         "Passengers enplanements in millions": "22.89"
-      },
-      {
-         "U.S. airport": "Charlotte NC (CLT)",
-         "Passengers enplanements in millions": "22.33"
-      },
-      {
-         "U.S. airport": "Phoenix AZ (PHX)",
-         "Passengers enplanements in millions": "21.88"
-      },
-      {
-         "U.S. airport": "Houston TX (IAH)",
-         "Passengers enplanements in millions": "21.27"
-      },
-      {
-         "U.S. airport": "Miami FL (MIA)",
-         "Passengers enplanements in millions": "21.1"
-      },
-      {
-         "U.S. airport": "Boston MA br>(BOS)",
-         "Passengers enplanements in millions": "20.07"
+         "Year": "2008",
+         "Gini's concentration coefficient": "34.1"
       }
-   ]
+   ],
+   "gold": "This statistic shows the Gini 's concentration coefficient in Taiwan from 2008 to 2018 . In 2018 , the Gini index in Taiwan was 33.8 points , around 0.7 percentage points lower than in 2009 . In the countries having relative equality in their distributions of income , the value of the Gini coefficient usually ranges between the scores of 20 and 35 .\n"
 }

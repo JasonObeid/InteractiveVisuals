@@ -1,49 +1,95 @@
 {
-   "title": "Canada - average working hours per week 2019",
-   "xAxis": "Average usual weekly hours",
-   "yAxis": "Number of employed person in thousands",
+   "title": "Brooklyn Nets ' revenue 2001 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the total Number of employed person in the Canada in 2019 , by Average . ",
-      "In 2019 , 7282.5 thousands of the employed person was 1_to_14_hours in ."
+      "The statistic shows the Revenue of the Brooklyn Nets franchise from the 2001/02 season to the 2018/19 season . ",
+      "In 2018/19 , the estimated Revenue of the National Basketball Association franchise amounted to 304 million U.S. dollars . ",
+      "Brooklyn Nets The Brooklyn Nets are a professional basketball franchise of the National Basketball Association ( NBA ) , entering the league as an expansion team in 1968 ."
    ],
    "trends": [
       {},
       {
-         "3": "4",
-         "10": "0",
-         "12": "0"
-      }
+         "14": "0"
+      },
+      {}
    ],
    "data": [
       {
-         "Average usual weekly hours": "1 to 14 hours",
-         "Number of employed person in thousands": "1151.0"
+         "Year": "18/19",
+         "Revenue in million U.S. dollars": "304"
       },
       {
-         "Average usual weekly hours": "15 to 29 hours",
-         "Number of employed person in thousands": "2459.6"
+         "Year": "17/18",
+         "Revenue in million U.S. dollars": "290"
       },
       {
-         "Average usual weekly hours": "30 to 34 hours",
-         "Number of employed person in thousands": "1469.2"
+         "Year": "16/17",
+         "Revenue in million U.S. dollars": "273"
       },
       {
-         "Average usual weekly hours": "35 to 39 hours",
-         "Number of employed person in thousands": "4287.8"
+         "Year": "15/16",
+         "Revenue in million U.S. dollars": "223"
       },
       {
-         "Average usual weekly hours": "40 hours",
-         "Number of employed person in thousands": "7282.5"
+         "Year": "14/15",
+         "Revenue in million U.S. dollars": "220"
       },
       {
-         "Average usual weekly hours": "41 to 49 hours",
-         "Number of employed person in thousands": "1044.2"
+         "Year": "13/14",
+         "Revenue in million U.S. dollars": "212"
       },
       {
-         "Average usual weekly hours": "50 hours or more",
-         "Number of employed person in thousands": "1361.3"
+         "Year": "12/13",
+         "Revenue in million U.S. dollars": "190"
+      },
+      {
+         "Year": "11/12",
+         "Revenue in million U.S. dollars": "84"
+      },
+      {
+         "Year": "10/11",
+         "Revenue in million U.S. dollars": "89"
+      },
+      {
+         "Year": "09/10",
+         "Revenue in million U.S. dollars": "89"
+      },
+      {
+         "Year": "08/09",
+         "Revenue in million U.S. dollars": "92"
+      },
+      {
+         "Year": "07/08",
+         "Revenue in million U.S. dollars": "98"
+      },
+      {
+         "Year": "06/07",
+         "Revenue in million U.S. dollars": "102"
+      },
+      {
+         "Year": "05/06",
+         "Revenue in million U.S. dollars": "93"
+      },
+      {
+         "Year": "04/05",
+         "Revenue in million U.S. dollars": "87"
+      },
+      {
+         "Year": "03/04",
+         "Revenue in million U.S. dollars": "93"
+      },
+      {
+         "Year": "02/03",
+         "Revenue in million U.S. dollars": "94"
+      },
+      {
+         "Year": "01/02",
+         "Revenue in million U.S. dollars": "91"
       }
-   ]
+   ],
+   "gold": "The statistic shows the revenue of the New Jersey Nets franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated revenue of the National Basketball Association franchise is 304 million U.S. dollars .\n"
 }

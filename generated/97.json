@@ -1,55 +1,92 @@
 {
-   "title": "Singapore : internet user penetration 2017 to 2023",
-   "xAxis": "Year",
-   "yAxis": "Share of population",
-   "columnType": "two",
+   "title": "Driving theory test pass rates in the United Kingdom 2007 - 2019 by gender",
+   "labels": [
+      "Year",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
    "graphType": "line",
    "summary": [
-      "The statistic shows the internet user penetration 2017 2023 in Singapore from 2017 to 2023 . ",
-      "In 2017 , 84 % of the population users accessed the penetration through their internet device . ",
-      "This figure is projected to grow 59percent in 2023 ."
+      "In 2018/19 , there were 45.7 % theory test pass rates in the United Kingdom . ",
+      "Of these less than fifty percent were successful . ",
+      "This was the second Year in a row that the Driving of pass rates had dropped , with the share of United pass staying relatively constant in respect to overall number.Driving is still an inherent part of life for many people in the UK and still the most common mode of transport ."
    ],
    "trends": [
       {
-         "12": "6",
-         "14": "0"
+         "1": [
+            "0",
+            "0"
+         ],
+         "5": [
+            "0",
+            "1"
+         ]
       },
-      {
-         "1": "6",
-         "3": "6"
-      },
-      {
-         "9": "0"
-      }
+      {},
+      {}
    ],
    "data": [
       {
-         "Year": "2023",
-         "Share of population": "97"
+         "Year": "2018/19",
+         "Male": "45.7",
+         "Female": "49.2"
       },
       {
-         "Year": "2022",
-         "Share of population": "96"
+         "Year": "2017/18",
+         "Male": "46.8",
+         "Female": "50.7"
       },
       {
-         "Year": "2021",
-         "Share of population": "94"
+         "Year": "2016/17",
+         "Male": "46.8",
+         "Female": "50.7"
       },
       {
-         "Year": "2020",
-         "Share of population": "93"
+         "Year": "2015/16",
+         "Male": "47.7",
+         "Female": "51"
       },
       {
-         "Year": "2019",
-         "Share of population": "91"
+         "Year": "2014/15",
+         "Male": "48.7",
+         "Female": "53.6"
       },
       {
-         "Year": "2018",
-         "Share of population": "89"
+         "Year": "2013/14",
+         "Male": "48.8",
+         "Female": "54.7"
       },
       {
-         "Year": "2017",
-         "Share of population": "84"
+         "Year": "2012/13",
+         "Male": "56.2",
+         "Female": "62.3"
+      },
+      {
+         "Year": "2011/12",
+         "Male": "58.1",
+         "Female": "63.7"
+      },
+      {
+         "Year": "2010/11",
+         "Male": "60.4",
+         "Female": "66"
+      },
+      {
+         "Year": "2009/10",
+         "Male": "61.1",
+         "Female": "66.9"
+      },
+      {
+         "Year": "2008/09",
+         "Male": "62.6",
+         "Female": "68.7"
+      },
+      {
+         "Year": "2007/08",
+         "Male": "62.3",
+         "Female": "68.9"
       }
-   ]
+   ],
+   "gold": "This statistic compares the pass rates for men and women in driving theory tests in the United Kingdom ( UK ) between 2007/08 and 2018/19 . Women consistently performed better than men at the theory tests by around six percent . Although the pass rates have been falling , the most recent drop can possibly be attributed , in part , to new , previously unpublished questions being used in the new tests .\n"
 }

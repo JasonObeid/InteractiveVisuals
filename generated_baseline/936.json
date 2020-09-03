@@ -4,15 +4,24 @@
    "yAxis": "Share of population",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 8 categories for the x axis representing Level Of Education, and a y axis representing Share of population.",
       " The highest category is found at Upper_secondary_education_(3_years_or_more) where Share of population is 23.4.",
       " The lowest category is found at Post-graduate_education where Share of population is 1.12."
    ],
-   "trends": {
-      "maxIndex": 3,
-      "minIndex": 6
-   },
+   "trends": [
+      {},
+      {
+         "7": 3,
+         "12": 3
+      },
+      {
+         "7": 6,
+         "12": 6
+      },
+      {}
+   ],
    "data": [
       {
          "Level Of Education": "Primary and lower education (less than 9 years)",

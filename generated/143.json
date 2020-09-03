@@ -1,66 +1,106 @@
 {
-   "title": "Number of hospitals in Finland 2007 to 2017",
-   "xAxis": "Year",
-   "yAxis": "Number of hospitals",
+   "title": "Annual rent in the most expensive retail locations globally 2019",
+   "xAxis": "Retail Locations",
+   "yAxis": "Annual rent in U.S. dollars per square foot",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Number of hospitals in Finland from 2007 to 2017 . ",
-      "The Number of hospitals peaked in 2017 , with over 110,000 hospitals ."
+      "The statistic shows the rent of the leading retail locations in 2019 . ",
+      "Neutrogena 's Causeway_Bay_main_street_shops_(Hong_Kong) implements saw a 2745 percent rent increase while Via_Montenapoleone_(Milan) 's Rocket Upper_5th_Avenue_49th-60th_Sts_(New_York) experienced a 2745 percent increase compared to Upper_5th_Avenue_49th-60th_Sts_(New_York) ."
    ],
    "trends": [
+      {},
       {
-         "10": "10",
-         "12": "0"
-      },
-      {
-         "6": "0"
+         "2": "0",
+         "6": "0",
+         "11": "4",
+         "13": "4",
+         "15": "1",
+         "23": "1"
       }
    ],
    "data": [
       {
-         "Year": "2017",
-         "Number of hospitals": "247"
+         "Retail Locations": "Causeway Bay main street shops (Hong Kong)",
+         "Annual rent in U.S. dollars per square foot": "2745"
       },
       {
-         "Year": "2016",
-         "Number of hospitals": "262"
+         "Retail Locations": "Upper 5th Avenue 49th-60th Sts (New York)",
+         "Annual rent in U.S. dollars per square foot": "2250"
       },
       {
-         "Year": "2015",
-         "Number of hospitals": "268"
+         "Retail Locations": "New Bond Street (London)",
+         "Annual rent in U.S. dollars per square foot": "1714"
       },
       {
-         "Year": "2014",
-         "Number of hospitals": "258"
+         "Retail Locations": "Avenue des Champs-Elysees (Paris)",
+         "Annual rent in U.S. dollars per square foot": "1478"
       },
       {
-         "Year": "2013",
-         "Number of hospitals": "259"
+         "Retail Locations": "Via Montenapoleone (Milan)",
+         "Annual rent in U.S. dollars per square foot": "1447"
       },
       {
-         "Year": "2012",
-         "Number of hospitals": "263"
+         "Retail Locations": "Ginza (Tokyo)",
+         "Annual rent in U.S. dollars per square foot": "1251"
       },
       {
-         "Year": "2011",
-         "Number of hospitals": "275"
+         "Retail Locations": "Pitt Street Mall (Sydney)",
+         "Annual rent in U.S. dollars per square foot": "1076"
       },
       {
-         "Year": "2010",
-         "Number of hospitals": "280"
+         "Retail Locations": "Bahnhofstrasse (Zurich)",
+         "Annual rent in U.S. dollars per square foot": "866"
       },
       {
-         "Year": "2009",
-         "Number of hospitals": "298"
+         "Retail Locations": "Myeongdong (Seoul)",
+         "Annual rent in U.S. dollars per square foot": "862"
       },
       {
-         "Year": "2008",
-         "Number of hospitals": "320"
+         "Retail Locations": "Kohlmarkt (Vienna)",
+         "Annual rent in U.S. dollars per square foot": "513"
       },
       {
-         "Year": "2007",
-         "Number of hospitals": "325"
+         "Retail Locations": "Wangfujing (Beijing)",
+         "Annual rent in U.S. dollars per square foot": "471"
+      },
+      {
+         "Retail Locations": "Kaufinger/Neuhauser (Munich)",
+         "Annual rent in U.S. dollars per square foot": "469"
+      },
+      {
+         "Retail Locations": "Grafton Street (Dublin)",
+         "Annual rent in U.S. dollars per square foot": "401"
+      },
+      {
+         "Retail Locations": "Portal de L'Angel (Barcelona)",
+         "Annual rent in U.S. dollars per square foot": "361"
+      },
+      {
+         "Retail Locations": "Ermou (Athens)",
+         "Annual rent in U.S. dollars per square foot": "361"
+      },
+      {
+         "Retail Locations": "Orchard Road (Singapore)",
+         "Annual rent in U.S. dollars per square foot": "312"
+      },
+      {
+         "Retail Locations": "Kalverstraat (Amsterdam)",
+         "Annual rent in U.S. dollars per square foot": "301"
+      },
+      {
+         "Retail Locations": "Na Prikope street (Prague)",
+         "Annual rent in U.S. dollars per square foot": "298"
+      },
+      {
+         "Retail Locations": "Stoleshnikov (Moscow)",
+         "Annual rent in U.S. dollars per square foot": "288"
+      },
+      {
+         "Retail Locations": "Khan Market (New Delhi)",
+         "Annual rent in U.S. dollars per square foot": "243"
       }
-   ]
+   ],
+   "gold": "As of June 2019 , the annual rent of a retail space in the Avenue des Champs-Elysees in Paris amounted to 1,478 U.S. dollars per square foot . However , Causeway Bay in Hong Kong was the most expensive retail location worldwide . Luxury retail locations \u2013 additional information Where renters complain about high rents , top retailers see it differently .\n"
 }

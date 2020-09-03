@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 2 categories for the x axis of Award representing White, Other Ethnicities.",
+      "This grouped bar chart has 2 categories for the x axis of Award representing White, and Other Ethnicities.",
       " The highest category is found at Best Actor with a mean value of 50.0.",
       " The second highest category is found at Best Actress with a mean value of 50.0.",
       " This represents a difference of 0.0%."
    ],
-   "trends": {
-      "maxIndex": 1,
-      "secondIndex": 1
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "2",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "2",
+            "0"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Award": "Best Actress",

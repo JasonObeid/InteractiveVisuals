@@ -1,103 +1,92 @@
 {
-   "title": "Job approval ratings for incumbent U.S. presidents seeking re-election from 1964 to 2012",
-   "labels": [
-      "Year",
-      "January",
-      "March",
-      "June",
-      "October"
-   ],
-   "columnType": "multi",
+   "title": "Revenue of the BSH Group 2003 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Revenue in billion euros",
+   "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Job approval ratings in for incumbent U.S. ( GDP ) in the seeking re-election 1964:_Lyndon_Johnson to 2012:_Barack_Obama , seeking re-election from . ",
-      "In 2012:_Barack_Obama , 77 % of U.S. presidents participated in January , and January in the seeking ."
+      "The Revenue of the men 's lifestyle and entertainment magazine BSH Group has dropped significantly in recent years , falling to just over 200 thousand in 2018 from 11.4 billion 8.82 years earlier . ",
+      "The magazine reported its highest BSH Revenue in 2006 , when an average issue sold 13.8 billion copies . ",
+      "BSH Group Revenue numbers \u2013 additional information Founded in 1953 by the late Hugh Hefner , BSH Group is a men 's lifestyle and entertainment magazine ."
    ],
    "trends": [
       {
-         "18": [
-            "8",
-            "0"
-         ],
-         "20": [
-            "0",
-            "0"
-         ]
+         "25": "0",
+         "27": "4",
+         "29": "11"
       },
       {
-         "1": [
-            "0",
-            "0"
-         ],
-         "3": [
-            "8",
-            "1"
-         ]
-      }
+         "8": "12",
+         "15": "1"
+      },
+      {}
    ],
    "data": [
       {
-         "Year": "2012: Barack Obama",
-         "January": "44",
-         "March": "46",
-         "June": "46",
-         "October": "50"
+         "Year": "2018",
+         "Revenue in billion euros": "13.4"
       },
       {
-         "Year": "2004: George W. Bush",
-         "January": "60",
-         "March": "49",
-         "June": "49",
-         "October": "50"
+         "Year": "2017",
+         "Revenue in billion euros": "13.8"
       },
       {
-         "Year": "1996: Bill Clinton",
-         "January": "42",
-         "March": "54",
-         "June": "58",
-         "October": "58"
+         "Year": "2016",
+         "Revenue in billion euros": "13.1"
       },
       {
-         "Year": "1992: George H.W. Bush",
-         "January": "46",
-         "March": "41",
-         "June": "37",
-         "October": "33"
+         "Year": "2015",
+         "Revenue in billion euros": "12.6"
       },
       {
-         "Year": "1984: Ronald Reagan",
-         "January": "52",
-         "March": "54",
-         "June": "55",
-         "October": "58"
+         "Year": "2014",
+         "Revenue in billion euros": "11.4"
       },
       {
-         "Year": "1980: Jimmy Carter",
-         "January": "56",
-         "March": "43",
-         "June": "32",
-         "October": "50"
+         "Year": "2013",
+         "Revenue in billion euros": "10.5"
       },
       {
-         "Year": "1976: Gerald Ford",
-         "January": "56",
-         "March": "43",
-         "June": "32",
-         "October": "0"
+         "Year": "2012",
+         "Revenue in billion euros": "9.8"
       },
       {
-         "Year": "1972: Richard Nixon",
-         "January": "49",
-         "March": "56",
-         "June": "59",
-         "October": "0"
+         "Year": "2011",
+         "Revenue in billion euros": "9.65"
       },
       {
-         "Year": "1964: Lyndon Johnson",
-         "January": "77",
-         "March": "77",
-         "June": "74",
-         "October": "0"
+         "Year": "2010",
+         "Revenue in billion euros": "9.07"
+      },
+      {
+         "Year": "2009",
+         "Revenue in billion euros": "8.41"
+      },
+      {
+         "Year": "2008",
+         "Revenue in billion euros": "8.76"
+      },
+      {
+         "Year": "2007",
+         "Revenue in billion euros": "8.82"
+      },
+      {
+         "Year": "2006",
+         "Revenue in billion euros": "8.31"
+      },
+      {
+         "Year": "2005",
+         "Revenue in billion euros": "7.34"
+      },
+      {
+         "Year": "2004",
+         "Revenue in billion euros": "6.84"
+      },
+      {
+         "Year": "2003",
+         "Revenue in billion euros": "6.3"
       }
-   ]
+   ],
+   "gold": "This statistic represents the annual revenue of the BSH Group ( BSH Haushaltsgeraete GmbH ) between the 2003 to 2018 fiscal years . In its 2018 fiscal year , the BSH Group generated approximately 13.4 billion euros in revenue .\n"
 }

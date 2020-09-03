@@ -1,78 +1,58 @@
 {
-   "title": "AstraZeneca 's revenue 2013 - 2018 by region",
-   "labels": [
-      "Year",
-      "United States",
-      "Europe",
-      "Established rest of world",
-      "Emerging markets"
-   ],
-   "columnType": "multi",
-   "graphType": "line",
+   "title": "Desktop/laptop ownership among U.S. adults 2008 to 2019",
+   "xAxis": "Month",
+   "yAxis": "Share of U.S. adults",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the AstraZeneca of revenue AstraZeneca 2018 from 2013 to 2018 , region . ",
-      "In 2018 , the AstraZeneca of revenue AstraZeneca 2018 worldwide amounted to around 4459 million U.S. dollars ."
+      "This statistic shows the Share of adults in the ownership adults were using 2008 2019 . ",
+      "During the 2019 survey period , 73 % of respondents stated that they had adults accessed January_2018 , either via desktop or mobile internet connection ."
    ],
    "trends": [
+      {},
       {
-         "11": [
-            "5",
-            "0"
-         ],
-         "13": [
-            "0",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "0"
-         ]
+         "6": "1",
+         "16": "1"
       }
    ],
    "data": [
       {
-         "Year": "2018",
-         "United States": "6876",
-         "Europe": "4459",
-         "Established rest of world": "2823",
-         "Emerging markets": "6891"
+         "Month": "February 2019",
+         "Share of U.S. adults": "74"
       },
       {
-         "Year": "2017",
-         "United States": "6169",
-         "Europe": "4753",
-         "Established rest of world": "3081",
-         "Emerging markets": "6149"
+         "Month": "January 2018",
+         "Share of U.S. adults": "73"
       },
       {
-         "Year": "2016",
-         "United States": "7365",
-         "Europe": "5064",
-         "Established rest of world": "3096",
-         "Emerging markets": "5794"
+         "Month": "November 2016",
+         "Share of U.S. adults": "78"
       },
       {
-         "Year": "2015",
-         "United States": "9474",
-         "Europe": "5323",
-         "Established rest of world": "3022",
-         "Emerging markets": "5822"
+         "Month": "April 2016",
+         "Share of U.S. adults": "74"
       },
       {
-         "Year": "2014",
-         "United States": "10120",
-         "Europe": "6638",
-         "Established rest of world": "3510",
-         "Emerging markets": "5827"
+         "Month": "April 2015",
+         "Share of U.S. adults": "73"
       },
       {
-         "Year": "2013",
-         "United States": "9691",
-         "Europe": "6658",
-         "Established rest of world": "3973",
-         "Emerging markets": "5389"
+         "Month": "January 2012",
+         "Share of U.S. adults": "78"
+      },
+      {
+         "Month": "December 2011",
+         "Share of U.S. adults": "75"
+      },
+      {
+         "Month": "June 2010",
+         "Share of U.S. adults": "78"
+      },
+      {
+         "Month": "January 2008",
+         "Share of U.S. adults": "74"
       }
-   ]
+   ],
+   "gold": "The statistic shows the penetration rate of desktop and laptop computers among adults in the United States between 2008 and 2019 . As of February 2019 , 74 percent of Americans owned a desktop or laptop computer .\n"
 }

@@ -1,68 +1,67 @@
 {
-   "title": "U.S. market share of men 's electric shaver manufacturer 2004 to 2008",
+   "title": "Google : global corporate demography 2014 - 2019 , by gender",
    "labels": [
-      "unknown",
-      "2004",
-      "2008"
+      "Year",
+      "Female",
+      "Male"
    ],
    "columnType": "multi",
-   "graphType": "bar",
+   "graphType": "line",
    "summary": [
-      "This statistic shows U.S. and market on share men in the 's in 2004 . ",
-      "The survey revealed that 33 % of respondents are budgeting 1 thousand U.S. dollars or Spectrum_Brands_(Remington/Rayovac) for their share renovation ."
+      "This statistic illustrates the distribution of Google employees worldwide from 2014 to 2019 , sorted by gender . ",
+      "As of 2019 , 68.4 % of global Google employees were Male . ",
+      "The majority of employees were Female ."
    ],
    "trends": [
-      {},
       {
-         "4": [
-            "0",
-            "1"
-         ],
          "10": [
-            "6",
-            "1"
-         ],
-         "15": [
             "0",
             "0"
+         ],
+         "12": [
+            "5",
+            "0"
          ]
-      }
+      },
+      {
+         "4": [
+            "5",
+            "2"
+         ]
+      },
+      {}
    ],
    "data": [
       {
-         "unknown": "Spectrum Brands (Remington/Rayovac)",
-         "2004": "33",
-         "2008": "41"
+         "Year": "2014",
+         "Female": "30.6",
+         "Male": "69.4"
       },
       {
-         "unknown": "Philips (Norelco)",
-         "2004": "44",
-         "2008": "34"
+         "Year": "2015",
+         "Female": "30.6",
+         "Male": "69.4"
       },
       {
-         "unknown": "Proctor & Gamble (Gillette/Braun)",
-         "2004": "14",
-         "2008": "10"
+         "Year": "2016",
+         "Female": "30.6",
+         "Male": "69.4"
       },
       {
-         "unknown": "Conair",
-         "2004": "0",
-         "2008": "8"
+         "Year": "2017",
+         "Female": "30.8",
+         "Male": "69.2"
       },
       {
-         "unknown": "Matsushita (Panasonic)",
-         "2004": "5",
-         "2008": "5"
+         "Year": "2018",
+         "Female": "30.9",
+         "Male": "69.1"
       },
       {
-         "unknown": "Wahl",
-         "2004": "3",
-         "2008": "0"
-      },
-      {
-         "unknown": "Others",
-         "2004": "1",
-         "2008": "2"
+         "Year": "2019",
+         "Female": "31.6",
+         "Male": "68.4"
       }
-   ]
+   ],
+   "gold": "This statistic illustrates the distribution of Google employees worldwide from 2014 to 2019 , sorted by gender . In the most recently measured period , 31.6 percent of the total number of global Google employees were female . The majority of employees were male .\n"
 }

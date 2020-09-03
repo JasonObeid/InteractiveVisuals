@@ -1,62 +1,33 @@
 {
-   "title": "Best selling car models in the United Kingdom ( UK ) 2019",
-   "xAxis": "Car Model",
-   "yAxis": "Number of units sold",
+   "title": "Churn rate of Spotify worldwide 2017 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Churn rate",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Number of units car models the world 's United Kingdom models 1900 to 2019 . ",
-      "The Car in Ford_Focus 1973 claimed 56619 lives . ",
-      "Natural disasters Natural , such as earthquakes , volcanic eruption , tsunamis floods , tornados or Kingdom affect people UK ."
+      "The statistic shows the Churn of rate in Spotify 2017 and 2018 . ",
+      "In 2018 , there were a total of 19.8 % rate in Spotify ."
    ],
    "trends": [
-      {},
       {
-         "3": "2",
-         "7": "2"
+         "11": "1",
+         "13": "0"
       },
-      {}
+      {
+         "1": "0",
+         "8": "0"
+      }
    ],
    "data": [
       {
-         "Car Model": "Ford Fiesta",
-         "Number of units sold": "77833"
+         "Year": "2018",
+         "Churn rate": "19.8"
       },
       {
-         "Car Model": "Volkswagen Golf",
-         "Number of units sold": "58994"
-      },
-      {
-         "Car Model": "Ford Focus",
-         "Number of units sold": "56619"
-      },
-      {
-         "Car Model": "Vauxhall Corsa",
-         "Number of units sold": "54239"
-      },
-      {
-         "Car Model": "Mercedes-Benz A Class",
-         "Number of units sold": "53724"
-      },
-      {
-         "Car Model": "Nissan Qashqai",
-         "Number of units sold": "52532"
-      },
-      {
-         "Car Model": "Ford Kuga",
-         "Number of units sold": "41671"
-      },
-      {
-         "Car Model": "MINI",
-         "Number of units sold": "41188"
-      },
-      {
-         "Car Model": "Volkswagen Polo",
-         "Number of units sold": "37453"
-      },
-      {
-         "Car Model": "Kia Sportage",
-         "Number of units sold": "34502"
+         "Year": "2017",
+         "Churn rate": "18.1"
       }
-   ]
+   ],
+   "gold": "The cumulative subscriber churn rate of Spotify worldwide amounted to 19.8 percent in 2018 , up from 18.1 percent in the previous year . The source noted that this is partially due to promotional trials - whilst such trials draw in new subscribers , many of whom tend to convert , Spotify counts paid trialists in its subscriber numbers , meaning that those who do not convert then become churned subscribers .\n"
 }

@@ -1,263 +1,171 @@
 {
-   "title": "Foreign Direct investment ( FDI ) in Canada , by country 2018",
-   "xAxis": "Country",
-   "yAxis": "FDI in million Canadian dollars",
-   "columnType": "two",
+   "title": "Daily active users of Snapchat 2014 - 2019 , by region",
+   "labels": [
+      "Quarter",
+      "North America",
+      "Europe",
+      "Rest of World"
+   ],
+   "columnType": "multi",
    "graphType": "bar",
    "summary": [
-      "The statistic shows the degree of FDI in by country worldwide . ",
-      "According to the FDI Index , Argentina occupied the last place in FDI with -60 FDI million in 2018 . ",
-      "Netherlands and United_States were ranked first and second with 406051 and 106706 out of 100 FDI million respectively ."
+      "This statistic shows the users Snapchat 2014 of the Taiwanese tech company Snapchat region , from 2014 to 2018 . ",
+      "In the second Quarter of 2019 , 26 % of Snapchat ' Daily Snapchat came from the North segment ."
    ],
    "trends": [
       {},
       {
-         "6": "58",
-         "15": "58"
-      },
-      {
-         "0": "1",
-         "2": "0",
-         "9": "0",
-         "11": "1"
+         "7": [
+            "23",
+            "1"
+         ]
       }
    ],
    "data": [
       {
-         "Country": "United States",
-         "FDI in million Canadian dollars": "406051"
+         "Quarter": "Q4 '19",
+         "North America": "86",
+         "Europe": "67",
+         "Rest of World": "64"
       },
       {
-         "Country": "Netherlands",
-         "FDI in million Canadian dollars": "106706"
+         "Quarter": "Q3 '19",
+         "North America": "84",
+         "Europe": "65",
+         "Rest of World": "61"
       },
       {
-         "Country": "Luxembourg",
-         "FDI in million Canadian dollars": "55828"
+         "Quarter": "Q2 '19",
+         "North America": "83",
+         "Europe": "64",
+         "Rest of World": "56"
       },
       {
-         "Country": "United Kingdom",
-         "FDI in million Canadian dollars": "50353"
+         "Quarter": "Q1 '19",
+         "North America": "80",
+         "Europe": "61",
+         "Rest of World": "49"
       },
       {
-         "Country": "Switzerland",
-         "FDI in million Canadian dollars": "46147"
+         "Quarter": "Q4 '18",
+         "North America": "79",
+         "Europe": "60",
+         "Rest of World": "47"
       },
       {
-         "Country": "Japan",
-         "FDI in million Canadian dollars": "28871"
+         "Quarter": "Q3 '18",
+         "North America": "79",
+         "Europe": "59",
+         "Rest of World": "47"
       },
       {
-         "Country": "Hong Kong",
-         "FDI in million Canadian dollars": "21802"
+         "Quarter": "Q2 '18",
+         "North America": "80",
+         "Europe": "61",
+         "Rest of World": "47"
       },
       {
-         "Country": "Germany",
-         "FDI in million Canadian dollars": "17008"
+         "Quarter": "Q1 '18",
+         "North America": "81",
+         "Europe": "62",
+         "Rest of World": "48"
       },
       {
-         "Country": "People's Republic of China",
-         "FDI in million Canadian dollars": "16959"
+         "Quarter": "Q4 '17",
+         "North America": "80",
+         "Europe": "60",
+         "Rest of World": "47"
       },
       {
-         "Country": "Bermuda",
-         "FDI in million Canadian dollars": "16604"
+         "Quarter": "Q3 '17",
+         "North America": "77",
+         "Europe": "57",
+         "Rest of World": "44"
       },
       {
-         "Country": "Brazil",
-         "FDI in million Canadian dollars": "14628"
+         "Quarter": "Q2 '17",
+         "North America": "75",
+         "Europe": "57",
+         "Rest of World": "42"
       },
       {
-         "Country": "France",
-         "FDI in million Canadian dollars": "13509"
+         "Quarter": "Q1 '17",
+         "North America": "71",
+         "Europe": "55",
+         "Rest of World": "40"
       },
       {
-         "Country": "Australia",
-         "FDI in million Canadian dollars": "9682"
+         "Quarter": "Q4 '16",
+         "North America": "68",
+         "Europe": "52",
+         "Rest of World": "39"
       },
       {
-         "Country": "Cayman Islands",
-         "FDI in million Canadian dollars": "8912"
+         "Quarter": "Q3 '16",
+         "North America": "65",
+         "Europe": "49",
+         "Rest of World": "39"
       },
       {
-         "Country": "Ireland",
-         "FDI in million Canadian dollars": "8094"
+         "Quarter": "Q2 '16",
+         "North America": "61",
+         "Europe": "46",
+         "Rest of World": "36"
       },
       {
-         "Country": "Belgium",
-         "FDI in million Canadian dollars": "8015"
+         "Quarter": "Q1 '16",
+         "North America": "54",
+         "Europe": "39",
+         "Rest of World": "29"
       },
       {
-         "Country": "Spain",
-         "FDI in million Canadian dollars": "4823"
+         "Quarter": "Q4 '15",
+         "North America": "48",
+         "Europe": "34",
+         "Rest of World": "24"
       },
       {
-         "Country": "Norway",
-         "FDI in million Canadian dollars": "4563"
+         "Quarter": "Q3 '15",
+         "North America": "44",
+         "Europe": "30",
+         "Rest of World": "20"
       },
       {
-         "Country": "United Arab Emirates",
-         "FDI in million Canadian dollars": "3441"
+         "Quarter": "Q2 '15",
+         "North America": "40",
+         "Europe": "29",
+         "Rest of World": "18"
       },
       {
-         "Country": "British Virgin Islands",
-         "FDI in million Canadian dollars": "2928"
+         "Quarter": "Q1 '15",
+         "North America": "38",
+         "Europe": "27",
+         "Rest of World": "16"
       },
       {
-         "Country": "Poland",
-         "FDI in million Canadian dollars": "2830"
+         "Quarter": "Q4 '14",
+         "North America": "35",
+         "Europe": "23",
+         "Rest of World": "13"
       },
       {
-         "Country": "Mexico",
-         "FDI in million Canadian dollars": "2730"
+         "Quarter": "Q3 '14",
+         "North America": "32",
+         "Europe": "20",
+         "Rest of World": "11"
       },
       {
-         "Country": "Sweden",
-         "FDI in million Canadian dollars": "2585"
+         "Quarter": "Q2 '14",
+         "North America": "30",
+         "Europe": "18",
+         "Rest of World": "9"
       },
       {
-         "Country": "India",
-         "FDI in million Canadian dollars": "2561"
-      },
-      {
-         "Country": "South Korea",
-         "FDI in million Canadian dollars": "2398"
-      },
-      {
-         "Country": "Hungary",
-         "FDI in million Canadian dollars": "2289"
-      },
-      {
-         "Country": "Kuwait",
-         "FDI in million Canadian dollars": "2158"
-      },
-      {
-         "Country": "Russian Federation",
-         "FDI in million Canadian dollars": "1581"
-      },
-      {
-         "Country": "Italy",
-         "FDI in million Canadian dollars": "1510"
-      },
-      {
-         "Country": "Chile",
-         "FDI in million Canadian dollars": "1439"
-      },
-      {
-         "Country": "Uruguay",
-         "FDI in million Canadian dollars": "1329"
-      },
-      {
-         "Country": "Barbados",
-         "FDI in million Canadian dollars": "1256"
-      },
-      {
-         "Country": "Nigeria",
-         "FDI in million Canadian dollars": "934"
-      },
-      {
-         "Country": "Austria",
-         "FDI in million Canadian dollars": "922"
-      },
-      {
-         "Country": "Cyprus",
-         "FDI in million Canadian dollars": "898"
-      },
-      {
-         "Country": "Finland",
-         "FDI in million Canadian dollars": "776"
-      },
-      {
-         "Country": "South Africa",
-         "FDI in million Canadian dollars": "754"
-      },
-      {
-         "Country": "Denmark",
-         "FDI in million Canadian dollars": "728"
-      },
-      {
-         "Country": "Kyrgyzstan",
-         "FDI in million Canadian dollars": "693"
-      },
-      {
-         "Country": "Yemen",
-         "FDI in million Canadian dollars": "348"
-      },
-      {
-         "Country": "Malaysia",
-         "FDI in million Canadian dollars": "241"
-      },
-      {
-         "Country": "Israel",
-         "FDI in million Canadian dollars": "181"
-      },
-      {
-         "Country": "New Zealand",
-         "FDI in million Canadian dollars": "127"
-      },
-      {
-         "Country": "Singapore",
-         "FDI in million Canadian dollars": "116"
-      },
-      {
-         "Country": "Indonesia",
-         "FDI in million Canadian dollars": "84"
-      },
-      {
-         "Country": "Taiwan",
-         "FDI in million Canadian dollars": "76"
-      },
-      {
-         "Country": "Portugal",
-         "FDI in million Canadian dollars": "70"
-      },
-      {
-         "Country": "Thailand",
-         "FDI in million Canadian dollars": "56"
-      },
-      {
-         "Country": "Liberia",
-         "FDI in million Canadian dollars": "49"
-      },
-      {
-         "Country": "Guyana",
-         "FDI in million Canadian dollars": "1"
-      },
-      {
-         "Country": "Jamaica",
-         "FDI in million Canadian dollars": "1"
-      },
-      {
-         "Country": "Philippines",
-         "FDI in million Canadian dollars": "-1"
-      },
-      {
-         "Country": "Iceland",
-         "FDI in million Canadian dollars": "-1"
-      },
-      {
-         "Country": "Panama",
-         "FDI in million Canadian dollars": "-1"
-      },
-      {
-         "Country": "Costa Rica",
-         "FDI in million Canadian dollars": "-1"
-      },
-      {
-         "Country": "Turkey",
-         "FDI in million Canadian dollars": "-2"
-      },
-      {
-         "Country": "Colombia",
-         "FDI in million Canadian dollars": "-7"
-      },
-      {
-         "Country": "Bahamas",
-         "FDI in million Canadian dollars": "-39"
-      },
-      {
-         "Country": "Argentina",
-         "FDI in million Canadian dollars": "-60"
+         "Quarter": "Q1 '14",
+         "North America": "26",
+         "Europe": "14",
+         "Rest of World": "6"
       }
-   ]
+   ],
+   "gold": "As of the fourth quarter of 2019 , Snapchat had 86 million daily active users in North America and 67 million DAU in Europe . During the latest reported period , the photo and video sharing app claimed 218 million daily active users worldwide . Snapchat usage Snapchat is one of the most popular social networks worldwide .\n"
 }

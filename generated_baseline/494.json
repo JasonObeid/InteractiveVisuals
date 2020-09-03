@@ -4,15 +4,24 @@
    "yAxis": "Million unique visitors",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 21 categories for the x axis representing Platform, and a y axis representing Million unique visitors.",
       " The highest category is found at Facebook_(main) where Million unique visitors is 169.76.",
       " The lowest category is found at WeChat where Million unique visitors is 1.48."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 20
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 20,
+         "12": 20
+      },
+      {}
+   ],
    "data": [
       {
          "Platform": "Facebook (main)",

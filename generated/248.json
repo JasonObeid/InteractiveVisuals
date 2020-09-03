@@ -1,111 +1,74 @@
 {
-   "title": "Price of gas oil per metric ton : manufacturing industry in the UK 2010 to 2018",
-   "labels": [
-      "Year",
-      "Small consumer",
-      "Medium consumer",
-      "Large consumer",
-      "Average"
-   ],
-   "columnType": "multi",
-   "graphType": "line",
+   "title": "Average price for properties for sale in Rome , Italy 2019 , by area",
+   "xAxis": "Area",
+   "yAxis": "Price in euros per square meter",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Price gas of UK inhabitants from 2010 to 2018 . ",
-      "In 2018 , about 681.4 % of inhabitants were aged 0 to 14 years , while approximately 676.9 % were aged 15 to 64 , and 651.6 % of UK inhabitants were aged consumer or older ."
+      "In 2019 , Rome boasted some of the most expensive residential real estate properties in the country . ",
+      "A ranking of the priciest Area of the Balduina_Medaglie_d'Oro_Degli_Eroi for residential properties showed that home buyers could expect to pay on Average almost 7817 thousand euros per square meter in the district Centro_Storico ( historical Balduina_Medaglie_d'Oro_Degli_Eroi center ) . ",
+      "In Rome , renting a dwelling also comes at a cost ."
    ],
    "trends": [
+      {},
       {
-         "10": [
-            "8",
-            "0"
-         ],
-         "12": [
-            "0",
-            "0"
-         ]
+         "8": "10",
+         "23": "0",
+         "32": "0",
+         "35": "10"
       },
-      {
-         "1": [
-            "0",
-            "0"
-         ],
-         "4": [
-            "0",
-            "1"
-         ],
-         "17": [
-            "0",
-            "2"
-         ],
-         "26": [
-            "0",
-            "3"
-         ]
-      }
+      {}
    ],
    "data": [
       {
-         "Year": "2018",
-         "Small consumer": "681.4",
-         "Medium consumer": "676.9",
-         "Large consumer": "651.6",
-         "Average": "655.2"
+         "Area": "Centro Storico",
+         "Price in euros per square meter": "7817"
       },
       {
-         "Year": "2017",
-         "Small consumer": "610.6",
-         "Medium consumer": "584.9",
-         "Large consumer": "557.5",
-         "Average": "562.9"
+         "Area": "Aventino San Saba Caracalla",
+         "Price in euros per square meter": "6910"
       },
       {
-         "Year": "2016",
-         "Small consumer": "544.4",
-         "Medium consumer": "493.3",
-         "Large consumer": "471.6",
-         "Average": "476.7"
+         "Area": "Parioli Flaminio",
+         "Price in euros per square meter": "5622"
       },
       {
-         "Year": "2015",
-         "Small consumer": "558.6",
-         "Medium consumer": "553.2",
-         "Large consumer": "505.0",
-         "Average": "509.6"
+         "Area": "Testaccio Trastevere",
+         "Price in euros per square meter": "5435"
       },
       {
-         "Year": "2014",
-         "Small consumer": "750.2",
-         "Medium consumer": "748.5",
-         "Large consumer": "670.7",
-         "Average": "684.3"
+         "Area": "Prati Borgo Mazzini Delle Vittorie",
+         "Price in euros per square meter": "5137"
       },
       {
-         "Year": "2013",
-         "Small consumer": "815.3",
-         "Medium consumer": "803.1",
-         "Large consumer": "743.2",
-         "Average": "753.9"
+         "Area": "Salario Trieste",
+         "Price in euros per square meter": "4884"
       },
       {
-         "Year": "2012",
-         "Small consumer": "825.7",
-         "Medium consumer": "806.6",
-         "Large consumer": "759.6",
-         "Average": "768.3"
+         "Area": "Bologna Policlinico",
+         "Price in euros per square meter": "4531"
       },
       {
-         "Year": "2011",
-         "Small consumer": "782.4",
-         "Medium consumer": "766.2",
-         "Large consumer": "731.7",
-         "Average": "738.1"
+         "Area": "Corso Francia Vigna Clara Fleming Ponte Milvio",
+         "Price in euros per square meter": "4289"
       },
       {
-         "Year": "2010",
-         "Small consumer": "618.6",
-         "Medium consumer": "620.4",
-         "Large consumer": "588.0",
-         "Average": "593.6"
+         "Area": "Termini Repubblica",
+         "Price in euros per square meter": "4107"
+      },
+      {
+         "Area": "Camilluccia Cortina d'Ampezzo",
+         "Price in euros per square meter": "4099"
+      },
+      {
+         "Area": "Balduina Medaglie d'Oro Degli Eroi",
+         "Price in euros per square meter": "4000"
+      },
+      {
+         "Area": "Gregorio VII Baldo degli Ubaldi",
+         "Price in euros per square meter": "3972"
       }
-   ]
+   ],
+   "gold": "The statistic shows the average price for houses , apartments and residential real estate for sale in selected areas of the Italian city of Rome as of December 2019 . According to the data , the sale price in the historic city center ( Centro Storico ) amounted to over 7.8 thousand euros per square meter .\n"
 }

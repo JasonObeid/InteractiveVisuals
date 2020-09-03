@@ -1,100 +1,98 @@
 {
-   "title": "Leading trends in food items on restaurant menus in the U.S. 2018",
-   "xAxis": "Category",
-   "yAxis": "Share of respondents",
+   "title": "Revenue of the New England Patriots ( NFL ) 2001 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Category trends food items restaurant menus in the U.S. in 2018 . ",
-      "The survey revealed that 69 % of the respondents trends New_cuts_of_meat_(e.g._shoulder_tender_oyster_steak_Vegas_Strip_Steak_Merlot_cut) Category food items the Leading ."
+      "The statistic depicts the Revenue of the New England Patriots from 2001 to 2018 . ",
+      "In 2018 , the Revenue of the Major League Baseball franchise amounted to 600 million U.S. dollars.The New England Patriots are owned by Ken Kendrick , who bought the franchise for 223 million U.S. dollars in 2005 ."
    ],
    "trends": [
-      {},
       {
-         "4": "0",
-         "10": "0"
+         "9": "17",
+         "11": "0"
+      },
+      {
+         "1": "0",
+         "13": "0",
+         "34": "13"
       }
    ],
    "data": [
       {
-         "Category": "New cuts of meat (e.g. shoulder tender oyster steak Vegas Strip Steak Merlot cut)",
-         "Share of respondents": "69"
+         "Year": "2018",
+         "Revenue in million U.S. dollars": "600"
       },
       {
-         "Category": "African flavors",
-         "Share of respondents": "69"
+         "Year": "2017",
+         "Revenue in million U.S. dollars": "593"
       },
       {
-         "Category": "Doughnuts with non-traditional filling (e.g. liqueur Earl Grey cream)",
-         "Share of respondents": "64"
+         "Year": "2016",
+         "Revenue in million U.S. dollars": "575"
       },
       {
-         "Category": "Ethnic-inspired kids' dishes (e.g. tacos teriyaki sushi)",
-         "Share of respondents": "64"
+         "Year": "2015",
+         "Revenue in million U.S. dollars": "523"
       },
       {
-         "Category": "Street food-inspired dishes (e.g. tempura kabobs dumplings pupusas)",
-         "Share of respondents": "64"
+         "Year": "2014",
+         "Revenue in million U.S. dollars": "494"
       },
       {
-         "Category": "House-made condiments",
-         "Share of respondents": "64"
+         "Year": "2013",
+         "Revenue in million U.S. dollars": "428"
       },
       {
-         "Category": "Gourmet items in kids' meals",
-         "Share of respondents": "63"
+         "Year": "2012",
+         "Revenue in million U.S. dollars": "408"
       },
       {
-         "Category": "Ethnic-inspired breakfast items (e.g. Asia-flavored syrups Chorizo scrambled eggs coconut milk pancakes)",
-         "Share of respondents": "63"
+         "Year": "2011",
+         "Revenue in million U.S. dollars": "380"
       },
       {
-         "Category": "Ethnic condiments (e.g. sriracha sambal chimichurri gochujang zhug)",
-         "Share of respondents": "62"
+         "Year": "2010",
+         "Revenue in million U.S. dollars": "333"
       },
       {
-         "Category": "Thai-rolled ice cream",
-         "Share of respondents": "62"
+         "Year": "2009",
+         "Revenue in million U.S. dollars": "318"
       },
       {
-         "Category": "Sustainable seafood",
-         "Share of respondents": "62"
+         "Year": "2008",
+         "Revenue in million U.S. dollars": "302"
       },
       {
-         "Category": "Ancient grains (e.g. kamut spelt amaranth lupin)",
-         "Share of respondents": "61"
+         "Year": "2007",
+         "Revenue in million U.S. dollars": "282"
       },
       {
-         "Category": "Uncommon herbs (e.g. chervil lovage lemon balm papalo)",
-         "Share of respondents": "61"
+         "Year": "2006",
+         "Revenue in million U.S. dollars": "255"
       },
       {
-         "Category": "Authentic ethnic cuisine",
-         "Share of respondents": "61"
+         "Year": "2005",
+         "Revenue in million U.S. dollars": "250"
       },
       {
-         "Category": "Healthful kids' meals",
-         "Share of respondents": "61"
+         "Year": "2004",
+         "Revenue in million U.S. dollars": "236"
       },
       {
-         "Category": "Vegetable carb substitutes (e.g. cauliflower rice zucchini spaghetti)",
-         "Share of respondents": "61"
+         "Year": "2003",
+         "Revenue in million U.S. dollars": "191"
       },
       {
-         "Category": "Ethnic spices (e.g. harissa curry peri peri ras el hanout shichimi)",
-         "Share of respondents": "60"
+         "Year": "2002",
+         "Revenue in million U.S. dollars": "189"
       },
       {
-         "Category": "Peruvian cuisine",
-         "Share of respondents": "60"
-      },
-      {
-         "Category": "House-made/artisan pickles",
-         "Share of respondents": "60"
-      },
-      {
-         "Category": "Heritage-breed meats",
-         "Share of respondents": "60"
+         "Year": "2001",
+         "Revenue in million U.S. dollars": "136"
       }
-   ]
+   ],
+   "gold": "The statistic depicts the revenue of the National Football League franchise , New England Patriots , from 2001 to 2018 . In 2018 , the franchise generated a revenue of 600 million U.S. dollars .\n"
 }

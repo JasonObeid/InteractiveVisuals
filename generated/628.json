@@ -1,72 +1,49 @@
 {
-   "title": "Number of road deaths in Portugal 2006 to 2017",
+   "title": "Skype usage reach in the United States 2018 , by age group",
    "xAxis": "Year",
-   "yAxis": "Number of fatalities",
+   "yAxis": "Reach",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Number of deaths traffic fatalities per Year in Portugal between 2006 and 2017 . ",
-      "In the period of consideration , deaths fatalities presented an overall trend of decline . ",
-      "The Year with the lowest amount of fatalities was 2015 , with a total of 207 deaths traffic fatalities in Portugal ."
+      "This statistic shows the share of internet users in the Skype who were using Skype usage as of 2018 , sorted age group . ",
+      "We Are Flint found that 52 % of internet users aged from 25 to 34 years used the social networking site 's usage platform ."
    ],
    "trends": [
-      {
-         "14": "11",
-         "16": "0"
-      },
       {},
       {
-         "9": "2"
+         "5": "1"
       }
    ],
    "data": [
       {
-         "Year": "2017",
-         "Number of fatalities": "602"
+         "Year": "18-24",
+         "Reach": "51"
       },
       {
-         "Year": "2016",
-         "Number of fatalities": "563"
+         "Year": "25-34",
+         "Reach": "52"
       },
       {
-         "Year": "2015",
-         "Number of fatalities": "593"
+         "Year": "35-44",
+         "Reach": "42"
       },
       {
-         "Year": "2014",
-         "Number of fatalities": "638"
+         "Year": "45-54",
+         "Reach": "33"
       },
       {
-         "Year": "2013",
-         "Number of fatalities": "637"
+         "Year": "55-64",
+         "Reach": "25"
       },
       {
-         "Year": "2012",
-         "Number of fatalities": "718"
+         "Year": "65-75",
+         "Reach": "26"
       },
       {
-         "Year": "2011",
-         "Number of fatalities": "891"
-      },
-      {
-         "Year": "2010",
-         "Number of fatalities": "937"
-      },
-      {
-         "Year": "2009",
-         "Number of fatalities": "737"
-      },
-      {
-         "Year": "2008",
-         "Number of fatalities": "885"
-      },
-      {
-         "Year": "2007",
-         "Number of fatalities": "974"
-      },
-      {
-         "Year": "2006",
-         "Number of fatalities": "969"
+         "Year": "75+",
+         "Reach": "16"
       }
-   ]
+   ],
+   "gold": "This statistic shows the share of internet users in the United States who were using Skype as of January 2018 , sorted by age group . We Are Flint found that 51 percent of internet users aged from 18 to 24 years old used the telecommunications application software .\n"
 }

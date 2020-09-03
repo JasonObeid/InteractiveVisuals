@@ -1,75 +1,78 @@
 {
-   "title": "Number of arrivals in tourist accommodation Netherlands 2006 to 2018",
+   "title": "Net income of Marriott International worldwide 2007 to 2018",
    "xAxis": "Year",
-   "yAxis": "Number of arrivals in millions",
+   "yAxis": "Net income in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Number of tourist arrivals at accommodation establishments in Netherlands from 2006 to 2018 . ",
-      "In 2018 , the Number of arrivals in travel accommodation ( including both international and domestic tourists ) amounted to approximately 43.9 millions ."
+      "The Marriott International Company reported total Net of about 1273 million U.S. dollars in 2019 . ",
+      "Total Net comprises automotive Net , credit Net , and other Net . ",
+      "The Marriott International Company 's Net In 2008 , when the global economy tumbled into recession , the CEOs of all Big Three US automakers flew into Washington DC to plead for emergency government aid ."
    ],
    "trends": [
       {
-         "14": "12",
-         "16": "0"
+         "8": "0",
+         "13": "0"
       },
+      {},
       {
-         "1": "0",
-         "21": "0"
+         "6": "11"
       }
    ],
    "data": [
       {
+         "Year": "2019",
+         "Net income in million U.S. dollars": "1273"
+      },
+      {
          "Year": "2018",
-         "Number of arrivals in millions": "43.9"
+         "Net income in million U.S. dollars": "1907"
       },
       {
          "Year": "2017",
-         "Number of arrivals in millions": "42.2"
+         "Net income in million U.S. dollars": "1372"
       },
       {
          "Year": "2016",
-         "Number of arrivals in millions": "38.9"
+         "Net income in million U.S. dollars": "780"
       },
       {
          "Year": "2015",
-         "Number of arrivals in millions": "37.4"
+         "Net income in million U.S. dollars": "859"
       },
       {
          "Year": "2014",
-         "Number of arrivals in millions": "35.9"
+         "Net income in million U.S. dollars": "753"
       },
       {
-         "Year": "2013 ",
-         "Number of arrivals in millions": "34.0"
+         "Year": "2013",
+         "Net income in million U.S. dollars": "626"
       },
       {
          "Year": "2012",
-         "Number of arrivals in millions": "31.1"
+         "Net income in million U.S. dollars": "571"
       },
       {
          "Year": "2011",
-         "Number of arrivals in millions": "30.7"
+         "Net income in million U.S. dollars": "198"
       },
       {
          "Year": "2010",
-         "Number of arrivals in millions": "30.0"
+         "Net income in million U.S. dollars": "458"
       },
       {
          "Year": "2009",
-         "Number of arrivals in millions": "29.0"
+         "Net income in million U.S. dollars": "-346"
       },
       {
          "Year": "2008",
-         "Number of arrivals in millions": "29.1"
+         "Net income in million U.S. dollars": "359"
       },
       {
          "Year": "2007",
-         "Number of arrivals in millions": "30.3"
-      },
-      {
-         "Year": "2006",
-         "Number of arrivals in millions": "28.5"
+         "Net income in million U.S. dollars": "697"
       }
-   ]
+   ],
+   "gold": "Global hotel giant Marriot International accounted for a net income of approximately 1.27 billion U.S. dollars in 2019 , down from the previous year 's total of 1.91 billion U.S. dollars . A global player in the hotel industry With nearly seven thousand hotels around the world , Marriot International was one of the largest hotel chains worldwide in 2019 . It also ranked ahead of other large hotel chains such as Hilton Worldwide , Hyatt Hotel , and Host Hotels & Resorts in terms of revenue in 2018 .\n"
 }

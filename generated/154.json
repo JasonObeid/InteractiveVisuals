@@ -1,131 +1,146 @@
 {
-   "title": "Average retail price for pork chops in Canada 2015 to 2019",
-   "labels": [
-      "Month",
-      "2015",
-      "2016",
-      "2017",
-      "2018",
-      "2019"
-   ],
-   "columnType": "multi",
+   "title": "NBA teams - number of Facebook fans 2019",
+   "xAxis": "Nba Team",
+   "yAxis": "Facebook fans in millions",
+   "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The Average retail price for one-kilogram pork chops Canada was 12.33 Canadian dollars in 2019 Canada . ",
-      "This price is an all-time high for pork chops Canada . ",
-      "pork chops Canada is a relatively expensive option when compared to other cuts of beef , such as ground beef , which retailed at a price of 11.3 Canadian dollars per kilogram in May 2019 ."
+      "This graph shows the Nba fans of all NBA League teams in 2019 . ",
+      "The Utah_Jazz franchise was valued at 1.81 millions in 2018 ."
    ],
    "trends": [
-      {
-         "10": [
-            "11",
-            "5"
-         ]
-      },
       {},
       {
-         "33": [
-            "7",
-            "0"
-         ]
+         "1": "23",
+         "6": "23"
       }
    ],
    "data": [
       {
-         "Month": "Dec",
-         "2015": "13.09",
-         "2016": "12.47",
-         "2017": "12.54",
-         "2018": "12.04",
-         "2019": "12.02"
+         "Nba Team": "NBA",
+         "Facebook fans in millions": "38.05"
       },
       {
-         "Month": "Nov",
-         "2015": "12.89",
-         "2016": "12.37",
-         "2017": "12.31",
-         "2018": "12.07",
-         "2019": "11.58"
+         "Nba Team": "Los Angeles Lakers",
+         "Facebook fans in millions": "21.57"
       },
       {
-         "Month": "Oct",
-         "2015": "13.26",
-         "2016": "12.29",
-         "2017": "12.47",
-         "2018": "12.31",
-         "2019": "11.8"
+         "Nba Team": "Chicago Bulls",
+         "Facebook fans in millions": "17.74"
       },
       {
-         "Month": "Sep",
-         "2015": "13.16",
-         "2016": "12.55",
-         "2017": "12.34",
-         "2018": "12.21",
-         "2019": "12.07"
+         "Nba Team": "Miami Heat",
+         "Facebook fans in millions": "15.27"
       },
       {
-         "Month": "Aug",
-         "2015": "12.99",
-         "2016": "12.6",
-         "2017": "12.77",
-         "2018": "12.21",
-         "2019": "11.72"
+         "Nba Team": "Houston Rockets",
+         "Facebook fans in millions": "12.56"
       },
       {
-         "Month": "Jul",
-         "2015": "12.77",
-         "2016": "12.9",
-         "2017": "12.61",
-         "2018": "12.43",
-         "2019": "12.02"
+         "Nba Team": "Golden State Warriors",
+         "Facebook fans in millions": "11.72"
       },
       {
-         "Month": "Jun",
-         "2015": "12.72",
-         "2016": "12.24",
-         "2017": "12.44",
-         "2018": "12.12",
-         "2019": "12.26"
+         "Nba Team": "Boston Celtics",
+         "Facebook fans in millions": "9.01"
       },
       {
-         "Month": "May",
-         "2015": "12.84",
-         "2016": "12.38",
-         "2017": "12.31",
-         "2018": "11.87",
-         "2019": "12.2"
+         "Nba Team": "Cleveland Cavaliers",
+         "Facebook fans in millions": "8.59"
       },
       {
-         "Month": "Apr",
-         "2015": "12.93",
-         "2016": "12.46",
-         "2017": "12.43",
-         "2018": "12.3",
-         "2019": "11.92"
+         "Nba Team": "Sacramento Kings",
+         "Facebook fans in millions": "7.51"
       },
       {
-         "Month": "Mar",
-         "2015": "12.97",
-         "2016": "13.0",
-         "2017": "11.86",
-         "2018": "11.91",
-         "2019": "11.72"
+         "Nba Team": "Oklahoma City Thunder",
+         "Facebook fans in millions": "7.07"
       },
       {
-         "Month": "Feb",
-         "2015": "12.93",
-         "2016": "12.51",
-         "2017": "11.96",
-         "2018": "12.13",
-         "2019": "12.05"
+         "Nba Team": "San Antonio Spurs",
+         "Facebook fans in millions": "7.05"
       },
       {
-         "Month": "Jan",
-         "2015": "12.99",
-         "2016": "12.99",
-         "2017": "12.15",
-         "2018": "12.05",
-         "2019": "12.33"
+         "Nba Team": "New York Knicks",
+         "Facebook fans in millions": "5.83"
+      },
+      {
+         "Nba Team": "Dallas Mavericks",
+         "Facebook fans in millions": "4.37"
+      },
+      {
+         "Nba Team": "Los Angeles Clippers",
+         "Facebook fans in millions": "3.78"
+      },
+      {
+         "Nba Team": "Indiana Pacers",
+         "Facebook fans in millions": "3.25"
+      },
+      {
+         "Nba Team": "Orlando Magic",
+         "Facebook fans in millions": "2.75"
+      },
+      {
+         "Nba Team": "Brooklyn Nets",
+         "Facebook fans in millions": "2.7"
+      },
+      {
+         "Nba Team": "Toronto Raptors",
+         "Facebook fans in millions": "2.68"
+      },
+      {
+         "Nba Team": "Portland Trailblazers",
+         "Facebook fans in millions": "2.46"
+      },
+      {
+         "Nba Team": "Denver Nuggets",
+         "Facebook fans in millions": "2.01"
+      },
+      {
+         "Nba Team": "Minnesota Timberwolves",
+         "Facebook fans in millions": "1.89"
+      },
+      {
+         "Nba Team": "Phoenix Suns",
+         "Facebook fans in millions": "1.88"
+      },
+      {
+         "Nba Team": "Milwaukee Bucks",
+         "Facebook fans in millions": "1.82"
+      },
+      {
+         "Nba Team": "Utah Jazz",
+         "Facebook fans in millions": "1.81"
+      },
+      {
+         "Nba Team": "Memphis Grizzlies",
+         "Facebook fans in millions": "1.8"
+      },
+      {
+         "Nba Team": "Detroit Pistons",
+         "Facebook fans in millions": "1.79"
+      },
+      {
+         "Nba Team": "New Orleans Pelicans",
+         "Facebook fans in millions": "1.75"
+      },
+      {
+         "Nba Team": "Philadelphia 76ers",
+         "Facebook fans in millions": "1.75"
+      },
+      {
+         "Nba Team": "Charlotte Hornets",
+         "Facebook fans in millions": "1.74"
+      },
+      {
+         "Nba Team": "Atlanta Hawks",
+         "Facebook fans in millions": "1.61"
+      },
+      {
+         "Nba Team": "Washington Wizards",
+         "Facebook fans in millions": "1.55"
       }
-   ]
+   ],
+   "gold": "With 21.57 million fans , the Los Angeles Lakers have the most followed National Basketball Association team account on Facebook . Bringing up the rear is the official account of the Washington Wizards , which has 1.55 million fans . The Facebook presence of the NBA itself has 38.05 million fans .\n"
 }

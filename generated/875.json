@@ -1,45 +1,84 @@
 {
-   "title": "Most followed sports leagues in the U.S. 2019",
-   "xAxis": "Response",
-   "yAxis": "Share of respondents",
+   "title": "Concussion rate in the U.S. 2010 to 2015 , by age",
+   "xAxis": "Year",
+   "yAxis": "Rate per 1,000 members",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "According to a 2019 survey , NFL for the followed of sports leagues for electricity generation in the U.S. outweighed opposition . ",
-      "Of respondents , 35 % supported its followed , compared to 23 % who opposed it . ",
-      "Despite sports disasters occurring as recently 2011 , when a tsunami hit a power plant in Fukushima , Japan approximately 34 % of U.S. residents believe it provides a safe source of leagues ."
+      "The statistic shows the U.S. Rate of U.S. per 1,000 in the U.S. from 60-64_years to <1_year . ",
+      "In the 1-4_years season , U.S. rate is estimated to increase by 2.7 % 1,000 members , up from 1.8 % 1,000 in the previous Year ."
    ],
    "trends": [
       {
-         "6": "0"
+         "14": "14",
+         "16": "0"
       },
-      {},
-      {}
+      {
+         "2": "1"
+      }
    ],
    "data": [
       {
-         "Response": "NFL",
-         "Share of respondents": "33"
+         "Year": "<1 year",
+         "Rate per 1,000 members": "1.0"
       },
       {
-         "Response": "MLB",
-         "Share of respondents": "16"
+         "Year": "1-4 years",
+         "Rate per 1,000 members": "2.7"
       },
       {
-         "Response": "NBA",
-         "Share of respondents": "10"
+         "Year": "5-9 years",
+         "Rate per 1,000 members": "3.5"
       },
       {
-         "Response": "NHL",
-         "Share of respondents": "5"
+         "Year": "10-14 years",
+         "Rate per 1,000 members": "10.7"
       },
       {
-         "Response": "MLS",
-         "Share of respondents": "3"
+         "Year": "15-17 years",
+         "Rate per 1,000 members": "18.8"
       },
       {
-         "Response": "I don't follow any of these leagues",
-         "Share of respondents": "32"
+         "Year": "18-19 years",
+         "Rate per 1,000 members": "10.1"
+      },
+      {
+         "Year": "20-24 years",
+         "Rate per 1,000 members": "4.5"
+      },
+      {
+         "Year": "25-29 years",
+         "Rate per 1,000 members": "2.5"
+      },
+      {
+         "Year": "30-34 years",
+         "Rate per 1,000 members": "2.0"
+      },
+      {
+         "Year": "35-39 years",
+         "Rate per 1,000 members": "2.0"
+      },
+      {
+         "Year": "40-44 years",
+         "Rate per 1,000 members": "1.9"
+      },
+      {
+         "Year": "45-49 years",
+         "Rate per 1,000 members": "1.9"
+      },
+      {
+         "Year": "50-54 years",
+         "Rate per 1,000 members": "1.8"
+      },
+      {
+         "Year": "55-59 years",
+         "Rate per 1,000 members": "1.8"
+      },
+      {
+         "Year": "60-64 years",
+         "Rate per 1,000 members": "1.8"
       }
-   ]
+   ],
+   "gold": "The highest rate of concussions among U.S. Blue Cross Blue Shield ( BCBS ) members from 2010 to 2015 was among those aged 15 - 17 years . Among that age group the rate of concussion was 18.8 per 1,000 members . Unsurprisingly , the age group with the lowest rate of concussion was those aged less than 1 year .\n"
 }

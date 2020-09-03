@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 11 categories for the x axis of Cloud Service representing 2011, 2016.",
+      "This grouped bar chart has 11 categories for the x axis of Cloud Service representing 2011, and 2016.",
       " The highest category is found at Cloud Application platform services (aPaaS) with a mean value of 35.0.",
       " The second highest category is found at Cloud Integration services (iPaaS) with a mean value of 12.5.",
       " This represents a difference of 94.7%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "14": [
+            "2",
+            "3"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Cloud Service": "Cloud Application platform services (aPaaS)",

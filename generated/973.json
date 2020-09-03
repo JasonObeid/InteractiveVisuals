@@ -1,145 +1,101 @@
 {
-   "title": "U.S. government - annual receipts by quarter 2019",
-   "xAxis": "Quarter",
-   "yAxis": "Receipts in trillion U.S. dollars",
+   "title": "Canada : violent crime rate 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Violent crime rate",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows a timeline with the global Receipts of monthly active U.S. Digital Entertainment trillion as of the third Quarter of 2019 . ",
-      "In the third Quarter of 2019 , 5.78 trillion people accessed the mobile gaming company 's apps per month . ",
-      "Popular titles include Candy Crush Saga , Farm Ville Saga as well Bubble Witch Saga , all of which are monetized through in-game purchases ."
+      "The statistic shows the total Violent of rate worldwide from 2000 to 2018 . ",
+      "In 2018 , the total Violent from rate amounted to 1143.5 % rate ."
    ],
    "trends": [
-      {},
       {
-         "7": "0"
+         "10": "0",
+         "12": "18"
       },
-      {}
+      {
+         "1": "18",
+         "10": "18"
+      }
    ],
    "data": [
       {
-         "Quarter": "Q3 '19",
-         "Receipts in trillion U.S. dollars": "5.78"
+         "Year": "2000",
+         "Violent crime rate": "1494.21"
       },
       {
-         "Quarter": "Q2 '19",
-         "Receipts in trillion U.S. dollars": "5.78"
+         "Year": "2001",
+         "Violent crime rate": "1473.43"
       },
       {
-         "Quarter": "Q1 '19",
-         "Receipts in trillion U.S. dollars": "5.69"
+         "Year": "2002",
+         "Violent crime rate": "1440.77"
       },
       {
-         "Quarter": "Q4 '18",
-         "Receipts in trillion U.S. dollars": "5.6"
+         "Year": "2003",
+         "Violent crime rate": "1434.79"
       },
       {
-         "Quarter": "Q3 '18",
-         "Receipts in trillion U.S. dollars": "5.62"
+         "Year": "2004",
+         "Violent crime rate": "1404.21"
       },
       {
-         "Quarter": "Q2 '18",
-         "Receipts in trillion U.S. dollars": "5.54"
+         "Year": "2005",
+         "Violent crime rate": "1388.91"
       },
       {
-         "Quarter": "Q1 '18",
-         "Receipts in trillion U.S. dollars": "5.5"
+         "Year": "2006",
+         "Violent crime rate": "1386.69"
       },
       {
-         "Quarter": "Q4 '17",
-         "Receipts in trillion U.S. dollars": "6.59"
+         "Year": "2007",
+         "Violent crime rate": "1353.85"
       },
       {
-         "Quarter": "Q3 '17",
-         "Receipts in trillion U.S. dollars": "5.53"
+         "Year": "2008",
+         "Violent crime rate": "1334.33"
       },
       {
-         "Quarter": "Q2 '17",
-         "Receipts in trillion U.S. dollars": "5.45"
+         "Year": "2009",
+         "Violent crime rate": "1321.89"
       },
       {
-         "Quarter": "Q1 '17",
-         "Receipts in trillion U.S. dollars": "5.48"
+         "Year": "2010",
+         "Violent crime rate": "1291.62"
       },
       {
-         "Quarter": "Q4 '16",
-         "Receipts in trillion U.S. dollars": "5.42"
+         "Year": "2011",
+         "Violent crime rate": "1235.72"
       },
       {
-         "Quarter": "Q3 '16",
-         "Receipts in trillion U.S. dollars": "5.39"
+         "Year": "2012",
+         "Violent crime rate": "1198.78"
       },
       {
-         "Quarter": "Q2 '16",
-         "Receipts in trillion U.S. dollars": "5.33"
+         "Year": "2013",
+         "Violent crime rate": "1095.65"
       },
       {
-         "Quarter": "Q1 '16",
-         "Receipts in trillion U.S. dollars": "5.31"
+         "Year": "2014",
+         "Violent crime rate": "1044.23"
       },
       {
-         "Quarter": "Q4 '15",
-         "Receipts in trillion U.S. dollars": "5.44"
+         "Year": "2015",
+         "Violent crime rate": "1070.26"
       },
       {
-         "Quarter": "Q3 '15",
-         "Receipts in trillion U.S. dollars": "5.3"
+         "Year": "2016",
+         "Violent crime rate": "1076.07"
       },
       {
-         "Quarter": "Q2 '15",
-         "Receipts in trillion U.S. dollars": "5.3"
+         "Year": "2017",
+         "Violent crime rate": "1112.82"
       },
       {
-         "Quarter": "Q1 '15",
-         "Receipts in trillion U.S. dollars": "5.22"
-      },
-      {
-         "Quarter": "Q4 '14",
-         "Receipts in trillion U.S. dollars": "5.12"
-      },
-      {
-         "Quarter": "Q3 '14",
-         "Receipts in trillion U.S. dollars": "5.1"
-      },
-      {
-         "Quarter": "Q2 '14",
-         "Receipts in trillion U.S. dollars": "5.08"
-      },
-      {
-         "Quarter": "Q1 '14",
-         "Receipts in trillion U.S. dollars": "5.01"
-      },
-      {
-         "Quarter": "Q4 '13",
-         "Receipts in trillion U.S. dollars": "4.98"
-      },
-      {
-         "Quarter": "Q3 '13",
-         "Receipts in trillion U.S. dollars": "4.79"
-      },
-      {
-         "Quarter": "Q2 '13",
-         "Receipts in trillion U.S. dollars": "4.97"
-      },
-      {
-         "Quarter": "Q1 '13",
-         "Receipts in trillion U.S. dollars": "4.69"
-      },
-      {
-         "Quarter": "Q4 '12",
-         "Receipts in trillion U.S. dollars": "4.44"
-      },
-      {
-         "Quarter": "Q3 '12",
-         "Receipts in trillion U.S. dollars": "4.32"
-      },
-      {
-         "Quarter": "Q2 '12",
-         "Receipts in trillion U.S. dollars": "4.3"
-      },
-      {
-         "Quarter": "Q1 '12",
-         "Receipts in trillion U.S. dollars": "4.27"
+         "Year": "2018",
+         "Violent crime rate": "1143.5"
       }
-   ]
+   ],
+   "gold": "This statistic shows the reported rate of violent crime in Canada from 2000 to 2018 . There were roughly 1,143.5 violent crimes reported per 100,000 residents in Canada in 2018 .\n"
 }

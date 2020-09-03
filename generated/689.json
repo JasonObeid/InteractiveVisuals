@@ -1,68 +1,94 @@
 {
-   "title": "Gross domestic product ( GDP ) growth rate in Angola 2024",
-   "xAxis": "Year",
-   "yAxis": "GDP growth compared to previous year",
+   "title": "UFC : events with the highest live attendance as of May 2019",
+   "xAxis": "Ufc Fights",
+   "yAxis": "Attendance",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the growth in real GDP in Angola from 2014 to 2018 , with projections up until 2024 . ",
-      "In 2018 , Angola 's real Gross domestic product increased by around -1.2 % compared to the previous Year ."
+      "The statistic depicts a ranking of the Fights of the Ufc Fights 2019 events Attendance ( live ) Attendance in 2019 . ",
+      "The professional Fights squad of Rousey_vs_Holm_(UFC_193) Munich had a total Attendance ( live ) Attendance of 56214 % Attendance ."
    ],
    "trends": [
+      {},
       {
-         "11": "10",
-         "13": "6",
-         "19": "0"
-      },
-      {
-         "1": "6",
-         "12": "6"
+         "5": "0",
+         "16": "0"
       }
    ],
    "data": [
       {
-         "Year": "2024",
-         "GDP growth compared to previous year": "3.78"
+         "Ufc Fights": "Rousey vs Holm (UFC 193)",
+         "Attendance": "56214"
       },
       {
-         "Year": "2023",
-         "GDP growth compared to previous year": "4.13"
+         "Ufc Fights": "St. Pierre vs Shields (UFC 129)",
+         "Attendance": "55724"
       },
       {
-         "Year": "2022",
-         "GDP growth compared to previous year": "3.33"
+         "Ufc Fights": "Werdum vs Miocic (UFC 198)",
+         "Attendance": "45207"
       },
       {
-         "Year": "2021",
-         "GDP growth compared to previous year": "2.87"
+         "Ufc Fights": "Gustafsson vs Johnson (UFC on FOX 14)",
+         "Attendance": "30000"
       },
       {
-         "Year": "2020",
-         "GDP growth compared to previous year": "1.15"
+         "Ufc Fights": "St. Pierre vs Koscheck 2 (UFC 124)",
+         "Attendance": "23152"
       },
       {
-         "Year": "2019",
-         "GDP growth compared to previous year": "-0.27"
+         "Ufc Fights": "Hunt vs Oleinik (UFC Fight Night 136)",
+         "Attendance": "22603"
       },
       {
-         "Year": "2018",
-         "GDP growth compared to previous year": "-1.2"
+         "Ufc Fights": "Redemption (UFC 97)",
+         "Attendance": "21451"
       },
       {
-         "Year": "2017",
-         "GDP growth compared to previous year": "-0.15"
+         "Ufc Fights": "Serra vs St. Pierre 2 (UFC 83)",
+         "Attendance": "21390"
       },
       {
-         "Year": "2016",
-         "GDP growth compared to previous year": "-2.58"
+         "Ufc Fights": "Velasquez vs Werdum (UFC 188)",
+         "Attendance": "21036"
       },
       {
-         "Year": "2015",
-         "GDP growth compared to previous year": "0.94"
+         "Ufc Fights": "Werdum vs Hunt (UFC 180)",
+         "Attendance": "21000"
       },
       {
-         "Year": "2014",
-         "GDP growth compared to previous year": "4.82"
+         "Ufc Fights": "Edgar vs Henderson (UFC 144)",
+         "Attendance": "21000"
+      },
+      {
+         "Ufc Fights": "Alvarez vs McGregor (UFC 205)",
+         "Attendance": "20427"
+      },
+      {
+         "Ufc Fights": "St Pierre vs Diaz (UFC 158)",
+         "Attendance": "20145"
+      },
+      {
+         "Ufc Fights": "Khabib vs McGregor (UFC 229)",
+         "Attendance": "20034"
+      },
+      {
+         "Ufc Fights": "Hendricks vs Lawler (UFC 171)",
+         "Attendance": "19324"
+      },
+      {
+         "Ufc Fights": "Uprising (UFC 68)",
+         "Attendance": "19049"
+      },
+      {
+         "Ufc Fights": "Holloway vs Ortega (UFC 231)",
+         "Attendance": "19039"
+      },
+      {
+         "Ufc Fights": "Miocic vs Overeem (UFC 203)",
+         "Attendance": "18785"
       }
-   ]
+   ],
+   "gold": "As of June 2019 , out of all Ultimate Fighting Championship ( UFC ) events so far UFC 193 \u2013 Rousey vs. Holm on November 14th 2015 in Melbourne , Australia had the highest gate attendance with a total of 56,214 attendees , followed closely by UFC 129 \u2013 St. Pierre vs Shields on April 30th 2011 in Toronto Canada with a total attendance of 55,724 . Conor McGregor highest overall direct fight earnings When looking at the highest total earnings among fighters , directly resulting from UFC fights , Conor McGregor , who officially retired on March 26th 2019 from Mixed Martial Arts ( MMA ) , is still at first place with approximately 12 million U.S. dollars . However it is safe to say that this only a small fraction compared to his entire earnings , including Pay-Per-View bonuses , endorsement deals and not to mention his boxing match against Floyd Mayweather , for which alone he made more than 75 million U.S. dollars .\n"
 }

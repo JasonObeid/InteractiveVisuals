@@ -1,63 +1,101 @@
 {
-   "title": "Planned average spending of U.S. consumers on Super Bowl Sunday 2011 to 2019",
-   "xAxis": "Year",
-   "yAxis": "Planned spending in U.S. dollars",
+   "title": "Canada : Gross Domestic Product ( GDP ) by industry December 2019",
+   "xAxis": "Industry",
+   "yAxis": "GDP in million chained 2012 Canadian dollars",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Planned of spending U.S. in U.S. Super Bowl Sunday from 2011 to 2019 . ",
-      "In 2019 , there were 81.0 Planned spending members in U.S. Super Bowl Sunday . ",
-      "In the same Year , there were around 79.12 thousand spending U.S. ."
+      "This statistic shows the gross domestic product ( GDP ) of Canada in 2019 , Product Industry . ",
+      "In 2019 , the GDP of the Health_care_and_social_assistance Industry in Canada was 50.72 million chained 2012 Canadian dollars ."
    ],
    "trends": [
+      {},
       {
-         "12": "8",
-         "14": "0"
-      },
-      {
-         "1": "0",
-         "5": "0"
-      },
-      {
-         "8": "5"
+         "7": "4"
       }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Planned spending in U.S. dollars": "81.0"
+         "Industry": "Real estate and rental and leasing",
+         "GDP in million chained 2012 Canadian dollars": "254294"
       },
       {
-         "Year": "2018",
-         "Planned spending in U.S. dollars": "81.0"
+         "Industry": "Manufacturing",
+         "GDP in million chained 2012 Canadian dollars": "199234"
       },
       {
-         "Year": "2017",
-         "Planned spending in U.S. dollars": "75.0"
+         "Industry": "Mining quarrying and oil and gas extraction",
+         "GDP in million chained 2012 Canadian dollars": "145909"
       },
       {
-         "Year": "2016",
-         "Planned spending in U.S. dollars": "82.19"
+         "Industry": "Construction",
+         "GDP in million chained 2012 Canadian dollars": "142530"
       },
       {
-         "Year": "2015",
-         "Planned spending in U.S. dollars": "89.05"
+         "Industry": "Health care and social assistance",
+         "GDP in million chained 2012 Canadian dollars": "142028"
       },
       {
-         "Year": "2014",
-         "Planned spending in U.S. dollars": "79.12"
+         "Industry": "Public administration",
+         "GDP in million chained 2012 Canadian dollars": "134370"
       },
       {
-         "Year": "2013",
-         "Planned spending in U.S. dollars": "82.3"
+         "Industry": "Finance and insurance",
+         "GDP in million chained 2012 Canadian dollars": "133599"
       },
       {
-         "Year": "2012",
-         "Planned spending in U.S. dollars": "76.37"
+         "Industry": "Professional scientific and technical services",
+         "GDP in million chained 2012 Canadian dollars": "120820"
       },
       {
-         "Year": "2011",
-         "Planned spending in U.S. dollars": "71.51"
+         "Industry": "Educational services",
+         "GDP in million chained 2012 Canadian dollars": "104771"
+      },
+      {
+         "Industry": "Wholesale trade",
+         "GDP in million chained 2012 Canadian dollars": "103082"
+      },
+      {
+         "Industry": "Retail trade",
+         "GDP in million chained 2012 Canadian dollars": "102619"
+      },
+      {
+         "Industry": "Transportation and warehousing",
+         "GDP in million chained 2012 Canadian dollars": "89599"
+      },
+      {
+         "Industry": "Information and cultural industries",
+         "GDP in million chained 2012 Canadian dollars": "64323"
+      },
+      {
+         "Industry": "Administrative and support waste management and remediation services",
+         "GDP in million chained 2012 Canadian dollars": "52649"
+      },
+      {
+         "Industry": "Accommodation and food services",
+         "GDP in million chained 2012 Canadian dollars": "45160"
+      },
+      {
+         "Industry": "Utilities",
+         "GDP in million chained 2012 Canadian dollars": "43668"
+      },
+      {
+         "Industry": "Agriculture forestry fishing and hunting",
+         "GDP in million chained 2012 Canadian dollars": "40058"
+      },
+      {
+         "Industry": "Other services (except public administration)",
+         "GDP in million chained 2012 Canadian dollars": "38127"
+      },
+      {
+         "Industry": "Arts entertainment and recreation",
+         "GDP in million chained 2012 Canadian dollars": "15699"
+      },
+      {
+         "Industry": "Management of companies and enterprises",
+         "GDP in million chained 2012 Canadian dollars": "9303"
       }
-   ]
+   ],
+   "gold": "This statistic shows the Gross Domestic Product ( GDP ) of Canada in December 2019 , distinguished by major industry . In December 2019 , the construction industry of Canada contributed about 142.5 billion Canadian dollars to the total Canadian GDP .\n"
 }

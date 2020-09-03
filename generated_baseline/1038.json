@@ -8,16 +8,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 8 categories for the x axis of Month representing Owned, Chartered, Orderbook.",
-      " The highest category is found at August 15 2016 with a mean value of 213851.33333333334.",
-      " The second highest category is found at September 7 2016 with a mean value of 213653.66666666666.",
+      "This grouped bar chart has 8 categories for the x axis of Month representing Owned, Chartered, and Orderbook.",
+      " The highest category is found at August 15 2016 with a mean value of 213851.33.",
+      " The second highest category is found at September 7 2016 with a mean value of 213653.67.",
       " This represents a difference of 0.1%."
    ],
-   "trends": {
-      "maxIndex": 1,
-      "secondIndex": 1
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "3",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "3",
+            "0"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Month": "September 7 2016",

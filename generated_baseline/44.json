@@ -9,16 +9,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 7 categories for the x axis of Frequency representing White, Hispanic, Black, Other.",
+      "This grouped bar chart has 7 categories for the x axis of Frequency representing White, Hispanic, Black, and Other.",
       " The highest category is found at At least once a day with a mean value of 55.5.",
       " The second highest category is found at Never with a mean value of 14.0.",
       " This represents a difference of 119.4%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "5"
+         ],
+         "14": [
+            "4",
+            "5"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Frequency": "At least once a day",

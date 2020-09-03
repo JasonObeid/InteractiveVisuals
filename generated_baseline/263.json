@@ -4,18 +4,16 @@
    "yAxis": "Number of residents per square mile",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Number of residents per square mile with a total of 13 data points. The chart has one significant trend.",
-      " This trend is extremely negative which exists from 2018 to 1960."
+      " This trend is positive which exists from 2018 to 1960."
    ],
    "trends": [
+      {},
       {
-         "Length": 13,
-         "direction": "negative",
-         "start": 0,
-         "end": 12,
-         "trend": "y=1.34x+-2586.45",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "12"
       }
    ],
    "data": [

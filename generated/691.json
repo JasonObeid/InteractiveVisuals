@@ -1,69 +1,72 @@
 {
-   "title": "Urbanization in Colombia 2018",
+   "title": "Gross domestic product ( GDP ) growth rate in India 2024",
    "xAxis": "Year",
-   "yAxis": "Share of urban population in total population",
+   "yAxis": "GDP growth rate compared to previous year",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the degree of Urbanization in Colombia from 2008 to 2018 . ",
-      "Urbanization means the Share of urban population in the total population of a country . ",
-      "In 2018 , 80.78 % of Colombia 's total population lived in urban areas and cities ."
+      "The statistic shows the growth rate of India 's real GDP from 2014 to 2018 , with projections up until 2024 . ",
+      "In 2018 , GDP in India grew by about 6.81 % on the previous year.The recession-proof land down under GDP is one of the primary indicators used to gauge the state and health of a country 's economy . ",
+      "It is the total market value of all final goods and services that have been produced within a country in a given period of time , usually a Year ."
    ],
    "trends": [
       {
-         "10": "10",
-         "12": "0"
+         "12": "10",
+         "14": "6",
+         "20": "0"
       },
-      {},
       {
-         "1": "0",
-         "3": "0"
-      }
+         "1": "6",
+         "9": "6"
+      },
+      {}
    ],
    "data": [
       {
+         "Year": "2024",
+         "GDP growth rate compared to previous year": "7.33"
+      },
+      {
+         "Year": "2023",
+         "GDP growth rate compared to previous year": "7.44"
+      },
+      {
+         "Year": "2022",
+         "GDP growth rate compared to previous year": "7.44"
+      },
+      {
+         "Year": "2021",
+         "GDP growth rate compared to previous year": "7.44"
+      },
+      {
+         "Year": "2020",
+         "GDP growth rate compared to previous year": "7.03"
+      },
+      {
+         "Year": "2019",
+         "GDP growth rate compared to previous year": "6.12"
+      },
+      {
          "Year": "2018",
-         "Share of urban population in total population": "80.78"
+         "GDP growth rate compared to previous year": "6.81"
       },
       {
          "Year": "2017",
-         "Share of urban population in total population": "80.45"
+         "GDP growth rate compared to previous year": "7.17"
       },
       {
          "Year": "2016",
-         "Share of urban population in total population": "80.11"
+         "GDP growth rate compared to previous year": "8.17"
       },
       {
          "Year": "2015",
-         "Share of urban population in total population": "79.76"
+         "GDP growth rate compared to previous year": "8"
       },
       {
          "Year": "2014",
-         "Share of urban population in total population": "79.42"
-      },
-      {
-         "Year": "2013",
-         "Share of urban population in total population": "79.06"
-      },
-      {
-         "Year": "2012",
-         "Share of urban population in total population": "78.7"
-      },
-      {
-         "Year": "2011",
-         "Share of urban population in total population": "78.34"
-      },
-      {
-         "Year": "2010",
-         "Share of urban population in total population": "77.96"
-      },
-      {
-         "Year": "2009",
-         "Share of urban population in total population": "77.59"
-      },
-      {
-         "Year": "2008",
-         "Share of urban population in total population": "77.2"
+         "GDP growth rate compared to previous year": "7.41"
       }
-   ]
+   ],
+   "gold": "The statistic shows the growth of the real gross domestic product ( GDP ) in India from 2014 to 2018 , with projections up until 2024 . GDP refers to the total market value of all goods and services that are produced within a country per year . It is an important indicator of the economic strength of a country .\n"
 }

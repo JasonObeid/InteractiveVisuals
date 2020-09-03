@@ -1,73 +1,52 @@
 {
-   "title": "United States - public debt by month 2019/20",
-   "xAxis": "Year",
-   "yAxis": "National debt in billion U.S. dollars",
+   "title": "U.S. opinion poll : sexiest musical instrument 2014",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This graph depicts the National debt billion for United States States games in Major League Baseball from Jan_'19 to 2019/20 . ",
-      "In 2019/20 , the National debt billion was at 23223.81 U.S. dollars ."
+      "More than 26 % of Mexican internet users surveyed in 2014 claimed they used Guitar for finding dates . ",
+      "Meanwhile , one out of four respondents cited Saxophone and 21 % of people surveyed mentioned Piano . ",
+      "Sex and solitude Approximately 42.7 % of Mexicans who used musical instrument stated in 2017 that they did so in order to find friends ."
    ],
    "trends": [
       {
-         "16": "12"
+         "2": "0",
+         "14": "0"
       },
       {
-         "9": "0"
-      }
+         "8": "1",
+         "10": "2",
+         "16": "2"
+      },
+      {}
    ],
    "data": [
       {
-         "Year": "Jan '20",
-         "National debt in billion U.S. dollars": "23223.81"
+         "Response": "Guitar",
+         "Share of respondents": "26"
       },
       {
-         "Year": "Dec '19",
-         "National debt in billion U.S. dollars": "23201.38"
+         "Response": "Saxophone",
+         "Share of respondents": "25"
       },
       {
-         "Year": "Nov '19",
-         "National debt in billion U.S. dollars": "23076.2"
+         "Response": "Piano",
+         "Share of respondents": "21"
       },
       {
-         "Year": "Oct '19",
-         "National debt in billion U.S. dollars": "23008.41"
+         "Response": "Violin",
+         "Share of respondents": "14"
       },
       {
-         "Year": "Sep '19",
-         "National debt in billion U.S. dollars": "22719.4"
+         "Response": "Drums",
+         "Share of respondents": "7"
       },
       {
-         "Year": "Aug '19",
-         "National debt in billion U.S. dollars": "22460.47"
-      },
-      {
-         "Year": "Jul '19",
-         "National debt in billion U.S. dollars": "22022.37"
-      },
-      {
-         "Year": "Jun '19",
-         "National debt in billion U.S. dollars": "22023.28"
-      },
-      {
-         "Year": "May '19",
-         "National debt in billion U.S. dollars": "22026.42"
-      },
-      {
-         "Year": "Apr '19",
-         "National debt in billion U.S. dollars": "22027.67"
-      },
-      {
-         "Year": "Mar '19",
-         "National debt in billion U.S. dollars": "22027.88"
-      },
-      {
-         "Year": "Feb '19",
-         "National debt in billion U.S. dollars": "22115.53"
-      },
-      {
-         "Year": "Jan '19",
-         "National debt in billion U.S. dollars": "21982.42"
+         "Response": "Flute",
+         "Share of respondents": "5"
       }
-   ]
+   ],
+   "gold": "This statistic reveals the sexiest musical instrument according to adults in the United States in 2014 . During a survey , 26 percent of adults found the guitar to be the sexiest musical instrument to play .\n"
 }

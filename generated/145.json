@@ -1,36 +1,103 @@
 {
-   "title": "U.S. health expenditure as percentage of GDP 2050 forecast",
+   "title": "Population of Luxembourg 2019 , by age",
    "xAxis": "Year",
-   "yAxis": "Expenditure as percentage of GDP",
+   "yAxis": "Number of inhabitants",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic presents the U.S. of health expenditure percentage GDP water pipe in GDP 2007 , 2009 and 2050 . ",
-      "In 2007 , health expenditure and footwear percentage are expected to grow by 16 percentage ."
+      "The statistic shows the Population Luxembourg of 2019 inhabitants age of and age from Luxembourg to 0-4_years . ",
+      "In 0-4_years , the Population Luxembourg of 2019 inhabitants age of and age amounted to around 48111 thousand inhabitants ."
    ],
    "trends": [
       {
-         "15": "0",
-         "17": "1",
-         "19": "2"
+         "17": "0"
       },
       {
-         "1": "0",
-         "13": "0"
+         "1": "0"
       }
    ],
    "data": [
       {
-         "Year": "2007",
-         "Expenditure as percentage of GDP": "16"
+         "Year": "0-4 years",
+         "Number of inhabitants": "32592"
       },
       {
-         "Year": "2009",
-         "Expenditure as percentage of GDP": "18"
+         "Year": "5-9 years",
+         "Number of inhabitants": "33355"
       },
       {
-         "Year": "2050",
-         "Expenditure as percentage of GDP": "37"
+         "Year": "10-14 years",
+         "Number of inhabitants": "32660"
+      },
+      {
+         "Year": "15-19 years",
+         "Number of inhabitants": "33206"
+      },
+      {
+         "Year": "20-24 years",
+         "Number of inhabitants": "38038"
+      },
+      {
+         "Year": "25-29 years",
+         "Number of inhabitants": "46125"
+      },
+      {
+         "Year": "30-34 years",
+         "Number of inhabitants": "47863"
+      },
+      {
+         "Year": "35-39 years",
+         "Number of inhabitants": "48111"
+      },
+      {
+         "Year": "40-44 years",
+         "Number of inhabitants": "46177"
+      },
+      {
+         "Year": "45-49 years",
+         "Number of inhabitants": "46183"
+      },
+      {
+         "Year": "50-54 years",
+         "Number of inhabitants": "46695"
+      },
+      {
+         "Year": "55-59 years",
+         "Number of inhabitants": "41130"
+      },
+      {
+         "Year": "60-64 years",
+         "Number of inhabitants": "33431"
+      },
+      {
+         "Year": "65-69 years",
+         "Number of inhabitants": "26712"
+      },
+      {
+         "Year": "70-74 years",
+         "Number of inhabitants": "21074"
+      },
+      {
+         "Year": "75-79 years",
+         "Number of inhabitants": "16260"
+      },
+      {
+         "Year": "80-84 years",
+         "Number of inhabitants": "12270"
+      },
+      {
+         "Year": "85-89 years",
+         "Number of inhabitants": "8069"
+      },
+      {
+         "Year": "90-94 years",
+         "Number of inhabitants": "3177"
+      },
+      {
+         "Year": "95 years and older",
+         "Number of inhabitants": "766"
       }
-   ]
+   ],
+   "gold": "In 2019 , the population of Luxembourg amounted to nearly 614,000 . The largest age groups were formed by those between 30 and 34 years old ( 47,863 people ) and between 35 and 39 years old ( 48,111 people ) . By comparison : only 766 people were 95 years or older .\n"
 }

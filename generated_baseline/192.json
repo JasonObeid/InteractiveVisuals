@@ -4,36 +4,46 @@
    "yAxis": "Number of deaths",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of deaths, with a total of 26 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely negative which exists from 2016 to 2011.",
-      " On the other hand, the next significant trend is extremely positive which exists from 2011 to 2008.",
-      " Correspondingly, the next significant trend is extremely negative which exists from 1999 to 1996."
+      "This line chart has an x axis representing Year and a y axis representing Number of deaths, with a total of 26 data points. The chart has 7 significant trends.",
+      " The longest trend is extremely positive which exists from 2018 to 2011.",
+      " Correspondingly, the next significant trend is slightly negative which exists from 2011 to 2008.",
+      " But, the next significant trend is moderately negative which exists from 2008 to 2005.",
+      " Contrarily, the next significant trend is moderately negative which exists from 2005 to 2002.",
+      " On the other hand, the next significant trend is slightly negative which exists from 2002 to 1999.",
+      " Conversely, the next significant trend is extremely positive which exists from 1999 to 1996.",
+      " In a similar manner, the next significant trend is moderately positive which exists from 1996 to 1993."
    ],
    "trends": [
+      {},
       {
-         "Length": 6,
-         "direction": "negative",
-         "start": 2,
-         "end": 7,
-         "trend": "y=11.49x+-23056.15",
-         "magnitude": "extremely"
+         "1": "0",
+         "12": "7"
       },
       {
-         "Length": 4,
-         "direction": "positive",
-         "start": 7,
-         "end": 10,
-         "trend": "y=-4.1x+8289.7",
-         "magnitude": "extremely"
+         "3": "7",
+         "14": "10"
       },
       {
-         "Length": 4,
-         "direction": "negative",
-         "start": 19,
-         "end": 22,
-         "trend": "y=10.9x+-21725.5",
-         "magnitude": "extremely"
+         "3": "10",
+         "14": "13"
+      },
+      {
+         "3": "13",
+         "14": "16"
+      },
+      {
+         "3": "16",
+         "14": "19"
+      },
+      {
+         "3": "19",
+         "14": "22"
+      },
+      {
+         "3": "22",
+         "14": "25"
       }
    ],
    "data": [

@@ -1,162 +1,105 @@
 {
-   "title": "Google Play : number of available apps 2009 to 2019",
-   "xAxis": "Month",
-   "yAxis": "Number of available apps",
+   "title": "Global revenue of Puma 2000 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Revenue in billion euros",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Number of available apps in the available from 2009 to 2019 . ",
-      "As of that Month , the social network had 3600000 million apps , up from 2600000 million apps in the corresponding period of the previous year . ",
-      "available \u2013 further information Founded in 2007 , available is a microblogging website and social media platform that is now owned by Yahoo ."
+      "The statistic shows the Revenue of Puma 2000 2019 in the 2019 from 2000 to 2019 . ",
+      "In 2019 , Puma 2000 2019 amounted to approximately 5.5 billion euros ."
    ],
    "trends": [
-      {},
       {
-         "9": "7",
-         "15": "4"
+         "14": "19",
+         "16": "0"
       },
-      {}
+      {
+         "1": "0",
+         "10": "0"
+      }
    ],
    "data": [
       {
-         "Month": "Dec '19",
-         "Number of available apps": "2900000"
+         "Year": "2019",
+         "Revenue in billion euros": "5.5"
       },
       {
-         "Month": "Sep '19",
-         "Number of available apps": "2800000"
+         "Year": "2018",
+         "Revenue in billion euros": "4.65"
       },
       {
-         "Month": "Jun '19",
-         "Number of available apps": "2700000"
+         "Year": "2017",
+         "Revenue in billion euros": "4.14"
       },
       {
-         "Month": "Mar '19",
-         "Number of available apps": "2600000"
+         "Year": "2016",
+         "Revenue in billion euros": "3.63"
       },
       {
-         "Month": "Dec '18",
-         "Number of available apps": "2600000"
+         "Year": "2015",
+         "Revenue in billion euros": "3.39"
       },
       {
-         "Month": "Sep '18",
-         "Number of available apps": "2600000"
+         "Year": "2014",
+         "Revenue in billion euros": "2.97"
       },
       {
-         "Month": "Jun '18",
-         "Number of available apps": "3300000"
+         "Year": "2013",
+         "Revenue in billion euros": "2.99"
       },
       {
-         "Month": "Mar '18",
-         "Number of available apps": "3600000"
+         "Year": "2012",
+         "Revenue in billion euros": "3.27"
       },
       {
-         "Month": "Dec '17",
-         "Number of available apps": "3500000"
+         "Year": "2011",
+         "Revenue in billion euros": "3.01"
       },
       {
-         "Month": "Sep '17",
-         "Number of available apps": "3300000"
+         "Year": "2010",
+         "Revenue in billion euros": "2.71"
       },
       {
-         "Month": "Jun '17",
-         "Number of available apps": "3000000"
+         "Year": "2009",
+         "Revenue in billion euros": "2.45"
       },
       {
-         "Month": "Mar '17",
-         "Number of available apps": "2800000"
+         "Year": "2008",
+         "Revenue in billion euros": "2.52"
       },
       {
-         "Month": "Dec '16",
-         "Number of available apps": "2600000"
+         "Year": "2007",
+         "Revenue in billion euros": "2.37"
       },
       {
-         "Month": "Sep '16",
-         "Number of available apps": "2400000"
+         "Year": "2006",
+         "Revenue in billion euros": "2.37"
       },
       {
-         "Month": "Feb '16",
-         "Number of available apps": "2000000"
+         "Year": "2005",
+         "Revenue in billion euros": "1.78"
       },
       {
-         "Month": "Nov '15",
-         "Number of available apps": "1800000"
+         "Year": "2004",
+         "Revenue in billion euros": "1.53"
       },
       {
-         "Month": "Jul '15",
-         "Number of available apps": "1600000"
+         "Year": "2003",
+         "Revenue in billion euros": "1.27"
       },
       {
-         "Month": "Feb '15",
-         "Number of available apps": "1400000"
+         "Year": "2002",
+         "Revenue in billion euros": "0.91"
       },
       {
-         "Month": "Jul '14",
-         "Number of available apps": "1300000"
+         "Year": "2001",
+         "Revenue in billion euros": "0.6"
       },
       {
-         "Month": "Jul '13",
-         "Number of available apps": "1000000"
-      },
-      {
-         "Month": "Apr '13",
-         "Number of available apps": "850000"
-      },
-      {
-         "Month": "Oct '12",
-         "Number of available apps": "700000"
-      },
-      {
-         "Month": "Sep '12",
-         "Number of available apps": "675000"
-      },
-      {
-         "Month": "Jun '12",
-         "Number of available apps": "600000"
-      },
-      {
-         "Month": "May '12",
-         "Number of available apps": "500000"
-      },
-      {
-         "Month": "Feb '12",
-         "Number of available apps": "450000"
-      },
-      {
-         "Month": "Dec '11",
-         "Number of available apps": "400000"
-      },
-      {
-         "Month": "Aug '11",
-         "Number of available apps": "300000"
-      },
-      {
-         "Month": "Jul '11",
-         "Number of available apps": "250000"
-      },
-      {
-         "Month": "Apr '11",
-         "Number of available apps": "200000"
-      },
-      {
-         "Month": "Oct '10",
-         "Number of available apps": "100000"
-      },
-      {
-         "Month": "Jul '10",
-         "Number of available apps": "70000"
-      },
-      {
-         "Month": "Apr '10",
-         "Number of available apps": "38000"
-      },
-      {
-         "Month": "Mar '10",
-         "Number of available apps": "30000"
-      },
-      {
-         "Month": "Dec '09",
-         "Number of available apps": "16000"
+         "Year": "2000",
+         "Revenue in billion euros": "0.46"
       }
-   ]
+   ],
+   "gold": "This statistic shows data on the global revenue of sporting goods manufacturer Puma SE from 2000 to 2019 . In 2019 , Puma generated a global revenue of roughly 5.5 billion euros . Together with Nike and Adidas , Puma is one of the largest sporting goods manufacturers in the world .\n"
 }

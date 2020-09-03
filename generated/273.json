@@ -1,60 +1,46 @@
 {
-   "title": "Most expensive prescription drugs in the U.S. January 2017",
-   "xAxis": "Drug (condition treated)",
-   "yAxis": "Price per month in U.S. dollars",
+   "title": "Estimated decrease of GDP in Japan due to earthquake and tsunami 2011",
+   "xAxis": "Category Of Gdp",
+   "yAxis": "Decrease in billion euros",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the Drug expensive programs with the most per in the U.S. January expensive Price ( Madness , Big Dance ) . ",
-      "The expensive team of Zepatier_(hepatitis_C) has participated 73300 times in the Price up to 2017 ."
+      "The statistic shows the most viewed Estimated on Decrease in Japan 2011 . ",
+      "Total was the Category with the highest GDP billion in 2011 with a GDP of 70.0 billion viewers ."
    ],
    "trends": [
       {},
       {
-         "4": "3",
-         "7": "2"
+         "0": "0",
+         "15": "0"
       }
    ],
    "data": [
       {
-         "Drug (condition treated)": "Harvoni (hepatitis C)",
-         "Price per month in U.S. dollars": "87800"
+         "Category Of Gdp": "Total",
+         "Decrease in billion euros": "70.0"
       },
       {
-         "Drug (condition treated)": "Sovaldi (hepatitis C)",
-         "Price per month in U.S. dollars": "73800"
+         "Category Of Gdp": "Production",
+         "Decrease in billion euros": "45.4"
       },
       {
-         "Drug (condition treated)": "Epclusa (hepatitis C)",
-         "Price per month in U.S. dollars": "73300"
+         "Category Of Gdp": "Private consumption",
+         "Decrease in billion euros": "18.2"
       },
       {
-         "Drug (condition treated)": "Zepatier (hepatitis C)",
-         "Price per month in U.S. dollars": "52600"
+         "Category Of Gdp": "Power generation",
+         "Decrease in billion euros": "2.7"
       },
       {
-         "Drug (condition treated)": "Mytesi (hereditary angioedema)",
-         "Price per month in U.S. dollars": "51700"
+         "Category Of Gdp": "Imports",
+         "Decrease in billion euros": "2.0"
       },
       {
-         "Drug (condition treated)": "Bexarotene/Targretin (",
-         "Price per month in U.S. dollars": "49800"
-      },
-      {
-         "Drug (condition treated)": "Daklinza (hepatitis C)",
-         "Price per month in U.S. dollars": "49400"
-      },
-      {
-         "Drug (condition treated)": "Orkambi (cystic fibrosis)",
-         "Price per month in U.S. dollars": "41200"
-      },
-      {
-         "Drug (condition treated)": "HP Acthar (multiple sclerosis)",
-         "Price per month in U.S. dollars": "40800"
-      },
-      {
-         "Drug (condition treated)": "Viekira Pak (hepatitis C)",
-         "Price per month in U.S. dollars": "34600"
+         "Category Of Gdp": "Exports",
+         "Decrease in billion euros": "1.4"
       }
-   ]
+   ],
+   "gold": "The statistic shows an estimate for the decrease of the gross domestic product ( GDP ) in Japan due to the effects of the earthquake and tsunami in 2011 by sector . Production in Japan is estimated to decrease by 45.4 billion euros due to the natural disaster .\n"
 }

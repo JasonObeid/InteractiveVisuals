@@ -1,41 +1,62 @@
 {
-   "title": "Coronavirus ( COVID-19 ) deaths in Italy as of March 2 , 2020 , by region",
-   "xAxis": "Month",
-   "yAxis": "Number of deaths",
+   "title": "Population of Saba ( Caribbean Netherlands ) 2011 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of people",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Number of deaths Coronavirus chat app deaths from 2014 to 2016 . ",
-      "As of that Month , the mobile messenger hat 55 million deaths worldwide . ",
-      "Coronavirus messenger deaths \u2013 additional information Instant messaging has been gaining popularity in the last years thanks to the rise of mobile and smartphone growth ."
+      "This statistic shows the total amount of Number people ( ALG people ) in Saba from 2011 to 2019 . ",
+      "In 2011 , 3,896,044 people received ALG people on average . ",
+      "ALG people , also called Hartz IV , means social benefit payments to people without an income who can not work to make a living ."
    ],
    "trends": [
-      {},
       {
-         "9": "0"
+         "18": "8",
+         "20": "0"
+      },
+      {
+         "1": "8"
       },
       {}
    ],
    "data": [
       {
-         "Month": "Lombardy",
-         "Number of deaths": "55"
+         "Year": "2019",
+         "Number of people": "1915"
       },
       {
-         "Month": "Emilia-Romagna",
-         "Number of deaths": "18"
+         "Year": "2018",
+         "Number of people": "2155"
       },
       {
-         "Month": "Veneto",
-         "Number of deaths": "3"
+         "Year": "2017",
+         "Number of people": "2010"
       },
       {
-         "Month": "Marche",
-         "Number of deaths": "2"
+         "Year": "2016",
+         "Number of people": "1947"
       },
       {
-         "Month": "Liguria",
-         "Number of deaths": "1"
+         "Year": "2015",
+         "Number of people": "1811"
+      },
+      {
+         "Year": "2014",
+         "Number of people": "1846"
+      },
+      {
+         "Year": "2013",
+         "Number of people": "1991"
+      },
+      {
+         "Year": "2012",
+         "Number of people": "1971"
+      },
+      {
+         "Year": "2011",
+         "Number of people": "1797"
       }
-   ]
+   ],
+   "gold": "Between 2011 and 2019 , the population of the Caribbean island Saba increased slightly . Saba , one of the three special municipalities of the Netherlands , counted roughly 1,900 inhabitants in 2019 . Population peaked in 2018 , at approximately 2,150 .\n"
 }

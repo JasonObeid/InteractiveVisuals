@@ -1,52 +1,130 @@
 {
-   "title": "Nuclear energy - global market size by segment through 2030",
+   "title": "Distribution of the workforce across economic sectors in Italy 2019",
    "labels": [
-      "unknown",
-      "2011",
-      "2030"
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
    ],
    "columnType": "multi",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 6 categories for the x axis of unknown representing 2011, 2030.",
-      " The highest category is found at Nuclear generation with a mean value of 216.5.",
-      " The second highest category is found at Radiation management with a mean value of 168.0.",
-      " This represents a difference of 25.2%."
+      "This line chart has 3 lines.",
+      " The line representing Services had the highest values across Year with a mean value of 69.2.",
+      " This peaked at 2019 with a value of 70.6. ",
+      " The line with the second highest values was Industry with a mean value of 27.0.",
+      " This line peaked at 2009 with a value of 29.2"
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "16": [
+            "10",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "2"
+         ],
+         "9": [
+            "0",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "10": [
+            "0",
+            "1"
+         ]
+      }
+   ],
    "data": [
       {
-         "unknown": "Nuclear generation",
-         "2011": "133",
-         "2030": "300"
+         "Year": "2019",
+         "Agriculture": "3.72",
+         "Industry": "25.62",
+         "Services": "70.66"
       },
       {
-         "unknown": "Radiation management",
-         "2011": "69",
-         "2030": "267"
+         "Year": "2018",
+         "Agriculture": "3.75",
+         "Industry": "25.81",
+         "Services": "70.44"
       },
       {
-         "unknown": "Nuclear power plant construction",
-         "2011": "31",
-         "2030": "53"
+         "Year": "2017",
+         "Agriculture": "3.78",
+         "Industry": "26",
+         "Services": "70.21"
       },
       {
-         "unknown": "Service",
-         "2011": "18",
-         "2030": "22"
+         "Year": "2016",
+         "Agriculture": "3.88",
+         "Industry": "26.12",
+         "Services": "69.99"
       },
       {
-         "unknown": "Front end of fuel cycle",
-         "2011": "17",
-         "2030": "26"
+         "Year": "2015",
+         "Agriculture": "3.75",
+         "Industry": "26.6",
+         "Services": "69.65"
       },
       {
-         "unknown": "Spent nuclear fuel reprocessing and secondary fuel",
-         "2011": "3",
-         "2030": "9"
+         "Year": "2014",
+         "Agriculture": "3.64",
+         "Industry": "26.9",
+         "Services": "69.46"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "3.6",
+         "Industry": "27.05",
+         "Services": "69.35"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "3.69",
+         "Industry": "27.58",
+         "Services": "68.72"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "3.68",
+         "Industry": "28.29",
+         "Services": "68.03"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "3.77",
+         "Industry": "28.61",
+         "Services": "67.62"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "3.69",
+         "Industry": "29.24",
+         "Services": "67.07"
       }
    ]
 }

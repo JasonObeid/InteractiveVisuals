@@ -1,123 +1,98 @@
 {
-   "title": "Religious affiliation in the United States 2017 , by age",
-   "labels": [
-      "Age group",
-      "Unaffiliated",
-      "White Evangelical Protestant",
-      "White Mainline Protestant",
-      "White Catholic",
-      "Hispanic Catholic",
-      "Black Protestant",
-      "Other Christian",
-      "Jewish",
-      "Other religion",
-      "Other world religions",
-      "Hispanic Protestant",
-      "Mormon",
-      "Don't know/refused"
-   ],
-   "columnType": "multi",
-   "graphType": "bar",
+   "title": "Personal income in Florida - income per capita 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Income in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the results of a survey conducted irregularly between 18-29 and 65_and_older among adult Americans , asking them if they Unaffiliated of affiliation between people of different skin color . ",
-      "While in 18-29 , only 65_and_older % stated they approved of intermarriages , 12 % said the same in 65_and_older . ",
-      "The increased acceptance of Religious marriages The remarkable change in approval of Religious affiliation amongst Americans displays an ongoing trend of public acceptance of lifestyles that were once disapproved of ."
+      "This statistic shows the total Florida ( UK ) per Income U.S. dollars from fiscal Year 2000/01 to fiscal Year 2018/19 . ",
+      "The overall trend was one of increasing , seeing a peak in '18 with 27.99 million British pounds and a total rise of over 50070 million British pounds throughout this period ."
    ],
    "trends": [
+      {},
       {
-         "11": [
-            "0",
-            "0"
-         ],
-         "13": [
-            "3",
-            "0"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "5": [
-            "3",
-            "0"
-         ],
-         "13": [
-            "3",
-            "1"
-         ],
-         "19": [
-            "3",
-            "0"
-         ]
-      },
-      {}
+         "12": "0",
+         "24": "0"
+      }
    ],
    "data": [
       {
-         "Age group": "18-29",
-         "Unaffiliated": "38",
-         "White Evangelical Protestant": "8",
-         "White Mainline Protestant": "8",
-         "White Catholic": "8",
-         "Hispanic Catholic": "9",
-         "Black Protestant": "7",
-         "Other Christian": "7",
-         "Jewish": "1",
-         "Other religion": "1",
-         "Other world religions": "4",
-         "Hispanic Protestant": "6",
-         "Mormon": "2",
-         "Don't know/refused": "3"
+         "Year": "'18",
+         "Income in U.S. dollars": "50070"
       },
       {
-         "Age group": "30-49",
-         "Unaffiliated": "26",
-         "White Evangelical Protestant": "14",
-         "White Mainline Protestant": "11",
-         "White Catholic": "11",
-         "Hispanic Catholic": "10",
-         "Black Protestant": "8",
-         "Other Christian": "6",
-         "Jewish": "1",
-         "Other religion": "1",
-         "Other world religions": "3",
-         "Hispanic Protestant": "5",
-         "Mormon": "2",
-         "Don't know/refused": "3"
+         "Year": "'17",
+         "Income in U.S. dollars": "47869"
       },
       {
-         "Age group": "50-64",
-         "Unaffiliated": "18",
-         "White Evangelical Protestant": "21",
-         "White Mainline Protestant": "15",
-         "White Catholic": "15",
-         "Hispanic Catholic": "6",
-         "Black Protestant": "9",
-         "Other Christian": "6",
-         "Jewish": "2",
-         "Other religion": "1",
-         "Other world religions": "1",
-         "Hispanic Protestant": "9",
-         "Mormon": "2",
-         "Don't know/refused": "3"
+         "Year": "'16",
+         "Income in U.S. dollars": "45684"
       },
       {
-         "Age group": "65 and older",
-         "Unaffiliated": "12",
-         "White Evangelical Protestant": "26",
-         "White Mainline Protestant": "19",
-         "White Catholic": "16",
-         "Hispanic Catholic": "4",
-         "Black Protestant": "7",
-         "Other Christian": "5",
-         "Jewish": "2",
-         "Other religion": "1",
-         "Other world religions": "1",
-         "Hispanic Protestant": "7",
-         "Mormon": "2",
-         "Don't know/refused": "3"
+         "Year": "'15",
+         "Income in U.S. dollars": "45287"
+      },
+      {
+         "Year": "'14",
+         "Income in U.S. dollars": "43109"
+      },
+      {
+         "Year": "'13",
+         "Income in U.S. dollars": "40659"
+      },
+      {
+         "Year": "'12",
+         "Income in U.S. dollars": "41055"
+      },
+      {
+         "Year": "'11",
+         "Income in U.S. dollars": "40047"
+      },
+      {
+         "Year": "'10",
+         "Income in U.S. dollars": "38474"
+      },
+      {
+         "Year": "'09",
+         "Income in U.S. dollars": "36611"
+      },
+      {
+         "Year": "'08",
+         "Income in U.S. dollars": "39247"
+      },
+      {
+         "Year": "'07",
+         "Income in U.S. dollars": "39602"
+      },
+      {
+         "Year": "'06",
+         "Income in U.S. dollars": "38448"
+      },
+      {
+         "Year": "'05",
+         "Income in U.S. dollars": "36011"
+      },
+      {
+         "Year": "'04",
+         "Income in U.S. dollars": "33694"
+      },
+      {
+         "Year": "'03",
+         "Income in U.S. dollars": "31704"
+      },
+      {
+         "Year": "'02",
+         "Income in U.S. dollars": "30727"
+      },
+      {
+         "Year": "'01",
+         "Income in U.S. dollars": "30344"
+      },
+      {
+         "Year": "'00",
+         "Income in U.S. dollars": "29428"
       }
-   ]
+   ],
+   "gold": "This statistic shows the per capita personal income in Florida from 2000 to 2018 . In 2018 , the per capita personal income in Florida was 50,070 U.S. dollars . Personal income is the income that is received by persons from all sources .\n"
 }

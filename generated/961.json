@@ -1,56 +1,74 @@
 {
-   "title": "United States crime rate 2018 , by type of crime",
-   "xAxis": "Type of crime",
-   "yAxis": "Rate per 100,000 inhabitants",
+   "title": "Number of visitors to Zion National Park in the U.S. 2008 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of visitors in millions",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the United States in United States as of 2018 . ",
-      "That year , Property_crime__(total) had the highest United States in United States with 2362.9 % Rate ."
+      "This statistic shows the Number of recreational visitors to the Zion National Park U.S. Memorial in the 2019 from 2008 to 2019 . ",
+      "The Number of visitors to the Zion National Park U.S. Memorial amounted to approximately 4.49 in 2019 ."
    ],
    "trends": [
-      {},
       {
-         "3": "0",
-         "12": "0"
+         "17": "11",
+         "19": "0"
+      },
+      {
+         "12": "0",
+         "13": "0",
+         "15": "0"
       }
    ],
    "data": [
       {
-         "Type of crime": "Property crime  (total)",
-         "Rate per 100,000 inhabitants": "2362.9"
+         "Year": "2019",
+         "Number of visitors in millions": "4.49"
       },
       {
-         "Type of crime": "Larceny-theft",
-         "Rate per 100,000 inhabitants": "1695.5"
+         "Year": "2018",
+         "Number of visitors in millions": "4.32"
       },
       {
-         "Type of crime": "Burglary",
-         "Rate per 100,000 inhabitants": "429.7"
+         "Year": "2017",
+         "Number of visitors in millions": "4.5"
       },
       {
-         "Type of crime": "Violent crime  (total)",
-         "Rate per 100,000 inhabitants": "394.9"
+         "Year": "2016",
+         "Number of visitors in millions": "4.3"
       },
       {
-         "Type of crime": "Aggravated assault",
-         "Rate per 100,000 inhabitants": "249.2"
+         "Year": "2015",
+         "Number of visitors in millions": "3.65"
       },
       {
-         "Type of crime": "Motor vehicle theft",
-         "Rate per 100,000 inhabitants": "237.7"
+         "Year": "2014",
+         "Number of visitors in millions": "3.19"
       },
       {
-         "Type of crime": "Robbery",
-         "Rate per 100,000 inhabitants": "98.6"
+         "Year": "2013",
+         "Number of visitors in millions": "2.81"
       },
       {
-         "Type of crime": "Rape (revised definition)",
-         "Rate per 100,000 inhabitants": "41.7"
+         "Year": "2012",
+         "Number of visitors in millions": "2.97"
       },
       {
-         "Type of crime": "Murder and nonnegligent manslaughter",
-         "Rate per 100,000 inhabitants": "5.3"
+         "Year": "2011",
+         "Number of visitors in millions": "2.83"
+      },
+      {
+         "Year": "2010",
+         "Number of visitors in millions": "2.67"
+      },
+      {
+         "Year": "2009",
+         "Number of visitors in millions": "2.74"
+      },
+      {
+         "Year": "2008",
+         "Number of visitors in millions": "2.69"
       }
-   ]
+   ],
+   "gold": "The number of visitors to Zion National Park has been increasing in recent years . In 2019 , the park saw an increase in the number of visitors with 4.49 million visitors , compared to previous year 's 4.32 million . Zion National Park is located in Utah in the United States .\n"
 }

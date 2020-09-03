@@ -1,34 +1,69 @@
 {
-   "title": "Global medical alert systems/PERS market between 2013 and 2020",
+   "title": "Infant mortality rate in the Netherlands 2008 to 2018",
    "xAxis": "Year",
-   "yAxis": "Market volume in billion U.S. dollars",
+   "yAxis": "Infant mortality per 1,000 live born children",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The Global medical alert Market was projected to around 2.0 billion U.S. dollars in 2020 . ",
-      "In the same Year , the California-based alert Market for Global medical is projected to reach around 2.0 billion U.S. dollars ."
+      "The statistic shows the Infant of mortality in the Netherlands worldwide from 2008 to 2018 . ",
+      "In 2018 , around 3.5 million people were employed in the Netherlands , an increase of 14 % compared to the previous Year ."
    ],
    "trends": [
       {
-         "9": "0",
+         "12": "10",
          "14": "0"
       },
       {
-         "17": "0"
+         "1": "0",
+         "4": "0"
       }
    ],
    "data": [
       {
-         "Year": "2020",
-         "Market volume in billion U.S. dollars": "2.0"
+         "Year": "2018",
+         "Infant mortality per 1,000 live born children": "3.5"
       },
       {
-         "Year": "2018",
-         "Market volume in billion U.S. dollars": "1.85"
+         "Year": "2017",
+         "Infant mortality per 1,000 live born children": "3.6"
+      },
+      {
+         "Year": "2016",
+         "Infant mortality per 1,000 live born children": "3.5"
+      },
+      {
+         "Year": "2015",
+         "Infant mortality per 1,000 live born children": "3.3"
+      },
+      {
+         "Year": "2014",
+         "Infant mortality per 1,000 live born children": "3.6"
       },
       {
          "Year": "2013",
-         "Market volume in billion U.S. dollars": "1.23"
+         "Infant mortality per 1,000 live born children": "3.8"
+      },
+      {
+         "Year": "2012",
+         "Infant mortality per 1,000 live born children": "3.7"
+      },
+      {
+         "Year": "2011",
+         "Infant mortality per 1,000 live born children": "3.6"
+      },
+      {
+         "Year": "2010",
+         "Infant mortality per 1,000 live born children": "3.8"
+      },
+      {
+         "Year": "2009",
+         "Infant mortality per 1,000 live born children": "3.8"
+      },
+      {
+         "Year": "2008",
+         "Infant mortality per 1,000 live born children": "3.8"
       }
-   ]
+   ],
+   "gold": "In 2018 , the infant mortality rate in the Netherlands was 3.5 . This means that out of every 1,000 newborns , nearly four died before their first birthday . Infant mortality was lowest in 2015 , when the rate was 3.3 deaths per 1,000 live born children .\n"
 }

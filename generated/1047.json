@@ -1,96 +1,118 @@
 {
-   "title": "Revenue of the Jacksonville Jaguars 2001 to 2018",
-   "xAxis": "Year",
-   "yAxis": "Revenue in million U.S. dollars",
+   "title": "UEFA Europa League all-time top goalscorers 1971 to 2019",
+   "xAxis": "Month",
+   "yAxis": "Goals scored",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic depicts the Revenue of the Jacksonville Jaguars , a franchise of the National Football League , from 2001 to 2018 . ",
-      "In 2018 , the Revenue of the Jacksonville Jaguars was 424 U.S. dollars ."
+      "As of 23rd 2020 , Henrik_Larsson is the 2019 leader in Goals scored for the Europa League team of UEFA Europa League top a total of 40 Goals scored , followed by Klaas_Jan_Huntelaar with 34 Goals . ",
+      "UEFA Europa League 3rd at World Cup 2018 Even though there was some political controversial about the 2018 World Cup being held in Russia , when asked , the majority of Belgians agreed that Russia would be a successful venue host for the games . ",
+      "After UEFA Europa League was defeated by France at the semi-finals top 1:0 , France went on to win the tournament and become World Champions ."
    ],
    "trends": [
       {
-         "18": "17",
-         "20": "0"
+         "5": "0",
+         "25": "0",
+         "31": "1",
+         "33": "1"
       },
-      {
-         "1": "0",
-         "9": "0",
-         "10": "0"
-      }
+      {},
+      {}
    ],
    "data": [
       {
-         "Year": "2018",
-         "Revenue in million U.S. dollars": "424"
+         "Month": "Henrik Larsson",
+         "Goals scored": "40"
       },
       {
-         "Year": "2017",
-         "Revenue in million U.S. dollars": "391"
+         "Month": "Klaas Jan Huntelaar",
+         "Goals scored": "34"
       },
       {
-         "Year": "2016",
-         "Revenue in million U.S. dollars": "377"
+         "Month": "Aritz Aduriz",
+         "Goals scored": "31"
       },
       {
-         "Year": "2015",
-         "Revenue in million U.S. dollars": "344"
+         "Month": "Radamel Falcao",
+         "Goals scored": "31"
       },
       {
-         "Year": "2014",
-         "Revenue in million U.S. dollars": "315"
+         "Month": "Dieter M\u00fcller",
+         "Goals scored": "29"
       },
       {
-         "Year": "2013",
-         "Revenue in million U.S. dollars": "263"
+         "Month": "Shota Arveladze",
+         "Goals scored": "27"
       },
       {
-         "Year": "2012",
-         "Revenue in million U.S. dollars": "260"
+         "Month": "Kevin Gameiro",
+         "Goals scored": "26"
       },
       {
-         "Year": "2011",
-         "Revenue in million U.S. dollars": "238"
+         "Month": "Mladen Petri\u0107",
+         "Goals scored": "25"
       },
       {
-         "Year": "2010",
-         "Revenue in million U.S. dollars": "236"
+         "Month": "Alessandro Altobelli",
+         "Goals scored": "25"
       },
       {
-         "Year": "2009",
-         "Revenue in million U.S. dollars": "220"
+         "Month": "V\u00e1gner Love",
+         "Goals scored": "24"
       },
       {
-         "Year": "2008",
-         "Revenue in million U.S. dollars": "217"
+         "Month": "Claudio Pizarro",
+         "Goals scored": "24"
       },
       {
-         "Year": "2007",
-         "Revenue in million U.S. dollars": "204"
+         "Month": "Jermain Defoe",
+         "Goals scored": "24"
       },
       {
-         "Year": "2006",
-         "Revenue in million U.S. dollars": "189"
+         "Month": "Alan",
+         "Goals scored": "23"
       },
       {
-         "Year": "2005",
-         "Revenue in million U.S. dollars": "173"
+         "Month": "\u00d3scar Cardozo",
+         "Goals scored": "23"
       },
       {
-         "Year": "2004",
-         "Revenue in million U.S. dollars": "169"
+         "Month": "Dimitris Salpingidis",
+         "Goals scored": "23"
       },
       {
-         "Year": "2003",
-         "Revenue in million U.S. dollars": "153"
+         "Month": "Jupp Heynckes",
+         "Goals scored": "23"
       },
       {
-         "Year": "2002",
-         "Revenue in million U.S. dollars": "142"
+         "Month": "Ivan Tri\u010dkovski",
+         "Goals scored": "23"
       },
       {
-         "Year": "2001",
-         "Revenue in million U.S. dollars": "137"
+         "Month": "J\u00fcrgen Klinsmann",
+         "Goals scored": "22"
+      },
+      {
+         "Month": "Dennis Bergkamp",
+         "Goals scored": "22"
+      },
+      {
+         "Month": "Aleksandr Kerzhakov",
+         "Goals scored": "22"
+      },
+      {
+         "Month": "Martin Chivers",
+         "Goals scored": "22"
+      },
+      {
+         "Month": "Karl-Heinz Rummenigge",
+         "Goals scored": "22"
+      },
+      {
+         "Month": "Manuel Fernandes",
+         "Goals scored": "22"
       }
-   ]
+   ],
+   "gold": "As of December 2019 , Henrik Larsson is the European football player with the most goals scored in the UEFA Europa League with a total of 40 goals , followed by Klaas Jan Huntelaar with 34 . The record for most matches played in the Europa League is held by Giuseppe Bergomi with 96 games played before Frank Rost with 90 games under his belt . Further records When it comes to number of appearances of clubs in the Europa League , Sporting Lisbon ranked first , having taken part 32 times in the League and Club Brugge ranked second with 30 appearances .\n"
 }

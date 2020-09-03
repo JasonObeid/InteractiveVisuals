@@ -4,15 +4,24 @@
    "yAxis": "Share of respondents",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 5 categories for the x axis representing Response, and a y axis representing Share of respondents.",
       " The highest category is found at Smartphone where Share of respondents is 10.0.",
       " The lowest category is found at Passport where Share of respondents is 4.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 4
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
    "data": [
       {
          "Response": "Smartphone",

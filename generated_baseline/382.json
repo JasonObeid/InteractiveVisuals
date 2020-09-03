@@ -4,36 +4,41 @@
    "yAxis": "Percentage of population",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Percentage of population, with a total of 19 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely negative which exists from 2012 to 2007.",
-      " Contrarily, the next significant trend is extremely positive which exists from 2016 to 2013.",
-      " Similarly, the next significant trend is slightly negative which exists from 2003 to 2000."
+      "This line chart has an x axis representing Year and a y axis representing Percentage of population, with a total of 19 data points. The chart has 6 significant trends.",
+      " The longest trend is extremely positive which exists from 2013 to 2007.",
+      " Additionally, the next significant trend is slightly negative which exists from 2016 to 2013.",
+      " On the contrary, the next significant trend is moderately positive which exists from 2003 to 2000.",
+      " Similarly, the next significant trend is moderately positive which exists from 2018 to 2016.",
+      " Likewise, the next significant trend is moderately negative which exists from 2007 to 2005.",
+      " On the other hand, the next significant trend is extremely negative which exists from 2005 to 2003."
    ],
    "trends": [
+      {},
       {
-         "Length": 6,
-         "direction": "negative",
-         "start": 6,
-         "end": 11,
-         "trend": "y=0.45x+-902.04",
-         "magnitude": "extremely"
+         "1": "5",
+         "12": "11"
       },
       {
-         "Length": 4,
-         "direction": "positive",
-         "start": 2,
-         "end": 5,
-         "trend": "y=-0.46x+938.02",
-         "magnitude": "extremely"
+         "3": "2",
+         "14": "5"
       },
       {
-         "Length": 4,
-         "direction": "negative",
-         "start": 15,
-         "end": 18,
-         "trend": "y=-0.04x+89.21",
-         "magnitude": "slightly"
+         "3": "15",
+         "14": "18"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "11",
+         "14": "13"
+      },
+      {
+         "3": "13",
+         "14": "15"
       }
    ],
    "data": [

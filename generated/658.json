@@ -1,53 +1,103 @@
 {
-   "title": "Liver cirrhosis deaths : Canada 2002 , 2012 , and 2016",
-   "labels": [
-      "Year",
-      "Male",
-      "Female"
-   ],
-   "columnType": "multi",
+   "title": "Arizona - real GDP 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Real GDP in billion U.S. dollars",
+   "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic depicts the average hourly wage in the cirrhosis deaths in Canada compared to the 2012 from 2016 to 2002 . ",
-      "As of 2017 , a cirrhosis worker in Canada earned approximately 10.4 2012 dollars an hour , whereas the average Liver in the 2012 stood at 4.7 2012 dollars an hour ."
+      "This statistic shows the development of Arizona 's Real GDP from 2000 to 2018 . ",
+      "In 2018 , the Real GDP of Arizona was about 309.07 billion U.S. dollars . ",
+      "The annual Real GDP growth of the U.S. can be accessed here ."
    ],
    "trends": [
       {
-         "18": [
-            "2",
-            "0"
-         ],
-         "20": [
-            "0",
-            "0"
-         ]
+         "11": "18",
+         "13": "0"
       },
       {
-         "11": [
-            "0",
-            "1"
-         ],
-         "26": [
-            "0",
-            "2"
-         ]
-      }
+         "1": "0",
+         "10": "0"
+      },
+      {}
    ],
    "data": [
       {
-         "Year": "2002",
-         "Male": "10.4",
-         "Female": "4.7"
+         "Year": "2018",
+         "Real GDP in billion U.S. dollars": "309.07"
       },
       {
-         "Year": "2012",
-         "Male": "10.6",
-         "Female": "5.1"
+         "Year": "2017",
+         "Real GDP in billion U.S. dollars": "297.21"
       },
       {
          "Year": "2016",
-         "Male": "10.9",
-         "Female": "5.2"
+         "Real GDP in billion U.S. dollars": "288.68"
+      },
+      {
+         "Year": "2015",
+         "Real GDP in billion U.S. dollars": "279.43"
+      },
+      {
+         "Year": "2014",
+         "Real GDP in billion U.S. dollars": "273.41"
+      },
+      {
+         "Year": "2013",
+         "Real GDP in billion U.S. dollars": "270.15"
+      },
+      {
+         "Year": "2012",
+         "Real GDP in billion U.S. dollars": "268.29"
+      },
+      {
+         "Year": "2011",
+         "Real GDP in billion U.S. dollars": "263.21"
+      },
+      {
+         "Year": "2010",
+         "Real GDP in billion U.S. dollars": "257.48"
+      },
+      {
+         "Year": "2009",
+         "Real GDP in billion U.S. dollars": "255.08"
+      },
+      {
+         "Year": "2008",
+         "Real GDP in billion U.S. dollars": "277.48"
+      },
+      {
+         "Year": "2007",
+         "Real GDP in billion U.S. dollars": "284.91"
+      },
+      {
+         "Year": "2006",
+         "Real GDP in billion U.S. dollars": "277.29"
+      },
+      {
+         "Year": "2005",
+         "Real GDP in billion U.S. dollars": "263.06"
+      },
+      {
+         "Year": "2004",
+         "Real GDP in billion U.S. dollars": "243.25"
+      },
+      {
+         "Year": "2003",
+         "Real GDP in billion U.S. dollars": "233.34"
+      },
+      {
+         "Year": "2002",
+         "Real GDP in billion U.S. dollars": "219.31"
+      },
+      {
+         "Year": "2001",
+         "Real GDP in billion U.S. dollars": "212.66"
+      },
+      {
+         "Year": "2000",
+         "Real GDP in billion U.S. dollars": "207.79"
       }
-   ]
+   ],
+   "gold": "This statistic shows the development of Arizona 's real GDP from 2000 to 2018 . In 2018 , the GDP of Arizona amounted to 309.07 billion U.S. dollars .\n"
 }

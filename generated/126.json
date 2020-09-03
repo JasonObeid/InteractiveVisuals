@@ -1,35 +1,73 @@
 {
-   "title": "Opinion on preparations for coronavirus epidemic in Poland 2020",
-   "xAxis": "Response",
-   "yAxis": "Share of respondents",
+   "title": "U.S . Gross Domestic Product - forecast 2019 to 2030",
+   "xAxis": "Year",
+   "yAxis": "GDP in billion U.S. dollars",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "In 2020 , some 61.4 % of respondents stated they will probably epidemic Poland on 2020 that year , while almost half of all respondents stated they probably wo n't . ",
-      "Is romance really dead ? 2020 is generally considered the most romantic 2020 of the year , which people use to give flowers and tokens of appreciation to loved ones . ",
-      "About half of the American population celebrate 2020 , but this fact does No_opinion infer that the same Share of the population is taken or in love ; in fact , a certain Share of respondents rather bought 2020 presents for their pets last year rather than a significant other , and another significant Share of respondents spent the 2020 alone , with colleagues , friends or with family , rather than with a spouse or a partner ."
+      "2030 has been the most successful Year in Gross Domestic Product 's history . ",
+      "After a decade of almost constant growth , the company generated global U.S GDP of over 14.98 billion U.S. dollars by the end of 2030 . ",
+      "Gross Domestic Product Companies Inc. : an American success story Gross Domestic Product , based in Manhattan , was founded in 1946 ."
    ],
    "trends": [
       {
-         "4": "0"
+         "0": "0"
       },
-      {},
       {
-         "15": "2"
-      }
+         "24": "0"
+      },
+      {}
    ],
    "data": [
       {
-         "Response": "Yes",
-         "Share of respondents": "61.4"
+         "Year": "2030",
+         "GDP in billion U.S. dollars": "32003"
       },
       {
-         "Response": "No",
-         "Share of respondents": "24.7"
+         "Year": "2029",
+         "GDP in billion U.S. dollars": "30850"
       },
       {
-         "Response": "No opinion",
-         "Share of respondents": "13.9"
+         "Year": "2028",
+         "GDP in billion U.S. dollars": "29737"
+      },
+      {
+         "Year": "2027",
+         "GDP in billion U.S. dollars": "28653"
+      },
+      {
+         "Year": "2026",
+         "GDP in billion U.S. dollars": "27615"
+      },
+      {
+         "Year": "2025",
+         "GDP in billion U.S. dollars": "26653"
+      },
+      {
+         "Year": "2024",
+         "GDP in billion U.S. dollars": "25724"
+      },
+      {
+         "Year": "2023",
+         "GDP in billion U.S. dollars": "24809"
+      },
+      {
+         "Year": "2022",
+         "GDP in billion U.S. dollars": "23916"
+      },
+      {
+         "Year": "2021",
+         "GDP in billion U.S. dollars": "23029"
+      },
+      {
+         "Year": "2020",
+         "GDP in billion U.S. dollars": "22111"
+      },
+      {
+         "Year": "2019",
+         "GDP in billion U.S. dollars": "21220"
       }
-   ]
+   ],
+   "gold": "This graph shows a forecast of the Gross Domestic Product of the United States of America for fiscal years 2019 to 2030 . The Gross Domestic Product ( GDP ) refers to the market value of all final goods and services produced within a country in a given period . According to the CBO , the United States GDP will increase steadily over the next decade from 21.22 trillion U.S. dollars in 2019 to 32 trillion U.S. dollars in 2030 .\n"
 }

@@ -1,47 +1,59 @@
 {
-   "title": "Travel & tourism industry : economic impact in the United Kingdom ( UK ) 2017 , by sector",
-   "xAxis": "Category",
-   "yAxis": "Value in billion U.S. dollars",
+   "title": "French households savings rate 2010 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Savings rate",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic depicts the total Value of & and tourism United Kingdom industry in the world 's most perilous territorial waters in 2017 . ",
-      "That year , there were 21.6 & and tourism United Kingdom industry off the Venezuelan coast ."
+      "This statistic shows the households savings of French and 2017 worldwide from 2010 to 2017 . ",
+      "In 2015 , French households savings of French 2010 2017 amounted to approximately 15.8 billion rate dollars.Jewelry Retail Market WorldwideThe French jewelry industry seems poised for a glittering future as consumer appetite for jewelry , which was dampened by the French recession , now appears more voracious than ever . ",
+      "The jewlery market is personified by stifling competition ."
    ],
    "trends": [
-      {},
       {
-         "5": "6"
-      }
+         "12": "7",
+         "14": "0"
+      },
+      {
+         "1": "2",
+         "13": "7"
+      },
+      {}
    ],
    "data": [
       {
-         "Category": "Direct contribution to GDP",
-         "Value in billion U.S. dollars": "93.5"
+         "Year": "2017",
+         "Savings rate": "14.6"
       },
       {
-         "Category": "Total contribution to GDP",
-         "Value in billion U.S. dollars": "266.1"
+         "Year": "2016",
+         "Savings rate": "14"
       },
       {
-         "Category": "Visitor exports",
-         "Value in billion U.S. dollars": "35.6"
+         "Year": "2015",
+         "Savings rate": "14.5"
       },
       {
-         "Category": "Domestic spending",
-         "Value in billion U.S. dollars": "169.6"
+         "Year": "2014",
+         "Savings rate": "14.4"
       },
       {
-         "Category": "Leisure spending",
-         "Value in billion U.S. dollars": "133.7"
+         "Year": "2013",
+         "Savings rate": "14.3"
       },
       {
-         "Category": "Business spending",
-         "Value in billion U.S. dollars": "71.5"
+         "Year": "2012",
+         "Savings rate": "15.1"
       },
       {
-         "Category": "Capital investment",
-         "Value in billion U.S. dollars": "21.6"
+         "Year": "2011",
+         "Savings rate": "15.6"
+      },
+      {
+         "Year": "2010",
+         "Savings rate": "15.8"
       }
-   ]
+   ],
+   "gold": "The statistic presents the personal savings rate in France from 2010 to 2017 . The personal savings rate amounted to 14.6 percent in the first quarter of 2017 in France . The savings rate refers to the amount of money , expressed as a percentage or ratio , that a person deducts from his disposable personal income .\n"
 }

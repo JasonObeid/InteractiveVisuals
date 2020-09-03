@@ -1,55 +1,55 @@
 {
-   "title": "Molson Coors Brewing Company sales in Canada 2013 to 2019",
-   "xAxis": "Year",
-   "yAxis": "Sales in million Canadian dollars",
-   "columnType": "two",
+   "title": "Suicides in Sweden in 2018 , by gender and age group",
+   "labels": [
+      "Year",
+      "Men",
+      "Women"
+   ],
+   "columnType": "multi",
    "graphType": "line",
    "summary": [
-      "The statistic shows the Sales of million Canadian in the Olympic Molson Coors Brewing Company games from 2013 to 2019 . ",
-      "In the 2018 , 2041.4 million of Canadian in the Olympic Molson Coors Brewing Company games were women . ",
-      "This figure is projected to grow 59percent in 2019 ."
+      "The statistic shows the Suicides Sweden 2018 in the Sweden in 2018 , age group . ",
+      "In 2018 , about 110 % of the respondents aged 291 to 29 years old ."
    ],
    "trends": [
+      {},
       {
-         "14": "6",
-         "16": "0"
-      },
-      {
-         "2": "1",
-         "4": "1"
-      },
-      {
-         "9": "0"
+         "4": [
+            "0",
+            "1"
+         ],
+         "10": [
+            "2",
+            "1"
+         ]
       }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Sales in million Canadian dollars": "2034.2"
+         "Year": "75 years and older",
+         "Men": "110",
+         "Women": "49"
       },
       {
-         "Year": "2018",
-         "Sales in million Canadian dollars": "2041.4"
+         "Year": "65-74 years",
+         "Men": "122",
+         "Women": "42"
       },
       {
-         "Year": "2017",
-         "Sales in million Canadian dollars": "1993.7"
+         "Year": "45-64 years",
+         "Men": "291",
+         "Women": "137"
       },
       {
-         "Year": "2016",
-         "Sales in million Canadian dollars": "1706.8"
+         "Year": "15-44 years",
+         "Men": "361",
+         "Women": "151"
       },
       {
-         "Year": "2015",
-         "Sales in million Canadian dollars": "1228.2"
-      },
-      {
-         "Year": "2014",
-         "Sales in million Canadian dollars": "1287.2"
-      },
-      {
-         "Year": "2013",
-         "Sales in million Canadian dollars": "1313.8"
+         "Year": "1-14 years",
+         "Men": "5",
+         "Women": "4"
       }
-   ]
+   ],
+   "gold": "The highest number of suicides in Sweden in 2018 was committed among men from 14 to 44 years , amounting to 361 suicides . The corresponding figure among women in this age group was 151 , a significantly lower number . For all age groups , more suicides were committed among men than among women .\n"
 }

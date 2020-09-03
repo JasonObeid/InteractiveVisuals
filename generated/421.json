@@ -1,90 +1,57 @@
 {
-   "title": "Turkey : social network penetration Q3 2019",
-   "xAxis": "Platform",
-   "yAxis": "Share of population",
+   "title": "Number of committed crimes , by type U.S. 2018",
+   "xAxis": "Type of crime",
+   "yAxis": "Number of committed crimes",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "Youtube is the most active Turkey social among internet users in the Turkey ( ) , with 90 % of people reporting use of the service . ",
-      "Instagram was very close behind , with a rate of 83 % . ",
-      "Youtube 's broad audience in the Turkey YouTube reaches a broad audience in the Turkey , making it an attractive partner for advertisers of almost any product ."
+      "The statistic shows the U.S. Number in 2018 , by main type . ",
+      "In 2018 , the U.S. Number amounted to over 1206836 million crimes ."
    ],
    "trends": [
+      {},
       {
-         "0": "0"
-      },
-      {
-         "0": "1",
-         "10": "1"
-      },
-      {
-         "0": "0"
+         "9": "3"
       }
    ],
    "data": [
       {
-         "Platform": "Youtube",
-         "Share of population": "90"
+         "Type of crime": "Property crime  (total)",
+         "Number of committed crimes": "7196045"
       },
       {
-         "Platform": "Instagram",
-         "Share of population": "83"
+         "Type of crime": "Larceny-theft",
+         "Number of committed crimes": "5217055"
       },
       {
-         "Platform": "Whatsapp",
-         "Share of population": "81"
+         "Type of crime": "Burglary",
+         "Number of committed crimes": "1230149"
       },
       {
-         "Platform": "Facebook",
-         "Share of population": "76"
+         "Type of crime": "Violent crime  (total)",
+         "Number of committed crimes": "1206836"
       },
       {
-         "Platform": "Twitter",
-         "Share of population": "61"
+         "Type of crime": "Aggravated assault",
+         "Number of committed crimes": "807410"
       },
       {
-         "Platform": "FB Messenger",
-         "Share of population": "53"
+         "Type of crime": "Motor vehicle theft",
+         "Number of committed crimes": "748841"
       },
       {
-         "Platform": "Pinterest",
-         "Share of population": "34"
+         "Type of crime": "Robbery",
+         "Number of committed crimes": "282061"
       },
       {
-         "Platform": "LinkedIn",
-         "Share of population": "32"
+         "Type of crime": "Rape (revised definition)",
+         "Number of committed crimes": "139380"
       },
       {
-         "Platform": "Snapchat",
-         "Share of population": "29"
-      },
-      {
-         "Platform": "TikTok",
-         "Share of population": "27"
-      },
-      {
-         "Platform": "Skype",
-         "Share of population": "27"
-      },
-      {
-         "Platform": "Twitch",
-         "Share of population": "24"
-      },
-      {
-         "Platform": "Tumblr",
-         "Share of population": "20"
-      },
-      {
-         "Platform": "Reddit",
-         "Share of population": "16"
-      },
-      {
-         "Platform": "WeChat",
-         "Share of population": "15"
-      },
-      {
-         "Platform": "Line",
-         "Share of population": "14"
+         "Type of crime": "Murder and nonnegligent manslaughter",
+         "Number of committed crimes": "16214"
       }
-   ]
+   ],
+   "gold": "This statistic shows the number of committed crimes in the United States in 2018 , by type of crime . In 2018 , the FBI recorded 139,380 cases of rape .\n"
 }

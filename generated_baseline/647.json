@@ -4,15 +4,24 @@
    "yAxis": "Price in thousand Mexican pesos",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 6 categories for the x axis representing Quarter, and a y axis representing Price in thousand Mexican pesos.",
       " The highest category is found at Q1_2019 where Price in thousand Mexican pesos is 1071.24.",
       " The lowest category is found at Q3_2018 where Price in thousand Mexican pesos is 800.98."
    ],
-   "trends": {
-      "maxIndex": 1,
-      "minIndex": 3
-   },
+   "trends": [
+      {},
+      {
+         "7": 1,
+         "12": 1
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
    "data": [
       {
          "Quarter": "Q2 2019",

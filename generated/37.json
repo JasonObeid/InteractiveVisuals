@@ -1,80 +1,59 @@
 {
-   "title": "Percentage added to U.S. GDP 2018 , by industry",
-   "xAxis": "Industry",
-   "yAxis": "Percentage of GDP",
+   "title": "Ownership and personal use of tablet computers 2012 , by country",
+   "xAxis": "Country",
+   "yAxis": "Percentage of population",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Industry GDP of the U.S. GDP 2018 in the by in 2018 . ",
-      "The survey revealed that 20.7 percentage of the GDP added 2018 in the by were Finance_insurance_real_estate_rental_and_leasing ."
+      "The statistic shows the Ownership of video on demand the TV in tablet computers as of October 2012 . ",
+      "In the Spain , 24 percentage of respondents stated they used video-on-demand use . ",
+      "By contrast , only 10 percentage of respondents in Germany stated that they use similar ."
    ],
    "trends": [
       {},
       {
-         "4": "0",
-         "16": "0"
+         "2": "0",
+         "4": "0"
+      },
+      {
+         "4": "7",
+         "9": "7"
       }
    ],
    "data": [
       {
-         "Industry": "Finance insurance real estate rental and leasing",
-         "Percentage of GDP": "20.7"
+         "Country": "Spain",
+         "Percentage of population": "24"
       },
       {
-         "Industry": "Professional and business services",
-         "Percentage of GDP": "12.6"
+         "Country": "Australia",
+         "Percentage of population": "24"
       },
       {
-         "Industry": "Government",
-         "Percentage of GDP": "12.2"
+         "Country": "Italy",
+         "Percentage of population": "23"
       },
       {
-         "Industry": "Manufacturing",
-         "Percentage of GDP": "11.4"
+         "Country": "United States",
+         "Percentage of population": "20"
       },
       {
-         "Industry": "Educational services health care and social assistance",
-         "Percentage of GDP": "8.7"
+         "Country": "United Kingdom",
+         "Percentage of population": "19"
       },
       {
-         "Industry": "Wholesale trade",
-         "Percentage of GDP": "6"
+         "Country": "France",
+         "Percentage of population": "15"
       },
       {
-         "Industry": "Retail trade",
-         "Percentage of GDP": "5.5"
+         "Country": "Japan",
+         "Percentage of population": "12"
       },
       {
-         "Industry": "Information",
-         "Percentage of GDP": "5.5"
-      },
-      {
-         "Industry": "Construction",
-         "Percentage of GDP": "4.1"
-      },
-      {
-         "Industry": "Arts entertainment recreation accommodation and food services",
-         "Percentage of GDP": "4.1"
-      },
-      {
-         "Industry": "Transportation and warehousing",
-         "Percentage of GDP": "3.2"
-      },
-      {
-         "Industry": "Other services except government",
-         "Percentage of GDP": "2.1"
-      },
-      {
-         "Industry": "Mining",
-         "Percentage of GDP": "1.6"
-      },
-      {
-         "Industry": "Utilities",
-         "Percentage of GDP": "1.6"
-      },
-      {
-         "Industry": "Agriculture forestry fishing and hunting",
-         "Percentage of GDP": "0.8"
+         "Country": "Germany",
+         "Percentage of population": "10"
       }
-   ]
+   ],
+   "gold": "This statistic shows the percentage of tablet computer ownership and usage among the populations of selected countries as of September 2012 . In the U.S. tablet ownership and usage was found to be at 20 percent of the population .\n"
 }

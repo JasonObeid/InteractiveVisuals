@@ -4,15 +4,24 @@
    "yAxis": "Number of titles",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 28 categories for the x axis representing Soccer Club, and a y axis representing Number of titles.",
       " The highest category is found at Sevilla_FC where Number of titles is 5.0.",
       " The lowest category is found at Ipswich_Town_FC where Number of titles is 1.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 13
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 13,
+         "12": 13
+      },
+      {}
+   ],
    "data": [
       {
          "Soccer Club": "Sevilla FC",

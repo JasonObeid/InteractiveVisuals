@@ -1,0 +1,25 @@
+{
+   "title": "Election 2016 exit polls : percentage of votes by gender",
+   "labels": [
+      "Sex",
+      "Hillary Clinton",
+      "Donald Trump"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": "This statistic shows the share of online travel agency shoppers , by those who book their travel on the ota website or on the travel suppliers website , in 2014 . During the survey , 68 percent of survey respondents indicated that when shop on ota website , they book their flights on the travel suppliers website . ota industry - additional information Online travel agencies or OTAs are a type of travel websites which enable consumers to plan , search and book travel .\n",
+   "trends": {},
+   "data": [
+      {
+         "Sex": "Male",
+         "Hillary Clinton": "41",
+         "Donald Trump": "53"
+      },
+      {
+         "Sex": "Female",
+         "Hillary Clinton": "54",
+         "Donald Trump": "42"
+      }
+   ]
+}

@@ -4,15 +4,24 @@
    "yAxis": "CT scanners per million population",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 29 categories for the x axis representing Country, and a y axis representing CT scanners per million population.",
       " The highest category is found at Australia where CT scanners per million population is 64.35.",
       " The lowest category is found at Mexico where CT scanners per million population is 6.12."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 28
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 28,
+         "12": 28
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "Australia",

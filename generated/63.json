@@ -1,40 +1,52 @@
 {
-   "title": "Leading car rental companies in the U.S. ranked by index ranking 2018",
-   "xAxis": "Brand",
-   "yAxis": "Index ranking",
+   "title": "Malaysia : number of Facebook users 2017 to 2023",
+   "xAxis": "Year",
+   "yAxis": "Number of users in millions",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Leading car rental companies in U.S. 2018 , by on Index ranking . ",
-      "In that year , Enterprise was the Leading car rental chain in U.S. by on Index ranking of about 20.9 % ranking ."
+      "It is expected that by 2023 , around 24.2 millions Filipinos will become users of a Facebook users . ",
+      "Considering the forecasted population of around 118 millions , it reflects the high popularity of Facebook media in the Malaysia . ",
+      "Current state of Facebook media in the Malaysia have been called the Facebook media capital of the world , because most of the Facebook media users have an extraordinarily high usage time of about four hours per day ."
    ],
    "trends": [
-      {},
       {
-         "4": "0",
-         "19": "0"
-      }
+         "5": "0",
+         "8": "0"
+      },
+      {},
+      {}
    ],
    "data": [
       {
-         "Brand": "Enterprise",
-         "Index ranking": "20.9"
+         "Year": "2023",
+         "Number of users in millions": "24.2"
       },
       {
-         "Brand": "Hertz",
-         "Index ranking": "14.4"
+         "Year": "2022",
+         "Number of users in millions": "23.8"
       },
       {
-         "Brand": "Budget",
-         "Index ranking": "11.6"
+         "Year": "2021",
+         "Number of users in millions": "23.5"
       },
       {
-         "Brand": "Avis",
-         "Index ranking": "10.2"
+         "Year": "2020",
+         "Number of users in millions": "23.1"
       },
       {
-         "Brand": "Alamo",
-         "Index ranking": "7.8"
+         "Year": "2019",
+         "Number of users in millions": "22.7"
+      },
+      {
+         "Year": "2018",
+         "Number of users in millions": "22.4"
+      },
+      {
+         "Year": "2017",
+         "Number of users in millions": "22.0"
       }
-   ]
+   ],
+   "gold": "This statistic shows the number of Facebook users in Malaysia from 2017 to 2023 . In 2023 , the number of Facebook users in Malaysia is expected to reach 24.2 million , up from 22 million in 2017 . Further information With more than 2 billion monthly active users , Facebook is the most popular social network worldwide .\n"
 }

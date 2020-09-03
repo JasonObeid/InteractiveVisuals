@@ -1,124 +1,101 @@
 {
-   "title": "Inditex Group 's number of stores in Asia and Africa 2019 , by country",
+   "title": "Countries with the lowest inflation rate 2019",
    "xAxis": "Country",
-   "yAxis": "Number of stores",
+   "yAxis": "Inflation rate compared to previous year",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "stores are a popular choice in Europe when it comes to pet ownership , although we do n't see them outside as often their canine friends . ",
-      "As shown in this statistic , China and Turkey are the two countries leading the list of cat owners in the EU , with the former 's narrow win . ",
-      "While China also ranks as the top EU Country with the highest Number of pet dogs , stores still win in Inditex Group households ."
+      "This statistic shows the gross domestic product ( Inflation ) of Countries in 2019 , rate Country . ",
+      "In 2019 , the Inflation of the Saudi_Arabia Country in Countries was 50.72 % compared previous year ."
    ],
    "trends": [
       {},
       {
-         "6": "0",
-         "8": "1"
-      },
-      {
-         "1": "0"
+         "7": "4"
       }
    ],
    "data": [
       {
-         "Country": "China",
-         "Number of stores": "589"
+         "Country": "Eritrea",
+         "Inflation rate compared to previous year": "-27.6"
       },
       {
-         "Country": "Turkey",
-         "Number of stores": "228"
+         "Country": "Guinea-Bissau",
+         "Inflation rate compared to previous year": "-2.58"
       },
       {
-         "Country": "Japan",
-         "Number of stores": "147"
+         "Country": "United Arab Emirates",
+         "Inflation rate compared to previous year": "-1.5"
       },
       {
-         "Country": "Israel",
-         "Number of stores": "79"
+         "Country": "Niger",
+         "Inflation rate compared to previous year": "-1.3"
       },
       {
-         "Country": "Indonesia",
-         "Number of stores": "67"
-      },
-      {
-         "Country": "Lebanon",
-         "Number of stores": "45"
+         "Country": "Saudi Arabia",
+         "Inflation rate compared to previous year": "-1.05"
       },
       {
          "Country": "Qatar",
-         "Number of stores": "37"
+         "Inflation rate compared to previous year": "-0.36"
       },
       {
-         "Country": "Egypt",
-         "Number of stores": "36"
+         "Country": "Benin",
+         "Inflation rate compared to previous year": "-0.28"
       },
       {
-         "Country": "Kazakhstan",
-         "Number of stores": "36"
+         "Country": "Iraq",
+         "Inflation rate compared to previous year": "-0.27"
       },
       {
-         "Country": "Hong Kong SAR",
-         "Number of stores": "35"
+         "Country": "Puerto Rico",
+         "Inflation rate compared to previous year": "-0.06"
       },
       {
-         "Country": "Kuwait",
-         "Number of stores": "29"
+         "Country": "Panama",
+         "Inflation rate compared to previous year": "-0.01"
+      },
+      {
+         "Country": "Brunei Darussalam",
+         "Inflation rate compared to previous year": "0.07"
+      },
+      {
+         "Country": "Mali",
+         "Inflation rate compared to previous year": "0.17"
+      },
+      {
+         "Country": "Solomon Islands",
+         "Inflation rate compared to previous year": "0.35"
+      },
+      {
+         "Country": "Ecuador",
+         "Inflation rate compared to previous year": "0.38"
+      },
+      {
+         "Country": "Korea",
+         "Inflation rate compared to previous year": "0.46"
+      },
+      {
+         "Country": "Switzerland",
+         "Inflation rate compared to previous year": "0.57"
+      },
+      {
+         "Country": "Marshall Islands",
+         "Inflation rate compared to previous year": "0.57"
+      },
+      {
+         "Country": "St. Kitts and Nevis",
+         "Inflation rate compared to previous year": "0.61"
+      },
+      {
+         "Country": "Greece",
+         "Inflation rate compared to previous year": "0.63"
       },
       {
          "Country": "Morocco",
-         "Number of stores": "28"
-      },
-      {
-         "Country": "India",
-         "Number of stores": "25"
-      },
-      {
-         "Country": "Thailand",
-         "Number of stores": "23"
-      },
-      {
-         "Country": "Taiwan",
-         "Number of stores": "22"
-      },
-      {
-         "Country": "Singapore",
-         "Number of stores": "21"
-      },
-      {
-         "Country": "Malaysia",
-         "Number of stores": "21"
-      },
-      {
-         "Country": "Jordan",
-         "Number of stores": "18"
-      },
-      {
-         "Country": "Tunisia",
-         "Number of stores": "15"
-      },
-      {
-         "Country": "Azerbaijan",
-         "Number of stores": "14"
-      },
-      {
-         "Country": "Armenia",
-         "Number of stores": "12"
-      },
-      {
-         "Country": "South Africa",
-         "Number of stores": "10"
-      },
-      {
-         "Country": "Bahrain",
-         "Number of stores": "9"
-      },
-      {
-         "Country": "Macao SAR",
-         "Number of stores": "9"
-      },
-      {
-         "Country": "Oman",
-         "Number of stores": "5"
+         "Inflation rate compared to previous year": "0.65"
       }
-   ]
+   ],
+   "gold": "The statistic lists the 20 countries with the lowest inflation rate in 2019 . In 2019 , Eritrea ranked 1st with a negative inflation rate of about 27.6 percent compared to the previous year . Inflation rates and the financial crisis Due to relatively stagnant worker wages as well as a hesitation from banks to so easily distribute loans to the ordinary citizen , inflation has remained considerably low .\n"
 }

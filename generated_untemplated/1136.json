@@ -1,0 +1,52 @@
+{
+   "title": "Facebook : number of followers of popular beauty brands 2020\n",
+   "xAxis": "Month",
+   "yAxis": "Brand fans in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic presents a ranking of the top selling players on twitter , ranked by number of followers on the social network . As of 2020 , Sony 's playstation was ranked first with 15.63 million twitter followers .\n",
+   "trends": {},
+   "data": [
+      {
+         "Month": "Bath & Body Works",
+         "Brand fans in millions": 9.8
+      },
+      {
+         "Month": "Risqu\u00e9",
+         "Brand fans in millions": 7.23
+      },
+      {
+         "Month": "Mary Kay Brasil",
+         "Brand fans in millions": 6.26
+      },
+      {
+         "Month": "Eudora",
+         "Brand fans in millions": 5.56
+      },
+      {
+         "Month": "Pantene Brasil",
+         "Brand fans in millions": 4.92
+      },
+      {
+         "Month": "Doce Pel\u00edcula",
+         "Brand fans in millions": 4.88
+      },
+      {
+         "Month": "Nature Republic Myanmar",
+         "Brand fans in millions": 4.87
+      },
+      {
+         "Month": "COVERGIRL",
+         "Brand fans in millions": 4.64
+      },
+      {
+         "Month": "Dailus",
+         "Brand fans in millions": 4.21
+      },
+      {
+         "Month": "Embelleze",
+         "Brand fans in millions": 4.01
+      }
+   ]
+}

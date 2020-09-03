@@ -1,153 +1,131 @@
 {
-   "title": "Average player height of participating national teams at the 2018 World Cup in Russia",
-   "xAxis": "Country",
-   "yAxis": "Average player height in centimeters",
+   "title": "Death from amphetamine drug use in England and Wales 1993 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of deaths",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Average of player height centimeters national in Russia World as of 2018 . ",
-      "During that month , 185.0 million centimeters in Iceland accessed online services via centimeters device . ",
-      "First-ranked Serbia accounted for 185.6 million centimeters network ."
+      "In 2018 , 100 people died as a result of drug amphetamine in England and Wales , this was by far the highest amount of recorded deaths in the 25-year period shown . ",
+      "Since the turn of the century , the Number of deaths has remained relatively high apart from a drastic fall in 2010 and 2011 before subsequently rising again . ",
+      "Seriousness of MDMA offences In the United Kingdom ( UK ) MDMA is categorized as a class drug which means it carries the most severe penalties for both possession and supply ."
    ],
    "trends": [
-      {},
-      {
-         "4": "2",
-         "8": "2"
-      },
       {
          "1": "0",
-         "4": "0"
-      }
+         "3": "0"
+      },
+      {
+         "21": "8",
+         "23": "7"
+      },
+      {}
    ],
    "data": [
       {
-         "Country": "Serbia",
-         "Average player height in centimeters": "185.6"
+         "Year": "2018",
+         "Number of deaths": "100"
       },
       {
-         "Country": "Sweden",
-         "Average player height in centimeters": "185.2"
+         "Year": "2017",
+         "Number of deaths": "91"
       },
       {
-         "Country": "Iceland",
-         "Average player height in centimeters": "185.0"
+         "Year": "2016",
+         "Number of deaths": "96"
       },
       {
-         "Country": "Denmark",
-         "Average player height in centimeters": "185.0"
+         "Year": "2015",
+         "Number of deaths": "90"
       },
       {
-         "Country": "Croatia",
-         "Average player height in centimeters": "184.9"
+         "Year": "2014",
+         "Number of deaths": "85"
       },
       {
-         "Country": "Russia",
-         "Average player height in centimeters": "184.3"
+         "Year": "2013",
+         "Number of deaths": "56"
       },
       {
-         "Country": "Tunisia",
-         "Average player height in centimeters": "184.0"
+         "Year": "2012",
+         "Number of deaths": "49"
       },
       {
-         "Country": "Germany",
-         "Average player height in centimeters": "183.8"
+         "Year": "2011",
+         "Number of deaths": "46"
       },
       {
-         "Country": "Belgium",
-         "Average player height in centimeters": "183.8"
+         "Year": "2010",
+         "Number of deaths": "48"
       },
       {
-         "Country": "Senegal",
-         "Average player height in centimeters": "183.7"
+         "Year": "2009",
+         "Number of deaths": "50"
       },
       {
-         "Country": "Switzerland",
-         "Average player height in centimeters": "183.5"
+         "Year": "2008",
+         "Number of deaths": "59"
       },
       {
-         "Country": "Iran",
-         "Average player height in centimeters": "183.4"
+         "Year": "2007",
+         "Number of deaths": "50"
       },
       {
-         "Country": "Poland",
-         "Average player height in centimeters": "183.1"
+         "Year": "2006",
+         "Number of deaths": "49"
       },
       {
-         "Country": "Morocco",
-         "Average player height in centimeters": "182.4"
+         "Year": "2005",
+         "Number of deaths": "50"
       },
       {
-         "Country": "South Korea",
-         "Average player height in centimeters": "182.2"
+         "Year": "2004",
+         "Number of deaths": "43"
       },
       {
-         "Country": "England",
-         "Average player height in centimeters": "182.1"
+         "Year": "2003",
+         "Number of deaths": "33"
       },
       {
-         "Country": "Costa Rica",
-         "Average player height in centimeters": "181.6"
+         "Year": "2002",
+         "Number of deaths": "51"
       },
       {
-         "Country": "Australia",
-         "Average player height in centimeters": "181.3"
+         "Year": "2001",
+         "Number of deaths": "28"
       },
       {
-         "Country": "Nigeria",
-         "Average player height in centimeters": "181.2"
+         "Year": "2000",
+         "Number of deaths": "40"
       },
       {
-         "Country": "Panama",
-         "Average player height in centimeters": "181.1"
+         "Year": "1999",
+         "Number of deaths": "67"
       },
       {
-         "Country": "Portugal",
-         "Average player height in centimeters": "180.5"
+         "Year": "1998",
+         "Number of deaths": "48"
       },
       {
-         "Country": "France",
-         "Average player height in centimeters": "180.5"
+         "Year": "1997",
+         "Number of deaths": "41"
       },
       {
-         "Country": "Brazil",
-         "Average player height in centimeters": "180.4"
+         "Year": "1996",
+         "Number of deaths": "33"
       },
       {
-         "Country": "Colombia",
-         "Average player height in centimeters": "180.2"
+         "Year": "1995",
+         "Number of deaths": "35"
       },
       {
-         "Country": "Egypt",
-         "Average player height in centimeters": "180.1"
+         "Year": "1994",
+         "Number of deaths": "19"
       },
       {
-         "Country": "Uruguay",
-         "Average player height in centimeters": "179.8"
-      },
-      {
-         "Country": "Mexico",
-         "Average player height in centimeters": "179.5"
-      },
-      {
-         "Country": "Spain",
-         "Average player height in centimeters": "179.5"
-      },
-      {
-         "Country": "Argentina",
-         "Average player height in centimeters": "179.4"
-      },
-      {
-         "Country": "Peru",
-         "Average player height in centimeters": "178.3"
-      },
-      {
-         "Country": "Japan",
-         "Average player height in centimeters": "178.1"
-      },
-      {
-         "Country": "Saudi Arabia",
-         "Average player height in centimeters": "176.2"
+         "Year": "1993",
+         "Number of deaths": "37"
       }
-   ]
+   ],
+   "gold": "In 2018 , there were 100 amphetamine-related deaths in England and Wales . Although this is a slight decrease from the preceding year , the number of deaths as a result of amphetamine use has sharply increased in recent years . The number of deaths remained around 50 a year before jumping to 85 mortalities in 2014 .\n"
 }

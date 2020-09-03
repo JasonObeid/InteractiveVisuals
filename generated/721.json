@@ -1,85 +1,70 @@
 {
-   "title": "Leading U.S. accounting firms by U.S. revenue 2018",
-   "xAxis": "Firm (Headquarters, Fiscal Year End)",
-   "yAxis": "Revenue in the U.S. in billion U.S. dollars",
+   "title": "BMW - motor vehicles produced worldwide 2006 to 2016",
+   "xAxis": "Year",
+   "yAxis": "Production in thousand units",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the leading 15 Firm models according to the Auto Express Driver Power 2018 survey responses firms on Firm by U.S.",
-      "The survey was carried U.S. by the British automotive magazine online between 2014 and 2015 . ",
-      "Deloitte_LLP(New_York_May) dominated this category securing the top three spots with the Deloitte_LLP(New_York_May) , PwC_U.S.(New_York_June) and Ernst_&_Young_LLP(New_York_June) models as well having three other models in the top 15 ."
+      "The statistic represents the number of Production boarded by BMW from 2006 to 2016 . ",
+      "In 2016 , the German airline transported some 2359.76 thousand Production , up from 2279.5 thousand in the previous Year ."
    ],
    "trends": [
-      {},
-      {},
       {
-         "0": "0",
-         "11": "0",
-         "13": "1",
-         "16": "1",
-         "17": "2"
+         "11": "10",
+         "13": "0"
+      },
+      {
+         "1": "0",
+         "8": "0",
+         "14": "1"
       }
    ],
    "data": [
       {
-         "Firm (Headquarters, Fiscal Year End)": "Deloitte LLP(New York May)",
-         "Revenue in the U.S. in billion U.S. dollars": "19.9"
+         "Year": "2016",
+         "Production in thousand units": "2359.76"
       },
       {
-         "Firm (Headquarters, Fiscal Year End)": "PwC U.S.(New York June)",
-         "Revenue in the U.S. in billion U.S. dollars": "15.4"
+         "Year": "2015",
+         "Production in thousand units": "2279.5"
       },
       {
-         "Firm (Headquarters, Fiscal Year End)": "Ernst & Young LLP(New York June)",
-         "Revenue in the U.S. in billion U.S. dollars": "14.0"
+         "Year": "2014",
+         "Production in thousand units": "2165.57"
       },
       {
-         "Firm (Headquarters, Fiscal Year End)": "KPMG LLP(New York September)",
-         "Revenue in the U.S. in billion U.S. dollars": "9.46"
+         "Year": "2013",
+         "Production in thousand units": "2006.37"
       },
       {
-         "Firm (Headquarters, Fiscal Year End)": "RSM U.S.(Chicago April)",
-         "Revenue in the U.S. in billion U.S. dollars": "2.14"
+         "Year": "2012",
+         "Production in thousand units": "2065.48"
       },
       {
-         "Firm (Headquarters, Fiscal Year End)": "Grant Thornton LLP(Chicago December)",
-         "Revenue in the U.S. in billion U.S. dollars": "1.87"
+         "Year": "2011",
+         "Production in thousand units": "1738.16"
       },
       {
-         "Firm (Headquarters, Fiscal Year End)": "BDO USA LLP(Chicago June )",
-         "Revenue in the U.S. in billion U.S. dollars": "1.47"
+         "Year": "2010",
+         "Production in thousand units": "1481.25"
       },
       {
-         "Firm (Headquarters, Fiscal Year End)": "CliftonLarsonAllen LLP (December)",
-         "Revenue in the U.S. in billion U.S. dollars": "0.95"
+         "Year": "2009",
+         "Production in thousand units": "1258.42"
       },
       {
-         "Firm (Headquarters, Fiscal Year End)": "Crowe Horwath LLP/(Chicago December)",
-         "Revenue in the U.S. in billion U.S. dollars": "0.92"
+         "Year": "2008",
+         "Production in thousand units": "1439.92"
       },
       {
-         "Firm (Headquarters, Fiscal Year End)": "CBIZ & Mayer Hoffman McCann PC(Cleveland December)",
-         "Revenue in the U.S. in billion U.S. dollars": "0.78"
+         "Year": "2007",
+         "Production in thousand units": "1541.5"
       },
       {
-         "Firm (Headquarters, Fiscal Year End)": "Moss Adams LLP(Seattle December)",
-         "Revenue in the U.S. in billion U.S. dollars": "0.69"
-      },
-      {
-         "Firm (Headquarters, Fiscal Year End)": "CohnReznick LLP(New York January)",
-         "Revenue in the U.S. in billion U.S. dollars": "0.65"
-      },
-      {
-         "Firm (Headquarters, Fiscal Year End)": "BKD LLP(Springfield Mo. May)",
-         "Revenue in the U.S. in billion U.S. dollars": "0.59"
-      },
-      {
-         "Firm (Headquarters, Fiscal Year End)": "Baker Tilly Virchow Krause LLP(Chicago May)",
-         "Revenue in the U.S. in billion U.S. dollars": "0.58"
-      },
-      {
-         "Firm (Headquarters, Fiscal Year End)": "Marcum LLP(New York December)",
-         "Revenue in the U.S. in billion U.S. dollars": "0.55"
+         "Year": "2006",
+         "Production in thousand units": "1366.84"
       }
-   ]
+   ],
+   "gold": "This timeline represents the motor vehicle production of BMW worldwide from 2006 through 2016 . Globally , the manufacturer of automobiles and motorcycles produced a little over 2.3 million vehicles in 2016 .\n"
 }

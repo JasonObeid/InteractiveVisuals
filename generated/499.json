@@ -1,107 +1,81 @@
 {
-   "title": "Number of Steam users 2012 to 2019",
-   "xAxis": "Month",
-   "yAxis": "Number of users in millions",
+   "title": "Boston Bruins ' revenue 2005 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Number of Steam in ( Steam ) from November_2012 to 2019 2012 . ",
-      "The Number is the users that divides a users into two numerically equal groups ; that is , half of the Number in Steam increased by in 2016 . ",
-      "The Number of Steam reached a Number that was 18.5 millions in 2019 ."
+      "This graph depicts the annual National Hockey League Revenue of the Boston Bruins from the 2005/06 season to the 2018/19 season . ",
+      "The Revenue of the Boston Bruins amounted to 228 million U.S. dollars in the 2018/19 season ."
    ],
    "trends": [
       {
-         "13": "20"
+         "14": "13",
+         "18": "0"
       },
-      {},
       {
-         "9": "1"
+         "7": "0",
+         "13": "0"
       }
    ],
    "data": [
       {
-         "Month": "September 2019",
-         "Number of users in millions": "14.15"
+         "Year": "2018/19",
+         "Revenue in million U.S. dollars": "228"
       },
       {
-         "Month": "October 2018",
-         "Number of users in millions": "18.5"
+         "Year": "2017/18",
+         "Revenue in million U.S. dollars": "191"
       },
       {
-         "Month": "January 2018",
-         "Number of users in millions": "18.5"
+         "Year": "2016/17",
+         "Revenue in million U.S. dollars": "176"
       },
       {
-         "Month": "November 2017",
-         "Number of users in millions": "17.68"
+         "Year": "2015/16",
+         "Revenue in million U.S. dollars": "169"
       },
       {
-         "Month": "September 2017",
-         "Number of users in millions": "15.0"
+         "Year": "2014/15",
+         "Revenue in million U.S. dollars": "158"
       },
       {
-         "Month": "July 2017",
-         "Number of users in millions": "13.15"
+         "Year": "2013/14",
+         "Revenue in million U.S. dollars": "164"
       },
       {
-         "Month": "April 2017",
-         "Number of users in millions": "11.83"
+         "Year": "2012/13",
+         "Revenue in million U.S. dollars": "114"
       },
       {
-         "Month": "January 2017",
-         "Number of users in millions": "14.21"
+         "Year": "2011/12",
+         "Revenue in million U.S. dollars": "129"
       },
       {
-         "Month": "October 2016",
-         "Number of users in millions": "11.13"
+         "Year": "2010/11",
+         "Revenue in million U.S. dollars": "125"
       },
       {
-         "Month": "July 2016",
-         "Number of users in millions": "12.28"
+         "Year": "2009/10",
+         "Revenue in million U.S. dollars": "110"
       },
       {
-         "Month": "April 2016",
-         "Number of users in millions": "12.74"
+         "Year": "2008/09",
+         "Revenue in million U.S. dollars": "108"
       },
       {
-         "Month": "January 2016",
-         "Number of users in millions": "12.33"
+         "Year": "2007/08",
+         "Revenue in million U.S. dollars": "97"
       },
       {
-         "Month": "November 2015",
-         "Number of users in millions": "13.48"
+         "Year": "2006/07",
+         "Revenue in million U.S. dollars": "87"
       },
       {
-         "Month": "June 2015",
-         "Number of users in millions": "10.05"
-      },
-      {
-         "Month": "May 2015",
-         "Number of users in millions": "9.5"
-      },
-      {
-         "Month": "March 2015",
-         "Number of users in millions": "9.1"
-      },
-      {
-         "Month": "January 2015",
-         "Number of users in millions": "8.5"
-      },
-      {
-         "Month": "November 2014",
-         "Number of users in millions": "9.3"
-      },
-      {
-         "Month": "June 2014",
-         "Number of users in millions": "8.0"
-      },
-      {
-         "Month": "December 2013",
-         "Number of users in millions": "7.0"
-      },
-      {
-         "Month": "November 2012",
-         "Number of users in millions": "6.0"
+         "Year": "2005/06",
+         "Revenue in million U.S. dollars": "86"
       }
-   ]
+   ],
+   "gold": "The statistic shows the revenue of the Boston Bruins from the 2005/06 season to the 2018/19 season . The revenue of the Boston Bruins amounted to 228 million U.S. dollars in the 2018/19 season .\n"
 }

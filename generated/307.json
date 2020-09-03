@@ -1,140 +1,91 @@
 {
-   "title": "EU : number of enterprises in the restaurants & mobile food industry by country 2016",
-   "xAxis": "Country",
-   "yAxis": "Number of enterprises",
+   "title": "Unauthorized immigrant population U.S. 1990 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Number of immigrants in millions",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic displays the Number of enterprises 10,000 working in enterprises & in Europe 2016 . ",
-      "In this year , France had the highest Number of enterprises with 168338 enterprises 10,000 , this was closely followed by Italy with 146089 enterprises 10,000 and Germany with 133555 enterprises 10,000 . ",
-      "The source provides the information that the professions of Optometry and Optics in Spain and the Nordic & are combined in 11346 , as optometrists ."
+      "In 2017 , there were 10.5 immigrant population immigrants across the 1990 . ",
+      "This was a decrease from 2015 , when there were 11.0 immigrant population immigrants across the nation . ",
+      "immigrant population in the U.S. immigrant population in the 1990 refers to colleges and universities in the country ."
    ],
    "trends": [
-      {},
       {
-         "4": "0",
-         "12": "0",
-         "23": "1",
-         "25": "1",
-         "31": "2",
-         "33": "2"
+         "1": "0",
+         "5": "0"
       },
       {
-         "21": "14"
-      }
+         "5": "2",
+         "10": "2"
+      },
+      {}
    ],
    "data": [
       {
-         "Country": "France",
-         "Number of enterprises": "168338"
+         "Year": "2017",
+         "Number of immigrants in millions": "10.5"
       },
       {
-         "Country": "Italy",
-         "Number of enterprises": "146089"
+         "Year": "2016",
+         "Number of immigrants in millions": "10.7"
       },
       {
-         "Country": "Germany",
-         "Number of enterprises": "133555"
+         "Year": "2015",
+         "Number of immigrants in millions": "11.0"
       },
       {
-         "Country": "United Kingdom",
-         "Number of enterprises": "83622"
+         "Year": "2014",
+         "Number of immigrants in millions": "11.1"
       },
       {
-         "Country": "Spain",
-         "Number of enterprises": "75591"
+         "Year": "2013",
+         "Number of immigrants in millions": "11.2"
       },
       {
-         "Country": "Czechia",
-         "Number of enterprises": "48241"
+         "Year": "2012",
+         "Number of immigrants in millions": "11.2"
       },
       {
-         "Country": "Greece",
-         "Number of enterprises": "43766"
+         "Year": "2011",
+         "Number of immigrants in millions": "11.5"
       },
       {
-         "Country": "Portugal",
-         "Number of enterprises": "29893"
+         "Year": "2010",
+         "Number of immigrants in millions": "11.4"
       },
       {
-         "Country": "Netherlands",
-         "Number of enterprises": "28750"
+         "Year": "2009",
+         "Number of immigrants in millions": "11.3"
       },
       {
-         "Country": "Belgium",
-         "Number of enterprises": "28029"
+         "Year": "2008",
+         "Number of immigrants in millions": "11.7"
       },
       {
-         "Country": "Poland",
-         "Number of enterprises": "27829"
+         "Year": "2007",
+         "Number of immigrants in millions": "12.2"
       },
       {
-         "Country": "Austria",
-         "Number of enterprises": "27754"
+         "Year": "2006",
+         "Number of immigrants in millions": "11.6"
       },
       {
-         "Country": "Sweden",
-         "Number of enterprises": "24953"
+         "Year": "2005",
+         "Number of immigrants in millions": "11.1"
       },
       {
-         "Country": "Hungary",
-         "Number of enterprises": "16514"
+         "Year": "2000",
+         "Number of immigrants in millions": "8.6"
       },
       {
-         "Country": "Bulgaria",
-         "Number of enterprises": "11346"
+         "Year": "1995",
+         "Number of immigrants in millions": "5.7"
       },
       {
-         "Country": "Slovakia",
-         "Number of enterprises": "10692"
-      },
-      {
-         "Country": "Romania",
-         "Number of enterprises": "9355"
-      },
-      {
-         "Country": "Denmark",
-         "Number of enterprises": "8537"
-      },
-      {
-         "Country": "Finland",
-         "Number of enterprises": "7848"
-      },
-      {
-         "Country": "Ireland",
-         "Number of enterprises": "7570"
-      },
-      {
-         "Country": "Croatia",
-         "Number of enterprises": "6455"
-      },
-      {
-         "Country": "Slovenia",
-         "Number of enterprises": "4478"
-      },
-      {
-         "Country": "Cyprus",
-         "Number of enterprises": "2914"
-      },
-      {
-         "Country": "Lithuania",
-         "Number of enterprises": "2474"
-      },
-      {
-         "Country": "Latvia",
-         "Number of enterprises": "2360"
-      },
-      {
-         "Country": "Estonia",
-         "Number of enterprises": "1551"
-      },
-      {
-         "Country": "Luxembourg",
-         "Number of enterprises": "1430"
-      },
-      {
-         "Country": "Malta",
-         "Number of enterprises": "1160"
+         "Year": "1990",
+         "Number of immigrants in millions": "3.5"
       }
-   ]
+   ],
+   "gold": "This statistic shows the number of unauthorized immigrants in the United States from 1990 to 2017 . In 2017 , an estimated 10.5 million unauthorized immigrants lived in the United States . This is an increase from about 3.5 million unauthorized immigrants in 1990 .\n"
 }

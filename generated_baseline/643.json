@@ -4,36 +4,31 @@
    "yAxis": "Franchise value in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Franchise value in million U.S. dollars, with a total of 18 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely negative which exists from 2018 to 2012.",
-      " On the contrary, the next significant trend is extremely negative which exists from 2009 to 2003.",
-      " Conversely, the next significant trend is extremely positive which exists from 2012 to 2009."
+      "This line chart has an x axis representing Year and a y axis representing Franchise value in million U.S. dollars, with a total of 18 data points. The chart has 4 significant trends.",
+      " The longest trend is extremely positive which exists from 2018 to 2012.",
+      " Additionally, the next significant trend is moderately positive which exists from 2009 to 2003.",
+      " Similarly, the next significant trend is slightly negative which exists from 2012 to 2009.",
+      " Contrarily, the next significant trend is moderately negative which exists from 2020 to 2018."
    ],
    "trends": [
+      {},
       {
-         "Length": 7,
-         "direction": "negative",
-         "start": 2,
-         "end": 8,
-         "trend": "y=182.32x+-366546.54",
-         "magnitude": "extremely"
+         "1": "2",
+         "12": "8"
       },
       {
-         "Length": 7,
-         "direction": "negative",
-         "start": 11,
-         "end": 17,
-         "trend": "y=44.32x+-88559.36",
-         "magnitude": "extremely"
+         "3": "11",
+         "14": "17"
       },
       {
-         "Length": 4,
-         "direction": "positive",
-         "start": 8,
-         "end": 11,
-         "trend": "y=-56.5x+114002.5",
-         "magnitude": "extremely"
+         "3": "8",
+         "14": "11"
+      },
+      {
+         "3": "0",
+         "14": "2"
       }
    ],
    "data": [

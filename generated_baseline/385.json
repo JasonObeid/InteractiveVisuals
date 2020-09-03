@@ -4,36 +4,41 @@
    "yAxis": "Kit sponsorship revenue in million euros",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Kit sponsorship revenue in million euros, with a total of 18 data points. The chart has 3 significant trends.",
-      " The longest trend is moderately negative which exists from Hertha_BSC_Berlin_(Tedi) to FSV_Mainz_05_(K\u00f6mmerling).",
-      " But, the next significant trend is strongly negative which exists from FC_Bayern_Munich_(Telekom) to VfL_Wolfsburg_(Volkswagen).",
-      " On the contrary, the next significant trend is extremely negative which exists from SC_Freiburg_(Schwarzwaldmilch) to SC_Paderborn_(Sunmaker)."
+      "This line chart has an x axis representing Year and a y axis representing Kit sponsorship revenue in million euros, with a total of 18 data points. The chart has 6 significant trends.",
+      " The longest trend is extremely positive which exists from 1._FC_K\u00f6ln_(Rewe) to FSV_Mainz_05_(K\u00f6mmerling).",
+      " Correspondingly, the next significant trend is extremely positive which exists from Fortuna_D\u00fcsseldorf_(Henkel) to SC_Paderborn_(Sunmaker).",
+      " Likewise, the next significant trend is moderately positive which exists from FC_Bayern_Munich_(Telekom) to VfL_Wolfsburg_(Volkswagen).",
+      " In a similar manner, the next significant trend is slightly positive which exists from VfL_Wolfsburg_(Volkswagen) to RB_Leipzig_(Red_Bull).",
+      " Correspondingly, the next significant trend is extremely positive which exists from RB_Leipzig_(Red_Bull) to 1._FC_K\u00f6ln_(Rewe).",
+      " Similarly, the next significant trend is extremely positive which exists from FSV_Mainz_05_(K\u00f6mmerling) to Fortuna_D\u00fcsseldorf_(Henkel)."
    ],
    "trends": [
+      {},
       {
-         "Length": 6,
-         "direction": "negative",
-         "start": 7,
-         "end": 12,
-         "trend": "y=-0.0x+6.3",
-         "magnitude": "moderately"
+         "1": "6",
+         "12": "12"
       },
       {
-         "Length": 3,
-         "direction": "negative",
-         "start": 0,
-         "end": 2,
-         "trend": "y=-2.75x+31.83",
-         "magnitude": "strongly"
+         "3": "14",
+         "14": "17"
       },
       {
-         "Length": 3,
-         "direction": "negative",
-         "start": 15,
-         "end": 17,
-         "trend": "y=-0.5x+10.5",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      },
+      {
+         "3": "4",
+         "14": "6"
+      },
+      {
+         "3": "12",
+         "14": "14"
       }
    ],
    "data": [

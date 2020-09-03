@@ -1,35 +1,76 @@
 {
-   "title": "Perceptions of social classes in Italy 2019",
-   "xAxis": "Response",
-   "yAxis": "Share of respondents",
+   "title": "Coca-Cola Company 's net operating revenues worldwide 2007 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Revenues in billion U.S. dollars",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "In 2019 , some 10 % of respondents stated they will probably 2019 on that year , while almost half of all respondents stated they probably wo n't . ",
-      "Is romance really dead ? 2019 is generally considered the most romantic 2019 of the year , which people use to give flowers and tokens of appreciation to loved ones . ",
-      "About half of the American population celebrate 2019 , but this fact does Lower_class infer that the same Share of the population is taken or in love ; in fact , a certain Share of respondents rather bought 2019 presents for their pets last year rather than a significant other , and another significant Share of respondents spent the 2019 alone , with colleagues , friends or with family , rather than with a spouse or a partner ."
+      "The timeline shows Company net Revenues since 2007 . ",
+      "In 2019 , the local review and search site Company Revenues amounted to over 48.02 billion U.S. dollars , an increase from 952.8 billion U.S. dollars compared the previous Year ."
    ],
    "trends": [
       {
-         "4": "0"
+         "8": "12"
       },
-      {},
       {
-         "15": "2"
+         "1": "0",
+         "14": "7"
       }
    ],
    "data": [
       {
-         "Response": "Upper class",
-         "Share of respondents": "10"
+         "Year": "2019",
+         "Revenues in billion U.S. dollars": "37.27"
       },
       {
-         "Response": "Middle class",
-         "Share of respondents": "52"
+         "Year": "2018",
+         "Revenues in billion U.S. dollars": "34.3"
       },
       {
-         "Response": "Lower class",
-         "Share of respondents": "37"
+         "Year": "2017",
+         "Revenues in billion U.S. dollars": "36.21"
+      },
+      {
+         "Year": "2016",
+         "Revenues in billion U.S. dollars": "41.86"
+      },
+      {
+         "Year": "2015",
+         "Revenues in billion U.S. dollars": "44.29"
+      },
+      {
+         "Year": "2014",
+         "Revenues in billion U.S. dollars": "46.0"
+      },
+      {
+         "Year": "2013",
+         "Revenues in billion U.S. dollars": "46.85"
+      },
+      {
+         "Year": "2012",
+         "Revenues in billion U.S. dollars": "48.02"
+      },
+      {
+         "Year": "2011",
+         "Revenues in billion U.S. dollars": "46.54"
+      },
+      {
+         "Year": "2010",
+         "Revenues in billion U.S. dollars": "35.12"
+      },
+      {
+         "Year": "2009",
+         "Revenues in billion U.S. dollars": "30.99"
+      },
+      {
+         "Year": "2008",
+         "Revenues in billion U.S. dollars": "31.94"
+      },
+      {
+         "Year": "2007",
+         "Revenues in billion U.S. dollars": "28.86"
       }
-   ]
+   ],
+   "gold": "This timeline depicts the Coca-Cola Company 's net operating revenues worldwide from 2007 to 2019 . In 2019 , the Coca-Cola Company 's net operating revenues worldwide amounted to around 37.27 billion U.S. dollars . The Coca-Cola Company is a producer , retailer and marketer of non-alcoholic beverages and is well-known for its soft drink Coca-Cola .\n"
 }

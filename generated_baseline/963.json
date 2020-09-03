@@ -4,15 +4,24 @@
    "yAxis": "Import value in billion Indian rupees",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 9 categories for the x axis representing Years, and a y axis representing Import value in billion Indian rupees.",
       " The highest category is found at FY_2014 where Import value in billion Indian rupees is 9978.85.",
       " The lowest category is found at FY_2011 where Import value in billion Indian rupees is 4822.82."
    ],
-   "trends": {
-      "maxIndex": 5,
-      "minIndex": 8
-   },
+   "trends": [
+      {},
+      {
+         "7": 5,
+         "12": 5
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
    "data": [
       {
          "Years": "FY 2019",

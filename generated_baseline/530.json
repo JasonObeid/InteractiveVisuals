@@ -9,16 +9,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 9 categories for the x axis of Response representing Lowest ROI, Medium ROI, Highest ROI, Don't use or N/A.",
+      "This grouped bar chart has 9 categories for the x axis of Response representing Lowest ROI, Medium ROI, Highest ROI, and Don't use or N/A.",
       " The highest category is found at Display advertising including programmatic with a mean value of 25.0.",
       " The second highest category is found at Online PR and outreach with a mean value of 25.0.",
       " This represents a difference of 0.0%."
    ],
-   "trends": {
-      "maxIndex": 8,
-      "secondIndex": 8
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "8"
+         ],
+         "13": [
+            "4",
+            "8"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "7"
+         ],
+         "14": [
+            "4",
+            "7"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Response": "SEO",

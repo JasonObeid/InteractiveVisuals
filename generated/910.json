@@ -1,75 +1,103 @@
 {
-   "title": "Atlanta Braves average ticket price 2006 to 2019",
-   "xAxis": "Year",
-   "yAxis": "Average ticket price in U.S. dollars",
+   "title": "Leading financial centers worldwide 2019",
+   "xAxis": "State",
+   "yAxis": "Points on the Global Financial Centres Index",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This graph depicts the Average ticket price for Atlanta games in Major League Baseball from 2006 to 2019 . ",
-      "In 2019 , the Average ticket price was at 29.44 U.S. dollars ."
+      "The statistic shows the 20 Leading financial centers in the worldwide according to the Global Peace Points 2018 . ",
+      "According to the Global Peace Points 2019 , New_York was the Leading financial State in the worldwide with an Points value of 1.072 . ",
+      "Additional information on the Global Peace Points The Global Peace Points is an effort by the Institute for Economics and Peace to measure the degree of peacefulness in centers across the global and rank them accordingly ."
    ],
    "trends": [
+      {},
       {
-         "15": "12",
-         "17": "0"
+         "8": "0"
       },
-      {
-         "1": "0",
-         "9": "0"
-      }
+      {}
    ],
    "data": [
       {
-         "Year": "2019",
-         "Average ticket price in U.S. dollars": "29.44"
+         "State": "New York",
+         "Points on the Global Financial Centres Index": "790"
       },
       {
-         "Year": "2018",
-         "Average ticket price in U.S. dollars": "31.71"
+         "State": "London",
+         "Points on the Global Financial Centres Index": "773"
       },
       {
-         "Year": "2016",
-         "Average ticket price in U.S. dollars": "19.38"
+         "State": "Hong Kong",
+         "Points on the Global Financial Centres Index": "771"
       },
       {
-         "Year": "2015",
-         "Average ticket price in U.S. dollars": "19.14"
+         "State": "Singapore",
+         "Points on the Global Financial Centres Index": "762"
       },
       {
-         "Year": "2014",
-         "Average ticket price in U.S. dollars": "18.53"
+         "State": "Shanghai",
+         "Points on the Global Financial Centres Index": "761"
       },
       {
-         "Year": "2013",
-         "Average ticket price in U.S. dollars": "17.32"
+         "State": "Tokyo",
+         "Points on the Global Financial Centres Index": "757"
       },
       {
-         "Year": "2012",
-         "Average ticket price in U.S. dollars": "16.69"
+         "State": "Beijing",
+         "Points on the Global Financial Centres Index": "748"
       },
       {
-         "Year": "2011",
-         "Average ticket price in U.S. dollars": "19.38"
+         "State": "Dubai",
+         "Points on the Global Financial Centres Index": "740"
       },
       {
-         "Year": "2010",
-         "Average ticket price in U.S. dollars": "17.05"
+         "State": "Shenzhen",
+         "Points on the Global Financial Centres Index": "739"
       },
       {
-         "Year": "2009",
-         "Average ticket price in U.S. dollars": "17.05"
+         "State": "Sydney",
+         "Points on the Global Financial Centres Index": "738"
       },
       {
-         "Year": "2008",
-         "Average ticket price in U.S. dollars": "17.05"
+         "State": "Toronto",
+         "Points on the Global Financial Centres Index": "737"
       },
       {
-         "Year": "2007",
-         "Average ticket price in U.S. dollars": "17.17"
+         "State": "San Francisco",
+         "Points on the Global Financial Centres Index": "736"
       },
       {
-         "Year": "2006",
-         "Average ticket price in U.S. dollars": "17.07"
+         "State": "Los Angeles",
+         "Points on the Global Financial Centres Index": "735"
+      },
+      {
+         "State": "Zurich",
+         "Points on the Global Financial Centres Index": "734"
+      },
+      {
+         "State": "Frankfurt",
+         "Points on the Global Financial Centres Index": "733"
+      },
+      {
+         "State": "Chicago",
+         "Points on the Global Financial Centres Index": "732"
+      },
+      {
+         "State": "Paris",
+         "Points on the Global Financial Centres Index": "728"
+      },
+      {
+         "State": "Boston",
+         "Points on the Global Financial Centres Index": "728"
+      },
+      {
+         "State": "Melbourne",
+         "Points on the Global Financial Centres Index": "720"
+      },
+      {
+         "State": "Montreal",
+         "Points on the Global Financial Centres Index": "716"
       }
-   ]
+   ],
+   "gold": "This statistic presents the most attractive financial centers worldwide as of September 2019 . The private institute Z/Yen has constructed an index for financial center rating , in which a multitude of factors are integrated . New York proved to be the most attractive financial center in 2019 , with 790 points assigned in the Z/Yen report .\n"
 }

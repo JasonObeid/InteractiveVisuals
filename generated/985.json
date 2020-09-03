@@ -1,60 +1,98 @@
 {
-   "title": "Net profit margin of the leading 10 consumer products companies in the U.S. 2013",
-   "xAxis": "Company",
-   "yAxis": "Net profit margin",
+   "title": "Steel concrete reinforcing bars - production in the U.S. 2000 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Production in million metric tons",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the U.S. all-time profit 10 , as of October 14 , 2013 . ",
-      "Apple_Inc. has the most profit in U.S. profit franchise history with 28.3 profit ."
+      "This statistic depicts the Production of the U.S. concrete from 2000 to 2017 . ",
+      "In 2017 , the Production of the Major League Baseball franchise amounted to 6.39 million metric dollars.The U.S. concrete are owned by Ted Lerner who bought the franchise for 450 million metric tons in 2005 ."
    ],
    "trends": [
-      {},
       {
-         "0": "0",
-         "11": "7"
+         "10": "17",
+         "12": "0"
+      },
+      {
+         "1": "0",
+         "13": "0",
+         "34": "12"
       }
    ],
    "data": [
       {
-         "Company": "Apple Inc.",
-         "Net profit margin": "21.7"
+         "Year": "2017",
+         "Production in million metric tons": "6.39"
       },
       {
-         "Company": "The Procter & Gamble Company",
-         "Net profit margin": "14.2"
+         "Year": "2016",
+         "Production in million metric tons": "6.02"
       },
       {
-         "Company": "PepsiCo Inc.",
-         "Net profit margin": "10.2"
+         "Year": "2015",
+         "Production in million metric tons": "5.84"
       },
       {
-         "Company": "The Coca-Cola Company",
-         "Net profit margin": "18.4"
+         "Year": "2014",
+         "Production in million metric tons": "7.0"
       },
       {
-         "Company": "Mondel\u00e9z International",
-         "Net profit margin": "11.1"
+         "Year": "2013",
+         "Production in million metric tons": "6.56"
       },
       {
-         "Company": "Tyson Foods Inc.",
-         "Net profit margin": "2.3"
+         "Year": "2012",
+         "Production in million metric tons": "5.65"
       },
       {
-         "Company": "Mars Inc.",
-         "Net profit margin": "0"
+         "Year": "2011",
+         "Production in million metric tons": "5.06"
       },
       {
-         "Company": "Philip Morris International Inc.",
-         "Net profit margin": "28.3"
+         "Year": "2010",
+         "Production in million metric tons": "5.74"
       },
       {
-         "Company": "NIKE Inc.",
-         "Net profit margin": "9.7"
+         "Year": "2009",
+         "Production in million metric tons": "4.62"
       },
       {
-         "Company": "Kimberly-Clark Corporation",
-         "Net profit margin": "10.5"
+         "Year": "2008",
+         "Production in million metric tons": "7.01"
+      },
+      {
+         "Year": "2007",
+         "Production in million metric tons": "7.28"
+      },
+      {
+         "Year": "2006",
+         "Production in million metric tons": "6.83"
+      },
+      {
+         "Year": "2005",
+         "Production in million metric tons": "6.35"
+      },
+      {
+         "Year": "2004",
+         "Production in million metric tons": "7.35"
+      },
+      {
+         "Year": "2003",
+         "Production in million metric tons": "7.38"
+      },
+      {
+         "Year": "2002",
+         "Production in million metric tons": "6.06"
+      },
+      {
+         "Year": "2001",
+         "Production in million metric tons": "6.29"
+      },
+      {
+         "Year": "2000",
+         "Production in million metric tons": "6.27"
       }
-   ]
+   ],
+   "gold": "The statistic illustrates the volume of concrete reinforcing bars that were produced in the United States between 2000 and 2017 . In 2017 , some 6.4 million metric tons of such products were produced here .\n"
 }

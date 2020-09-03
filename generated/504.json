@@ -1,63 +1,97 @@
 {
-   "title": "Average ticket price Philadelphia 76ers ( NBA ) games 2015/16",
+   "title": "Miami Heat 's revenue 2001 to 2019",
    "xAxis": "Year",
-   "yAxis": "Average ticket price in U.S. dollars",
+   "yAxis": "Revenue in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This graph depicts the Average ticket price for Philadelphia games of the National Basketball Association from 2006/07 to 2015/16 . ",
-      "In the 2006/07 season , the Average ticket price was 38.46 U.S. dollars ."
+      "The statistic shows the Revenue of the Miami Heat franchise from the 2001/02 season to the 2018/19 season . ",
+      "In 2018/19 , the estimated Revenue of the National Basketball Association franchise amounted to 294 million U.S. dollars ."
    ],
    "trends": [
       {
-         "16": "9",
-         "18": "0"
+         "11": "17",
+         "15": "0"
       },
       {
-         "2": "9",
-         "10": "0"
+         "1": "0",
+         "14": "0"
       }
    ],
    "data": [
       {
+         "Year": "2018/19",
+         "Revenue in million U.S. dollars": "294"
+      },
+      {
+         "Year": "2017/18",
+         "Revenue in million U.S. dollars": "259"
+      },
+      {
+         "Year": "2016/17",
+         "Revenue in million U.S. dollars": "253"
+      },
+      {
          "Year": "2015/16",
-         "Average ticket price in U.S. dollars": "38.46"
+         "Revenue in million U.S. dollars": "210"
       },
       {
          "Year": "2014/15",
-         "Average ticket price in U.S. dollars": "39.25"
+         "Revenue in million U.S. dollars": "180"
       },
       {
          "Year": "2013/14",
-         "Average ticket price in U.S. dollars": "39.25"
+         "Revenue in million U.S. dollars": "188"
       },
       {
          "Year": "2012/13",
-         "Average ticket price in U.S. dollars": "39.25"
+         "Revenue in million U.S. dollars": "188"
       },
       {
          "Year": "2011/12",
-         "Average ticket price in U.S. dollars": "39.25"
+         "Revenue in million U.S. dollars": "150"
       },
       {
          "Year": "2010/11",
-         "Average ticket price in U.S. dollars": "41.0"
+         "Revenue in million U.S. dollars": "158"
       },
       {
          "Year": "2009/10",
-         "Average ticket price in U.S. dollars": "43.0"
+         "Revenue in million U.S. dollars": "124"
       },
       {
          "Year": "2008/09",
-         "Average ticket price in U.S. dollars": "43.0"
+         "Revenue in million U.S. dollars": "126"
       },
       {
          "Year": "2007/08",
-         "Average ticket price in U.S. dollars": "43.0"
+         "Revenue in million U.S. dollars": "131"
       },
       {
          "Year": "2006/07",
-         "Average ticket price in U.S. dollars": "46.83"
+         "Revenue in million U.S. dollars": "131"
+      },
+      {
+         "Year": "2005/06",
+         "Revenue in million U.S. dollars": "132"
+      },
+      {
+         "Year": "2004/05",
+         "Revenue in million U.S. dollars": "119"
+      },
+      {
+         "Year": "2003/04",
+         "Revenue in million U.S. dollars": "93"
+      },
+      {
+         "Year": "2002/03",
+         "Revenue in million U.S. dollars": "91"
+      },
+      {
+         "Year": "2001/02",
+         "Revenue in million U.S. dollars": "96"
       }
-   ]
+   ],
+   "gold": "The statistic shows the revenue of the Miami Heat franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated revenue of the National Basketball Association franchise amounted to 294 million U.S. dollars . Miami Heat The Miami Heat is a professional basketball team of the National Basketball Association ( NBA ) .\n"
 }

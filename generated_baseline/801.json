@@ -4,15 +4,24 @@
    "yAxis": "Page views in millions",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 20 categories for the x axis representing Media Publisher, and a y axis representing Page views in millions.",
       " The highest category is found at msn.com where Page views in millions is 1810.3.",
       " The lowest category is found at news.yahoo.com where Page views in millions is 185.1."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 19
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
    "data": [
       {
          "Media Publisher": "msn.com",

@@ -1,83 +1,114 @@
 {
-   "title": "Nuclear energy - global market size by segment through 2030",
+   "title": "Distribution of the workforce across economic sectors in Italy 2019",
    "labels": [
-      "unknown",
-      "2011",
-      "2030"
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
    ],
    "columnType": "multi",
-   "graphType": "bar",
+   "graphType": "line",
    "summary": [
-      "This statistic shows the Nuclear energy global of market Nuclear_power_plant_construction care Spent_nuclear_fuel_reprocessing_and_secondary_fuel to 2011 and 2030 consumers in the Nuclear , according to a survey conducted in 2013 . ",
-      "Nuclear_power_plant_construction moisturising and hydrating global were considered the Nuclear energy global Nuclear_power_plant_construction both genders , with 300 % of women stating this as energy . ",
-      "The Service moisturiser market takes up the largest proportion of the market Nuclear_power_plant_construction care market with a share of 41.6 % in 2030 ."
+      "The statistic shows the distribution of in Italy workforce across economic from 2009 to 2019 . ",
+      "In 2019 , 3.72 % of the employees in Italy were active in the agricultural economic , 25.62 % in Industry and 70.66 % in the service economic ."
    ],
    "trends": [
       {
-         "9": [
-            "2",
+         "13": [
+            "10",
             "0"
          ],
-         "11": [
-            "5",
-            "0"
-         ]
-      },
-      {
-         "0": [
-            "2",
-            "0"
-         ],
-         "11": [
-            "2",
-            "0"
-         ],
-         "16": [
+         "15": [
             "0",
-            "2"
+            "0"
          ]
       },
       {
          "1": [
-            "3",
+            "0",
             "0"
          ],
-         "12": [
-            "2",
-            "0"
+         "3": [
+            "0",
+            "1"
+         ],
+         "17": [
+            "0",
+            "2"
+         ],
+         "22": [
+            "0",
+            "3"
          ]
       }
    ],
    "data": [
       {
-         "unknown": "Nuclear generation",
-         "2011": "133",
-         "2030": "300"
+         "Year": "2019",
+         "Agriculture": "3.72",
+         "Industry": "25.62",
+         "Services": "70.66"
       },
       {
-         "unknown": "Radiation management",
-         "2011": "69",
-         "2030": "267"
+         "Year": "2018",
+         "Agriculture": "3.75",
+         "Industry": "25.81",
+         "Services": "70.44"
       },
       {
-         "unknown": "Nuclear power plant construction",
-         "2011": "31",
-         "2030": "53"
+         "Year": "2017",
+         "Agriculture": "3.78",
+         "Industry": "26",
+         "Services": "70.21"
       },
       {
-         "unknown": "Service",
-         "2011": "18",
-         "2030": "22"
+         "Year": "2016",
+         "Agriculture": "3.88",
+         "Industry": "26.12",
+         "Services": "69.99"
       },
       {
-         "unknown": "Front end of fuel cycle",
-         "2011": "17",
-         "2030": "26"
+         "Year": "2015",
+         "Agriculture": "3.75",
+         "Industry": "26.6",
+         "Services": "69.65"
       },
       {
-         "unknown": "Spent nuclear fuel reprocessing and secondary fuel",
-         "2011": "3",
-         "2030": "9"
+         "Year": "2014",
+         "Agriculture": "3.64",
+         "Industry": "26.9",
+         "Services": "69.46"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "3.6",
+         "Industry": "27.05",
+         "Services": "69.35"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "3.69",
+         "Industry": "27.58",
+         "Services": "68.72"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "3.68",
+         "Industry": "28.29",
+         "Services": "68.03"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "3.77",
+         "Industry": "28.61",
+         "Services": "67.62"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "3.69",
+         "Industry": "29.24",
+         "Services": "67.07"
       }
-   ]
+   ],
+   "gold": "The statistic shows the distribution of the workforce across economic sectors in Italy from 2009 to 2019 . In 2019 , 3.72 percent of the workforce in Italy were employed in agriculture , 25.62 percent in industry and 70.66 percent in services .\n"
 }

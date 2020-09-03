@@ -1,78 +1,44 @@
 {
-   "title": "Number of Grammy Awards categories 1959 to 2020",
+   "title": "Domestic beer consumption in Canada by age group 2019",
    "xAxis": "Year",
-   "yAxis": "Number of categories",
+   "yAxis": "Share of beer consumption",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Number of Grammy Awards categories 1959 in Grammy Awards from 1959 to 2020 . ",
-      "Grammy Awards Number in Grammy Awards amounted to approximately 84 categories 1959 in 2020 , down from 84 categories the previous Year . ",
-      "Grammy Awards in Grammy Awards - additional information Grammy Awards , most often classed as a dairy product , comes in a variety of different flavors and is usually made from Awards or milk , with added natural or artificial flavorings , sweeteners and colorings ."
+      "The statistic shows the forecast of a golf player consumption in Canada 2019 , age group 2019 . ",
+      "With data from five European countries it was beer that in 2019 approximately 22.4 % of golf players will be between 35_to_49 and 50_to_64 18_to_34 old ."
    ],
    "trends": [
+      {},
       {
-         "13": "12",
-         "15": "0"
-      },
-      {
-         "8": "0",
-         "13": "0",
-         "17": "1"
-      },
-      {}
+         "13": "3",
+         "21": "2",
+         "23": "3",
+         "24": "1"
+      }
    ],
    "data": [
       {
-         "Year": "2020",
-         "Number of categories": "84"
+         "Year": "12 to 17",
+         "Share of beer consumption": "1"
       },
       {
-         "Year": "2019",
-         "Number of categories": "84"
+         "Year": "18 to 34",
+         "Share of beer consumption": "38.7"
       },
       {
-         "Year": "2018",
-         "Number of categories": "84"
+         "Year": "35 to 49",
+         "Share of beer consumption": "29.9"
       },
       {
-         "Year": "2017",
-         "Number of categories": "84"
+         "Year": "50 to 64",
+         "Share of beer consumption": "22.4"
       },
       {
-         "Year": "2016",
-         "Number of categories": "83"
-      },
-      {
-         "Year": "2015",
-         "Number of categories": "83"
-      },
-      {
-         "Year": "2014",
-         "Number of categories": "82"
-      },
-      {
-         "Year": "2013",
-         "Number of categories": "81"
-      },
-      {
-         "Year": "2012",
-         "Number of categories": "78"
-      },
-      {
-         "Year": "2011",
-         "Number of categories": "109"
-      },
-      {
-         "Year": "2010",
-         "Number of categories": "109"
-      },
-      {
-         "Year": "2009",
-         "Number of categories": "110"
-      },
-      {
-         "Year": "1959",
-         "Number of categories": "28"
+         "Year": "65 and over",
+         "Share of beer consumption": "8"
       }
-   ]
+   ],
+   "gold": "It was estimated that almost 39 percent of all beer sold in Canada was consumed by Canadians aged between 18 and 34 in 2019 . Those aged between 35 and 49 were the second biggest consumer group , drinking over almost 30 percent of all beer sold in Canada . What types of beer do Canadians prefer ? According to sales figures , canned beer is the most popular type of domestic beer across age groups in Canada .\n"
 }

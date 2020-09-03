@@ -1,0 +1,36 @@
+{
+   "title": "Revenue share by geographic region of delivery for Christian Dior December 2018\n",
+   "xAxis": "Country",
+   "yAxis": "Revenue share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "gucci is one of the most iconic and well-known luxury personal goods brands in the world . The company operates all over the world . As of 2019 , 38 percent of the gucci 's revenues were generated in the asia-pacific market .\n",
+   "trends": {},
+   "data": [
+      {
+         "Country": "Other markets",
+         "Revenue share": 11.0
+      },
+      {
+         "Country": "Asia (excluding Japan)",
+         "Revenue share": 29.0
+      },
+      {
+         "Country": "Japan",
+         "Revenue share": 7.0
+      },
+      {
+         "Country": "United States",
+         "Revenue share": 24.0
+      },
+      {
+         "Country": "Europe (excluding France)",
+         "Revenue share": 19.0
+      },
+      {
+         "Country": "France",
+         "Revenue share": 10.0
+      }
+   ]
+}

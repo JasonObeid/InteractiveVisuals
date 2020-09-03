@@ -4,54 +4,36 @@
    "yAxis": "Production in thousand cwt",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Production in thousand cwt, with a total of 19 data points. The chart has 5 significant trends.",
-      " The longest trend is extremely negative which exists from 2011 to 2005.",
-      " Contrarily, the next significant trend is extremely negative which exists from 2017 to 2013.",
-      " Contrarily, the next significant trend is extremely positive which exists from 2013 to 2011.",
-      " Also, the next significant trend is extremely negative which exists from 2004 to 2002.",
-      " Differently, the next significant trend is strongly positive which exists from 2002 to 2000."
+      " The longest trend is extremely positive which exists from 2011 to 2005.",
+      " Correspondingly, the next significant trend is moderately positive which exists from 2018 to 2013.",
+      " Additionally, the next significant trend is moderately positive which exists from 2005 to 2002.",
+      " Likewise, the next significant trend is slightly negative which exists from 2013 to 2011.",
+      " Conversely, the next significant trend is slightly negative which exists from 2002 to 2000."
    ],
    "trends": [
+      {},
       {
-         "Length": 7,
-         "direction": "negative",
-         "start": 7,
-         "end": 13,
-         "trend": "y=1785.32x+-3565079.43",
-         "magnitude": "extremely"
+         "1": "7",
+         "12": "13"
       },
       {
-         "Length": 5,
-         "direction": "negative",
-         "start": 1,
-         "end": 5,
-         "trend": "y=2368.4x+-4741810.6",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "5"
       },
       {
-         "Length": 3,
-         "direction": "positive",
-         "start": 5,
-         "end": 7,
-         "trend": "y=-1089.5x+2218151.0",
-         "magnitude": "extremely"
+         "3": "13",
+         "14": "16"
       },
       {
-         "Length": 3,
-         "direction": "negative",
-         "start": 14,
-         "end": 16,
-         "trend": "y=1656.5x+-3303035.5",
-         "magnitude": "extremely"
+         "3": "5",
+         "14": "7"
       },
       {
-         "Length": 3,
-         "direction": "positive",
-         "start": 16,
-         "end": 18,
-         "trend": "y=-490.5x+995188.5",
-         "magnitude": "strongly"
+         "3": "16",
+         "14": "18"
       }
    ],
    "data": [

@@ -1,56 +1,41 @@
 {
-   "title": "Facebook Messenger : number of monthly active users 2014 to 2017",
-   "xAxis": "Month",
-   "yAxis": "Number of monthly active users in millions",
+   "title": "Average hours spent watching TV weekly in the United Kingdom ( UK ) in 2015",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows a timeline with the amount of monthly active Messenger users worldwide as of 2017 . ",
-      "As of that Month , the social messaging app community had accumulated over 1300 millions monthly active users , up from over 1200 millions MAU in the previous year ."
+      "This statistic shows a distribution of Average , hours spent watching times in the United Kingdom in 2015 . ",
+      "According to Thinkbox and Ipsos , 39 % of respondents reported typically waking watching at approximately 6 - 7am ."
    ],
    "trends": [
       {},
       {
-         "13": "0",
-         "22": "1"
+         "6": "3"
       }
    ],
    "data": [
       {
-         "Month": "Sep '17",
-         "Number of monthly active users in millions": "1300"
+         "Year": "5 hours or less",
+         "Share of respondents": "9"
       },
       {
-         "Month": "Apr '17",
-         "Number of monthly active users in millions": "1200"
+         "Year": "6 to 10 hours",
+         "Share of respondents": "18"
       },
       {
-         "Month": "Jul '16",
-         "Number of monthly active users in millions": "1000"
+         "Year": "11 to 20 hours",
+         "Share of respondents": "31"
       },
       {
-         "Month": "Apr '16",
-         "Number of monthly active users in millions": "900"
+         "Year": "More than 20 hours",
+         "Share of respondents": "39"
       },
       {
-         "Month": "Dec '15",
-         "Number of monthly active users in millions": "800"
-      },
-      {
-         "Month": "Jun '15",
-         "Number of monthly active users in millions": "700"
-      },
-      {
-         "Month": "Mar '15",
-         "Number of monthly active users in millions": "600"
-      },
-      {
-         "Month": "Nov '14",
-         "Number of monthly active users in millions": "500"
-      },
-      {
-         "Month": "Apr '14",
-         "Number of monthly active users in millions": "200"
+         "Year": "I don't watch TV",
+         "Share of respondents": "2"
       }
-   ]
+   ],
+   "gold": "This survey details a distribution of the average number of hours spent on watching TV in the United Kingdom ( UK ) in 2015 . During the survey , 18 percent of respondents said that they watched TV 6 to 10 hours per week .\n"
 }

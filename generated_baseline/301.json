@@ -1,110 +1,100 @@
 {
-   "title": "Global sulfur production by country 2019\n",
-   "xAxis": "Country",
-   "yAxis": "Price in U.S. dollars per ton",
-   "columnType": "two",
-   "graphType": "bar",
-   "summary": [
-      "This bar chart has 23 categories for the x axis representing Country, and a y axis representing Price in U.S. dollars per ton.",
-      " The highest category is found at China where Price in U.S. dollars per ton is 17400.0.",
-      " The lowest category is found at Brazil where Price in U.S. dollars per ton is 500.0."
+   "title": "Boston Celtics concession stand prices ( beer , soft drink , hot dog ) 2010 to 2016",
+   "labels": [
+      "Year",
+      "Beer",
+      "Soft drink",
+      "Hot dog"
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 22
-   },
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 3 lines.",
+      " The line representing Beer had the highest values across Year with a mean value of 8.0.",
+      " This peaked at 2015/16 with a value of 8.5. ",
+      " The line with the second highest values was Hot dog with a mean value of 5.0.",
+      " This line peaked at 2015/16 with a value of 5.5"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "5",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "15": [
+            "5",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "2"
+         ],
+         "10": [
+            "0",
+            "2"
+         ]
+      }
+   ],
    "data": [
       {
-         "Country": "China",
-         "Price in U.S. dollars per ton": 17400.0
+         "Year": "2015/16",
+         "Beer": "8.5",
+         "Soft drink": "5.0",
+         "Hot dog": "5.5"
       },
       {
-         "Country": "United States",
-         "Price in U.S. dollars per ton": 8800.0
+         "Year": "2014/15",
+         "Beer": "8.5",
+         "Soft drink": "5.0",
+         "Hot dog": "5.5"
       },
       {
-         "Country": "Russia",
-         "Price in U.S. dollars per ton": 7100.0
+         "Year": "2013/14",
+         "Beer": "8.25",
+         "Soft drink": "5.5",
+         "Hot dog": "5.5"
       },
       {
-         "Country": "Saudi Arabia",
-         "Price in U.S. dollars per ton": 6600.0
+         "Year": "2012/13",
+         "Beer": "8.0",
+         "Soft drink": "4.0",
+         "Hot dog": "4.75"
       },
       {
-         "Country": "Canada",
-         "Price in U.S. dollars per ton": 5300.0
+         "Year": "2011/12",
+         "Beer": "7.25",
+         "Soft drink": "3.75",
+         "Hot dog": "4.5"
       },
       {
-         "Country": "Other",
-         "Price in U.S. dollars per ton": 3900.0
-      },
-      {
-         "Country": "Kazakhstan",
-         "Price in U.S. dollars per ton": 3600.0
-      },
-      {
-         "Country": "United Arab Emirates",
-         "Price in U.S. dollars per ton": 3400.0
-      },
-      {
-         "Country": "India",
-         "Price in U.S. dollars per ton": 3400.0
-      },
-      {
-         "Country": "Japan",
-         "Price in U.S. dollars per ton": 3400.0
-      },
-      {
-         "Country": "South Korea",
-         "Price in U.S. dollars per ton": 3100.0
-      },
-      {
-         "Country": "Iran",
-         "Price in U.S. dollars per ton": 2200.0
-      },
-      {
-         "Country": "Qatar",
-         "Price in U.S. dollars per ton": 2100.0
-      },
-      {
-         "Country": "Chile",
-         "Price in U.S. dollars per ton": 1500.0
-      },
-      {
-         "Country": "Poland",
-         "Price in U.S. dollars per ton": 1230.0
-      },
-      {
-         "Country": "Finland",
-         "Price in U.S. dollars per ton": 940.0
-      },
-      {
-         "Country": "Kuwait",
-         "Price in U.S. dollars per ton": 900.0
-      },
-      {
-         "Country": "Australia",
-         "Price in U.S. dollars per ton": 900.0
-      },
-      {
-         "Country": "Germany",
-         "Price in U.S. dollars per ton": 870.0
-      },
-      {
-         "Country": "Venezuela",
-         "Price in U.S. dollars per ton": 700.0
-      },
-      {
-         "Country": "Italy",
-         "Price in U.S. dollars per ton": 550.0
-      },
-      {
-         "Country": "Netherlands",
-         "Price in U.S. dollars per ton": 520.0
-      },
-      {
-         "Country": "Brazil",
-         "Price in U.S. dollars per ton": 500.0
+         "Year": "2010/11",
+         "Beer": "7.25",
+         "Soft drink": "3.75",
+         "Hot dog": "4.5"
       }
    ]
 }

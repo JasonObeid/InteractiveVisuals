@@ -4,15 +4,24 @@
    "yAxis": "E-commerce sales in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 44 categories for the x axis representing Quarter, and a y axis representing E-commerce sales in million U.S. dollars.",
       " The highest category is found at Q4_'19 where E-commerce sales in million U.S. dollars is 158049.0.",
       " The lowest category is found at Q1_'09 where E-commerce sales in million U.S. dollars is 34145.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 43
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 43,
+         "12": 43
+      },
+      {}
+   ],
    "data": [
       {
          "Quarter": "Q4 '19",

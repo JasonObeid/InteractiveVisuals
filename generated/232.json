@@ -1,99 +1,153 @@
 {
-   "title": "Population of Iceland 2009 - 2019 , by gender",
-   "labels": [
-      "Year",
-      "Males",
-      "Females"
-   ],
-   "columnType": "multi",
+   "title": "Inflation rate of Ukraine 1994 to 2024",
+   "xAxis": "Year",
+   "yAxis": "Inflation rate change compared to previous year",
+   "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Population in Iceland from 2009 to 2019 , by gender . ",
-      "The number of male and female inhabitants were quite close to each other in the whole period . ",
-      "In the Year 2019 , there were about 182837 million men and 174154 million women living in Iceland ."
+      "The statistic shows the Inflation of rate change in the 1994 from to 2018 , with projections up until 2024 . ",
+      "In 2018 , around 10.95 % rate change accessed the 1994 in 2024 . ",
+      "The figure predicts an increase in Inflation rate change in the 1994 ."
    ],
    "trends": [
       {
-         "8": [
-            "10",
-            "0"
-         ],
-         "10": [
-            "0",
-            "0"
-         ]
+         "12": "30",
+         "14": "6",
+         "20": "0"
       },
-      {},
       {
-         "3": [
-            "0",
-            "0"
-         ],
-         "8": [
-            "0",
-            "1"
-         ],
-         "12": [
-            "0",
-            "2"
-         ]
-      }
+         "1": "6",
+         "4": "6",
+         "12": "0"
+      },
+      {}
    ],
    "data": [
       {
+         "Year": "2024",
+         "Inflation rate change compared to previous year": "5"
+      },
+      {
+         "Year": "2023",
+         "Inflation rate change compared to previous year": "5"
+      },
+      {
+         "Year": "2022",
+         "Inflation rate change compared to previous year": "5.02"
+      },
+      {
+         "Year": "2021",
+         "Inflation rate change compared to previous year": "5.29"
+      },
+      {
+         "Year": "2020",
+         "Inflation rate change compared to previous year": "5.89"
+      },
+      {
          "Year": "2019",
-         "Males": "182837",
-         "Females": "174154"
+         "Inflation rate change compared to previous year": "8.74"
       },
       {
          "Year": "2018",
-         "Males": "177600",
-         "Females": "170850"
+         "Inflation rate change compared to previous year": "10.95"
       },
       {
          "Year": "2017",
-         "Males": "171033",
-         "Females": "167316"
+         "Inflation rate change compared to previous year": "14.44"
       },
       {
          "Year": "2016",
-         "Males": "167270",
-         "Females": "165259"
+         "Inflation rate change compared to previous year": "13.91"
       },
       {
          "Year": "2015",
-         "Males": "165186",
-         "Females": "163914"
+         "Inflation rate change compared to previous year": "48.68"
       },
       {
          "Year": "2014",
-         "Males": "163318",
-         "Females": "162353"
+         "Inflation rate change compared to previous year": "12.1"
       },
       {
          "Year": "2013",
-         "Males": "161438",
-         "Females": "160419"
+         "Inflation rate change compared to previous year": "-0.26"
       },
       {
          "Year": "2012",
-         "Males": "160364",
-         "Females": "159211"
+         "Inflation rate change compared to previous year": "0.57"
       },
       {
          "Year": "2011",
-         "Males": "160006",
-         "Females": "158446"
+         "Inflation rate change compared to previous year": "7.96"
       },
       {
          "Year": "2010",
-         "Males": "159936",
-         "Females": "157694"
+         "Inflation rate change compared to previous year": "9.37"
       },
       {
          "Year": "2009",
-         "Males": "162068",
-         "Females": "157300"
+         "Inflation rate change compared to previous year": "15.9"
+      },
+      {
+         "Year": "2008",
+         "Inflation rate change compared to previous year": "25.2"
+      },
+      {
+         "Year": "2007",
+         "Inflation rate change compared to previous year": "12.84"
+      },
+      {
+         "Year": "2006",
+         "Inflation rate change compared to previous year": "9.08"
+      },
+      {
+         "Year": "2005",
+         "Inflation rate change compared to previous year": "13.52"
+      },
+      {
+         "Year": "2004",
+         "Inflation rate change compared to previous year": "9.04"
+      },
+      {
+         "Year": "2003",
+         "Inflation rate change compared to previous year": "5.21"
+      },
+      {
+         "Year": "2002",
+         "Inflation rate change compared to previous year": "0.76"
+      },
+      {
+         "Year": "2001",
+         "Inflation rate change compared to previous year": "11.96"
+      },
+      {
+         "Year": "2000",
+         "Inflation rate change compared to previous year": "28.2"
+      },
+      {
+         "Year": "1999",
+         "Inflation rate change compared to previous year": "22.68"
+      },
+      {
+         "Year": "1998",
+         "Inflation rate change compared to previous year": "10.58"
+      },
+      {
+         "Year": "1997",
+         "Inflation rate change compared to previous year": "15.89"
+      },
+      {
+         "Year": "1996",
+         "Inflation rate change compared to previous year": "80.23"
+      },
+      {
+         "Year": "1995",
+         "Inflation rate change compared to previous year": "376.75"
+      },
+      {
+         "Year": "1994",
+         "Inflation rate change compared to previous year": "891.19"
       }
-   ]
+   ],
+   "gold": "This statistic shows the Ukrainian inflation rate from 1994 to 2018 compared to the previous year , with projections up until 2024 . In 2018 , Ukraine 's inflation rate increased by 10.95 percent compared to 2017 .\n"
 }

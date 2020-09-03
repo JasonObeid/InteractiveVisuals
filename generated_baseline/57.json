@@ -4,15 +4,24 @@
    "yAxis": "Revenue share",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 6 categories for the x axis representing Country, and a y axis representing Revenue share.",
       " The highest category is found at Asia_(excluding_Japan) where Revenue share is 29.0.",
       " The lowest category is found at Japan where Revenue share is 7.0."
    ],
-   "trends": {
-      "maxIndex": 1,
-      "minIndex": 2
-   },
+   "trends": [
+      {},
+      {
+         "7": 1,
+         "12": 1
+      },
+      {
+         "7": 2,
+         "12": 2
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "Other markets",

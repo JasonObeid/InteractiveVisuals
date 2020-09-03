@@ -1,66 +1,88 @@
 {
-   "title": "Mobile/fixed market share of Vodafone in its main markets 2018",
-   "labels": [
-      "Country",
-      "Mobile market",
-      "Fixed market"
-   ],
-   "columnType": "multi",
-   "graphType": "bar",
+   "title": "CVS Health 's number of stores 2005 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of stores",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the average Mobile/fixed market in South_Africa/Africa_(Vodacom_Group) for those born in 2018 , by gender and region . ",
-      "The average Mobile/fixed market across the whole continent was 31.5 years for Mobile and 0 years for Fixed . ",
-      "The average Mobile/fixed market globally was 70 years for Mobile and 75 years for Fixed in 2018 ."
+      "In 2018 , CVS Health 's had 9967 stores in the country , three fewer than in the previous Year . ",
+      "The company had 9967 locations all across the country back in 2018 , however this figure has been falling ever since , with the sharpest drop recorded between 2011 and 2012 . ",
+      "CVS Health 's CVS Health has had a patchy few years in terms of its profitability and reported a net loss of almost 125.5 million U.S. dollars in 2017 , followed by net income of just 3.77 million in 2018 2005 . "
    ],
    "trends": [
       {
-         "8": [
-            "0",
-            "0"
-         ]
+         "1": "0",
+         "7": "0"
       },
       {
-         "9": [
-            "2",
-            "1"
-         ],
-         "14": [
-            "2",
-            "2"
-         ]
+         "3": "0",
+         "11": "0",
+         "28": "7",
+         "30": "6"
       },
-      {}
+      {
+         "26": "1",
+         "38": "13"
+      }
    ],
    "data": [
       {
-         "Country": "South Africa/Africa (Vodacom Group)",
-         "Mobile market": "46.3",
-         "Fixed market": "0"
+         "Year": "2018",
+         "Number of stores": "9967"
       },
       {
-         "Country": "Germany",
-         "Mobile market": "33.6",
-         "Fixed market": "21.4"
+         "Year": "2017",
+         "Number of stores": "9846"
       },
       {
-         "Country": "India",
-         "Mobile market": "31.5",
-         "Fixed market": "0"
+         "Year": "2016",
+         "Number of stores": "9750"
       },
       {
-         "Country": "Italy",
-         "Mobile market": "31.1",
-         "Fixed market": "9.3"
+         "Year": "2015",
+         "Number of stores": "9681"
       },
       {
-         "Country": "United Kingdom",
-         "Mobile market": "21.3",
-         "Fixed market": "6.8"
+         "Year": "2014",
+         "Number of stores": "7866"
       },
       {
-         "Country": "Spain",
-         "Mobile market": "17.4",
-         "Fixed market": "17.4"
+         "Year": "2013",
+         "Number of stores": "7702"
+      },
+      {
+         "Year": "2012",
+         "Number of stores": "7508"
+      },
+      {
+         "Year": "2011",
+         "Number of stores": "7388"
+      },
+      {
+         "Year": "2010",
+         "Number of stores": "7248"
+      },
+      {
+         "Year": "2009",
+         "Number of stores": "7095"
+      },
+      {
+         "Year": "2008",
+         "Number of stores": "6997"
+      },
+      {
+         "Year": "2007",
+         "Number of stores": "6301"
+      },
+      {
+         "Year": "2006",
+         "Number of stores": "6205"
+      },
+      {
+         "Year": "2005",
+         "Number of stores": "5474"
       }
-   ]
+   ],
+   "gold": "This statistic depicts CVS Health 's number of stores from 2005 to 2018 . The CVS Health Corporation is a U.S. drug retailing company , with three major segments : Pharmacy Services , Retail/LTC , and Corporate . CVS Health is headquartered in Woonsocket , Rhode Island .\n"
 }

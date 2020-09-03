@@ -1,51 +1,125 @@
 {
-   "title": "Prevalence of smoking for males Singapore 2010 to 2016",
-   "xAxis": "Year",
-   "yAxis": "Adult male smoking rate",
+   "title": "Rate of inflation in Belgium 2018 to 2020",
+   "xAxis": "Month",
+   "yAxis": "Year on year percentage change",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the forecasted Singapore of males in the Singapore ( ) from 2010 to 2016 , in Adult male smoking rate . ",
-      "The Singapore of males is expected to increase 28.3 Adult male in 2016 ."
+      "The Rate inflation Belgium 2018 in Belgium 2020 was nearly 1.41 year percentage change . ",
+      "However , this figure differed significantly according to the region in which the rental was looked for . ",
+      "In Aosta Valley , the tiniest region in the country which borders France and Switzerland , the Rate Belgium 2018 in peaked at over Jan_'20 year percentage change ."
    ],
    "trends": [
       {
-         "15": "6",
-         "17": "0"
+         "11": "0"
       },
+      {},
       {
-         "9": "0",
-         "13": "0"
+         "25": "0"
       }
    ],
    "data": [
       {
-         "Year": "2016",
-         "Adult male smoking rate": "28.3"
+         "Month": "Jan '20",
+         "Year on year percentage change": "1.41"
       },
       {
-         "Year": "2015",
-         "Adult male smoking rate": "28.2"
+         "Month": "Dec '19",
+         "Year on year percentage change": "0.76"
       },
       {
-         "Year": "2014",
-         "Adult male smoking rate": "28.2"
+         "Month": "Nov '19",
+         "Year on year percentage change": "0.39"
       },
       {
-         "Year": "2013",
-         "Adult male smoking rate": "28.2"
+         "Month": "Oct '19",
+         "Year on year percentage change": "0.48"
       },
       {
-         "Year": "2012",
-         "Adult male smoking rate": "27.8"
+         "Month": "Sep '19",
+         "Year on year percentage change": "0.8"
       },
       {
-         "Year": "2011",
-         "Adult male smoking rate": "27.9"
+         "Month": "Aug '19",
+         "Year on year percentage change": "1.26"
       },
       {
-         "Year": "2010",
-         "Adult male smoking rate": "27.9"
+         "Month": "Jul '19",
+         "Year on year percentage change": "1.42"
+      },
+      {
+         "Month": "Jun '19",
+         "Year on year percentage change": "1.73"
+      },
+      {
+         "Month": "May '19",
+         "Year on year percentage change": "1.89"
+      },
+      {
+         "Month": "Apr '19",
+         "Year on year percentage change": "2.08"
+      },
+      {
+         "Month": "Mar '19",
+         "Year on year percentage change": "2.33"
+      },
+      {
+         "Month": "Feb '19",
+         "Year on year percentage change": "2.17"
+      },
+      {
+         "Month": "Jan '19",
+         "Year on year percentage change": "1.99"
+      },
+      {
+         "Month": "Dec '18",
+         "Year on year percentage change": "2.34"
+      },
+      {
+         "Month": "Nov '18",
+         "Year on year percentage change": "2.78"
+      },
+      {
+         "Month": "Oct '18",
+         "Year on year percentage change": "2.75"
+      },
+      {
+         "Month": "Sep '18",
+         "Year on year percentage change": "2.35"
+      },
+      {
+         "Month": "Aug '18",
+         "Year on year percentage change": "2.24"
+      },
+      {
+         "Month": "Jul '18",
+         "Year on year percentage change": "2.17"
+      },
+      {
+         "Month": "Jun '18",
+         "Year on year percentage change": "2.08"
+      },
+      {
+         "Month": "May '18",
+         "Year on year percentage change": "1.82"
+      },
+      {
+         "Month": "Apr '18",
+         "Year on year percentage change": "1.52"
+      },
+      {
+         "Month": "Mar '18",
+         "Year on year percentage change": "1.39"
+      },
+      {
+         "Month": "Feb '18",
+         "Year on year percentage change": "1.48"
+      },
+      {
+         "Month": "Jan '18",
+         "Year on year percentage change": "1.71"
       }
-   ]
+   ],
+   "gold": "This statistic shows the percentage change in the previous year of the inflation rate in Belgium from January 2018 to January 2020 . In January 2020 , the inflation rate in Belgium increased by approximately 1.14 percent . November 2018 saw the highest inflation in this period , with an inflation rate of nearly 2.8 percent in comparison to the previous year .\n"
 }

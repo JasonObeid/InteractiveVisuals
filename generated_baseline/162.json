@@ -10,16 +10,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 10 categories for the x axis of Race representing 18-24, 25-34, 35-44, 45-54, 55+.",
+      "This grouped bar chart has 10 categories for the x axis of Race representing 18-24, 25-34, 35-44, 45-54, and 55+.",
       " The highest category is found at None of these with a mean value of 41.4.",
       " The second highest category is found at I like the drama with a mean value of 20.0.",
       " This represents a difference of 69.7%."
    ],
-   "trends": {
-      "maxIndex": 8,
-      "secondIndex": 8
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "8"
+         ],
+         "13": [
+            "5",
+            "8"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "5",
+            "0"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Race": "I like the drama",

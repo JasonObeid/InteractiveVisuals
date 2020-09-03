@@ -1,101 +1,127 @@
 {
-   "title": "Countries ranked by number of ice hockey players 2018/19",
-   "xAxis": "Country",
-   "yAxis": "Number of players",
+   "title": "Clothing and clothing accessories store sales in the United States 1992 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Billion U.S. dollars",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the twenty Countries ranked by in the number according to the Global Peace Number 2018 . ",
-      "According to the Global Peace Number , Canada was the Countries ranked Country in the number with an Number value of 1.072 . ",
-      "Additional information on the Global Peace Number The Global Peace Number is an effort by the Institute for Economics and Peace to measure the degree of peacefulness in by across the global and rank them accordingly ."
+      "This timeline shows Clothing , and accessories store sales in the United from 1992 to 2017 . ",
+      "In 2017 , U.S. Clothing , and accessories store sales amounted to about 258.74 billion U.S. dollars.Additional information on the clothing and gifts market in the USThe statistic above shows how sales in the Clothing , and accessories sector fell following the market crash in 2008 , as did retail in the United overall . ",
+      "A comparison of Clothing purchases in 2015 between millennials and consumers aged 35 and over shows that younger people are choosing travel and entertainment over more traditional gifts than their older counterparts ."
    ],
    "trends": [
       {},
       {
-         "8": "0"
+         "15": "0"
       },
       {}
    ],
    "data": [
       {
-         "Country": "Canada",
-         "Number of players": "621026"
+         "Year": "17",
+         "Billion U.S. dollars": "258.74"
       },
       {
-         "Country": "United States",
-         "Number of players": "567908"
+         "Year": "16",
+         "Billion U.S. dollars": "259.84"
       },
       {
-         "Country": "Czech Republic",
-         "Number of players": "121613"
+         "Year": "15",
+         "Billion U.S. dollars": "255.8"
       },
       {
-         "Country": "Russia",
-         "Number of players": "112236"
+         "Year": "14",
+         "Billion U.S. dollars": "250.41"
       },
       {
-         "Country": "Finland",
-         "Number of players": "64641"
+         "Year": "13",
+         "Billion U.S. dollars": "244.72"
       },
       {
-         "Country": "Sweden",
-         "Number of players": "55431"
+         "Year": "12",
+         "Billion U.S. dollars": "239.49"
       },
       {
-         "Country": "Switzerland",
-         "Number of players": "27867"
+         "Year": "11",
+         "Billion U.S. dollars": "228.61"
       },
       {
-         "Country": "France",
-         "Number of players": "21667"
+         "Year": "10",
+         "Billion U.S. dollars": "213.29"
       },
       {
-         "Country": "Germany",
-         "Number of players": "21340"
+         "Year": "9",
+         "Billion U.S. dollars": "204.48"
       },
       {
-         "Country": "Japan",
-         "Number of players": "18837"
+         "Year": "8",
+         "Billion U.S. dollars": "215.58"
       },
       {
-         "Country": "Slovakia",
-         "Number of players": "11394"
+         "Year": "7",
+         "Billion U.S. dollars": "221.21"
       },
       {
-         "Country": "Norway",
-         "Number of players": "10353"
+         "Year": "6",
+         "Billion U.S. dollars": "213.19"
       },
       {
-         "Country": "Great Britain",
-         "Number of players": "8162"
+         "Year": "5",
+         "Billion U.S. dollars": "200.97"
       },
       {
-         "Country": "Austria",
-         "Number of players": "7670"
+         "Year": "4",
+         "Billion U.S. dollars": "190.25"
       },
       {
-         "Country": "Hungary",
-         "Number of players": "7106"
+         "Year": "3",
+         "Billion U.S. dollars": "178.69"
       },
       {
-         "Country": "Latvia",
-         "Number of players": "7000"
+         "Year": "2",
+         "Billion U.S. dollars": "172.3"
       },
       {
-         "Country": "Kazakhstan",
-         "Number of players": "6915"
+         "Year": "1",
+         "Billion U.S. dollars": "167.29"
       },
       {
-         "Country": "Ukraine",
-         "Number of players": "5384"
+         "Year": "0",
+         "Billion U.S. dollars": "167.67"
       },
       {
-         "Country": "Italy",
-         "Number of players": "5210"
+         "Year": "99",
+         "Billion U.S. dollars": "159.75"
       },
       {
-         "Country": "Belarus",
-         "Number of players": "4580"
+         "Year": "98",
+         "Billion U.S. dollars": "149.15"
+      },
+      {
+         "Year": "97",
+         "Billion U.S. dollars": "140.29"
+      },
+      {
+         "Year": "96",
+         "Billion U.S. dollars": "136.58"
+      },
+      {
+         "Year": "95",
+         "Billion U.S. dollars": "131.33"
+      },
+      {
+         "Year": "94",
+         "Billion U.S. dollars": "129.08"
+      },
+      {
+         "Year": "93",
+         "Billion U.S. dollars": "124.75"
+      },
+      {
+         "Year": "92",
+         "Billion U.S. dollars": "120.1"
       }
-   ]
+   ],
+   "gold": "This timeline shows clothing and clothing accessories store sales in the United States from 1992 to 2017 . In 2017 , U.S. clothing and clothing accessories store sales amounted to about 258.74 billion U.S. dollars . According to the NAICS definition , companies operating in this sector are retailing clothing and clothing accessories from fixed point-of-sale locations.The clothing Industry in the United StatesIn 2012 , the global apparel market was valued at 1.7 trillion U.S. dollars and was estimated to employ approximately 75 million people , making it one of the largest industries in the world .\n"
 }

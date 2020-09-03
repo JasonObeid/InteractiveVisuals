@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 13 categories for the x axis of Region representing 2016, 2017.",
+      "This grouped bar chart has 13 categories for the x axis of Region representing 2016, and 2017.",
       " The highest category is found at South Asia with a mean value of 29.21.",
-      " The second highest category is found at North East Asia with a mean value of 28.255.",
+      " The second highest category is found at North East Asia with a mean value of 28.25.",
       " This represents a difference of 3.3%."
    ],
-   "trends": {
-      "maxIndex": 1,
-      "secondIndex": 1
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "2",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "2",
+            "0"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Region": "North East Asia",

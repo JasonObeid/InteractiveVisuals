@@ -1,77 +1,97 @@
 {
-   "title": "Number of Leon 's Furniture Limited stores in Canada by region 2018",
-   "xAxis": "Month",
-   "yAxis": "Number of stores",
+   "title": "Number of snow sports ( skier/snowboard ) visits in the United States 2000 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of skier visits in millions",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "As of 2019 , Ontario Leon Furniture Limited 's most populous province , was home to the most Leon and supplies stores across the country . ",
-      "At that time , there were 129 such stores in Ontario . ",
-      "Alberta and British_Columbia , the second and third most populous provinces , came next in the ranking with 61 and 39 stores respectively ."
+      "This statistic shows the total United States ( UK ) visits Number skier visits from fiscal Year 2000/01 to fiscal Year 2018/19 . ",
+      "The overall trend was one of increasing , seeing a peak in 18/19 with 27.99 millions British pounds and a total rise of over 5 millions British pounds throughout this period ."
    ],
    "trends": [
+      {},
       {
-         "4": "0"
-      },
-      {
-         "6": "0",
-         "10": "0"
-      },
-      {
-         "0": "1",
-         "2": "2",
-         "18": "1",
-         "20": "2"
+         "12": "0"
       }
    ],
    "data": [
       {
-         "Month": "Ontario",
-         "Number of stores": "129"
+         "Year": "18/19",
+         "Number of skier visits in millions": "59.0"
       },
       {
-         "Month": "Alberta",
-         "Number of stores": "61"
+         "Year": "17/18",
+         "Number of skier visits in millions": "53.3"
       },
       {
-         "Month": "British Columbia",
-         "Number of stores": "39"
+         "Year": "16/17",
+         "Number of skier visits in millions": "54.7"
       },
       {
-         "Month": "Qu\u00e9bec",
-         "Number of stores": "26"
+         "Year": "15/16",
+         "Number of skier visits in millions": "52.8"
       },
       {
-         "Month": "Saskatchewan",
-         "Number of stores": "16"
+         "Year": "14/15",
+         "Number of skier visits in millions": "53.6"
       },
       {
-         "Month": "Manitoba",
-         "Number of stores": "10"
+         "Year": "13/14",
+         "Number of skier visits in millions": "56.49"
       },
       {
-         "Month": "Nova Scotia",
-         "Number of stores": "8"
+         "Year": "12/13",
+         "Number of skier visits in millions": "56.9"
       },
       {
-         "Month": "New Brunswick",
-         "Number of stores": "7"
+         "Year": "11/12",
+         "Number of skier visits in millions": "50.97"
       },
       {
-         "Month": "Newfoundland and Labrador",
-         "Number of stores": "3"
+         "Year": "10/11",
+         "Number of skier visits in millions": "60.54"
       },
       {
-         "Month": "Prince Edward Island",
-         "Number of stores": "2"
+         "Year": "09/10",
+         "Number of skier visits in millions": "59.79"
       },
       {
-         "Month": "Northwest Territories",
-         "Number of stores": "1"
+         "Year": "08/09",
+         "Number of skier visits in millions": "57.35"
       },
       {
-         "Month": "Yukon",
-         "Number of stores": "1"
+         "Year": "07/08",
+         "Number of skier visits in millions": "60.5"
+      },
+      {
+         "Year": "06/07",
+         "Number of skier visits in millions": "55.07"
+      },
+      {
+         "Year": "05/06",
+         "Number of skier visits in millions": "58.9"
+      },
+      {
+         "Year": "04/05",
+         "Number of skier visits in millions": "56.88"
+      },
+      {
+         "Year": "03/04",
+         "Number of skier visits in millions": "57.07"
+      },
+      {
+         "Year": "02/03",
+         "Number of skier visits in millions": "57.59"
+      },
+      {
+         "Year": "01/02",
+         "Number of skier visits in millions": "54.41"
+      },
+      {
+         "Year": "00/01",
+         "Number of skier visits in millions": "57.34"
       }
-   ]
+   ],
+   "gold": "This graph depicts the estimated number of skier and snowboard visits in the U.S. during the winter seasons between 2000 and 2019 . During the 2018/2019 season , the U.S. had about 59 million snow sports visits in total .\n"
 }

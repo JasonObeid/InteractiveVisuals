@@ -1,70 +1,117 @@
 {
-   "title": "Nintendo : net sales 2008 to 2019",
+   "title": "Daily time spent watching television in Germany 1997 to 2019",
    "xAxis": "Year",
-   "yAxis": "Net sales in million U.S. dollars",
+   "yAxis": "Daily viewing time in minutes",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Net sales of Nintendo from the fiscal Year of 2008 to the fiscal Year of 2019 . ",
-      "In the fiscal Year of 2019 , Nintendo had a balance sheet Net of around 208.9 million U.S. ."
+      "In 2019 , the watching television amount of individual time spent 1997 2019 in the Daily was about 211 time minutes . ",
+      "time spent in the Daily economic and social purpose of time spent is directed at handling financial guarantees to individuals and families . ",
+      "It provides a safety net to families in case of an unforeseen death of a bread-winning family member ."
    ],
    "trends": [
       {
-         "13": "11",
+         "1": "0",
+         "18": "0",
          "19": "0"
       },
-      {
-         "5": "0"
-      }
+      {},
+      {}
    ],
    "data": [
       {
          "Year": "2019",
-         "Net sales in million U.S. dollars": "10914.0"
+         "Daily viewing time in minutes": "211"
       },
       {
          "Year": "2018",
-         "Net sales in million U.S. dollars": "9959.0"
+         "Daily viewing time in minutes": "217"
       },
       {
          "Year": "2017",
-         "Net sales in million U.S. dollars": "4366.0"
+         "Daily viewing time in minutes": "221"
       },
       {
          "Year": "2016",
-         "Net sales in million U.S. dollars": "4464.0"
+         "Daily viewing time in minutes": "223"
       },
       {
          "Year": "2015",
-         "Net sales in million U.S. dollars": "4581.0"
+         "Daily viewing time in minutes": "223"
       },
       {
          "Year": "2014",
-         "Net sales in million U.S. dollars": "5550.0"
+         "Daily viewing time in minutes": "221"
       },
       {
          "Year": "2013",
-         "Net sales in million U.S. dollars": "6759.82"
+         "Daily viewing time in minutes": "221"
       },
       {
          "Year": "2012",
-         "Net sales in million U.S. dollars": "7898.2"
+         "Daily viewing time in minutes": "222"
       },
       {
          "Year": "2011",
-         "Net sales in million U.S. dollars": "12221.03"
+         "Daily viewing time in minutes": "225"
       },
       {
          "Year": "2010",
-         "Net sales in million U.S. dollars": "15423.29"
+         "Daily viewing time in minutes": "223"
       },
       {
          "Year": "2009",
-         "Net sales in million U.S. dollars": "18761.45"
+         "Daily viewing time in minutes": "212"
       },
       {
          "Year": "2008",
-         "Net sales in million U.S. dollars": "16724.23"
+         "Daily viewing time in minutes": "207"
+      },
+      {
+         "Year": "2007",
+         "Daily viewing time in minutes": "208"
+      },
+      {
+         "Year": "2006",
+         "Daily viewing time in minutes": "212"
+      },
+      {
+         "Year": "2005",
+         "Daily viewing time in minutes": "211"
+      },
+      {
+         "Year": "2004",
+         "Daily viewing time in minutes": "210"
+      },
+      {
+         "Year": "2003",
+         "Daily viewing time in minutes": "203"
+      },
+      {
+         "Year": "2002",
+         "Daily viewing time in minutes": "201"
+      },
+      {
+         "Year": "2001",
+         "Daily viewing time in minutes": "192"
+      },
+      {
+         "Year": "2000",
+         "Daily viewing time in minutes": "190"
+      },
+      {
+         "Year": "1999",
+         "Daily viewing time in minutes": "185"
+      },
+      {
+         "Year": "1998",
+         "Daily viewing time in minutes": "188"
+      },
+      {
+         "Year": "1997",
+         "Daily viewing time in minutes": "183"
       }
-   ]
+   ],
+   "gold": "This statistic shows data on the development of the daily television consumption in Germany from 1997 to 2019 . In 2019 , the average German television spent 211 minutes watching TV every day . Compared to 1997 , this was an increase of 28 minutes .\n"
 }

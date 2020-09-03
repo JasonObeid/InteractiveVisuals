@@ -1,60 +1,42 @@
 {
-   "title": "Countries with biggest Facebook user share 2018",
-   "xAxis": "Country",
-   "yAxis": "Share of global monthly active Facebook users",
+   "title": "Snap worldwide net income 2015 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Income/ loss in million U.S. dollars",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the share of user monthly Countries Facebook active 2018 in , 2018 Country . ",
-      "In 2018 , user Countries Facebook active share in India accounted for around 12 % of the world 's total user monthly grid-connected Facebook active ."
+      "As per recent data exploring the number of people employed by Hewlett Packard Enterprise ( previously a part of Hewlett-Packard Company ) worldwide between 2015 and 2019 , in 2019 the company had -1033.66 thousand Income/ ."
    ],
    "trends": [
-      {},
       {
-         "9": "0",
-         "13": "0"
+         "24": "4",
+         "26": "0",
+         "29": "0",
+         "33": "0"
       }
    ],
    "data": [
       {
-         "Country": "India",
-         "Share of global monthly active Facebook users": "12"
+         "Year": "2019",
+         "Income/ loss in million U.S. dollars": "-1033.66"
       },
       {
-         "Country": "United States",
-         "Share of global monthly active Facebook users": "11"
+         "Year": "2018",
+         "Income/ loss in million U.S. dollars": "-1255.91"
       },
       {
-         "Country": "Brazil",
-         "Share of global monthly active Facebook users": "6"
+         "Year": "2017",
+         "Income/ loss in million U.S. dollars": "-3445.07"
       },
       {
-         "Country": "Indonesia",
-         "Share of global monthly active Facebook users": "6"
+         "Year": "2016",
+         "Income/ loss in million U.S. dollars": "-514.64"
       },
       {
-         "Country": "Mexico",
-         "Share of global monthly active Facebook users": "4"
-      },
-      {
-         "Country": "Philippines",
-         "Share of global monthly active Facebook users": "3"
-      },
-      {
-         "Country": "Vietnam",
-         "Share of global monthly active Facebook users": "3"
-      },
-      {
-         "Country": "Thailand",
-         "Share of global monthly active Facebook users": "2"
-      },
-      {
-         "Country": "Turkey",
-         "Share of global monthly active Facebook users": "2"
-      },
-      {
-         "Country": "United Kingdom",
-         "Share of global monthly active Facebook users": "2"
+         "Year": "2015",
+         "Income/ loss in million U.S. dollars": "-372.89"
       }
-   ]
+   ],
+   "gold": "This statistic presents the annual net loss of mobile messaging platform Snap . In 2019 , the chat app had generated 1.03 billion U.S. dollars in net losses , a slight improvement from 1.56 billion U.S. dollars in losses in the preceding year .\n"
 }

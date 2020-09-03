@@ -1,60 +1,60 @@
 {
-   "title": "Wealth in the U.S. - UHNW ( super rich ) population in 2014 , by city",
-   "xAxis": "State",
-   "yAxis": "Number of Ultra-High-Net-Worth people",
+   "title": "Malaysia maternal mortality ratio 2011 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Maternal mortality ratio per hundred thousand live births",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the U.S. UHNW U.S. UHNW the super Number 2014 from rich as of 2014 . ",
-      "As of this time , New_York had the super rich Number Ultra-High-Net-Worth UHNW 8655 deaths UHNW rich as the underlying cause of Number people billion ."
+      "The Maternal of the Malaysia luxury brand 2011 2018 has increased twofold over the period surveyed , increasing from roughly 21.4 hundred ratio in 2013 to 29.1 hundred ratio in the Year 2016 . ",
+      "Despite the steady increase in Maternal during the period considered , the ratio reported a net loss of approximately 25 hundred ratio in 2018 . ",
+      "Worldwide recognition Founded in 1978 Milan , 2011 2018 is one of the leading international mortality design houses ."
    ],
    "trends": [
-      {},
       {
-         "5": "0",
-         "13": "0"
-      }
+         "20": "5",
+         "24": "5",
+         "26": "2",
+         "32": "2"
+      },
+      {
+         "23": "0"
+      },
+      {}
    ],
    "data": [
       {
-         "State": "New York",
-         "Number of Ultra-High-Net-Worth people": "8655"
+         "Year": "2018",
+         "Maternal mortality ratio per hundred thousand live births": "23.5"
       },
       {
-         "State": "San Francisco",
-         "Number of Ultra-High-Net-Worth people": "5460"
+         "Year": "2017",
+         "Maternal mortality ratio per hundred thousand live births": "25.0"
       },
       {
-         "State": "Los Angeles",
-         "Number of Ultra-High-Net-Worth people": "5135"
+         "Year": "2016",
+         "Maternal mortality ratio per hundred thousand live births": "29.1"
       },
       {
-         "State": "Chicago",
-         "Number of Ultra-High-Net-Worth people": "2885"
+         "Year": "2015",
+         "Maternal mortality ratio per hundred thousand live births": "23.8"
       },
       {
-         "State": "Washington",
-         "Number of Ultra-High-Net-Worth people": "2730"
+         "Year": "2014",
+         "Maternal mortality ratio per hundred thousand live births": "22.3"
       },
       {
-         "State": "Houston",
-         "Number of Ultra-High-Net-Worth people": "2545"
+         "Year": "2013",
+         "Maternal mortality ratio per hundred thousand live births": "21.4"
       },
       {
-         "State": "Dallas",
-         "Number of Ultra-High-Net-Worth people": "2330"
+         "Year": "2012",
+         "Maternal mortality ratio per hundred thousand live births": "23.2"
       },
       {
-         "State": "Toronto",
-         "Number of Ultra-High-Net-Worth people": "1840"
-      },
-      {
-         "State": "Atlanta",
-         "Number of Ultra-High-Net-Worth people": "1230"
-      },
-      {
-         "State": "Seattle",
-         "Number of Ultra-High-Net-Worth people": "1095"
+         "Year": "2011",
+         "Maternal mortality ratio per hundred thousand live births": "26.2"
       }
-   ]
+   ],
+   "gold": "The statistic represents the maternal mortality ratio in Malaysia from 2011 to 2018 . In 2018 , the maternal mortality ratio in Malaysia was approximately 23.5 maternal deaths per one hundred thousand live births .\n"
 }

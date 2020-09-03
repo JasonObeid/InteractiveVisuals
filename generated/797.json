@@ -1,33 +1,46 @@
 {
-   "title": "Share of U.S. teenagers who use Snapchat 2018 , by age",
-   "xAxis": "Year",
-   "yAxis": "Share of respondents",
+   "title": "Sales of streaming devices in the United States 2014",
+   "xAxis": "Streaming Brand",
+   "yAxis": "Unit sales in millions",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "According to a third quarter 2018 survey , 74 % of 13-14 internet users in the U.S. Snapchat used Share . ",
-      "The video platform had a U.S. Share of 63 % among 15-17 use internet users . ",
-      "Overall , 38 % of use Share users accessed the platform several times a day ."
+      "The statistic shows the most viewed Sales on Unit in United States 2014 . ",
+      "Apple_TV was the Streaming with the highest devices sales in 2014 with a devices of 8.8 millions viewers ."
    ],
    "trends": [
+      {},
       {
-         "8": "1",
-         "11": "0"
-      },
-      {
-         "8": "0",
-         "11": "1"
-      },
-      {}
+         "0": "0",
+         "15": "0"
+      }
    ],
    "data": [
       {
-         "Year": "13-14",
-         "Share of respondents": "63"
+         "Streaming Brand": "Apple TV",
+         "Unit sales in millions": "8.8"
       },
       {
-         "Year": "15-17",
-         "Share of respondents": "74"
+         "Streaming Brand": "Fire TV",
+         "Unit sales in millions": "5.8"
+      },
+      {
+         "Streaming Brand": "Roku",
+         "Unit sales in millions": "5.0"
+      },
+      {
+         "Streaming Brand": "Chromecast",
+         "Unit sales in millions": "4.0"
+      },
+      {
+         "Streaming Brand": "Tivo",
+         "Unit sales in millions": "1.2"
+      },
+      {
+         "Streaming Brand": "Other",
+         "Unit sales in millions": "2.8"
       }
-   ]
+   ],
+   "gold": "The statistic shows the unit sales of streaming devices in the United States in 2014 . 8.8 million units of the Apple TV streaming device are forecast to be sold in the United States in 2014 .\n"
 }

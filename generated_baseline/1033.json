@@ -4,45 +4,41 @@
    "yAxis": "Per capita consumption in pounds",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Per capita consumption in pounds, with a total of 19 data points. The chart has 4 significant trends.",
-      " The longest trend is extremely negative which exists from 2004 to 2000.",
-      " On the contrary, the next significant trend is extremely negative which exists from 2018 to 2015.",
-      " On the contrary, the next significant trend is extremely negative which exists from 2010 to 2008.",
-      " Differently, the next significant trend is extremely negative which exists from 2007 to 2005."
+      "This line chart has an x axis representing Year and a y axis representing Per capita consumption in pounds, with a total of 19 data points. The chart has 6 significant trends.",
+      " The longest trend is slightly positive which exists from 2005 to 2000.",
+      " Similarly, the next significant trend is extremely positive which exists from 2018 to 2015.",
+      " Correspondingly, the next significant trend is slightly positive which exists from 2011 to 2008.",
+      " Additionally, the next significant trend is extremely positive which exists from 2008 to 2005.",
+      " Correspondingly, the next significant trend is slightly positive which exists from 2015 to 2013.",
+      " Correspondingly, the next significant trend is slightly positive which exists from 2013 to 2011."
    ],
    "trends": [
+      {},
       {
-         "Length": 5,
-         "direction": "negative",
-         "start": 14,
-         "end": 18,
-         "trend": "y=0.25x+-493.32",
-         "magnitude": "extremely"
+         "1": "13",
+         "12": "18"
       },
       {
-         "Length": 4,
-         "direction": "negative",
-         "start": 0,
-         "end": 3,
-         "trend": "y=0.32x+-640.53",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "3"
       },
       {
-         "Length": 3,
-         "direction": "negative",
-         "start": 8,
-         "end": 10,
-         "trend": "y=0.1x+-197.2",
-         "magnitude": "extremely"
+         "3": "7",
+         "14": "10"
       },
       {
-         "Length": 3,
-         "direction": "negative",
-         "start": 11,
-         "end": 13,
-         "trend": "y=0.46x+-909.53",
-         "magnitude": "extremely"
+         "3": "10",
+         "14": "13"
+      },
+      {
+         "3": "3",
+         "14": "5"
+      },
+      {
+         "3": "5",
+         "14": "7"
       }
    ],
    "data": [

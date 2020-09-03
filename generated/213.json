@@ -1,86 +1,65 @@
 {
-   "title": "Cloud infrastructure services market share worldwide 2017 - 2019 , by vendor",
-   "labels": [
-      "Quarter",
-      "Amazon Web Services",
-      "Microsoft",
-      "IBM",
-      "Google",
-      "Alibaba",
-      "Next 10",
-      "Other",
-      "Rackspace"
-   ],
-   "columnType": "multi",
-   "graphType": "bar",
+   "title": "Average ticket price Orlando Magic ( NBA ) games 2015/16",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the share of infrastructure services market in the Cloud ( ) from 2017 to 2019 , vendor Quarter . ",
-      "The infrastructure of those Microsoft infrastructure services market was 33 % in the same Quarter of 2019 ."
+      "This graph depicts the Average ticket price for Orlando Magic games of the National Basketball Association from 2006/07 to 2015/16 . ",
+      "In the 2006/07 season , the Average ticket price was 43.65 U.S. dollars ."
    ],
    "trends": [
-      {},
       {
-         "9": [
-            "4",
-            "1"
-         ]
+         "16": "9",
+         "18": "0"
+      },
+      {
+         "2": "9",
+         "10": "4"
       }
    ],
    "data": [
       {
-         "Quarter": "Q2 2017",
-         "Amazon Web Services": "34",
-         "Microsoft": "11",
-         "IBM": "8",
-         "Google": "6",
-         "Alibaba": "0",
-         "Next 10": "20",
-         "Other": "23",
-         "Rackspace": "0"
+         "Year": "2015/16",
+         "Average ticket price in U.S. dollars": "39.4"
       },
       {
-         "Quarter": "Q4 2017",
-         "Amazon Web Services": "34",
-         "Microsoft": "13",
-         "IBM": "8",
-         "Google": "6",
-         "Alibaba": "4",
-         "Next 10": "16",
-         "Other": "20",
-         "Rackspace": "0"
+         "Year": "2014/15",
+         "Average ticket price in U.S. dollars": "39.4"
       },
       {
-         "Quarter": "Q3 2018",
-         "Amazon Web Services": "34",
-         "Microsoft": "15",
-         "IBM": "7",
-         "Google": "7",
-         "Alibaba": "4",
-         "Next 10": "16",
-         "Other": "18",
-         "Rackspace": "0"
+         "Year": "2013/14",
+         "Average ticket price in U.S. dollars": "39.4"
       },
       {
-         "Quarter": "Q4 2018",
-         "Amazon Web Services": "34",
-         "Microsoft": "15",
-         "IBM": "7",
-         "Google": "7",
-         "Alibaba": "4",
-         "Next 10": "15",
-         "Other": "17",
-         "Rackspace": "0"
+         "Year": "2012/13",
+         "Average ticket price in U.S. dollars": "41.18"
       },
       {
-         "Quarter": "Q2 2019",
-         "Amazon Web Services": "33",
-         "Microsoft": "16",
-         "IBM": "8",
-         "Google": "0",
-         "Alibaba": "0",
-         "Next 10": "0",
-         "Other": "43",
-         "Rackspace": "0"
+         "Year": "2011/12",
+         "Average ticket price in U.S. dollars": "43.65"
+      },
+      {
+         "Year": "2010/11",
+         "Average ticket price in U.S. dollars": "43.0"
+      },
+      {
+         "Year": "2009/10",
+         "Average ticket price in U.S. dollars": "40.3"
+      },
+      {
+         "Year": "2008/09",
+         "Average ticket price in U.S. dollars": "40.3"
+      },
+      {
+         "Year": "2007/08",
+         "Average ticket price in U.S. dollars": "38.46"
+      },
+      {
+         "Year": "2006/07",
+         "Average ticket price in U.S. dollars": "35.29"
       }
-   ]
+   ],
+   "gold": "This graph depicts the average ticket price for Orlando Magic games of the National Basketball Association from 2006/07 to 2015/16 . In the 2006/07 season , the average ticket price was 35.29 U.S. dollars .\n"
 }

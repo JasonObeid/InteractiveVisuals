@@ -4,15 +4,24 @@
    "yAxis": "Paying subscribers in millions",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 20 categories for the x axis representing Quarter, and a y axis representing Paying subscribers in millions.",
       " The highest category is found at Q4_2019 where Paying subscribers in millions is 124.0.",
       " The lowest category is found at Q1_2015 where Paying subscribers in millions is 18.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 19
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
    "data": [
       {
          "Quarter": "Q4 2019",

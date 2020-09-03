@@ -1,53 +1,62 @@
 {
-   "title": "Retail price index ( RPI ) forecast UK 2017 to 2023",
-   "xAxis": "Year",
-   "yAxis": "Percentage change",
+   "title": "Most popular social media sites in Norway 2019 , by platform",
+   "xAxis": "Platform",
+   "yAxis": "Share of respondents",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The Retail price index of the United Kingdom is forecasted to be generally stable in the near future , and only change by percentage of between 3.1 and percentage up until 2023 . ",
-      "In early 2019 the RPI rate was even lower than this at 1.8 percentage . ",
-      "Peak of 4.5 in 2011 The Retail price index is the most important measure of inflation within an economy and calculates how the cost of a typical basked of Retail goods changes over time ."
+      "This statistic shows the Share of users the Most popular social media platforms Norway 2019 by in Norway 2019 . ",
+      "During the period under survey , roughly 83 % of the respondents stated they used the social media service Facebook ."
    ],
    "trends": [
+      {},
       {
-         "26": "0",
-         "28": "1",
-         "32": "0"
-      },
-      {
-         "2": "4"
-      },
-      {}
+         "7": "0",
+         "19": "0"
+      }
    ],
    "data": [
       {
-         "Year": "2023",
-         "Percentage change": "3.1"
+         "Platform": "Facebook",
+         "Share of respondents": "83"
       },
       {
-         "Year": "2022",
-         "Percentage change": "3.1"
+         "Platform": "Snapchat",
+         "Share of respondents": "61"
       },
       {
-         "Year": "2021",
-         "Percentage change": "3.2"
+         "Platform": "YouTube",
+         "Share of respondents": "60"
       },
       {
-         "Year": "2020",
-         "Percentage change": "3.1"
+         "Platform": "Instagram",
+         "Share of respondents": "57"
       },
       {
-         "Year": "2019",
-         "Percentage change": "3.1"
+         "Platform": "LinkedIn",
+         "Share of respondents": "21"
       },
       {
-         "Year": "2018",
-         "Percentage change": "3.5"
+         "Platform": "Twitter",
+         "Share of respondents": "20"
       },
       {
-         "Year": "2017",
-         "Percentage change": "3.6"
+         "Platform": "Pinterest",
+         "Share of respondents": "16"
+      },
+      {
+         "Platform": "Whatsapp",
+         "Share of respondents": "16"
+      },
+      {
+         "Platform": "Reddit",
+         "Share of respondents": "6"
+      },
+      {
+         "Platform": "Tumblr",
+         "Share of respondents": "2"
       }
-   ]
+   ],
+   "gold": "Facebook was the social media platform that was most common among Norwegians as of 2019 . A survey , conducted in the third quarter half of 2019 , showed that 83 percent of the respondents used Facebook . Snapchat came second and third in the ranking , with 60 percent of the interviewed Norwegians using it .\n"
 }

@@ -1,0 +1,32 @@
+{
+   "title": "Video game industry 's wealthiest entrepreneurs 2016\n",
+   "xAxis": "Entrepreneur (company)",
+   "yAxis": "Net worth in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic presents the average value of transaction per day in the united kingdom ( uk ) in 2015 , by type . In 2016 , nuisance attacks was the largest paying wealth in the u.s. , with an average value of 680 u.s. dollars .\n",
+   "trends": {},
+   "data": [
+      {
+         "Entrepreneur (company)": "Ma Huateng (Tencent)",
+         "Net worth in billion U.S. dollars": 21.9
+      },
+      {
+         "Entrepreneur (company)": "William Ding (NetEase)",
+         "Net worth in billion U.S. dollars": 11.5
+      },
+      {
+         "Entrepreneur (company)": "Shi Yuzhu (Giant Interactive)",
+         "Net worth in billion U.S. dollars": 5.4
+      },
+      {
+         "Entrepreneur (company)": "Kwon Hyuk-Bin (SmileGate)",
+         "Net worth in billion U.S. dollars": 4.9
+      },
+      {
+         "Entrepreneur (company)": "Kim Jung-Ju (Nexon)",
+         "Net worth in billion U.S. dollars": 3.5
+      }
+   ]
+}

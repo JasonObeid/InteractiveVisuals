@@ -1,80 +1,69 @@
 {
-   "title": "Preferred Bible version in the U.S. 2017",
-   "xAxis": "Response",
-   "yAxis": "Share of respondents",
+   "title": "Infant mortality rate in Malawi 2018",
+   "xAxis": "Year",
+   "yAxis": "Deaths per 1,000 live births",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the results of a survey on the Preferred Bible Bible U.S. U.S. in Bible U.S. as of 2018 . ",
-      "The survey found that King_James_Version 2017 was Bible U.S. 's Preferred loved Bible U.S. princess with 2 out of 31 British adults choosing her as their favorite . ",
-      "New_International_Version and New_King_James_Version were second and third Preferred Bible at 9 and 13 % ."
+      "The statistic shows the Infant mortality rate in Malawi from 2008 to 2018 . ",
+      "In 2018 , the Infant mortality rate in Malawi was at about 35.3 Deaths per 1,000 live births ."
    ],
    "trends": [
-      {},
       {
-         "4": "0",
-         "14": "7",
-         "17": "0"
+         "10": "10",
+         "12": "0"
       },
       {
-         "0": "1",
-         "2": "3",
-         "10": "2",
-         "12": "1"
+         "1": "0",
+         "12": "0"
       }
    ],
    "data": [
       {
-         "Response": "King James Version",
-         "Share of respondents": "31"
+         "Year": "2018",
+         "Deaths per 1,000 live births": "35.3"
       },
       {
-         "Response": "New International Version",
-         "Share of respondents": "13"
+         "Year": "2017",
+         "Deaths per 1,000 live births": "36.8"
       },
       {
-         "Response": "English Standard Version",
-         "Share of respondents": "9"
+         "Year": "2016",
+         "Deaths per 1,000 live births": "38.3"
       },
       {
-         "Response": "New King James Version",
-         "Share of respondents": "7"
+         "Year": "2015",
+         "Deaths per 1,000 live births": "40.3"
       },
       {
-         "Response": "Amplified",
-         "Share of respondents": "7"
+         "Year": "2014",
+         "Deaths per 1,000 live births": "42.3"
       },
       {
-         "Response": "Christian Community",
-         "Share of respondents": "4"
+         "Year": "2013",
+         "Deaths per 1,000 live births": "45.2"
       },
       {
-         "Response": "New American Standard",
-         "Share of respondents": "3"
+         "Year": "2012",
+         "Deaths per 1,000 live births": "48.4"
       },
       {
-         "Response": "New Living Translation",
-         "Share of respondents": "2"
+         "Year": "2011",
+         "Deaths per 1,000 live births": "51.8"
       },
       {
-         "Response": "Revised Standard",
-         "Share of respondents": "2"
+         "Year": "2010",
+         "Deaths per 1,000 live births": "55.4"
       },
       {
-         "Response": "Contemporary English Version",
-         "Share of respondents": "2"
+         "Year": "2009",
+         "Deaths per 1,000 live births": "57.4"
       },
       {
-         "Response": "New American Bible",
-         "Share of respondents": "2"
-      },
-      {
-         "Response": "All others (1 or less combined)",
-         "Share of respondents": "9"
-      },
-      {
-         "Response": "Not sure",
-         "Share of respondents": "8"
+         "Year": "2008",
+         "Deaths per 1,000 live births": "59.2"
       }
-   ]
+   ],
+   "gold": "The statistic shows the infant mortality rate in Malawi from 2008 to 2018 . In 2018 , the infant mortality rate in Malawi was at about 35.3 deaths per 1,000 live births .\n"
 }

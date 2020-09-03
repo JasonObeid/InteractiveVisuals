@@ -4,15 +4,24 @@
    "yAxis": "Number of identifications in millions",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 10 categories for the x axis representing Song Titles, and a y axis representing Number of identifications in millions.",
       " The highest category is found at Wake_Me_Up_by_Avicii where Number of identifications in millions is 23.77.",
       " The lowest category is found at All_of_Me_by_John_Legend where Number of identifications in millions is 17.58."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 9
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
    "data": [
       {
          "Song Titles": "Wake Me Up by Avicii",

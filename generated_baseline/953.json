@@ -4,15 +4,24 @@
    "yAxis": "Average player age in years",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 32 categories for the x axis representing Country, and a y axis representing Average player age in years.",
       " The highest category is found at Costa_Rica where Average player age in years is 29.6.",
       " The lowest category is found at Nigeria where Average player age in years is 25.9."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 31
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 31,
+         "12": 31
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "Costa Rica",

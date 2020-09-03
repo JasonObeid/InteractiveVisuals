@@ -1,97 +1,103 @@
 {
-   "title": "European ATM numbers 2005 to 2018\n",
-   "xAxis": "Year",
-   "yAxis": "Total number of ATMs",
-   "columnType": "two",
+   "title": "CVS Health 's revenue 2010 - 2017 by segment",
+   "labels": [
+      "Year",
+      "Pharmacy services",
+      "Retail pharmacy"
+   ],
+   "columnType": "multi",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Total number of ATMs, with a total of 14 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely negative which exists from 2012 to 2005.",
-      " On the other hand, the next significant trend is extremely negative which exists from 2016 to 2013.",
-      " On the other hand, the next significant trend is extremely positive which exists from 2018 to 2016."
+      "This line chart has 2 lines.",
+      " The line representing Pharmacy services had the highest values across Year with a mean value of 86.4.",
+      " This peaked at 2017 with a value of 130.0. ",
+      " The line with the second highest values was Retail pharmacy with a mean value of 68.3.",
+      " This line peaked at 2016 with a value of 81.1"
    ],
    "trends": [
+      {},
       {
-         "Length": 8,
-         "direction": "negative",
-         "start": 6,
-         "end": 13,
-         "trend": "y=12799.89x+-25332074.18",
-         "magnitude": "extremely"
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "7",
+            "0"
+         ]
       },
       {
-         "Length": 4,
-         "direction": "negative",
-         "start": 2,
-         "end": 5,
-         "trend": "y=4170.4x+-7989375.8",
-         "magnitude": "extremely"
+         "1": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "0"
+         ]
       },
       {
-         "Length": 3,
-         "direction": "positive",
-         "start": 0,
-         "end": 2,
-         "trend": "y=-6834.0x+14197560.0",
-         "magnitude": "extremely"
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "7",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "10": [
+            "0",
+            "1"
+         ]
       }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Total number of ATMs": 406532.0
-      },
-      {
          "Year": "2017",
-         "Total number of ATMs": 413414.0
+         "Pharmacy services": "130.6",
+         "Retail pharmacy": "79.4"
       },
       {
          "Year": "2016",
-         "Total number of ATMs": 420200.0
+         "Pharmacy services": "119.96",
+         "Retail pharmacy": "81.1"
       },
       {
          "Year": "2015",
-         "Total number of ATMs": 411243.0
+         "Pharmacy services": "100.36",
+         "Retail pharmacy": "72.01"
       },
       {
          "Year": "2014",
-         "Total number of ATMs": 409136.0
+         "Pharmacy services": "88.44",
+         "Retail pharmacy": "67.8"
       },
       {
          "Year": "2013",
-         "Total number of ATMs": 407001.0
+         "Pharmacy services": "76.21",
+         "Retail pharmacy": "65.62"
       },
       {
          "Year": "2012",
-         "Total number of ATMs": 412799.0
+         "Pharmacy services": "73.44",
+         "Retail pharmacy": "63.65"
       },
       {
          "Year": "2011",
-         "Total number of ATMs": 403996.0
+         "Pharmacy services": "56.87",
+         "Retail pharmacy": "59.6"
       },
       {
          "Year": "2010",
-         "Total number of ATMs": 398040.0
-      },
-      {
-         "Year": "2009",
-         "Total number of ATMs": 391175.0
-      },
-      {
-         "Year": "2008",
-         "Total number of ATMs": 383951.0
-      },
-      {
-         "Year": "2007",
-         "Total number of ATMs": 362244.0
-      },
-      {
-         "Year": "2006",
-         "Total number of ATMs": 335083.0
-      },
-      {
-         "Year": "2005",
-         "Total number of ATMs": 324797.0
+         "Pharmacy services": "47.15",
+         "Retail pharmacy": "57.35"
       }
    ]
 }

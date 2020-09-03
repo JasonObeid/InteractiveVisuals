@@ -1,0 +1,24 @@
+{
+   "title": "MSC - number of TEUs 2020\n",
+   "xAxis": "Ownership Type",
+   "yAxis": "Number of TEUs",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "The statistic shows circulation of espn magazine in the country in the first half of 2015 , by type . The magazine sold 2.13 million copies over its subscription service and 5.6 thousand copies at newsstands . Its total paid circulation amounted to 2.14 million copies .\n",
+   "trends": {},
+   "data": [
+      {
+         "Ownership Type": "Chartered",
+         "Number of TEUs": 2771795.0
+      },
+      {
+         "Ownership Type": "Owned",
+         "Number of TEUs": 1044800.0
+      },
+      {
+         "Ownership Type": "Orderbook",
+         "Number of TEUs": 217500.0
+      }
+   ]
+}

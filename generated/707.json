@@ -1,143 +1,49 @@
 {
-   "title": "Number of worldwide internet users 2009 - 2019 , by region",
-   "labels": [
-      "Year",
-      "Asia",
-      "Europe",
-      "North America",
-      "Latin America / Caribbean",
-      "Africa",
-      "Middle East",
-      "Oceania / Australia"
-   ],
-   "columnType": "multi",
-   "graphType": "line",
+   "title": "Costs of external consequences of cyber attacks on businesses 2018",
+   "xAxis": "Category",
+   "yAxis": "Cost in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Number worldwide internet users ( RevPAR ) of Number hotels / from 2009 to 2019 , region . ",
-      "The RevPAR of Number by in Asia was 2300.47 U.S. dollars in 2019 ."
+      "In 2018 , Business_disruption million accounted for the largest U.S. of Costs consequences 2018 Revenue_loss , with a 5.9 million U.S.",
+      "5.9 million of the company consequences Cost Revenue_loss was made through Information_loss million that year . ",
+      "Information_loss million setting the pace strong growth of Costs consequences Information_loss segment \u2013 increased seven million since 2012 \u2013 has contributed towards the shrinking million U.S. of its Business_disruption Category ."
    ],
    "trends": [
       {
-         "16": [
-            "0",
-            "0"
-         ],
-         "18": [
-            "9",
-            "0"
-         ]
+         "3": "0",
+         "15": "3",
+         "19": "1"
       },
       {
-         "9": [
-            "9",
-            "1"
-         ],
-         "13": [
-            "9",
-            "0"
-         ]
+         "0": "1",
+         "7": "3",
+         "11": "1"
+      },
+      {
+         "0": "1",
+         "12": "1",
+         "30": "0"
       }
    ],
    "data": [
       {
-         "Year": "2009",
-         "Asia": "764.4",
-         "Europe": "425.8",
-         "North America": "259.6",
-         "Latin America / Caribbean": "186.9",
-         "Africa": "86.2",
-         "Middle East": "58.3",
-         "Oceania / Australia": "21.1"
+         "Category": "Business disruption",
+         "Cost in million U.S. dollars": "4.0"
       },
       {
-         "Year": "2010",
-         "Asia": "825.1",
-         "Europe": "475.1",
-         "North America": "266.2",
-         "Latin America / Caribbean": "204.7",
-         "Africa": "110.9",
-         "Middle East": "63.24",
-         "Oceania / Australia": "21.3"
+         "Category": "Information loss",
+         "Cost in million U.S. dollars": "5.9"
       },
       {
-         "Year": "2011",
-         "Asia": "1016.8",
-         "Europe": "500.72",
-         "North America": "273.07",
-         "Latin America / Caribbean": "235.82",
-         "Africa": "139.88",
-         "Middle East": "77.02",
-         "Oceania / Australia": "23.93"
+         "Category": "Equipment damages",
+         "Cost in million U.S. dollars": "2.6"
       },
       {
-         "Year": "2012",
-         "Asia": "1076.68",
-         "Europe": "518.51",
-         "North America": "273.79",
-         "Latin America / Caribbean": "254.92",
-         "Africa": "167.34",
-         "Middle East": "90.0",
-         "Oceania / Australia": "24.29"
-      },
-      {
-         "Year": "2013",
-         "Asia": "1265.14",
-         "Europe": "566.26",
-         "North America": "300.29",
-         "Latin America / Caribbean": "302.01",
-         "Africa": "240.15",
-         "Middle East": "103.83",
-         "Oceania / Australia": "24.8"
-      },
-      {
-         "Year": "2015",
-         "Asia": "1563.21",
-         "Europe": "604.12",
-         "North America": "313.86",
-         "Latin America / Caribbean": "333.12",
-         "Africa": "313.26",
-         "Middle East": "115.82",
-         "Oceania / Australia": "27.1"
-      },
-      {
-         "Year": "2016",
-         "Asia": "1792.16",
-         "Europe": "614.98",
-         "North America": "320.07",
-         "Latin America / Caribbean": "384.75",
-         "Africa": "339.28",
-         "Middle East": "132.59",
-         "Oceania / Australia": "27.54"
-      },
-      {
-         "Year": "2017",
-         "Asia": "1938.08",
-         "Europe": "659.63",
-         "North America": "320.06",
-         "Latin America / Caribbean": "404.27",
-         "Africa": "388.38",
-         "Middle East": "146.97",
-         "Oceania / Australia": "28.18"
-      },
-      {
-         "Year": "2018",
-         "Asia": "2062.14",
-         "Europe": "704.83",
-         "North America": "345.66",
-         "Latin America / Caribbean": "438.25",
-         "Africa": "455.84",
-         "Middle East": "164.04",
-         "Oceania / Australia": "28.44"
-      },
-      {
-         "Year": "2019",
-         "Asia": "2300.47",
-         "Europe": "727.56",
-         "North America": "327.57",
-         "Latin America / Caribbean": "453.7",
-         "Africa": "522.81",
-         "Middle East": "175.5",
-         "Oceania / Australia": "28.64"
+         "Category": "Revenue loss",
+         "Cost in million U.S. dollars": "0.5"
       }
-   ]
+   ],
+   "gold": "This statistic provides information on the average annual of costs for external consequences of targeted cyber attacks on companies in global markets in 2018 . During the survey period it was found that business disruption accumulated an average 5.9 million U.S. dollars in annual damages from a targeted cyber attack on a business .\n"
 }

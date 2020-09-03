@@ -1,92 +1,111 @@
 {
-   "title": "Market share of the leading search engines in Germany 2014 to 2016",
-   "labels": [
-      "unknown",
-      "2014",
-      "2015",
-      "2016"
-   ],
-   "columnType": "multi",
-   "graphType": "bar",
+   "title": "Youth unemployment rate in Saudi Arabia in 2019",
+   "xAxis": "Year",
+   "yAxis": "Youth unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the Germany share leading with the highest engines Germany 2014 2016 from 2014 to 2016 . ",
-      "In 2016 , Google was the engines Germany 2014 2016 ."
+      "The statistic shows the Youth unemployment rate in Saudi Arabia from 1999 and 2019 . ",
+      "According to the source , the data are ILO estimates . ",
+      "In 2019 , the estimated Youth unemployment rate in Saudi Arabia was at 25.55 % ."
    ],
    "trends": [
+      {
+         "10": "20",
+         "12": "0"
+      },
       {},
       {
-         "3": [
-            "0",
-            "0"
-         ]
+         "1": "0",
+         "12": "0"
       }
    ],
    "data": [
       {
-         "unknown": "Google",
-         "2014": "91.2",
-         "2015": "94.84",
-         "2016": "94.52"
+         "Year": "2019",
+         "Youth unemployment rate": "25.55"
       },
       {
-         "unknown": "Bing",
-         "2014": "3.5",
-         "2015": "2.59",
-         "2016": "4.16"
+         "Year": "2018",
+         "Youth unemployment rate": "25.77"
       },
       {
-         "unknown": "Yahoo",
-         "2014": "1.4",
-         "2015": "1.66",
-         "2016": "0.98"
+         "Year": "2017",
+         "Youth unemployment rate": "25.25"
       },
       {
-         "unknown": "T-Online",
-         "2014": "1",
-         "2015": "0.75",
-         "2016": "0.12"
+         "Year": "2016",
+         "Youth unemployment rate": "24.5"
       },
       {
-         "unknown": "Ask.com",
-         "2014": "0.5",
-         "2015": "0.18",
-         "2016": "0.12"
+         "Year": "2015",
+         "Youth unemployment rate": "28.98"
       },
       {
-         "unknown": "AOL Suche",
-         "2014": "0.5",
-         "2015": "0.13",
-         "2016": "0.08"
+         "Year": "2014",
+         "Youth unemployment rate": "30.12"
       },
       {
-         "unknown": "Yandex",
-         "2014": "0",
-         "2015": "0",
-         "2016": "0.06"
+         "Year": "2013",
+         "Youth unemployment rate": "28.97"
       },
       {
-         "unknown": "WEB.DE",
-         "2014": "0.6",
-         "2015": "0.05",
-         "2016": "0"
+         "Year": "2012",
+         "Youth unemployment rate": "27.84"
       },
       {
-         "unknown": "GMX",
-         "2014": "0.5",
-         "2015": "0.02",
-         "2016": "0"
+         "Year": "2011",
+         "Youth unemployment rate": "28.77"
       },
       {
-         "unknown": "Search.com",
-         "2014": "0.5",
-         "2015": "0.02",
-         "2016": "0"
+         "Year": "2010",
+         "Youth unemployment rate": "29.09"
       },
       {
-         "unknown": "Conduit",
-         "2014": "0.3",
-         "2015": "0.01",
-         "2016": "0"
+         "Year": "2009",
+         "Youth unemployment rate": "29.46"
+      },
+      {
+         "Year": "2008",
+         "Youth unemployment rate": "28.82"
+      },
+      {
+         "Year": "2007",
+         "Youth unemployment rate": "29.6"
+      },
+      {
+         "Year": "2006",
+         "Youth unemployment rate": "33.82"
+      },
+      {
+         "Year": "2005",
+         "Youth unemployment rate": "32.59"
+      },
+      {
+         "Year": "2004",
+         "Youth unemployment rate": "30.67"
+      },
+      {
+         "Year": "2003",
+         "Youth unemployment rate": "28.8"
+      },
+      {
+         "Year": "2002",
+         "Youth unemployment rate": "27.46"
+      },
+      {
+         "Year": "2001",
+         "Youth unemployment rate": "24.93"
+      },
+      {
+         "Year": "2000",
+         "Youth unemployment rate": "24.34"
+      },
+      {
+         "Year": "1999",
+         "Youth unemployment rate": "23.18"
       }
-   ]
+   ],
+   "gold": "The statistic shows the youth unemployment rate in Saudi Arabia from 1999 and 2019 . According to the source , the data are ILO estimates . In 2019 , the estimated youth unemployment rate in Saudi Arabia was at 25.55 percent .\n"
 }

@@ -4,18 +4,16 @@
    "yAxis": "Share of population",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Share of population with a total of 8 data points. The chart has one significant trend.",
-      " This trend is extremely negative which exists from 2018 to 2011."
+      " This trend is positive which exists from 2018 to 2011."
    ],
    "trends": [
+      {},
       {
-         "Length": 8,
-         "direction": "negative",
-         "start": 0,
-         "end": 7,
-         "trend": "y=5.27x+-10560.69",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "7"
       }
    ],
    "data": [

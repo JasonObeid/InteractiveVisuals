@@ -1,65 +1,72 @@
 {
-   "title": "Survey on the most important social issues in Sweden 2018",
-   "xAxis": "Response",
-   "yAxis": "Share of respondents",
+   "title": "Number of H-1B visas issued in U.S. , by countries with the most recipients 2011",
+   "xAxis": "Country",
+   "yAxis": "Number of visas issued",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This survey shows the Survey Sweden gave most not reporting cases of social on their premises to the School_and_education in Sweden and in 2018 . ",
-      "Of respondents , 44 % claimed they did not Environment the incident as there was no Healthcare or damage the crime was too trivial to Environment the School_and_education ."
+      "The India was the leading recipient of H-1B U.S. 's H-1B exports in 2011 , followed by China-mainland and U.K.",
+      "The U.S. imported more than 72438 million issued of H-1B from H-1B U.S. in that year , more than 40 times than that imported by China-mainland . ",
+      "H-1B sales have grown dramatically in the U.S ."
    ],
    "trends": [
       {
-         "18": "1"
+         "1": "0",
+         "16": "1",
+         "18": "2"
       },
       {
-         "3": "0",
-         "9": "5",
-         "16": "0",
-         "26": "5",
-         "29": "1"
-      }
+         "5": "0",
+         "24": "1"
+      },
+      {}
    ],
    "data": [
       {
-         "Response": "Healthcare",
-         "Share of respondents": "44"
+         "Country": "India",
+         "Number of visas issued": "72438"
       },
       {
-         "Response": "School and education",
-         "Share of respondents": "33"
+         "Country": "China-mainland",
+         "Number of visas issued": "10849"
       },
       {
-         "Response": "Crime/Law enforcement",
-         "Share of respondents": "31"
+         "Country": "U.K.",
+         "Number of visas issued": "3660"
       },
       {
-         "Response": "Immigration",
-         "Share of respondents": "25"
+         "Country": "South Korea",
+         "Number of visas issued": "3501"
       },
       {
-         "Response": "Integration",
-         "Share of respondents": "19"
+         "Country": "Mexico",
+         "Number of visas issued": "2647"
       },
       {
-         "Response": "Environment",
-         "Share of respondents": "15"
+         "Country": "Philippines",
+         "Number of visas issued": "2369"
       },
       {
-         "Response": "Elderly care",
-         "Share of respondents": "14"
+         "Country": "France",
+         "Number of visas issued": "2069"
       },
       {
-         "Response": "Swedish economy",
-         "Share of respondents": "13"
+         "Country": "Japan",
+         "Number of visas issued": "2054"
       },
       {
-         "Response": "Unemployment",
-         "Share of respondents": "10"
+         "Country": "China-Taiwan",
+         "Number of visas issued": "1705"
       },
       {
-         "Response": "Social differences",
-         "Share of respondents": "10"
+         "Country": "Germany",
+         "Number of visas issued": "1627"
+      },
+      {
+         "Country": "Other",
+         "Number of visas issued": "26215"
       }
-   ]
+   ],
+   "gold": "This statistic shows the number of H-1B visas issued in the United States as of 2011 , in order of the countries with the most recipients . 72,438 H-1B visas had been issued to Indian workers for the United States as of 2011 .\n"
 }

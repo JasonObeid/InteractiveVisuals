@@ -4,15 +4,24 @@
    "yAxis": "Number of fans on Facebook in millions",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 10 categories for the x axis representing Month, and a y axis representing Number of fans on Facebook in millions.",
       " The highest category is found at Mario_Teguh where Number of fans on Facebook in millions is 19.99.",
       " The lowest category is found at Liputan6 where Number of fans on Facebook in millions is 8.19."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 9
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
    "data": [
       {
          "Month": "Mario Teguh",

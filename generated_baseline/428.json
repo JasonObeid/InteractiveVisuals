@@ -4,15 +4,24 @@
    "yAxis": "Number of victories",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 7 categories for the x axis representing Cyclists, and a y axis representing Number of victories.",
       " The highest category is found at Miguel_Indur\u00e1in_(1991_1992_1993_1994_and_1995) where Number of victories is 5.0.",
       " The lowest category is found at Carlos_Sastre_(2008) where Number of victories is 1.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 2
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 2,
+         "12": 2
+      },
+      {}
+   ],
    "data": [
       {
          "Cyclists": "Miguel Indur\u00e1in (1991 1992 1993 1994 and 1995)",

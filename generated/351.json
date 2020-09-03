@@ -1,80 +1,52 @@
 {
-   "title": "Passenger cars - major producing countries 2018",
+   "title": "Hotel / restaurant industry : percentage of female employees by region 2010",
    "xAxis": "Country",
-   "yAxis": "Production in million units",
+   "yAxis": "Female employees",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the major of million Passenger 2018 in selected countries in 2018 . ",
-      "That year , the major of million units in Brazil 's electricity cars amounted to approximately 2.39 million ."
+      "The employees , followed female Caribbean , had the highest Female employees industry percentage to stay in a restaurant as of 2010 . ",
+      "At that time the restaurant costs industry percentage in the employees were on Female 58.5 employees . ",
+      "In comparison , the restaurant costs industry percentage in Average stood at an Female of 35.4 employees ."
    ],
    "trends": [
-      {},
       {
-         "9": "6",
-         "16": "6"
+         "5": "1"
+      },
+      {
+         "14": "0"
+      },
+      {
+         "9": "5",
+         "15": "4"
       }
    ],
    "data": [
       {
-         "Country": "China",
-         "Production in million units": "23.53"
+         "Country": "Latin America",
+         "Female employees": "58.5"
       },
       {
-         "Country": "Japan",
-         "Production in million units": "8.36"
+         "Country": "Caribbean",
+         "Female employees": "55.4"
       },
       {
-         "Country": "Germany",
-         "Production in million units": "5.12"
+         "Country": "Africa",
+         "Female employees": "47"
       },
       {
-         "Country": "India",
-         "Production in million units": "4.06"
+         "Country": "Oceania",
+         "Female employees": "46.8"
       },
       {
-         "Country": "South Korea",
-         "Production in million units": "3.66"
+         "Country": "Asia",
+         "Female employees": "35.4"
       },
       {
-         "Country": "U.S.",
-         "Production in million units": "2.8"
-      },
-      {
-         "Country": "Brazil",
-         "Production in million units": "2.39"
-      },
-      {
-         "Country": "Spain",
-         "Production in million units": "2.27"
-      },
-      {
-         "Country": "France",
-         "Production in million units": "1.76"
-      },
-      {
-         "Country": "Mexico",
-         "Production in million units": "1.58"
-      },
-      {
-         "Country": "Russia",
-         "Production in million units": "1.56"
-      },
-      {
-         "Country": "UK",
-         "Production in million units": "1.52"
-      },
-      {
-         "Country": "Czechia",
-         "Production in million units": "1.35"
-      },
-      {
-         "Country": "Slovakia",
-         "Production in million units": "1.09"
-      },
-      {
-         "Country": "Indonesia",
-         "Production in million units": "1.06"
+         "Country": "Average",
+         "Female employees": "48.62"
       }
-   ]
+   ],
+   "gold": "This graph shows the percentage of female employees in the hotel and restaurant industry in 2010 . Latin America has 58.5 percent female employees .\n"
 }

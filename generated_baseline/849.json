@@ -4,15 +4,24 @@
    "yAxis": "Share of respondents",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 5 categories for the x axis representing Response, and a y axis representing Share of respondents.",
       " The highest category is found at Ignore_the_post where Share of respondents is 40.0.",
       " The lowest category is found at Discuss_the_content_with_the_poster_offline_(e.g._on_the_phone_in_person_etc.) where Share of respondents is 6.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 3
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
    "data": [
       {
          "Response": "Ignore the post",

@@ -4,15 +4,24 @@
    "yAxis": "Spending in U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 9 categories for the x axis representing Spending Type, and a y axis representing Spending in U.S. dollars.",
       " The highest category is found at Housing where Spending in U.S. dollars is 20091.0.",
       " The lowest category is found at Apparel_and_services where Spending in U.S. dollars is 1866.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 8
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
    "data": [
       {
          "Spending Type": "Housing",

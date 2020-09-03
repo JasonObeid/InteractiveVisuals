@@ -1,98 +1,193 @@
 {
-   "title": "Share of retail spend in Germany 2013 - 2018 , by channel",
-   "labels": [
-      "Retail channel",
-      "2013",
-      "2018"
-   ],
-   "columnType": "multi",
+   "title": "Subaru car sales in the United Kingdom ( UK ) 2016 to 2019",
+   "xAxis": "Month",
+   "yAxis": "Units sold",
+   "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Germany 2013 of Share and retail to Germany by from 2013 to 2018 , channel . ",
-      "Share and retail directly contributed approximately 7.2 million jobs to the Food_&_beverage_specialists_and_c-stores Hypermarkets_supermarkets_and_hard_discounters Asian economy in 2018 ."
+      "In 2019 , Subaru sold 708 vehicles in the United Kingdom market . ",
+      "sales of the British luxury car usually peaked in and of each year , as those were the months when the Driver & Vehicle Licensing Agency ( DVLA ) issued new registration plates . ",
+      "2018 was the notable exception , as there had only been 829 sales recorded ."
    ],
    "trends": [
+      {
+         "5": "0"
+      },
       {},
       {
-         "6": [
-            "2",
-            "2"
-         ],
-         "11": [
-            "1",
-            "0"
-         ],
-         "12": [
-            "0",
-            "0"
-         ]
+         "11": "15"
       }
    ],
    "data": [
       {
-         "Retail channel": "Hypermarkets supermarkets and hard discounters",
-         "2013": "33.9",
-         "2018": "34"
+         "Month": "Dec 19",
+         "Units sold": "708"
       },
       {
-         "Retail channel": "Food & beverage specialists and c-stores",
-         "2013": "16.6",
-         "2018": "16.1"
+         "Month": "Nov 19",
+         "Units sold": "157"
       },
       {
-         "Retail channel": "Home improvement and gardening supplies retailers",
-         "2013": "8.2",
-         "2018": "7.2"
+         "Month": "Oct 19",
+         "Units sold": "88"
       },
       {
-         "Retail channel": "Clothing footwear accessories and luxury goods specialists",
-         "2013": "8",
-         "2018": "8.1"
+         "Month": "Sep 19",
+         "Units sold": "526"
       },
       {
-         "Retail channel": "Furniture and homewares retailers",
-         "2013": "6.1",
-         "2018": "5.9"
+         "Month": "Aug 19",
+         "Units sold": "52"
       },
       {
-         "Retail channel": "Electricals and electronics specialists",
-         "2013": "5.7",
-         "2018": "5.6"
+         "Month": "Jul 19",
+         "Units sold": "103"
       },
       {
-         "Retail channel": "Online",
-         "2013": "5.5",
-         "2018": "8.1"
+         "Month": "Jun 19",
+         "Units sold": "244"
       },
       {
-         "Retail channel": "Department stores",
-         "2013": "4.1",
-         "2018": "3.7"
+         "Month": "May 19",
+         "Units sold": "138"
       },
       {
-         "Retail channel": "Others",
-         "2013": "3.3",
-         "2018": "3.3"
+         "Month": "Apr 19",
+         "Units sold": "101"
       },
       {
-         "Retail channel": "Other specialist retailers",
-         "2013": "2.3",
-         "2018": "2.1"
+         "Month": "Mar 19",
+         "Units sold": "632"
       },
       {
-         "Retail channel": "Drugstores and health and beauty stores",
-         "2013": "2.3",
-         "2018": "2.3"
+         "Month": "Feb 19",
+         "Units sold": "74"
       },
       {
-         "Retail channel": "Music video book stationery and games specialists",
-         "2013": "2.1",
-         "2018": "1.7"
+         "Month": "Jan 19",
+         "Units sold": "174"
       },
       {
-         "Retail channel": "Value variety stores and general merchandise retailers",
-         "2013": "1.8",
-         "2018": "1.9"
+         "Month": "Dec 18",
+         "Units sold": "193"
+      },
+      {
+         "Month": "Nov 18",
+         "Units sold": "145"
+      },
+      {
+         "Month": "Oct 18",
+         "Units sold": "135"
+      },
+      {
+         "Month": "Sep 18",
+         "Units sold": "829"
+      },
+      {
+         "Month": "Aug 18",
+         "Units sold": "100"
+      },
+      {
+         "Month": "Jul 18",
+         "Units sold": "112"
+      },
+      {
+         "Month": "Jun 18",
+         "Units sold": "265"
+      },
+      {
+         "Month": "May 18",
+         "Units sold": "231"
+      },
+      {
+         "Month": "Apr 18",
+         "Units sold": "153"
+      },
+      {
+         "Month": "Mar 18",
+         "Units sold": "761"
+      },
+      {
+         "Month": "Feb 18",
+         "Units sold": "62"
+      },
+      {
+         "Month": "Jan 18",
+         "Units sold": "155"
+      },
+      {
+         "Month": "Dec 17",
+         "Units sold": "246"
+      },
+      {
+         "Month": "Nov 17",
+         "Units sold": "216"
+      },
+      {
+         "Month": "Oct 17",
+         "Units sold": "99"
+      },
+      {
+         "Month": "Sep 17",
+         "Units sold": "510"
+      },
+      {
+         "Month": "Aug 17",
+         "Units sold": "44"
+      },
+      {
+         "Month": "Jul 17",
+         "Units sold": "152"
+      },
+      {
+         "Month": "Jun 17",
+         "Units sold": "202"
+      },
+      {
+         "Month": "May 17",
+         "Units sold": "155"
+      },
+      {
+         "Month": "Apr 17",
+         "Units sold": "123"
+      },
+      {
+         "Month": "Mar 17",
+         "Units sold": "706"
+      },
+      {
+         "Month": "Feb 17",
+         "Units sold": "48"
+      },
+      {
+         "Month": "Jan 17",
+         "Units sold": "178"
+      },
+      {
+         "Month": "Dec 16",
+         "Units sold": "330"
+      },
+      {
+         "Month": "Nov 16",
+         "Units sold": "219"
+      },
+      {
+         "Month": "Oct 16",
+         "Units sold": "256"
+      },
+      {
+         "Month": "Sep 16",
+         "Units sold": "762"
+      },
+      {
+         "Month": "Aug 16",
+         "Units sold": "69"
+      },
+      {
+         "Month": "Jul 16",
+         "Units sold": "148"
       }
-   ]
+   ],
+   "gold": "This statistic shows the monthly amount of cars sold by Subaru in the United Kingdom ( UK ) between July 2016 and December 2019 . Peaks in registration numbers were recorded in March and September of each year , which was due to the issuing of license plates by the Driver & Vehicle Licensing Agency ( DVLA ) in those months . In December 2019 , 708 new Subaru cars had been sold .\n"
 }

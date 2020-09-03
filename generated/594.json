@@ -1,98 +1,70 @@
 {
-   "title": "Total United Kingdom HMRC tax receipts 2000 to 2019",
+   "title": "Total population of Nepal 2024",
    "xAxis": "Year",
-   "yAxis": "Tax receipts in billion GBP",
+   "yAxis": "Inhabitants in millions",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the total United Kingdom ( UK ) tax receipts billion from fiscal Year 2000/01 to fiscal Year 2018/19 . ",
-      "The overall trend was one of increasing , seeing a peak in 2018/19 with 27.99 billion British pounds and a total rise of over 5 billion British pounds throughout this period ."
+      "This statistic shows the Total population of Nepal from 2014 to 2018 , with projections up until 2024 . ",
+      "In 2018 , the Total population of Nepal amounted to approximately 27.63 millions Inhabitants ."
    ],
    "trends": [
       {
-         "16": "18",
-         "20": "0"
+         "9": "10",
+         "11": "6",
+         "17": "0"
       },
       {
-         "12": "0"
+         "1": "6",
+         "11": "7"
       }
    ],
    "data": [
       {
-         "Year": "2018/19",
-         "Tax receipts in billion GBP": "623.36"
+         "Year": "2024",
+         "Inhabitants in millions": "30.36"
       },
       {
-         "Year": "2017/18",
-         "Tax receipts in billion GBP": "593.96"
+         "Year": "2023",
+         "Inhabitants in millions": "29.97"
       },
       {
-         "Year": "2016/17",
-         "Tax receipts in billion GBP": "569.3"
+         "Year": "2022",
+         "Inhabitants in millions": "29.59"
       },
       {
-         "Year": "2015/16",
-         "Tax receipts in billion GBP": "533.7"
+         "Year": "2021",
+         "Inhabitants in millions": "29.2"
       },
       {
-         "Year": "2014/15",
-         "Tax receipts in billion GBP": "515.3"
+         "Year": "2020",
+         "Inhabitants in millions": "28.83"
       },
       {
-         "Year": "2013/14",
-         "Tax receipts in billion GBP": "493.6"
+         "Year": "2019",
+         "Inhabitants in millions": "28.46"
       },
       {
-         "Year": "2012/13",
-         "Tax receipts in billion GBP": "473.8"
+         "Year": "2018",
+         "Inhabitants in millions": "28.09"
       },
       {
-         "Year": "2011/12",
-         "Tax receipts in billion GBP": "472.3"
+         "Year": "2017",
+         "Inhabitants in millions": "27.63"
       },
       {
-         "Year": "2010/11",
-         "Tax receipts in billion GBP": "453.6"
+         "Year": "2016",
+         "Inhabitants in millions": "27.26"
       },
       {
-         "Year": "2009/10",
-         "Tax receipts in billion GBP": "414.9"
+         "Year": "2015",
+         "Inhabitants in millions": "27.02"
       },
       {
-         "Year": "2008/09",
-         "Tax receipts in billion GBP": "445.5"
-      },
-      {
-         "Year": "2007/08",
-         "Tax receipts in billion GBP": "456.2"
-      },
-      {
-         "Year": "2006/07",
-         "Tax receipts in billion GBP": "428.6"
-      },
-      {
-         "Year": "2005/06",
-         "Tax receipts in billion GBP": "402.9"
-      },
-      {
-         "Year": "2004/05",
-         "Tax receipts in billion GBP": "375.8"
-      },
-      {
-         "Year": "2003/04",
-         "Tax receipts in billion GBP": "347.9"
-      },
-      {
-         "Year": "2002/03",
-         "Tax receipts in billion GBP": "324.7"
-      },
-      {
-         "Year": "2001/02",
-         "Tax receipts in billion GBP": "321.7"
-      },
-      {
-         "Year": "2000/01",
-         "Tax receipts in billion GBP": "315.6"
+         "Year": "2014",
+         "Inhabitants in millions": "26.91"
       }
-   ]
+   ],
+   "gold": "This statistic represents the total population of Nepal from 2014 to 2015 , with projections up until 2024 . In 2018 , the estimated total population of Nepal amounted to around 28.09 million people .\n"
 }

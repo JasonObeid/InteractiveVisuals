@@ -1,89 +1,69 @@
 {
-   "title": "ThyssenKrupp - net sales 2003 to 2019",
-   "xAxis": "Year",
-   "yAxis": "Revenue in billion euros",
+   "title": "Population in Sweden 2018 , by level of education",
+   "xAxis": "Level Of Education",
+   "yAxis": "Share of population",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the Revenue of the ThyssenKrupp Pelicans franchise from the 2002/03 season to the 2017/18 season . ",
-      "In 2017/18 , the estimated Revenue of the National Basketball Association franchise amounted to 53.43 billion euros ."
+      "This statistic presents the 2018 of users in the Population in 2018 , sorted by Upper_secondary_education_(less_than_3_years) . ",
+      "During the survey period , it was found that 19.5 % of the population had a Upper_secondary_education_(less_than_3_years) Primary_and_lower_education_(less_than_9_years) of Upper_secondary_education_(less_than_3_years) at Sweden . ",
+      "Furthermore , 23.4 % of population also hat a Upper_secondary_education_(3_years_or_more) plan and 14.5 % Lower_secondary_education_(9_years) subscribed to Upper_secondary_education_(3_years_or_more) online service Primary_and_lower_education_(less_than_9_years) Post-secondary_education_(less_than_3_years) type of Primary_and_lower_education_(less_than_9_years) ."
    ],
    "trends": [
       {
-         "12": "16"
+         "15": "2"
       },
       {
-         "14": "11"
+         "9": "2",
+         "18": "2",
+         "19": "0",
+         "21": "2"
+      },
+      {
+         "2": "3",
+         "9": "3",
+         "12": "4",
+         "14": "1",
+         "17": "3",
+         "20": "0",
+         "21": "4",
+         "24": "0"
       }
    ],
    "data": [
       {
-         "Year": "2018/19",
-         "Revenue in billion euros": "42.0"
+         "Level Of Education": "Primary and lower education (less than 9 years)",
+         "Share of population": "4.1"
       },
       {
-         "Year": "2017/18",
-         "Revenue in billion euros": "41.53"
+         "Level Of Education": "Lower secondary education (9 years)",
+         "Share of population": "13.1"
       },
       {
-         "Year": "2016/17",
-         "Revenue in billion euros": "42.97"
+         "Level Of Education": "Upper secondary education (less than 3 years)",
+         "Share of population": "19.5"
       },
       {
-         "Year": "2015/16",
-         "Revenue in billion euros": "39.26"
+         "Level Of Education": "Upper secondary education (3 years or more)",
+         "Share of population": "23.4"
       },
       {
-         "Year": "2014/15",
-         "Revenue in billion euros": "42.78"
+         "Level Of Education": "Post-secondary education (less than 3 years)",
+         "Share of population": "14.5"
       },
       {
-         "Year": "2013/14",
-         "Revenue in billion euros": "41.21"
+         "Level Of Education": "Post-secondary education (3 years or more)",
+         "Share of population": "21.7"
       },
       {
-         "Year": "2012/13",
-         "Revenue in billion euros": "39.78"
+         "Level Of Education": "Post-graduate education",
+         "Share of population": "1.12"
       },
       {
-         "Year": "2011/12",
-         "Revenue in billion euros": "47.05"
-      },
-      {
-         "Year": "2010/11",
-         "Revenue in billion euros": "49.09"
-      },
-      {
-         "Year": "2009/10",
-         "Revenue in billion euros": "42.62"
-      },
-      {
-         "Year": "2008/09",
-         "Revenue in billion euros": "40.56"
-      },
-      {
-         "Year": "2007/08",
-         "Revenue in billion euros": "53.43"
-      },
-      {
-         "Year": "2006/07",
-         "Revenue in billion euros": "51.72"
-      },
-      {
-         "Year": "2005/06",
-         "Revenue in billion euros": "47.13"
-      },
-      {
-         "Year": "2004/05",
-         "Revenue in billion euros": "42.93"
-      },
-      {
-         "Year": "2003/04",
-         "Revenue in billion euros": "37.3"
-      },
-      {
-         "Year": "2002/03",
-         "Revenue in billion euros": "33.49"
+         "Level Of Education": "No information about level of education",
+         "Share of population": "2.7"
       }
-   ]
+   ],
+   "gold": "The number of Swedes with higher education , a post-secondary education of three years or more , increased since 2000 , while the number without decreased . In 2017 , around 37 percent of the population had at least some level of post-secondary education . Among them , 21.7 percent had an upper secondary education of three years or more .\n"
 }

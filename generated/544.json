@@ -1,95 +1,71 @@
 {
-   "title": "Value of motor vehicle imports and exports in the United Kingdom ( UK ) 2007 to 2017",
-   "labels": [
-      "Year",
-      "Exports",
-      "Imports"
-   ],
-   "columnType": "multi",
+   "title": "Life expectancy at birth in Germany 2017",
+   "xAxis": "Year",
+   "yAxis": "Life expectancy at birth in years",
+   "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Value motor vehicle in the United Kingdom and the United Kingdom Kingdom from 2007 to 2017 . ",
-      "The figures refer to those younger than 25 years . ",
-      "In 2017 , the Value motor vehicle in the United Kingdom amounted to 40.8 % ."
+      "The statistic shows the Life expectancy at birth in Germany from 2007 to 2017 . ",
+      "The average Life expectancy at birth in Germany 2017 was 80.99 years . ",
+      "Standard of living in Germany is one of the so-called BRIC countries , an acronym which stands for Brazil , Russia Germany and China , the four states considered the major emerging market countries ."
    ],
    "trends": [
       {
-         "15": [
-            "10",
-            "0"
-         ],
-         "17": [
-            "0",
-            "0"
-         ]
+         "11": "10",
+         "13": "0"
       },
-      {},
       {
-         "1": [
-            "0",
-            "0"
-         ],
-         "12": [
-            "0",
-            "2"
-         ]
-      }
+         "9": "0",
+         "11": "0"
+      },
+      {}
    ],
    "data": [
       {
          "Year": "2017",
-         "Exports": "34.3",
-         "Imports": "40.8"
+         "Life expectancy at birth in years": "80.99"
       },
       {
          "Year": "2016",
-         "Exports": "31.5",
-         "Imports": "39.8"
+         "Life expectancy at birth in years": "80.99"
       },
       {
          "Year": "2015",
-         "Exports": "27.0",
-         "Imports": "37.8"
+         "Life expectancy at birth in years": "80.64"
       },
       {
          "Year": "2014",
-         "Exports": "27.3",
-         "Imports": "33.3"
+         "Life expectancy at birth in years": "81.09"
       },
       {
          "Year": "2013",
-         "Exports": "26.4",
-         "Imports": "29.5"
+         "Life expectancy at birth in years": "80.49"
       },
       {
          "Year": "2012",
-         "Exports": "23.9",
-         "Imports": "25.7"
+         "Life expectancy at birth in years": "80.54"
       },
       {
          "Year": "2011",
-         "Exports": "22.5",
-         "Imports": "25.7"
+         "Life expectancy at birth in years": "80.44"
       },
       {
          "Year": "2010",
-         "Exports": "19.1",
-         "Imports": "23.8"
+         "Life expectancy at birth in years": "79.99"
       },
       {
          "Year": "2009",
-         "Exports": "13.3",
-         "Imports": "18.9"
+         "Life expectancy at birth in years": "79.84"
       },
       {
          "Year": "2008",
-         "Exports": "18.0",
-         "Imports": "24.0"
+         "Life expectancy at birth in years": "79.74"
       },
       {
          "Year": "2007",
-         "Exports": "16.7",
-         "Imports": "26.2"
+         "Life expectancy at birth in years": "79.53"
       }
-   ]
+   ],
+   "gold": "This statistic shows the average life expectancy at birth in Germany from 2007 to 2017 . A child born in the year 2017 had an average life expectancy of 80.99 years .\n"
 }

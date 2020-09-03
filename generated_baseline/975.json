@@ -4,54 +4,36 @@
    "yAxis": "Merchandising revenue in billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Merchandising revenue in billion U.S. dollars, with a total of 10 data points. The chart has 5 significant trends.",
-      " The longest trend is extremely negative which exists from 2015 to 2011.",
-      " Conversely, the next significant trend is extremely negative which exists from 2008 to 2006.",
-      " Contrarily, the next significant trend is extremely positive which exists from 2011 to 2010.",
-      " Additionally, the next significant trend is extremely negative which exists from 2010 to 2009.",
-      " On the other hand, the next significant trend is extremely positive which exists from 2009 to 2008."
+      " The longest trend is extremely positive which exists from 2015 to 2011.",
+      " Correspondingly, the next significant trend is extremely positive which exists from 2008 to 2006.",
+      " Likewise, the next significant trend is extremely negative which exists from 2011 to 2010.",
+      " On the contrary, the next significant trend is extremely positive which exists from 2010 to 2009.",
+      " Likewise, the next significant trend is slightly negative which exists from 2009 to 2008."
    ],
    "trends": [
+      {},
       {
-         "Length": 5,
-         "direction": "negative",
-         "start": 0,
-         "end": 4,
-         "trend": "y=0.66x+-1303.79",
-         "magnitude": "extremely"
+         "1": "0",
+         "12": "4"
       },
       {
-         "Length": 3,
-         "direction": "negative",
-         "start": 7,
-         "end": 9,
-         "trend": "y=0.92x+-1816.04",
-         "magnitude": "extremely"
+         "3": "7",
+         "14": "9"
       },
       {
-         "Length": 2,
-         "direction": "positive",
-         "start": 4,
-         "end": 5,
-         "trend": "y=-0.05x+118.12",
-         "magnitude": "extremely"
+         "3": "4",
+         "14": "5"
       },
       {
-         "Length": 2,
-         "direction": "negative",
-         "start": 5,
-         "end": 6,
-         "trend": "y=0.03x+-42.68",
-         "magnitude": "extremely"
+         "3": "5",
+         "14": "6"
       },
       {
-         "Length": 2,
-         "direction": "positive",
-         "start": 6,
-         "end": 7,
-         "trend": "y=-3.67x+7390.62",
-         "magnitude": "extremely"
+         "3": "6",
+         "14": "7"
       }
    ],
    "data": [

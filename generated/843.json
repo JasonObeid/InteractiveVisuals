@@ -1,133 +1,64 @@
 {
-   "title": "U.S. lemon imports and exports 1999 to 2017",
-   "labels": [
-      "Year",
-      "Imports",
-      "Domestic exports"
-   ],
-   "columnType": "multi",
-   "graphType": "line",
+   "title": "UFC : most knockdowns landed by fighters worldwide as of March 2020",
+   "xAxis": "Month",
+   "yAxis": "Number of knockdowns landed",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the total amount of imports and Domestic exports of oranges in the U.S. from 1999 to 2017 . ",
-      "According to the report , U.S. imports of oranges amounted to approximately 83851 metric tons in 2015 ."
+      "The statistic illustrates the UFC most knockdowns landed according to the Number of knockdowns 2020 in . ",
+      "Donald_Cerrone leads all landed with a total of 20 knockdowns in 50 matches . ",
+      "Most knockdowns in 2015 - additional information In knockdowns an ace is a legal serve that is not touched fighters the receiver , thus winning the point for the server ."
    ],
    "trends": [
+      {},
       {
-         "17": [
-            "0",
-            "0"
-         ],
-         "19": [
-            "18",
-            "0"
-         ]
+         "0": "0",
+         "8": "0"
       },
-      {
-         "12": [
-            "16",
-            "1"
-         ],
-         "16": [
-            "16",
-            "0"
-         ]
-      }
+      {}
    ],
    "data": [
       {
-         "Year": "1999",
-         "Imports": "25160",
-         "Domestic exports": "106249"
+         "Month": "Donald Cerrone",
+         "Number of knockdowns landed": "20"
       },
       {
-         "Year": "2000",
-         "Imports": "34127",
-         "Domestic exports": "110373"
+         "Month": "Anderson Silva",
+         "Number of knockdowns landed": "18"
       },
       {
-         "Year": "2001",
-         "Imports": "36351",
-         "Domestic exports": "99906"
+         "Month": "Jeremy Stephens",
+         "Number of knockdowns landed": "18"
       },
       {
-         "Year": "2002",
-         "Imports": "27901",
-         "Domestic exports": "99566"
+         "Month": "Junior Dos Santos",
+         "Number of knockdowns landed": "14"
       },
       {
-         "Year": "2003",
-         "Imports": "34461",
-         "Domestic exports": "101603"
+         "Month": "Chuck Liddell",
+         "Number of knockdowns landed": "14"
       },
       {
-         "Year": "2004",
-         "Imports": "35400",
-         "Domestic exports": "97982"
+         "Month": "Lyoto Machida",
+         "Number of knockdowns landed": "14"
       },
       {
-         "Year": "2005",
-         "Imports": "35245",
-         "Domestic exports": "97445"
+         "Month": "Mauricio Rua",
+         "Number of knockdowns landed": "14"
       },
       {
-         "Year": "2006",
-         "Imports": "65656",
-         "Domestic exports": "115862"
+         "Month": "Thiago Alves",
+         "Number of knockdowns landed": "13"
       },
       {
-         "Year": "2007",
-         "Imports": "64214",
-         "Domestic exports": "155668"
+         "Month": "Melvin Guillard",
+         "Number of knockdowns landed": "13"
       },
       {
-         "Year": "2008",
-         "Imports": "37565",
-         "Domestic exports": "91459"
-      },
-      {
-         "Year": "2009",
-         "Imports": "40848",
-         "Domestic exports": "91445"
-      },
-      {
-         "Year": "2010",
-         "Imports": "56278",
-         "Domestic exports": "97275"
-      },
-      {
-         "Year": "2011",
-         "Imports": "50939",
-         "Domestic exports": "92081"
-      },
-      {
-         "Year": "2012",
-         "Imports": "38152",
-         "Domestic exports": "104031"
-      },
-      {
-         "Year": "2013",
-         "Imports": "56996",
-         "Domestic exports": "122420"
-      },
-      {
-         "Year": "2014",
-         "Imports": "85544",
-         "Domestic exports": "109663"
-      },
-      {
-         "Year": "2015",
-         "Imports": "83851",
-         "Domestic exports": "107193"
-      },
-      {
-         "Year": "2016",
-         "Imports": "110252",
-         "Domestic exports": "106827"
-      },
-      {
-         "Year": "2017",
-         "Imports": "110828",
-         "Domestic exports": "88537"
+         "Month": "Anthony Johnson",
+         "Number of knockdowns landed": "13"
       }
-   ]
+   ],
+   "gold": "Donald Cerrona is leading the Ultimate Fighting Championship ( UFC ) in most knockdowns landed as of March 2020 , followed by Anderson Silva and Jeremy Stephens , both with 18 knockdowns during UFC fights . At the same point in time George St-Pierre holds the record for most takedowns in the UFC with a total of 90 and also the most strikes landed , with 2,591 landed strikes during UFC fights . 474 UFC fight in 2018 In 2018 , a total of 39 UFC events were hosted around the world featuring 474 fights .\n"
 }

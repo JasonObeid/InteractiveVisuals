@@ -1,100 +1,73 @@
 {
-   "title": "American imports of corn 2001 to 2019",
+   "title": "Participants in paintball in the U.S. from 2006 to 2017",
    "xAxis": "Year",
-   "yAxis": "Imports in million bushels",
+   "yAxis": "Number of participants in millions",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the million of who use the American in the 2019 from 2001 and 2019 . ",
-      "In the most recent measured Year , 28 million of American million were reported to use the American at least occasionally , up from 29 million in 2011 ."
+      "This statistic shows the Number of participants in U.S. the from 2006 to 2017 . ",
+      "In 2017 , there were approximately 3.41 millions participants in U.S. the Other outdoor activities such as wildlife viewing and recreational fishing / boating are also popular outdoor activities ."
    ],
    "trends": [
       {
-         "15": "18",
-         "17": "0"
+         "13": "11",
+         "15": "0"
       },
       {
-         "7": "0",
-         "24": "8",
-         "27": "8"
+         "1": "0",
+         "6": "0"
       }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Imports in million bushels": "28"
-      },
-      {
-         "Year": "2018",
-         "Imports in million bushels": "36"
-      },
-      {
          "Year": "2017",
-         "Imports in million bushels": "57"
+         "Number of participants in millions": "3.41"
       },
       {
          "Year": "2016",
-         "Imports in million bushels": "57"
+         "Number of participants in millions": "3.71"
       },
       {
          "Year": "2015",
-         "Imports in million bushels": "68"
+         "Number of participants in millions": "3.39"
       },
       {
          "Year": "2014",
-         "Imports in million bushels": "32"
+         "Number of participants in millions": "3.44"
       },
       {
          "Year": "2013",
-         "Imports in million bushels": "36"
+         "Number of participants in millions": "3.6"
       },
       {
          "Year": "2012",
-         "Imports in million bushels": "160"
+         "Number of participants in millions": "3.5"
       },
       {
          "Year": "2011",
-         "Imports in million bushels": "29"
+         "Number of participants in millions": "3.56"
       },
       {
          "Year": "2010",
-         "Imports in million bushels": "28"
+         "Number of participants in millions": "3.66"
       },
       {
          "Year": "2009",
-         "Imports in million bushels": "8"
+         "Number of participants in millions": "4.55"
       },
       {
          "Year": "2008",
-         "Imports in million bushels": "14"
+         "Number of participants in millions": "4.86"
       },
       {
          "Year": "2007",
-         "Imports in million bushels": "20"
+         "Number of participants in millions": "5.48"
       },
       {
          "Year": "2006",
-         "Imports in million bushels": "12"
-      },
-      {
-         "Year": "2005",
-         "Imports in million bushels": "9"
-      },
-      {
-         "Year": "2004",
-         "Imports in million bushels": "11"
-      },
-      {
-         "Year": "2003",
-         "Imports in million bushels": "14"
-      },
-      {
-         "Year": "2002",
-         "Imports in million bushels": "14"
-      },
-      {
-         "Year": "2001",
-         "Imports in million bushels": "10"
+         "Number of participants in millions": "4.55"
       }
-   ]
+   ],
+   "gold": "This statistic shows the number of participants in paintball in the United States from 2006 to 2017 . In 2017 , the number of participants ( aged six years and older ) in paintball amounted to approximately 3.41 million . Participation in paintball - additional information The number of participants in paintball in the United States increased significantly from 4.55 million in 2006 up to 5.48 million in 2007 .\n"
 }

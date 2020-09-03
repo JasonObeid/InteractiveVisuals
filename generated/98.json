@@ -1,91 +1,64 @@
 {
-   "title": "Kitchen and household appliances imports in the U.S. 2002 to 2018",
-   "xAxis": "Year",
-   "yAxis": "Imports value in billion U.S. dollars",
+   "title": "French channels with the largest number of subscribers on YouTube 2017",
+   "xAxis": "Name",
+   "yAxis": "Number of subscribers in millions",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the U.S. Imports value of U.S. from 2002 to 2018 . ",
-      "In 2018 , the Imports value of U.S. a Yankees franchise amounted to 31.21 billion U.S. dollars ."
+      "The statistic illustrates the French channels largest number according to the Number of subscribers 2017 in . ",
+      "Cyprien leads all number with a total of 11.39 subscribers in 50 matches . ",
+      "Most subscribers in 2015 - additional information In largest an ace is a legal serve that is not touched YouTube the receiver , thus winning the point for the server ."
    ],
    "trends": [
+      {},
       {
-         "10": "16",
-         "12": "0"
+         "0": "0",
+         "8": "0"
       },
-      {
-         "1": "0",
-         "14": "0"
-      }
+      {}
    ],
    "data": [
       {
-         "Year": "2018",
-         "Imports value in billion U.S. dollars": "31.21"
+         "Name": "Cyprien",
+         "Number of subscribers in millions": "11.39"
       },
       {
-         "Year": "2017",
-         "Imports value in billion U.S. dollars": "29.04"
+         "Name": "Norman fait des vid\u00e9os",
+         "Number of subscribers in millions": "9.88"
       },
       {
-         "Year": "2016",
-         "Imports value in billion U.S. dollars": "26.91"
+         "Name": "Squeezie",
+         "Number of subscribers in millions": "8.98"
       },
       {
-         "Year": "2015",
-         "Imports value in billion U.S. dollars": "27.03"
+         "Name": "Remi Gaillard",
+         "Number of subscribers in millions": "6.42"
       },
       {
-         "Year": "2014",
-         "Imports value in billion U.S. dollars": "25.24"
+         "Name": "Warner Bros. Pictures",
+         "Number of subscribers in millions": "4.58"
       },
       {
-         "Year": "2013",
-         "Imports value in billion U.S. dollars": "23.4"
+         "Name": "CyprienGaming",
+         "Number of subscribers in millions": "4.51"
       },
       {
-         "Year": "2012",
-         "Imports value in billion U.S. dollars": "22.27"
+         "Name": "TheSoundYouNeed",
+         "Number of subscribers in millions": "4.25"
       },
       {
-         "Year": "2011",
-         "Imports value in billion U.S. dollars": "20.89"
+         "Name": "Mister V",
+         "Number of subscribers in millions": "4.04"
       },
       {
-         "Year": "2010",
-         "Imports value in billion U.S. dollars": "19.85"
+         "Name": "The Yellow Laugh",
+         "Number of subscribers in millions": "3.97"
       },
       {
-         "Year": "2009",
-         "Imports value in billion U.S. dollars": "17.13"
-      },
-      {
-         "Year": "2008",
-         "Imports value in billion U.S. dollars": "19.36"
-      },
-      {
-         "Year": "2007",
-         "Imports value in billion U.S. dollars": "19.79"
-      },
-      {
-         "Year": "2006",
-         "Imports value in billion U.S. dollars": "18.44"
-      },
-      {
-         "Year": "2005",
-         "Imports value in billion U.S. dollars": "15.83"
-      },
-      {
-         "Year": "2004",
-         "Imports value in billion U.S. dollars": "13.8"
-      },
-      {
-         "Year": "2003",
-         "Imports value in billion U.S. dollars": "11.82"
-      },
-      {
-         "Year": "2002",
-         "Imports value in billion U.S. dollars": "10.43"
+         "Name": "Tibo InShape",
+         "Number of subscribers in millions": "3.87"
       }
-   ]
+   ],
+   "gold": "The comedy YouTube channels of Cyprien and Norman fait des vid\u00e9os were the two leading Youtube channels in France as of October 2017 . At that time , Cyprien recorded 11.39 million subscribers , while Norman fait des videos ranked in second with 9.88 million followers . YouTube 's success storys Beside music channels , most of the YouTube channels in this ranking are comedy channels moderated by young adults around topics regarding everyday life situations and problems of younger generations , as well as joking about the adult life from a Millennial perspective .\n"
 }

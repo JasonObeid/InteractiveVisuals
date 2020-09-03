@@ -4,54 +4,36 @@
    "yAxis": "Ratio of government expenditure to GDP",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Ratio of government expenditure to GDP, with a total of 11 data points. The chart has 5 significant trends.",
-      " The longest trend is extremely positive which exists from 2017 to 2014.",
-      " Likewise, the next significant trend is extremely positive which exists from 2024 to 2022.",
-      " Similarly, the next significant trend is extremely positive which exists from 2021 to 2019.",
-      " In a similar manner, the next significant trend is extremely negative which exists from 2019 to 2017.",
-      " On the other hand, the next significant trend is extremely negative which exists from 2022 to 2021."
+      " The longest trend is slightly negative which exists from 2017 to 2014.",
+      " On the contrary, the next significant trend is moderately negative which exists from 2024 to 2022.",
+      " On the other hand, the next significant trend is slightly negative which exists from 2021 to 2019.",
+      " But, the next significant trend is extremely positive which exists from 2019 to 2017.",
+      " In a similar manner, the next significant trend is moderately positive which exists from 2022 to 2021."
    ],
    "trends": [
+      {},
       {
-         "Length": 4,
-         "direction": "positive",
-         "start": 7,
-         "end": 10,
-         "trend": "y=-1.52x+3077.22",
-         "magnitude": "extremely"
+         "1": "7",
+         "12": "10"
       },
       {
-         "Length": 3,
-         "direction": "positive",
-         "start": 0,
-         "end": 2,
-         "trend": "y=-0.05x+131.66",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "2"
       },
       {
-         "Length": 3,
-         "direction": "positive",
-         "start": 3,
-         "end": 5,
-         "trend": "y=-1.28x+2606.91",
-         "magnitude": "extremely"
+         "3": "3",
+         "14": "5"
       },
       {
-         "Length": 3,
-         "direction": "negative",
-         "start": 5,
-         "end": 7,
-         "trend": "y=0.7x+-1380.09",
-         "magnitude": "extremely"
+         "3": "5",
+         "14": "7"
       },
       {
-         "Length": 2,
-         "direction": "negative",
-         "start": 2,
-         "end": 3,
-         "trend": "y=0.05x+-80.64",
-         "magnitude": "extremely"
+         "3": "2",
+         "14": "3"
       }
    ],
    "data": [

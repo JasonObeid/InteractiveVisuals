@@ -4,15 +4,24 @@
    "yAxis": "Misery index score",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 20 categories for the x axis representing Country, and a y axis representing Misery index score.",
       " The highest category is found at Venezuela where Misery index score is 1746439.1.",
       " The lowest category is found at Paraguay where Misery index score is 22.9."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 19
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "Venezuela",

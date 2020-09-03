@@ -1,67 +1,130 @@
 {
-   "title": "Population density in Canada 2018\n",
-   "xAxis": "Year",
-   "yAxis": "Inhabitants per square kilometer",
-   "columnType": "two",
+   "title": "Sales figures for Volkswagen by brand 2014 to 2018",
+   "labels": [
+      "Year",
+      "Volkswagen Passenger Cars",
+      "Audi",
+      "Skoda",
+      "Seat",
+      "VW Commercial Vehicles",
+      "Porsche",
+      "MAN Commercial Vehicles",
+      "Scania",
+      "Bentley"
+   ],
+   "columnType": "multi",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Inhabitants per square kilometer with a total of 11 data points. The chart has one significant trend.",
-      " This trend is extremely negative which exists from 2018 to 2008."
+      "This line chart has 9 lines.",
+      " The line representing Volkswagen Passenger Cars had the highest values across Year with a mean value of 4128.4.",
+      " This peaked at 2014 with a value of 4583.0. ",
+      " The line with the second highest values was Audi with a mean value of 1500.8.",
+      " This line peaked at 2016 with a value of 1534.0"
    ],
    "trends": [
+      {},
       {
-         "Length": 11,
-         "direction": "negative",
-         "start": 0,
-         "end": 10,
-         "trend": "y=0.04x+-77.57",
-         "magnitude": "extremely"
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "4",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "10": [
+            "0",
+            "1"
+         ]
       }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Inhabitants per square kilometer": 4.08
-      },
-      {
-         "Year": "2017",
-         "Inhabitants per square kilometer": 4.02
-      },
-      {
-         "Year": "2016",
-         "Inhabitants per square kilometer": 3.97
+         "Year": "2014",
+         "Volkswagen Passenger Cars": "4583",
+         "Audi": "1444",
+         "Skoda": "796",
+         "Seat": "501",
+         "VW Commercial Vehicles": "442",
+         "Porsche": "187",
+         "MAN Commercial Vehicles": "120",
+         "Scania": "80",
+         "Bentley": "11"
       },
       {
          "Year": "2015",
-         "Inhabitants per square kilometer": 3.93
+         "Volkswagen Passenger Cars": "4424",
+         "Audi": "1529",
+         "Skoda": "800",
+         "Seat": "544",
+         "VW Commercial Vehicles": "456",
+         "Porsche": "219",
+         "MAN Commercial Vehicles": "102",
+         "Scania": "78",
+         "Bentley": "11"
       },
       {
-         "Year": "2014",
-         "Inhabitants per square kilometer": 3.9
+         "Year": "2016",
+         "Volkswagen Passenger Cars": "4347",
+         "Audi": "1534",
+         "Skoda": "814",
+         "Seat": "548",
+         "VW Commercial Vehicles": "478",
+         "Porsche": "239",
+         "MAN Commercial Vehicles": "102",
+         "Scania": "83",
+         "Bentley": "11"
       },
       {
-         "Year": "2013",
-         "Inhabitants per square kilometer": 3.86
+         "Year": "2017",
+         "Volkswagen Passenger Cars": "3573",
+         "Audi": "1530",
+         "Skoda": "937",
+         "Seat": "595",
+         "VW Commercial Vehicles": "498",
+         "Porsche": "248",
+         "MAN Commercial Vehicles": "114",
+         "Scania": "92",
+         "Bentley": "11"
       },
       {
-         "Year": "2012",
-         "Inhabitants per square kilometer": 3.82
-      },
-      {
-         "Year": "2011",
-         "Inhabitants per square kilometer": 3.78
-      },
-      {
-         "Year": "2010",
-         "Inhabitants per square kilometer": 3.74
-      },
-      {
-         "Year": "2009",
-         "Inhabitants per square kilometer": 3.7
-      },
-      {
-         "Year": "2008",
-         "Inhabitants per square kilometer": 3.66
+         "Year": "2018",
+         "Volkswagen Passenger Cars": "3715",
+         "Audi": "1467",
+         "Skoda": "957",
+         "Seat": "608",
+         "VW Commercial Vehicles": "469",
+         "Porsche": "253",
+         "MAN Commercial Vehicles": "137",
+         "Scania": "97",
+         "Bentley": "10"
       }
    ]
 }

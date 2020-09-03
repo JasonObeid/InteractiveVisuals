@@ -9,16 +9,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 10 categories for the x axis of Response representing 2016, 2017, 2018, 2019.",
+      "This grouped bar chart has 10 categories for the x axis of Response representing 2016, 2017, 2018, and 2019.",
       " The highest category is found at Fiat with a mean value of 349364.5.",
       " The second highest category is found at Volkswagen with a mean value of 155929.0.",
       " This represents a difference of 76.6%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "4",
+            "1"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Response": "Fiat",

@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 6 categories for the x axis of Country representing Mobile market, Fixed market.",
+      "This grouped bar chart has 6 categories for the x axis of Country representing Mobile market, and Fixed market.",
       " The highest category is found at Germany with a mean value of 27.5.",
       " The second highest category is found at South Africa/Africa (Vodacom Group) with a mean value of 23.15.",
       " This represents a difference of 17.2%."
    ],
-   "trends": {
-      "maxIndex": 1,
-      "secondIndex": 1
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "2",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "2",
+            "0"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "South Africa/Africa (Vodacom Group)",

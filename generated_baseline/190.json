@@ -4,15 +4,24 @@
    "yAxis": "Monthly percentage of change",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 13 categories for the x axis representing Month, and a y axis representing Monthly percentage of change.",
       " The highest category is found at Jan_'20 where Monthly percentage of change is 0.6.",
       " The lowest category is found at Oct_'19 where Monthly percentage of change is 0.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 3
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
    "data": [
       {
          "Month": "Jan '20",

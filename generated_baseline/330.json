@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 4 categories for the x axis of Race representing Barack Obama, Mitt Romney.",
+      "This grouped bar chart has 4 categories for the x axis of Race representing Barack Obama, and Mitt Romney.",
       " The highest category is found at Asian with a mean value of 49.5.",
       " The second highest category is found at Black with a mean value of 49.5.",
       " This represents a difference of 0.0%."
    ],
-   "trends": {
-      "maxIndex": 3,
-      "secondIndex": 3
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "13": [
+            "2",
+            "3"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Race": "White",

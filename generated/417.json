@@ -1,74 +1,85 @@
 {
-   "title": "Public opinion of important issues facing the Netherlands 2019",
-   "xAxis": "Issue",
-   "yAxis": "Share of respondents",
-   "columnType": "two",
+   "title": "Forecast : PaaS market share in 2011 - 2016 , by service",
+   "labels": [
+      "Cloud Service",
+      "2011",
+      "2016"
+   ],
+   "columnType": "multi",
    "graphType": "bar",
    "summary": [
-      "This statistic shows the Issue issues of Canadians for 2019 , distinguished facing 2019 of Issue . ",
-      "In 2019 , about 66 % of respondents in Netherlands were The_environment_climate_and_energy_issues or ."
+      "This statistic shows market on Forecast of PaaS ( IoT ) 2011 2016 share in 2011 and 2016 . ",
+      "In 2011 , the IoT market in Cloud_Horizontal_Portal_Services_(Portal_PaaS) amounted to 35 billion U.S. dollars ."
    ],
    "trends": [
       {},
       {
-         "4": "0",
-         "11": "0",
-         "13": "0",
-         "15": "0"
+         "7": [
+            "10",
+            "0"
+         ],
+         "10": [
+            "0",
+            "1"
+         ]
       }
    ],
    "data": [
       {
-         "Issue": "The environment climate and energy issues",
-         "Share of respondents": "66"
+         "Cloud Service": "Cloud Application platform services (aPaaS)",
+         "2011": "35",
+         "2016": "35"
       },
       {
-         "Issue": "Health and social security",
-         "Share of respondents": "31"
+         "Cloud Service": "Cloud ALM Services (almPaaS)",
+         "2011": "12",
+         "2016": "11"
       },
       {
-         "Issue": "The education system",
-         "Share of respondents": "25"
+         "Cloud Service": "Cloud BPM platform services (bpmPaaS)",
+         "2011": "11",
+         "2016": "10"
       },
       {
-         "Issue": "Crime",
-         "Share of respondents": "15"
+         "Cloud Service": "Cloud Integration services (iPaaS)",
+         "2011": "11",
+         "2016": "14"
       },
       {
-         "Issue": "Housing",
-         "Share of respondents": "15"
+         "Cloud Service": "Cloud Application Security Services",
+         "2011": "11",
+         "2016": "9"
       },
       {
-         "Issue": "Pensions",
-         "Share of respondents": "14"
+         "Cloud Service": "Cloud MFT Services",
+         "2011": "8",
+         "2016": "6"
       },
       {
-         "Issue": "Immigration",
-         "Share of respondents": "13"
+         "Cloud Service": "Cloud Application Services Governance",
+         "2011": "4",
+         "2016": "3"
       },
       {
-         "Issue": "Rising prices/inflation/cost of living",
-         "Share of respondents": "9"
+         "Cloud Service": "Cloud Business Analytics Services (baPaaS)",
+         "2011": "3",
+         "2016": "4"
       },
       {
-         "Issue": "Economic situation",
-         "Share of respondents": "5"
+         "Cloud Service": "Cloud MOM Services",
+         "2011": "2",
+         "2016": "2"
       },
       {
-         "Issue": "Terrorism",
-         "Share of respondents": "4"
+         "Cloud Service": "Cloud Database services (dbPaas)",
+         "2011": "2",
+         "2016": "4"
       },
       {
-         "Issue": "Taxation",
-         "Share of respondents": "1"
-      },
-      {
-         "Issue": "Unemployment",
-         "Share of respondents": "1"
-      },
-      {
-         "Issue": "Government debt",
-         "Share of respondents": "0"
+         "Cloud Service": "Cloud Horizontal Portal Services (Portal PaaS)",
+         "2011": "1",
+         "2016": "2"
       }
-   ]
+   ],
+   "gold": "This statistic shows the market share of different Platform as a Service ( PaaS ) systems in 2011 and a forecast for 2016 . By 2016 , it is anticipated that almPaaS will account for 11 percent of the market . The source also estimates that the total value of the PaaS market will reach 2.9 billion U.S. by 2016 , up from 900 million in 2011 .\n"
 }

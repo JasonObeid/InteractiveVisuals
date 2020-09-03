@@ -1,110 +1,46 @@
 {
-   "title": "India 's sales of automobiles 2010- 2019 by type",
-   "labels": [
-      "unknown",
-      "Two wheelers",
-      "Passenger vehicles",
-      "Commercial vehicles",
-      "Three wheelers"
-   ],
-   "columnType": "multi",
+   "title": "Annual median salary in financial , insurance and real estate services in the UK 2019",
+   "xAxis": "Service In Uk",
+   "yAxis": "Median annual salary in GBP",
+   "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic presents the ranking of leading India sales globally in 2019 , by type FY_2019 . ",
-      "The FY_2011 by figures have also been provided for reference . ",
-      "The revenues type FY_2019 of FY_2018 , a global provider of banking and payment FY_2011 , amounted to approximately 20.2 billion U.S. dollars in 2019 ."
+      "The statistic shows the share of median into the Annual in 2019 , sorted financial Service Uk . ",
+      "In that year , the Financial_services_activities Uk was the leading salary median importer . ",
+      "Imported Activities_auxiliary_to_financial from this Uk were worth some 42066 million salary GBP ."
    ],
    "trends": [
+      {},
       {
-         "17": [
-            "0",
-            "0"
-         ]
+         "5": "0"
       },
       {
-         "1": [
-            "8",
-            "0"
-         ]
-      },
-      {
-         "4": [
-            "0",
-            "0"
-         ],
-         "6": [
-            "1",
-            "0"
-         ],
-         "15": [
-            "8",
-            "0"
-         ]
+         "1": "3",
+         "8": "0"
       }
    ],
    "data": [
       {
-         "unknown": "FY 2019",
-         "Two wheelers": "21.18",
-         "Passenger vehicles": "3.4",
-         "Commercial vehicles": "1.0",
-         "Three wheelers": "0.7"
+         "Service In Uk": "Financial services activities",
+         "Median annual salary in GBP": "42066"
       },
       {
-         "unknown": "FY 2018",
-         "Two wheelers": "20.2",
-         "Passenger vehicles": "3.3",
-         "Commercial vehicles": "0.86",
-         "Three wheelers": "0.64"
+         "Service In Uk": "Financial & insurance average all categories",
+         "Median annual salary in GBP": "38921"
       },
       {
-         "unknown": "FY 2017",
-         "Two wheelers": "17.6",
-         "Passenger vehicles": "3.0",
-         "Commercial vehicles": "0.71",
-         "Three wheelers": "0.51"
+         "Service In Uk": "Insurance reinsurance pension funding",
+         "Median annual salary in GBP": "33822"
       },
       {
-         "unknown": "FY 2016",
-         "Two wheelers": "16.5",
-         "Passenger vehicles": "2.8",
-         "Commercial vehicles": "0.69",
-         "Three wheelers": "0.54"
+         "Service In Uk": "Activities auxiliary to financial",
+         "Median annual salary in GBP": "36973"
       },
       {
-         "unknown": "FY 2015",
-         "Two wheelers": "16.0",
-         "Passenger vehicles": "2.6",
-         "Commercial vehicles": "0.61",
-         "Three wheelers": "0.53"
-      },
-      {
-         "unknown": "FY 2014",
-         "Two wheelers": "14.8",
-         "Passenger vehicles": "2.5",
-         "Commercial vehicles": "0.63",
-         "Three wheelers": "0.48"
-      },
-      {
-         "unknown": "FY 2013",
-         "Two wheelers": "13.8",
-         "Passenger vehicles": "2.7",
-         "Commercial vehicles": "0.79",
-         "Three wheelers": "0.54"
-      },
-      {
-         "unknown": "FY 2012",
-         "Two wheelers": "13.4",
-         "Passenger vehicles": "2.6",
-         "Commercial vehicles": "0.81",
-         "Three wheelers": "0.51"
-      },
-      {
-         "unknown": "FY 2011",
-         "Two wheelers": "11.8",
-         "Passenger vehicles": "2.5",
-         "Commercial vehicles": "0.68",
-         "Three wheelers": "0.53"
+         "Service In Uk": "Real estate",
+         "Median annual salary in GBP": "25924"
       }
-   ]
+   ],
+   "gold": "This statistic illustrates the median annual gross salary for employees of the the financial and insurance sectors , as well as in real estate services in the United Kingdom ( UK ) in 2019 , in British pounds . In that year , the highest median annual gross salary was from the financial services activities sector , amounting with roughly 42.1 thousand British pounds . Among all sectors in this statistic , real estate services presented the lowest annual gross salary , with roughly 25.9 thousand British pounds .\n"
 }

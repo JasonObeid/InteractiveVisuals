@@ -1,134 +1,127 @@
 {
-   "title": "Registration of buses and coaches in Europe by country 2018",
-   "xAxis": "Country",
-   "yAxis": "Registrations in units",
-   "columnType": "two",
+   "title": "EU car sales : share of diesel engines 2013 - 2017 , by brand",
+   "labels": [
+      "Brand",
+      "2013",
+      "2017"
+   ],
+   "columnType": "multi",
    "graphType": "bar",
    "summary": [
-      "This statistic shows the Registrations units in the member states of the European Union in the first country of 2018 . ",
-      "The data refer to the entire state and are comprised of the debts of central government , provinces municipalities , local authorities and social security . ",
-      "In the first country of 2018 , Poland 's Registrations units amounted to about 1026 million units ."
+      "Volvo cars were the most expensive automobiles sold in the EU in 2017 . ",
+      "With an share price tag of 79 euros , the car maker ranked ahead of fellow German manufacturer BMW . ",
+      "The only car by which had seen its diesel dropped since 2013 was Citroen ."
    ],
    "trends": [
-      {},
-      {},
       {
-         "7": "7",
-         "14": "7"
-      }
+         "0": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "6": [
+            "0",
+            "2"
+         ],
+         "18": [
+            "1",
+            "0"
+         ]
+      },
+      {}
    ],
    "data": [
       {
-         "Country": "United Kingdom",
-         "Registrations in units": "7236"
+         "Brand": "Volvo",
+         "2013": "87",
+         "2017": "79"
       },
       {
-         "Country": "Germany",
-         "Registrations in units": "6669"
+         "Brand": "BMW",
+         "2013": "81",
+         "2017": "68"
       },
       {
-         "Country": "France",
-         "Registrations in units": "6230"
+         "Brand": "Mercedes",
+         "2013": "71",
+         "2017": "68"
       },
       {
-         "Country": "Italy",
-         "Registrations in units": "4348"
+         "Brand": "Audi",
+         "2013": "75",
+         "2017": "59"
       },
       {
-         "Country": "Spain",
-         "Registrations in units": "3327"
+         "Brand": "Renault",
+         "2013": "60",
+         "2017": "49"
       },
       {
-         "Country": "Austria",
-         "Registrations in units": "1060"
+         "Brand": "Peugeot",
+         "2013": "61",
+         "2017": "49"
       },
       {
-         "Country": "Romania",
-         "Registrations in units": "1029"
+         "Brand": "Nissan",
+         "2013": "51",
+         "2017": "47"
       },
       {
-         "Country": "Poland",
-         "Registrations in units": "1026"
+         "Brand": "Volkswagen",
+         "2013": "56",
+         "2017": "47"
       },
       {
-         "Country": "Czechia",
-         "Registrations in units": "1009"
+         "Brand": "Ford",
+         "2013": "45",
+         "2017": "44"
       },
       {
-         "Country": "Norway",
-         "Registrations in units": "1001"
+         "Brand": "Citroen",
+         "2013": "64",
+         "2017": "43"
       },
       {
-         "Country": "Belgium",
-         "Registrations in units": "989"
+         "Brand": "Skoda",
+         "2013": "46",
+         "2017": "41"
       },
       {
-         "Country": "Sweden",
-         "Registrations in units": "872"
+         "Brand": "Dacia",
+         "2013": "52",
+         "2017": "39"
       },
       {
-         "Country": "Lithuania",
-         "Registrations in units": "696"
+         "Brand": "Kia",
+         "2013": "45",
+         "2017": "39"
       },
       {
-         "Country": "Hungary",
-         "Registrations in units": "662"
+         "Brand": "Fiat",
+         "2013": "31",
+         "2017": "36"
       },
       {
-         "Country": "Switzerland",
-         "Registrations in units": "614"
+         "Brand": "Hyundai",
+         "2013": "39",
+         "2017": "32"
       },
       {
-         "Country": "Ireland",
-         "Registrations in units": "547"
+         "Brand": "Opel",
+         "2013": "41",
+         "2017": "30"
       },
       {
-         "Country": "Denmark",
-         "Registrations in units": "503"
+         "Brand": "Seat",
+         "2013": "44",
+         "2017": "29"
       },
       {
-         "Country": "Portugal",
-         "Registrations in units": "500"
-      },
-      {
-         "Country": "Finland",
-         "Registrations in units": "497"
-      },
-      {
-         "Country": "Netherlands",
-         "Registrations in units": "429"
-      },
-      {
-         "Country": "Slovakia",
-         "Registrations in units": "302"
-      },
-      {
-         "Country": "Croatia",
-         "Registrations in units": "242"
-      },
-      {
-         "Country": "Luxembourg",
-         "Registrations in units": "221"
-      },
-      {
-         "Country": "Slovenia",
-         "Registrations in units": "187"
-      },
-      {
-         "Country": "Greece",
-         "Registrations in units": "183"
-      },
-      {
-         "Country": "Estonia",
-         "Registrations in units": "142"
-      },
-      {
-         "Country": "Latvia",
-         "Registrations in units": "108"
-      },
-      {
-         "Country": "Iceland",
-         "Registrations in units": "65"
+         "Brand": "Toyota",
+         "2013": "26",
+         "2017": "8"
       }
-   ]
+   ],
+   "gold": "Volvo had the greatest share of diesel fueled passenger cars in Europe . Despite reducing its share of diesel cars in the past few years , 79 percent of all Volvo cars on European roads were fitted with a diesel engine in 2017 . This was followed by three German companies , BMW , Mercedes and Audi , while Fiat was the only automobile brand listed which had seen its share of diesel cars increase .\n"
 }

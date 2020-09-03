@@ -1,63 +1,71 @@
 {
-   "title": "Value of the entertainment and media market in Thailand from 2008 to 2017",
+   "title": "Urbanization in Chile 2018",
    "xAxis": "Year",
-   "yAxis": "Market value in billion U.S. dollars",
+   "yAxis": "Share of urban population in total population",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic depicts the volume of international entertainment Market Thailand container ships from 2008 through 2017 . ",
-      "Globally , entertainment containerized cargo amounted to around 14.79 billion U.S. in 2017 ."
+      "This statistic shows the degree of Urbanization in Chile from 2008 to 2018 . ",
+      "Urbanization means the Share of urban population in the total population of a country . ",
+      "In 2018 , 87.56 % of Chile 's total population lived in urban areas and cities ."
    ],
    "trends": [
       {
-         "14": "9",
-         "16": "0"
+         "10": "10",
+         "12": "0"
       },
+      {},
       {
-         "8": "0",
-         "13": "0"
+         "1": "0",
+         "3": "0"
       }
    ],
    "data": [
       {
+         "Year": "2018",
+         "Share of urban population in total population": "87.56"
+      },
+      {
          "Year": "2017",
-         "Market value in billion U.S. dollars": "14.79"
+         "Share of urban population in total population": "87.49"
       },
       {
          "Year": "2016",
-         "Market value in billion U.S. dollars": "13.42"
+         "Share of urban population in total population": "87.42"
       },
       {
          "Year": "2015",
-         "Market value in billion U.S. dollars": "12.09"
+         "Share of urban population in total population": "87.36"
       },
       {
          "Year": "2014",
-         "Market value in billion U.S. dollars": "10.98"
+         "Share of urban population in total population": "87.3"
       },
       {
          "Year": "2013",
-         "Market value in billion U.S. dollars": "9.89"
+         "Share of urban population in total population": "87.25"
       },
       {
          "Year": "2012",
-         "Market value in billion U.S. dollars": "8.89"
+         "Share of urban population in total population": "87.19"
       },
       {
          "Year": "2011",
-         "Market value in billion U.S. dollars": "7.93"
+         "Share of urban population in total population": "87.13"
       },
       {
          "Year": "2010",
-         "Market value in billion U.S. dollars": "7.21"
+         "Share of urban population in total population": "87.07"
       },
       {
          "Year": "2009",
-         "Market value in billion U.S. dollars": "6.62"
+         "Share of urban population in total population": "87.02"
       },
       {
          "Year": "2008",
-         "Market value in billion U.S. dollars": "6.43"
+         "Share of urban population in total population": "86.96"
       }
-   ]
+   ],
+   "gold": "This statistic shows the degree of urbanization in Chile from 2008 to 2018 . Urbanization means the share of urban population in the total population of a country . In 2018 , 87.56 percent of Chile 's total population lived in urban areas and cities .\n"
 }

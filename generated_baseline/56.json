@@ -4,54 +4,36 @@
    "yAxis": "Gross domestic product in billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Gross domestic product in billion U.S. dollars, with a total of 41 data points. The chart has 5 significant trends.",
-      " The longest trend is extremely negative which exists from 2024 to 2016.",
-      " On the other hand, the next significant trend is extremely negative which exists from 1994 to 1986.",
-      " On the other hand, the next significant trend is extremely negative which exists from 2002 to 1995.",
-      " But, the next significant trend is extremely negative which exists from 2014 to 2009.",
-      " But, the next significant trend is extremely negative which exists from 2008 to 2003."
+      " The longest trend is moderately positive which exists from 1995 to 1986.",
+      " Correspondingly, the next significant trend is extremely positive which exists from 2024 to 2016.",
+      " Also, the next significant trend is extremely positive which exists from 2003 to 1995.",
+      " Additionally, the next significant trend is slightly positive which exists from 2016 to 2009.",
+      " Additionally, the next significant trend is moderately positive which exists from 2009 to 2003."
    ],
    "trends": [
+      {},
       {
-         "Length": 9,
-         "direction": "negative",
-         "start": 0,
-         "end": 8,
-         "trend": "y=60.13x+-120124.46",
-         "magnitude": "extremely"
+         "1": "29",
+         "12": "38"
       },
       {
-         "Length": 9,
-         "direction": "negative",
-         "start": 30,
-         "end": 38,
-         "trend": "y=50.37x+-99917.38",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "8"
       },
       {
-         "Length": 8,
-         "direction": "negative",
-         "start": 22,
-         "end": 29,
-         "trend": "y=63.2x+-125727.02",
-         "magnitude": "extremely"
+         "3": "21",
+         "14": "29"
       },
       {
-         "Length": 6,
-         "direction": "negative",
-         "start": 10,
-         "end": 15,
-         "trend": "y=78.37x+-156496.29",
-         "magnitude": "extremely"
+         "3": "8",
+         "14": "15"
       },
       {
-         "Length": 6,
-         "direction": "negative",
-         "start": 16,
-         "end": 21,
-         "trend": "y=80.36x+-160236.78",
-         "magnitude": "extremely"
+         "3": "15",
+         "14": "21"
       }
    ],
    "data": [

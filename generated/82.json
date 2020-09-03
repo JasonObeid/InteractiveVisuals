@@ -1,53 +1,55 @@
 {
-   "title": "General Motors - revenue 2013 to 2019",
+   "title": "Vietnam : number of social network users 2017 to 2023",
    "xAxis": "Year",
-   "yAxis": "Revenue in billion U.S. dollars",
+   "yAxis": "Number of users in millions",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows Motors AR 2019 Revenue worldwide from 2013 to 2019 . ",
-      "Motors revenue 2013 2019 Revenue reached 135.73 billion U.S. dollars in 2015 and is forecast to amount around 149.18 billion U.S. dollars by 2016 ."
+      "This statistic shows the Number of Vietnam users in Vietnam from 2017 to 2023 . ",
+      "In 2018 , the Number of Vietnam users in Vietnam reached 46.2 millions , up from 43.8 millions in 2017 ."
    ],
    "trends": [
       {
-         "9": "6",
-         "11": "0"
+         "11": "6",
+         "13": "0"
       },
       {
-         "6": "4",
-         "11": "4",
-         "19": "3",
-         "24": "3"
+         "1": "5",
+         "11": "5",
+         "16": "6",
+         "19": "6"
       }
    ],
    "data": [
       {
+         "Year": "2023",
+         "Number of users in millions": "52.8"
+      },
+      {
+         "Year": "2022",
+         "Number of users in millions": "51.9"
+      },
+      {
+         "Year": "2021",
+         "Number of users in millions": "50.9"
+      },
+      {
+         "Year": "2020",
+         "Number of users in millions": "49.6"
+      },
+      {
          "Year": "2019",
-         "Revenue in billion U.S. dollars": "137.2"
+         "Number of users in millions": "48.0"
       },
       {
          "Year": "2018",
-         "Revenue in billion U.S. dollars": "147.05"
+         "Number of users in millions": "46.2"
       },
       {
          "Year": "2017",
-         "Revenue in billion U.S. dollars": "145.59"
-      },
-      {
-         "Year": "2016",
-         "Revenue in billion U.S. dollars": "149.18"
-      },
-      {
-         "Year": "2015",
-         "Revenue in billion U.S. dollars": "135.73"
-      },
-      {
-         "Year": "2014",
-         "Revenue in billion U.S. dollars": "137.96"
-      },
-      {
-         "Year": "2013",
-         "Revenue in billion U.S. dollars": "138.79"
+         "Number of users in millions": "43.8"
       }
-   ]
+   ],
+   "gold": "This statistic shows the number of social network users in Vietnam from 2017 to 2023 . In 2021 , it is estimated that there will be around 50.9 million social network users in the country , up from 52.8 million in 2017 .\n"
 }

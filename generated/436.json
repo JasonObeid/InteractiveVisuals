@@ -1,99 +1,60 @@
 {
-   "title": "Population of Luxembourg 2019 , by age",
-   "xAxis": "Year",
-   "yAxis": "Number of inhabitants",
+   "title": "Preferred online retail payment methods worldwide 2017",
+   "xAxis": "Payment Method",
+   "yAxis": "Share of online shoppers",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Number of Luxembourg inhabitants in Luxembourg from 2019 to . ",
-      "In 2019 , there were 32592 new inhabitants to Luxembourg ."
+      "This statistic presents the retail shoppers methods worldwide or 2017 Payment according to users in the Preferred as of 2017 . ",
+      "According to the findings , 42 % of users reported that they found Credit_cards to be shoppers , while in comparison only 14 % of users had reported the same for Mobile_payment ."
    ],
    "trends": [
       {},
       {
-         "5": "0"
+         "5": "0",
+         "13": "0",
+         "22": "6",
+         "31": "6"
       }
    ],
    "data": [
       {
-         "Year": "0-4 years",
-         "Number of inhabitants": "32592"
+         "Payment Method": "Credit cards",
+         "Share of online shoppers": "42"
       },
       {
-         "Year": "5-9 years",
-         "Number of inhabitants": "33355"
+         "Payment Method": "Electronic payment (PayPal if available)",
+         "Share of online shoppers": "39"
       },
       {
-         "Year": "10-14 years",
-         "Number of inhabitants": "32660"
+         "Payment Method": "Debit cards",
+         "Share of online shoppers": "28"
       },
       {
-         "Year": "15-19 years",
-         "Number of inhabitants": "33206"
+         "Payment Method": "Cash on delivery",
+         "Share of online shoppers": "23"
       },
       {
-         "Year": "20-24 years",
-         "Number of inhabitants": "38038"
+         "Payment Method": "Bank transfers",
+         "Share of online shoppers": "20"
       },
       {
-         "Year": "25-29 years",
-         "Number of inhabitants": "46125"
+         "Payment Method": "Gift cards or vouchers",
+         "Share of online shoppers": "15"
       },
       {
-         "Year": "30-34 years",
-         "Number of inhabitants": "47863"
+         "Payment Method": "Mobile payment",
+         "Share of online shoppers": "14"
       },
       {
-         "Year": "35-39 years",
-         "Number of inhabitants": "48111"
+         "Payment Method": "Cryptocurrencies (Bitcoin)",
+         "Share of online shoppers": "3"
       },
       {
-         "Year": "40-44 years",
-         "Number of inhabitants": "46177"
-      },
-      {
-         "Year": "45-49 years",
-         "Number of inhabitants": "46183"
-      },
-      {
-         "Year": "50-54 years",
-         "Number of inhabitants": "46695"
-      },
-      {
-         "Year": "55-59 years",
-         "Number of inhabitants": "41130"
-      },
-      {
-         "Year": "60-64 years",
-         "Number of inhabitants": "33431"
-      },
-      {
-         "Year": "65-69 years",
-         "Number of inhabitants": "26712"
-      },
-      {
-         "Year": "70-74 years",
-         "Number of inhabitants": "21074"
-      },
-      {
-         "Year": "75-79 years",
-         "Number of inhabitants": "16260"
-      },
-      {
-         "Year": "80-84 years",
-         "Number of inhabitants": "12270"
-      },
-      {
-         "Year": "85-89 years",
-         "Number of inhabitants": "8069"
-      },
-      {
-         "Year": "90-94 years",
-         "Number of inhabitants": "3177"
-      },
-      {
-         "Year": "95 years and older",
-         "Number of inhabitants": "766"
+         "Payment Method": "Other",
+         "Share of online shoppers": "3"
       }
-   ]
+   ],
+   "gold": "Online shoppers have a wide range of payment methods to choose from and during a March 2017 survey of global online shoppers , 42 percent of respondents stated that they preferred to pay via credit card . Credit cards were the most popular payment method , ahead of electronic options such as PayPal . Digital payments Digital and mobile payments have been around for a while but not all shoppers have taken to them equally .\n"
 }

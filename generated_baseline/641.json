@@ -8,16 +8,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 9 categories for the x axis of IT category representing 2017, 2018, 2019.",
+      "This grouped bar chart has 9 categories for the x axis of IT category representing 2017, 2018, and 2019.",
       " The highest category is found at Big data / analytics with a mean value of 44.0.",
-      " The second highest category is found at Enterprise architecture with a mean value of 34.333333333333336.",
+      " The second highest category is found at Enterprise architecture with a mean value of 34.33.",
       " This represents a difference of 24.7%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "14": [
+            "3",
+            "3"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "IT category": "Big data / analytics",

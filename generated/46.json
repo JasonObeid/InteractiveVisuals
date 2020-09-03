@@ -1,73 +1,124 @@
 {
-   "title": "Market size of professional football in Europe 2006 to 2018",
-   "xAxis": "Year",
-   "yAxis": "Revenue in billion euros",
+   "title": "Leading life insurance companies in the U.S. 2018 , by assets",
+   "xAxis": "Insurers",
+   "yAxis": "Total assets in billion U.S. dollars",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic illustrates the Revenue of Europe & Cie. from 2006/07 to 2017/18 . ",
-      "In its fiscal Year 2016/17 , Europe made total Revenue of 28.4 billion euros worldwide , a record high . ",
-      "Europe 's annual sales have witnessed continuous growth during the measured period ."
+      "The statistic shows a ranking of U.S. Soccer according to their assets . ",
+      "In 2018 , Prudential_Financial was the most valuable companies Total with a Total assets of 577.91 billion U.S. dollars . ",
+      "companies franchise values - additional information U.S. Soccer , which played its first season in 1996 , includes 24 U.S. , of which 21 are located in the U.S. and three in Canada ."
    ],
    "trends": [
+      {},
       {
-         "10": "11",
-         "12": "0"
-      },
-      {
-         "4": "1",
-         "11": "0"
+         "3": "0",
+         "15": "0"
       },
       {}
    ],
    "data": [
       {
-         "Year": "2017/18",
-         "Revenue in billion euros": "28.4"
+         "Insurers": "Prudential Financial",
+         "Total assets in billion U.S. dollars": "577.91"
       },
       {
-         "Year": "2016/17",
-         "Revenue in billion euros": "25.5"
+         "Insurers": "MetLife Inc.",
+         "Total assets in billion U.S. dollars": "409.62"
       },
       {
-         "Year": "2015/16",
-         "Revenue in billion euros": "24.6"
+         "Insurers": "New York Life",
+         "Total assets in billion U.S. dollars": "324.78"
       },
       {
-         "Year": "2014/15",
-         "Revenue in billion euros": "21.8"
+         "Insurers": "TIAA-CREF",
+         "Total assets in billion U.S. dollars": "316.04"
       },
       {
-         "Year": "2013/14",
-         "Revenue in billion euros": "21.3"
+         "Insurers": "American International Group",
+         "Total assets in billion U.S. dollars": "285.0"
       },
       {
-         "Year": "2012/13",
-         "Revenue in billion euros": "19.9"
+         "Insurers": "Northwestern Mutual",
+         "Total assets in billion U.S. dollars": "272.27"
       },
       {
-         "Year": "2011/12",
-         "Revenue in billion euros": "19.4"
+         "Insurers": "Lincoln Financial",
+         "Total assets in billion U.S. dollars": "255.64"
       },
       {
-         "Year": "2010/11",
-         "Revenue in billion euros": "16.9"
+         "Insurers": "Massachusetts Mutual",
+         "Total assets in billion U.S. dollars": "254.87"
       },
       {
-         "Year": "2009/10",
-         "Revenue in billion euros": "16.3"
+         "Insurers": "Manulife Financial",
+         "Total assets in billion U.S. dollars": "247.57"
       },
       {
-         "Year": "2008/09",
-         "Revenue in billion euros": "15.7"
+         "Insurers": "Jackson National",
+         "Total assets in billion U.S. dollars": "236.99"
       },
       {
-         "Year": "2007/08",
-         "Revenue in billion euros": "14.6"
+         "Insurers": "Transamerica Corporation",
+         "Total assets in billion U.S. dollars": "201.2"
       },
       {
-         "Year": "2006/07",
-         "Revenue in billion euros": "13.6"
+         "Insurers": "AXA Financial",
+         "Total assets in billion U.S. dollars": "194.99"
+      },
+      {
+         "Insurers": "Voya Financial",
+         "Total assets in billion U.S. dollars": "189.37"
+      },
+      {
+         "Insurers": "Principal Financial",
+         "Total assets in billion U.S. dollars": "185.01"
+      },
+      {
+         "Insurers": "Brighthouse Holdings Group",
+         "Total assets in billion U.S. dollars": "179.3"
+      },
+      {
+         "Insurers": "Nationwide",
+         "Total assets in billion U.S. dollars": "170.47"
+      },
+      {
+         "Insurers": "Allianz",
+         "Total assets in billion U.S. dollars": "145.15"
+      },
+      {
+         "Insurers": "Pacific Life",
+         "Total assets in billion U.S. dollars": "135.58"
+      },
+      {
+         "Insurers": "Hopmeadow Holdings Group",
+         "Total assets in billion U.S. dollars": "117.91"
+      },
+      {
+         "Insurers": "Ameriprise Financial",
+         "Total assets in billion U.S. dollars": "104.11"
+      },
+      {
+         "Insurers": "Thrivent Financial For Lutherans",
+         "Total assets in billion U.S. dollars": "94.23"
+      },
+      {
+         "Insurers": "Sammons Financial",
+         "Total assets in billion U.S. dollars": "85.25"
+      },
+      {
+         "Insurers": "Athene Group",
+         "Total assets in billion U.S. dollars": "83.78"
+      },
+      {
+         "Insurers": "State Farm",
+         "Total assets in billion U.S. dollars": "78.03"
+      },
+      {
+         "Insurers": "Guardian",
+         "Total assets in billion U.S. dollars": "75.59"
       }
-   ]
+   ],
+   "gold": "In 2018 , Prudential Financial was the largest life insurance company in the U.S. , with assets amounting to approximately 578 billion U.S. dollars . Life insurance - additional information Life insurance is an important component of basic financial planning and acts as a form of protection against the loss of income resulting from the death of an insured individual . The person named as the beneficiary of the deceased receives the proceeds and is therefore protected against any financial impact that may result from the death .\n"
 }

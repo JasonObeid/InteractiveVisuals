@@ -1,0 +1,20 @@
+{
+   "title": "Global revenue of Birkenstock 2012 to 2013\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This timeline depicts the annual revenue of dollar stores in the united states in 2011 and provides a forecast for 2016 . In 2011 , the annual sales of dollar stores pertaining to grocery and consumable products amounted to about 24.03 billion u.s. dollars\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2013",
+         "Revenue in million euros": 14525.69
+      },
+      {
+         "Year": "2012",
+         "Revenue in million euros": 14109.4
+      }
+   ]
+}

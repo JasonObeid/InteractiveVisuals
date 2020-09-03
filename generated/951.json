@@ -1,232 +1,107 @@
 {
-   "title": "Population of Europe 2016 , by country and gender",
-   "labels": [
-      "Country",
-      "Male",
-      "Female"
-   ],
-   "columnType": "multi",
+   "title": "FIFA World Cup : Number of goals scored at each tournament 1930 to 2018",
+   "xAxis": "Countries",
+   "yAxis": "Number of goals scored",
+   "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "In 2016 , Germany had the highest Europe in the world at 40514123 million , and Female use was nearly ubiquitous . ",
-      "In the majority of countries where more than 90 % owned a Female , Europe is higher than 70 % , which is somewhat of an indicator for an Greece economy . ",
-      "Europe user numbers are increasing The number of global Europe users has constantly been increasing ever since the first smartphones hit the market , surpassing the three million mark for the first time in 2019 ."
+      "The statistic shows the FIFA World the Cup Number of goals Number in the scored in 1930 . ",
+      "In that year , England_1966 toiletries Number goals in the Russia_2018 were at 171 % scored ."
    ],
    "trends": [
+      {},
       {
-         "3": [
-            "0",
-            "0"
-         ]
-      },
-      {
-         "31": [
-            "10",
-            "0"
-         ]
-      },
-      {}
+         "4": "13",
+         "10": "0",
+         "13": "1"
+      }
    ],
    "data": [
       {
-         "Country": "Germany",
-         "Male": "40514123",
-         "Female": "41661561"
+         "Countries": "Russia 2018",
+         "Number of goals scored": "169"
       },
       {
-         "Country": "France",
-         "Male": "32340016",
-         "Female": "34419934"
+         "Countries": "Brazil 2014",
+         "Number of goals scored": "171"
       },
       {
-         "Country": "United Kingdom",
-         "Male": "32224529",
-         "Female": "33158027"
+         "Countries": "South Africa 2010",
+         "Number of goals scored": "143"
       },
       {
-         "Country": "Italy",
-         "Male": "29456321",
-         "Female": "31209230"
+         "Countries": "Germany 2006",
+         "Number of goals scored": "147"
       },
       {
-         "Country": "Spain",
-         "Male": "22807464",
-         "Female": "23632635"
+         "Countries": "South Korea / Japan 2002",
+         "Number of goals scored": "161"
       },
       {
-         "Country": "Ukraine",
-         "Male": "19717881",
-         "Female": "22872998"
+         "Countries": "France 1998",
+         "Number of goals scored": "171"
       },
       {
-         "Country": "Poland",
-         "Male": "18377040",
-         "Female": "19590169"
+         "Countries": "USA 1994",
+         "Number of goals scored": "141"
       },
       {
-         "Country": "Romania",
-         "Male": "9649811",
-         "Female": "10110503"
+         "Countries": "Italy 1990",
+         "Number of goals scored": "115"
       },
       {
-         "Country": "Netherlands",
-         "Male": "8417135",
-         "Female": "8561985"
+         "Countries": "Mexico 1986",
+         "Number of goals scored": "132"
       },
       {
-         "Country": "Belgium",
-         "Male": "5569264",
-         "Female": "5741853"
+         "Countries": "Spain 1982",
+         "Number of goals scored": "146"
       },
       {
-         "Country": "Greece",
-         "Male": "5224210",
-         "Female": "5559538"
+         "Countries": "Argentina 1978",
+         "Number of goals scored": "102"
       },
       {
-         "Country": "Portugal",
-         "Male": "4901509",
-         "Female": "5439821"
+         "Countries": "Germany 1974",
+         "Number of goals scored": "97"
       },
       {
-         "Country": "Czech Republic",
-         "Male": "5186330",
-         "Female": "5367513"
+         "Countries": "Mexico 1970",
+         "Number of goals scored": "95"
       },
       {
-         "Country": "Hungary",
-         "Male": "4688519",
-         "Female": "5141966"
+         "Countries": "England 1966",
+         "Number of goals scored": "89"
       },
       {
-         "Country": "Belarus",
-         "Male": "4420842",
-         "Female": "5077522"
+         "Countries": "Chile 1962",
+         "Number of goals scored": "89"
       },
       {
-         "Country": "Sweden",
-         "Male": "4930966",
-         "Female": "4920051"
+         "Countries": "Sweden 1958",
+         "Number of goals scored": "126"
       },
       {
-         "Country": "Austria",
-         "Male": "4265369",
-         "Female": "4424707"
+         "Countries": "Switzerland 1954",
+         "Number of goals scored": "140"
       },
       {
-         "Country": "Switzerland",
-         "Male": "4121471",
-         "Female": "4205655"
+         "Countries": "Brazil 1950",
+         "Number of goals scored": "88"
       },
       {
-         "Country": "Bulgaria",
-         "Male": "3477177",
-         "Female": "3676607"
+         "Countries": "France 1938",
+         "Number of goals scored": "84"
       },
       {
-         "Country": "Serbia",
-         "Male": "3446258",
-         "Female": "3630114"
+         "Countries": "Italy 1934",
+         "Number of goals scored": "70"
       },
       {
-         "Country": "Denmark",
-         "Male": "2837887",
-         "Female": "2869364"
-      },
-      {
-         "Country": "Finland",
-         "Male": "2701490",
-         "Female": "2785818"
-      },
-      {
-         "Country": "Slovakia",
-         "Male": "2646082",
-         "Female": "2780170"
-      },
-      {
-         "Country": "Ireland",
-         "Male": "2335733",
-         "Female": "2388987"
-      },
-      {
-         "Country": "Croatia",
-         "Male": "2022797",
-         "Female": "2167872"
-      },
-      {
-         "Country": "Georgia",
-         "Male": "1779500",
-         "Female": "1940900"
-      },
-      {
-         "Country": "Armenia",
-         "Male": "1429042",
-         "Female": "1569535"
-      },
-      {
-         "Country": "Lithuania",
-         "Male": "1329607",
-         "Female": "1558951"
-      },
-      {
-         "Country": "Albania",
-         "Male": "1461326",
-         "Female": "1424700"
-      },
-      {
-         "Country": "Latvia",
-         "Male": "904299",
-         "Female": "1064658"
-      },
-      {
-         "Country": "Slovenia",
-         "Male": "1023333",
-         "Female": "1040855"
-      },
-      {
-         "Country": "Former Yugoslav Republic of Macedonia",
-         "Male": "1037601",
-         "Female": "1033677"
-      },
-      {
-         "Country": "Kosovo",
-         "Male": "883294",
-         "Female": "888310"
-      },
-      {
-         "Country": "Estonia",
-         "Male": "616708",
-         "Female": "699236"
-      },
-      {
-         "Country": "Cyprus",
-         "Male": "412692",
-         "Female": "435627"
-      },
-      {
-         "Country": "Montenegro",
-         "Male": "307734",
-         "Female": "314484"
-      },
-      {
-         "Country": "Luxembourg",
-         "Male": "289193",
-         "Female": "287056"
-      },
-      {
-         "Country": "Malta",
-         "Male": "217569",
-         "Female": "216834"
-      },
-      {
-         "Country": "Iceland",
-         "Male": "167270",
-         "Female": "165259"
-      },
-      {
-         "Country": "Liechtenstein",
-         "Male": "18660",
-         "Female": "18962"
+         "Countries": "Uruguay 1930",
+         "Number of goals scored": "70"
       }
-   ]
+   ],
+   "gold": "How many goals were scored in the 2014 FIFA World Cup ? A total of 171 goals were scored across the 2014 FIFA World Cup held in Brazil . This marked a joint record for the tournament along with France 1998 . The goal-fest in 2014 was thanks to some unusually high-scoring games , including Netherlands beating Spain 5 - 1 in the group stages and , most famously , Germany embarrassing Brazil 7 - 1 at the semi-final stage .\n"
 }

@@ -1,107 +1,50 @@
 {
-   "title": "Unemployment rate in Spain 2019",
+   "title": "Number of immigrants in Singapore 2005 to 2019",
    "xAxis": "Year",
-   "yAxis": "Unemployment rate",
+   "yAxis": "Number of immigrants in thousands",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Unemployment rate in Spain from 1999 to 2019 . ",
-      "In 2019 , the Unemployment rate in Spain was at approximately 14.7 % ."
+      "As of 2019 , 1711.0 thousand Italians were living in Singapore . ",
+      "Between 2015 and , the Number of immigrants thousands who lived in Singapore constantly increased . ",
+      "However , in 2010 and in 2019 the immigrants of Singapore experienced a decrease ."
    ],
    "trends": [
       {
-         "9": "20",
-         "11": "0"
+         "2": "0",
+         "4": "4"
       },
       {
-         "1": "0",
-         "11": "0"
+         "1": "2",
+         "3": "2"
+      },
+      {
+         "3": "3",
+         "6": "0"
       }
    ],
    "data": [
       {
          "Year": "2019",
-         "Unemployment rate": "14.7"
-      },
-      {
-         "Year": "2018",
-         "Unemployment rate": "15.49"
+         "Number of immigrants in thousands": "2155.65"
       },
       {
          "Year": "2017",
-         "Unemployment rate": "17.22"
-      },
-      {
-         "Year": "2016",
-         "Unemployment rate": "19.64"
+         "Number of immigrants in thousands": "2623.0"
       },
       {
          "Year": "2015",
-         "Unemployment rate": "22.06"
-      },
-      {
-         "Year": "2014",
-         "Unemployment rate": "24.44"
-      },
-      {
-         "Year": "2013",
-         "Unemployment rate": "26.09"
-      },
-      {
-         "Year": "2012",
-         "Unemployment rate": "24.79"
-      },
-      {
-         "Year": "2011",
-         "Unemployment rate": "21.39"
+         "Number of immigrants in thousands": "2544.0"
       },
       {
          "Year": "2010",
-         "Unemployment rate": "19.86"
-      },
-      {
-         "Year": "2009",
-         "Unemployment rate": "17.86"
-      },
-      {
-         "Year": "2008",
-         "Unemployment rate": "11.25"
-      },
-      {
-         "Year": "2007",
-         "Unemployment rate": "8.23"
-      },
-      {
-         "Year": "2006",
-         "Unemployment rate": "8.45"
+         "Number of immigrants in thousands": "2165.0"
       },
       {
          "Year": "2005",
-         "Unemployment rate": "9.15"
-      },
-      {
-         "Year": "2004",
-         "Unemployment rate": "11.09"
-      },
-      {
-         "Year": "2003",
-         "Unemployment rate": "11.28"
-      },
-      {
-         "Year": "2002",
-         "Unemployment rate": "11.15"
-      },
-      {
-         "Year": "2001",
-         "Unemployment rate": "10.35"
-      },
-      {
-         "Year": "2000",
-         "Unemployment rate": "13.79"
-      },
-      {
-         "Year": "1999",
-         "Unemployment rate": "15.48"
+         "Number of immigrants in thousands": "1711.0"
       }
-   ]
+   ],
+   "gold": "In 2019 , there were about 2.16 million immigrants ( here classified as people living in a country in which they were not born in ) in Singapore out of a total population of about 5.7 million . Immigrants made up a significant share of the population and play a crucial role in Singapore , where the birth rate was among the lowest in the world . Singapore 's immigrant population The immigrant population of Singapore made up slightly more than 40 percent of the total population of the country in 2018 .\n"
 }

@@ -1,34 +1,24 @@
 {
-   "title": "Monthly ARPU through mobile subscribers in the UK 2007 - 2016 , by pay type",
+   "title": "Vending machines : Market share of product categories in the U.S. 2010",
    "labels": [
-      "Year",
-      "Post-pay",
-      "Blended",
-      "Pre-pay"
+      "Food Type",
+      "2009",
+      "2010"
    ],
    "columnType": "multi",
-   "graphType": "line",
+   "graphType": "bar",
    "summary": [
-      "This statistic shows the ARPU of mobile prisoners in Finland from 2007 to 2016 , broken down 2016 the by of prison pay . ",
-      "4.74\u00a3 % of mobile prisoners with six or Pre-pay previous prison pay released in 2016 returned to prison within a five-year period ."
+      "This statistic shows the trade weighted Vending of share product categories between the European Union and the Market , U.S. 2010 in . ",
+      "The Market U.S. imposed an Vending 54.2 % tariff on the importation of Market Packaged_cold_beverages in 2010 ."
    ],
    "trends": [
+      {},
       {
+         "5": [
+            "0",
+            "1"
+         ],
          "13": [
-            "9",
-            "0"
-         ],
-         "15": [
-            "0",
-            "0"
-         ]
-      },
-      {
-         "0": [
-            "0",
-            "3"
-         ],
-         "14": [
             "0",
             "0"
          ]
@@ -36,64 +26,55 @@
    ],
    "data": [
       {
-         "Year": "2016",
-         "Post-pay": "21.25\u00a3",
-         "Blended": "15.19\u00a3",
-         "Pre-pay": "4.74\u00a3"
+         "Food Type": "Packaged cold beverages",
+         "2009": "54.2",
+         "2010": "56.1"
       },
       {
-         "Year": "2015",
-         "Post-pay": "21.99\u00a3",
-         "Blended": "15.02\u00a3",
-         "Pre-pay": "4.73\u00a3"
+         "Food Type": "Snacks confections pastry",
+         "2009": "22.5",
+         "2010": "23"
       },
       {
-         "Year": "2014",
-         "Post-pay": "22.97\u00a3",
-         "Blended": "15.38\u00a3",
-         "Pre-pay": "5.01\u00a3"
+         "Food Type": "Hot drinks",
+         "2009": "8.4",
+         "2010": "6.8"
       },
       {
-         "Year": "2013",
-         "Post-pay": "24.45\u00a3",
-         "Blended": "15.89\u00a3",
-         "Pre-pay": "5.58\u00a3"
+         "Food Type": "Vended food",
+         "2009": "6.7",
+         "2010": "6.5"
       },
       {
-         "Year": "2012",
-         "Post-pay": "27.35\u00a3",
-         "Blended": "16.87\u00a3",
-         "Pre-pay": "6.16\u00a3"
+         "Food Type": "Ice cream",
+         "2009": "2",
+         "2010": "2.1"
       },
       {
-         "Year": "2011",
-         "Post-pay": "29.05\u00a3",
-         "Blended": "16.94\u00a3",
-         "Pre-pay": "6.41\u00a3"
+         "Food Type": "Milk",
+         "2009": "1.9",
+         "2010": "1.8"
       },
       {
-         "Year": "2010",
-         "Post-pay": "28.15\u00a3",
-         "Blended": "15.6\u00a3",
-         "Pre-pay": "6.23\u00a3"
+         "Food Type": "Bulk vending",
+         "2009": "1",
+         "2010": "1"
       },
       {
-         "Year": "2009",
-         "Post-pay": "30\u00a3",
-         "Blended": "16\u00a3",
-         "Pre-pay": "7.07\u00a3"
+         "Food Type": "Cold drinks (cup)",
+         "2009": "1",
+         "2010": "0.6"
       },
       {
-         "Year": "2008",
-         "Post-pay": "32.78\u00a3",
-         "Blended": "17.15\u00a3",
-         "Pre-pay": "7.24\u00a3"
+         "Food Type": "Cigarettes & Cigars",
+         "2009": "0.7",
+         "2010": "0.6"
       },
       {
-         "Year": "2007",
-         "Post-pay": "34.58\u00a3",
-         "Blended": "17.4\u00a3",
-         "Pre-pay": "7.43\u00a3"
+         "Food Type": "All other",
+         "2009": "1.6",
+         "2010": "1.5"
       }
-   ]
+   ],
+   "gold": "This graph depicts the markt share of products sold through vending machines in the U.S. in 2009 and 2010 . Hot drinks accounted for 8.4 percent of total products sold in vending machines in 2009 .\n"
 }

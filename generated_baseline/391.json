@@ -1,54 +1,130 @@
 {
-   "title": "Desktop/laptop ownership among U.S. adults 2008 to 2019\n",
-   "xAxis": "Month",
-   "yAxis": "Share of U.S. adults",
-   "columnType": "two",
-   "graphType": "bar",
-   "summary": [
-      "This bar chart has 9 categories for the x axis representing Month, and a y axis representing Share of U.S. adults.",
-      " The highest category is found at November_2016 where Share of U.S. adults is 78.0.",
-      " The lowest category is found at January_2018 where Share of U.S. adults is 73.0."
+   "title": "Unemployment rate in Belgium 2008 - 2018 , by region",
+   "labels": [
+      "Year",
+      "Flemish Region",
+      "Brussels-Capital Region",
+      "Walloon Region"
    ],
-   "trends": {
-      "maxIndex": 2,
-      "minIndex": 1
-   },
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 3 lines.",
+      " The line representing Brussels-Capital Region had the highest values across Year with a mean value of 16.8.",
+      " This peaked at 2013 with a value of 19.3. ",
+      " The line with the second highest values was Walloon Region with a mean value of 10.6.",
+      " This line peaked at 2015 with a value of 12.0"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "9": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "15": [
+            "10",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "2"
+         ],
+         "10": [
+            "0",
+            "2"
+         ]
+      }
+   ],
    "data": [
       {
-         "Month": "February 2019",
-         "Share of U.S. adults": 74.0
+         "Year": "2018",
+         "Flemish Region": "3.5",
+         "Brussels-Capital Region": "13.4",
+         "Walloon Region": "8.5"
       },
       {
-         "Month": "January 2018",
-         "Share of U.S. adults": 73.0
+         "Year": "2017",
+         "Flemish Region": "4.4",
+         "Brussels-Capital Region": "15",
+         "Walloon Region": "9.8"
       },
       {
-         "Month": "November 2016",
-         "Share of U.S. adults": 78.0
+         "Year": "2016",
+         "Flemish Region": "4.9",
+         "Brussels-Capital Region": "16.9",
+         "Walloon Region": "10.6"
       },
       {
-         "Month": "April 2016",
-         "Share of U.S. adults": 74.0
+         "Year": "2015",
+         "Flemish Region": "5.2",
+         "Brussels-Capital Region": "17.5",
+         "Walloon Region": "12"
       },
       {
-         "Month": "April 2015",
-         "Share of U.S. adults": 73.0
+         "Year": "2014",
+         "Flemish Region": "5.1",
+         "Brussels-Capital Region": "18.5",
+         "Walloon Region": "12"
       },
       {
-         "Month": "January 2012",
-         "Share of U.S. adults": 78.0
+         "Year": "2013",
+         "Flemish Region": "5.1",
+         "Brussels-Capital Region": "19.3",
+         "Walloon Region": "11.4"
       },
       {
-         "Month": "December 2011",
-         "Share of U.S. adults": 75.0
+         "Year": "2012",
+         "Flemish Region": "4.6",
+         "Brussels-Capital Region": "17.5",
+         "Walloon Region": "10.1"
       },
       {
-         "Month": "June 2010",
-         "Share of U.S. adults": 78.0
+         "Year": "2011",
+         "Flemish Region": "4.3",
+         "Brussels-Capital Region": "17.1",
+         "Walloon Region": "9.5"
       },
       {
-         "Month": "January 2008",
-         "Share of U.S. adults": 74.0
+         "Year": "2010",
+         "Flemish Region": "5.2",
+         "Brussels-Capital Region": "17.4",
+         "Walloon Region": "11.5"
+      },
+      {
+         "Year": "2009",
+         "Flemish Region": "5",
+         "Brussels-Capital Region": "15.9",
+         "Walloon Region": "11.2"
+      },
+      {
+         "Year": "2008",
+         "Flemish Region": "3.9",
+         "Brussels-Capital Region": "16",
+         "Walloon Region": "10.1"
       }
    ]
 }

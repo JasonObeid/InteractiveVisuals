@@ -1,143 +1,88 @@
 {
-   "title": "Voter turnout in UK elections 1918 to 2019",
+   "title": "North American sports market size 2009 to 2023",
    "xAxis": "Year",
-   "yAxis": "Voter turnout",
+   "yAxis": "Sports market revenue in billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "In 2019 , there were about 67.3 % turnout in the 1918 with a UK mother . ",
-      "This is this decrease from 1918 levels , when there were about 57.2 % turnout in the 1918 . ",
-      "UK elections . ",
-      "UK parenthood The typical family is comprised of two parents and at least one child ."
+      "This statistic shows the Sports of North American products size from 2009 to 2023 . ",
+      "In 2016 , the Sports generated from North American products size amounted to about 83.1 revenue . ",
+      "When it comes to sustainable development , trade can be the best of servants , but the worst of masters ."
    ],
    "trends": [
       {
-         "1": "0",
-         "6": "0"
+         "10": "14",
+         "12": "0"
       },
       {
-         "5": "28",
-         "12": "28"
+         "1": "7",
+         "13": "0",
+         "14": "0"
       },
-      {},
       {}
    ],
    "data": [
       {
+         "Year": "2023",
+         "Sports market revenue in billion U.S. dollars": "83.1"
+      },
+      {
+         "Year": "2022",
+         "Sports market revenue in billion U.S. dollars": "80.5"
+      },
+      {
+         "Year": "2021",
+         "Sports market revenue in billion U.S. dollars": "77.88"
+      },
+      {
+         "Year": "2020",
+         "Sports market revenue in billion U.S. dollars": "75.71"
+      },
+      {
          "Year": "2019",
-         "Voter turnout": "67.3"
+         "Sports market revenue in billion U.S. dollars": "73.04"
+      },
+      {
+         "Year": "2018",
+         "Sports market revenue in billion U.S. dollars": "71.06"
       },
       {
          "Year": "2017",
-         "Voter turnout": "68.8"
+         "Sports market revenue in billion U.S. dollars": "69.14"
       },
       {
-         "Year": "Brexit Referendum 2016",
-         "Voter turnout": "72.2"
+         "Year": "2016",
+         "Sports market revenue in billion U.S. dollars": "67.29"
       },
       {
          "Year": "2015",
-         "Voter turnout": "66.2"
+         "Sports market revenue in billion U.S. dollars": "63.56"
+      },
+      {
+         "Year": "2014",
+         "Sports market revenue in billion U.S. dollars": "60.23"
+      },
+      {
+         "Year": "2013",
+         "Sports market revenue in billion U.S. dollars": "56.45"
+      },
+      {
+         "Year": "2012",
+         "Sports market revenue in billion U.S. dollars": "53.47"
+      },
+      {
+         "Year": "2011",
+         "Sports market revenue in billion U.S. dollars": "52.01"
       },
       {
          "Year": "2010",
-         "Voter turnout": "65.1"
+         "Sports market revenue in billion U.S. dollars": "49.99"
       },
       {
-         "Year": "2005",
-         "Voter turnout": "61.4"
-      },
-      {
-         "Year": "2001",
-         "Voter turnout": "59.4"
-      },
-      {
-         "Year": "1997",
-         "Voter turnout": "71.4"
-      },
-      {
-         "Year": "1992",
-         "Voter turnout": "77.7"
-      },
-      {
-         "Year": "1987",
-         "Voter turnout": "75.3"
-      },
-      {
-         "Year": "1983",
-         "Voter turnout": "72.7"
-      },
-      {
-         "Year": "1979",
-         "Voter turnout": "76"
-      },
-      {
-         "Year": "Oct 1974",
-         "Voter turnout": "72.8"
-      },
-      {
-         "Year": "Feb 1974",
-         "Voter turnout": "78.8"
-      },
-      {
-         "Year": "1970",
-         "Voter turnout": "72"
-      },
-      {
-         "Year": "1966",
-         "Voter turnout": "75.8"
-      },
-      {
-         "Year": "1964",
-         "Voter turnout": "77.1"
-      },
-      {
-         "Year": "1959",
-         "Voter turnout": "78.7"
-      },
-      {
-         "Year": "1955",
-         "Voter turnout": "76.8"
-      },
-      {
-         "Year": "1951",
-         "Voter turnout": "82.6"
-      },
-      {
-         "Year": "1950",
-         "Voter turnout": "83.9"
-      },
-      {
-         "Year": "1945",
-         "Voter turnout": "72.8"
-      },
-      {
-         "Year": "1935",
-         "Voter turnout": "71.1"
-      },
-      {
-         "Year": "1931",
-         "Voter turnout": "76.4"
-      },
-      {
-         "Year": "1929",
-         "Voter turnout": "76.3"
-      },
-      {
-         "Year": "1924",
-         "Voter turnout": "77"
-      },
-      {
-         "Year": "1923",
-         "Voter turnout": "71.1"
-      },
-      {
-         "Year": "1922",
-         "Voter turnout": "73"
-      },
-      {
-         "Year": "1918",
-         "Voter turnout": "57.2"
+         "Year": "2009",
+         "Sports market revenue in billion U.S. dollars": "48.73"
       }
-   ]
+   ],
+   "gold": "The statistic shows the sports market size in North America from 2009 to 2018 , with forecasts from 2019 to 2023 . In 2018 , the North American sports market had a value of about 71.06 billion U.S. dollars . This figure is expected to rise to 83.1 billion by 2023 .\n"
 }

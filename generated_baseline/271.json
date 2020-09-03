@@ -4,36 +4,26 @@
    "yAxis": "Homeowner equity in trillion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Homeowner equity in trillion U.S. dollars, with a total of 23 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely negative which exists from 2005 to 1960.",
-      " On the contrary, the next significant trend is extremely negative which exists from 2018 to 2010.",
-      " On the contrary, the next significant trend is extremely positive which exists from 2010 to 2005."
+      " The longest trend is moderately positive which exists from 2005 to 1960.",
+      " Correspondingly, the next significant trend is extremely positive which exists from 2018 to 2010.",
+      " Correspondingly, the next significant trend is slightly negative which exists from 2010 to 2005."
    ],
    "trends": [
+      {},
       {
-         "Length": 10,
-         "direction": "negative",
-         "start": 13,
-         "end": 22,
-         "trend": "y=0.26x+-513.93",
-         "magnitude": "extremely"
+         "1": "13",
+         "12": "22"
       },
       {
-         "Length": 9,
-         "direction": "negative",
-         "start": 0,
-         "end": 8,
-         "trend": "y=1.26x+-2521.93",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "8"
       },
       {
-         "Length": 6,
-         "direction": "positive",
-         "start": 8,
-         "end": 13,
-         "trend": "y=-1.67x+3366.26",
-         "magnitude": "extremely"
+         "3": "8",
+         "14": "13"
       }
    ],
    "data": [

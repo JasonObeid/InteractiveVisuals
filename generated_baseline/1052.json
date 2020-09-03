@@ -4,27 +4,36 @@
    "yAxis": "Defense spending as share of GDP",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Defense spending as share of GDP, with a total of 39 data points. The chart has 2 significant trends.",
-      " The longest trend is extremely positive which exists from 1999 to 1991.",
-      " Similarly, the next significant trend is extremely positive which exists from 1989 to 1984."
+      "This line chart has an x axis representing Year and a y axis representing Defense spending as share of GDP, with a total of 39 data points. The chart has 5 significant trends.",
+      " The longest trend is slightly negative which exists from 2001 to 1991.",
+      " Differently, the next significant trend is slightly negative which exists from 1991 to 1984.",
+      " On the contrary, the next significant trend is extremely positive which exists from 2013 to 2007.",
+      " Similarly, the next significant trend is extremely negative which exists from 2007 to 2001.",
+      " Differently, the next significant trend is extremely negative which exists from 2018 to 2013."
    ],
    "trends": [
+      {},
       {
-         "Length": 9,
-         "direction": "positive",
-         "start": 19,
-         "end": 27,
-         "trend": "y=-0.22x+435.47",
-         "magnitude": "extremely"
+         "1": "17",
+         "12": "27"
       },
       {
-         "Length": 6,
-         "direction": "positive",
-         "start": 29,
-         "end": 34,
-         "trend": "y=-0.29x+589.35",
-         "magnitude": "extremely"
+         "3": "27",
+         "14": "34"
+      },
+      {
+         "3": "5",
+         "14": "11"
+      },
+      {
+         "3": "11",
+         "14": "17"
+      },
+      {
+         "3": "0",
+         "14": "5"
       }
    ],
    "data": [

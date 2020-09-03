@@ -1,148 +1,133 @@
 {
-   "title": "Inflation rate of Ukraine 1994 to 2024",
+   "title": "Inflation rate in Germany 1992 to 2019",
    "xAxis": "Year",
-   "yAxis": "Inflation rate change compared to previous year",
+   "yAxis": "Year-on-year change",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Ukrainian Inflation rate Ukraine ( Inflation ) rate change from 1994 to 2018 , with projections up until 2024 . ",
-      "In 2018 , Ukraine 's Inflation rate change amounted to approximately 10.95 previous year ."
+      "This statistic shows the Inflation rate Germany in the 1992 from to 2019 . ",
+      "In 2019 , the Inflation rate Germany was 0.3 % change 100,000 of the population ."
    ],
    "trends": [
+      {},
       {
-         "14": "30",
-         "16": "6",
-         "22": "0"
-      },
-      {
-         "1": "6",
-         "11": "6"
+         "8": "10"
       }
    ],
    "data": [
       {
-         "Year": "2024",
-         "Inflation rate change compared to previous year": "5"
+         "Year": "'19",
+         "Year-on-year change": "1.4"
       },
       {
-         "Year": "2023",
-         "Inflation rate change compared to previous year": "5"
+         "Year": "'18",
+         "Year-on-year change": "1.8"
       },
       {
-         "Year": "2022",
-         "Inflation rate change compared to previous year": "5.02"
+         "Year": "'17",
+         "Year-on-year change": "1.5"
       },
       {
-         "Year": "2021",
-         "Inflation rate change compared to previous year": "5.29"
+         "Year": "'16",
+         "Year-on-year change": "0.5"
       },
       {
-         "Year": "2020",
-         "Inflation rate change compared to previous year": "5.89"
+         "Year": "'15",
+         "Year-on-year change": "0.5"
       },
       {
-         "Year": "2019",
-         "Inflation rate change compared to previous year": "8.74"
+         "Year": "'14",
+         "Year-on-year change": "1"
       },
       {
-         "Year": "2018",
-         "Inflation rate change compared to previous year": "10.95"
+         "Year": "'13",
+         "Year-on-year change": "1.4"
       },
       {
-         "Year": "2017",
-         "Inflation rate change compared to previous year": "14.44"
+         "Year": "'12",
+         "Year-on-year change": "2"
       },
       {
-         "Year": "2016",
-         "Inflation rate change compared to previous year": "13.91"
+         "Year": "'11",
+         "Year-on-year change": "2.1"
       },
       {
-         "Year": "2015",
-         "Inflation rate change compared to previous year": "48.68"
+         "Year": "'10",
+         "Year-on-year change": "1.1"
       },
       {
-         "Year": "2014",
-         "Inflation rate change compared to previous year": "12.1"
+         "Year": "'09",
+         "Year-on-year change": "0.3"
       },
       {
-         "Year": "2013",
-         "Inflation rate change compared to previous year": "-0.26"
+         "Year": "'08",
+         "Year-on-year change": "2.6"
       },
       {
-         "Year": "2012",
-         "Inflation rate change compared to previous year": "0.57"
+         "Year": "'07",
+         "Year-on-year change": "2.3"
       },
       {
-         "Year": "2011",
-         "Inflation rate change compared to previous year": "7.96"
+         "Year": "'06",
+         "Year-on-year change": "1.6"
       },
       {
-         "Year": "2010",
-         "Inflation rate change compared to previous year": "9.37"
+         "Year": "'05",
+         "Year-on-year change": "1.5"
       },
       {
-         "Year": "2009",
-         "Inflation rate change compared to previous year": "15.9"
+         "Year": "'04",
+         "Year-on-year change": "1.7"
       },
       {
-         "Year": "2008",
-         "Inflation rate change compared to previous year": "25.2"
+         "Year": "'03",
+         "Year-on-year change": "1.1"
       },
       {
-         "Year": "2007",
-         "Inflation rate change compared to previous year": "12.84"
+         "Year": "'02",
+         "Year-on-year change": "1.3"
       },
       {
-         "Year": "2006",
-         "Inflation rate change compared to previous year": "9.08"
+         "Year": "'01",
+         "Year-on-year change": "2"
       },
       {
-         "Year": "2005",
-         "Inflation rate change compared to previous year": "13.52"
+         "Year": "'00",
+         "Year-on-year change": "1.4"
       },
       {
-         "Year": "2004",
-         "Inflation rate change compared to previous year": "9.04"
+         "Year": "'99",
+         "Year-on-year change": "0.6"
       },
       {
-         "Year": "2003",
-         "Inflation rate change compared to previous year": "5.21"
+         "Year": "'98",
+         "Year-on-year change": "1"
       },
       {
-         "Year": "2002",
-         "Inflation rate change compared to previous year": "0.76"
+         "Year": "'97",
+         "Year-on-year change": "2"
       },
       {
-         "Year": "2001",
-         "Inflation rate change compared to previous year": "11.96"
+         "Year": "'96",
+         "Year-on-year change": "1.4"
       },
       {
-         "Year": "2000",
-         "Inflation rate change compared to previous year": "28.2"
+         "Year": "'95",
+         "Year-on-year change": "1.8"
       },
       {
-         "Year": "1999",
-         "Inflation rate change compared to previous year": "22.68"
+         "Year": "'94",
+         "Year-on-year change": "2.6"
       },
       {
-         "Year": "1998",
-         "Inflation rate change compared to previous year": "10.58"
+         "Year": "'93",
+         "Year-on-year change": "4.5"
       },
       {
-         "Year": "1997",
-         "Inflation rate change compared to previous year": "15.89"
-      },
-      {
-         "Year": "1996",
-         "Inflation rate change compared to previous year": "80.23"
-      },
-      {
-         "Year": "1995",
-         "Inflation rate change compared to previous year": "376.75"
-      },
-      {
-         "Year": "1994",
-         "Inflation rate change compared to previous year": "891.19"
+         "Year": "'92",
+         "Year-on-year change": "5.1"
       }
-   ]
+   ],
+   "gold": "This statistic shows the inflation rate in Germany from 1992 to 2019 . In 2019 , the inflation rate in Germany was at 1.4 percent . The inflation rate is calculated using the price increase of a product basket defined by the German Federal Statistical Office .\n"
 }

@@ -1,80 +1,141 @@
 {
-   "title": "Activision Blizzard 's net annual revenue 2005 to 2018",
+   "title": "U.S. : reported motor vehicle theft rate 1990 to 2018",
    "xAxis": "Year",
-   "yAxis": "Net revenue in million U.S. dollars",
+   "yAxis": "Rate per 100,000 population",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic represents Activision Blizzard 's Net revenue between the fiscal Year of 2005 and the fiscal Year of 2018 . ",
-      "In the fiscal Year of 2018 , Activision Blizzard 's Net revenue generated approximately 7500 U.S. dollars ."
+      "This graph shows the reported motor vehicle Rate in the country from 1990 to 2018 . ",
+      "In 2018 , the nationwide Rate was 228.9 cases per 100,000 of the population ."
    ],
    "trends": [
       {
-         "12": "13",
-         "18": "0"
+         "12": "28",
+         "14": "0"
       },
       {
-         "5": "0",
-         "13": "0",
-         "14": "0"
+         "1": "0",
+         "7": "0"
       }
    ],
    "data": [
       {
          "Year": "2018",
-         "Net revenue in million U.S. dollars": "7500"
+         "Rate per 100,000 population": "228.9"
       },
       {
          "Year": "2017",
-         "Net revenue in million U.S. dollars": "7017"
+         "Rate per 100,000 population": "237.7"
       },
       {
          "Year": "2016",
-         "Net revenue in million U.S. dollars": "6608"
+         "Rate per 100,000 population": "237.3"
       },
       {
          "Year": "2015",
-         "Net revenue in million U.S. dollars": "4664"
+         "Rate per 100,000 population": "222.2"
       },
       {
          "Year": "2014",
-         "Net revenue in million U.S. dollars": "4408"
+         "Rate per 100,000 population": "215.4"
       },
       {
          "Year": "2013",
-         "Net revenue in million U.S. dollars": "4583"
+         "Rate per 100,000 population": "221.3"
       },
       {
          "Year": "2012",
-         "Net revenue in million U.S. dollars": "4856"
+         "Rate per 100,000 population": "230.4"
       },
       {
          "Year": "2011",
-         "Net revenue in million U.S. dollars": "4755"
+         "Rate per 100,000 population": "230.0"
       },
       {
          "Year": "2010",
-         "Net revenue in million U.S. dollars": "4447"
+         "Rate per 100,000 population": "239.1"
       },
       {
          "Year": "2009",
-         "Net revenue in million U.S. dollars": "4279"
+         "Rate per 100,000 population": "259.2"
       },
       {
          "Year": "2008",
-         "Net revenue in million U.S. dollars": "3026"
+         "Rate per 100,000 population": "315.4"
       },
       {
          "Year": "2007",
-         "Net revenue in million U.S. dollars": "1349"
+         "Rate per 100,000 population": "364.9"
       },
       {
          "Year": "2006",
-         "Net revenue in million U.S. dollars": "1018"
+         "Rate per 100,000 population": "400.2"
       },
       {
          "Year": "2005",
-         "Net revenue in million U.S. dollars": "780"
+         "Rate per 100,000 population": "416.8"
+      },
+      {
+         "Year": "2004",
+         "Rate per 100,000 population": "421.5"
+      },
+      {
+         "Year": "2003",
+         "Rate per 100,000 population": "433.7"
+      },
+      {
+         "Year": "2002",
+         "Rate per 100,000 population": "432.9"
+      },
+      {
+         "Year": "2001",
+         "Rate per 100,000 population": "430.6"
+      },
+      {
+         "Year": "2000",
+         "Rate per 100,000 population": "412.2"
+      },
+      {
+         "Year": "1999",
+         "Rate per 100,000 population": "422.5"
+      },
+      {
+         "Year": "1998",
+         "Rate per 100,000 population": "459.8"
+      },
+      {
+         "Year": "1997",
+         "Rate per 100,000 population": "505.8"
+      },
+      {
+         "Year": "1996",
+         "Rate per 100,000 population": "525.5"
+      },
+      {
+         "Year": "1995",
+         "Rate per 100,000 population": "560.4"
+      },
+      {
+         "Year": "1994",
+         "Rate per 100,000 population": "591.3"
+      },
+      {
+         "Year": "1993",
+         "Rate per 100,000 population": "606.1"
+      },
+      {
+         "Year": "1992",
+         "Rate per 100,000 population": "631.5"
+      },
+      {
+         "Year": "1991",
+         "Rate per 100,000 population": "658.9"
+      },
+      {
+         "Year": "1990",
+         "Rate per 100,000 population": "657.8"
       }
-   ]
+   ],
+   "gold": "This graph shows the reported motor vehicle theft rate in the United States from 1990 to 2018 . In 2018 , the nationwide rate was 228.9 cases per 100,000 population .\n"
 }

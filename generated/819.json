@@ -1,81 +1,64 @@
 {
-   "title": "Canoes - number of units sold in the U.S. 2013",
-   "xAxis": "Year",
-   "yAxis": "Canoes sold",
+   "title": "Largest cities in Ukraine 2016",
+   "xAxis": "Month",
+   "yAxis": "Residents in millions",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Canoes of number sold , and U.S. in the 2013 from 2000 to 2013 . ",
-      "In 2013 , 111800 people worked either part-time or full-time as number U.S. , sold or . ",
-      "Included are solo sold without employees working part-time or full-time in their artistic trade ."
+      "The statistic depicts the ten Largest cities in Ukraine 2016 . ",
+      "In 2016 , Ky\u00efv_(Kiev) had around 2.91 millions Residents , making it the Largest city in Ukraine . ",
+      "Population and workforce of Ukraine is the Largest country in the world ; with a total population of around 144 millions people ( 263767 ) , it is the ninth most populous nation worldwide ."
    ],
    "trends": [
+      {},
       {
-         "16": "13",
-         "18": "0"
-      },
-      {
-         "1": "0",
-         "3": "13"
+         "3": "0",
+         "6": "0"
       },
       {}
    ],
    "data": [
       {
-         "Year": "2013",
-         "Canoes sold": "74100"
+         "Month": "Ky\u00efv (Kiev)",
+         "Residents in millions": "2.91"
       },
       {
-         "Year": "2012",
-         "Canoes sold": "78600"
+         "Month": "Charkiv",
+         "Residents in millions": "1.45"
       },
       {
-         "Year": "2011",
-         "Canoes sold": "77800"
+         "Month": "Od\u0117sa",
+         "Residents in millions": "1.01"
       },
       {
-         "Year": "2010",
-         "Canoes sold": "77100"
+         "Month": "Dniprop\u0117trovs'k",
+         "Residents in millions": "0.98"
       },
       {
-         "Year": "2009",
-         "Canoes sold": "89600"
+         "Month": "Don\u0117c'k",
+         "Residents in millions": "0.93"
       },
       {
-         "Year": "2008",
-         "Canoes sold": "73700"
+         "Month": "Zapori\u017e\u017eija",
+         "Residents in millions": "0.76"
       },
       {
-         "Year": "2007",
-         "Canoes sold": "99600"
+         "Month": "L'viv",
+         "Residents in millions": "0.73"
       },
       {
-         "Year": "2006",
-         "Canoes sold": "99900"
+         "Month": "Kryvyj Rih",
+         "Residents in millions": "0.64"
       },
       {
-         "Year": "2005",
-         "Canoes sold": "77200"
+         "Month": "Mykola\u00efv",
+         "Residents in millions": "0.49"
       },
       {
-         "Year": "2004",
-         "Canoes sold": "93900"
-      },
-      {
-         "Year": "2003",
-         "Canoes sold": "86700"
-      },
-      {
-         "Year": "2002",
-         "Canoes sold": "100000"
-      },
-      {
-         "Year": "2001",
-         "Canoes sold": "105800"
-      },
-      {
-         "Year": "2000",
-         "Canoes sold": "111800"
+         "Month": "Mariupol'",
+         "Residents in millions": "0.45"
       }
-   ]
+   ],
+   "gold": "This statistic shows the ten largest cities in Ukraine in 2016 . Around 2.91 million people lived in Kiev in 2016 , making it the largest city in Ukraine . Economic situation in the Ukraine Ukraine has a population of around 42 million inhabitants - close to 70 percent of which live in urban areas , with almost 3 million living in Ukraine 's largest city and capital , Kiev .\n"
 }

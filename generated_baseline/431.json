@@ -10,16 +10,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 3 categories for the x axis of Health Segment representing 2014, 2015, 2016, 2017, 2018.",
+      "This grouped bar chart has 3 categories for the x axis of Health Segment representing 2014, 2015, 2016, 2017, and 2018.",
       " The highest category is found at Healthcare with a mean value of 6731.0.",
       " The second highest category is found at Life Science with a mean value of 4752.6.",
       " This represents a difference of 34.5%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "5",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "5",
+            "1"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Health Segment": "Healthcare",

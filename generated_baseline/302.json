@@ -4,18 +4,16 @@
    "yAxis": "Median age in years",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Median age in years with a total of 21 data points. The chart has one significant trend.",
-      " This trend is extremely negative which exists from 2050 to 1950."
+      " This trend is positive which exists from 2050 to 1950."
    ],
    "trends": [
+      {},
       {
-         "Length": 21,
-         "direction": "negative",
-         "start": 0,
-         "end": 20,
-         "trend": "y=0.3x+-551.05",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "20"
       }
    ],
    "data": [

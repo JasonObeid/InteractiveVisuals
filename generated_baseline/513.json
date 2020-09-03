@@ -4,15 +4,24 @@
    "yAxis": "National debt in relation to GDP",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 20 categories for the x axis representing Country, and a y axis representing National debt in relation to GDP.",
       " The highest category is found at Kiribati where National debt in relation to GDP is 22.62.",
       " The lowest category is found at Hong_Kong_SAR where National debt in relation to GDP is 0.0."
    ],
-   "trends": {
-      "maxIndex": 19,
-      "minIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "7": 19,
+         "12": 19
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "Hong Kong SAR",

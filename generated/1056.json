@@ -1,120 +1,89 @@
 {
-   "title": "Employment by economic sector in Bangladesh 2019",
-   "labels": [
-      "Year",
-      "Agriculture",
-      "Industry",
-      "Services"
-   ],
-   "columnType": "multi",
+   "title": "Volvo Group - global number of employees 2003 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of employees",
+   "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the Employment of the by economic sector Bangladesh in from 2009 to 2019 . ",
-      "In 2019 , 39.71 % of the by were employed in Agriculture , 20.53 % in Industry and 39.76 % in Services . ",
-      "Employment of by in Bangladesh \u2013 additional information In 2013 , Bangladesh was the largest exporting country worldwide with an export value of about two billion U.S. dollars ."
+      "Following a period of consistent growth , the Number 2003 of Volvo Group Volvo Group number operators decreased slightly to 26,546 locomotives in 2017 , from 26,719 locomotives in the previous Year , only to increase again to 105175 in 2018 . ",
+      "Group Volvo Group railroads Group Volvo Group railroads are the largest freight number operators in the Volvo Officially they are defined as having annual carrier operating revenues of 250 million Volvo dollars or more in 1991 dollars . ",
+      "Currently there are seven Group Volvo Group operators : Burlington Northern Santa Fe Railway , CSX Transportation , Grand Trunk Corporation , Kansas City Southern Railway , Norfolk Southern Combined number Subsidiaries , Soo Line Corporation , and Union Pacific number ."
    ],
    "trends": [
       {
-         "14": [
-            "10",
-            "0"
-         ],
-         "16": [
-            "0",
-            "0"
-         ]
+         "22": "1",
+         "37": "0",
+         "39": "0"
       },
-      {
-         "1": [
-            "0",
-            "0"
-         ],
-         "3": [
-            "0",
-            "1"
-         ],
-         "13": [
-            "0",
-            "2"
-         ],
-         "18": [
-            "0",
-            "3"
-         ]
-      },
-      {
-         "9": [
-            "6",
-            "0"
-         ]
-      }
+      {},
+      {}
    ],
    "data": [
       {
-         "Year": "2019",
-         "Agriculture": "39.71",
-         "Industry": "20.53",
-         "Services": "39.76"
-      },
-      {
          "Year": "2018",
-         "Agriculture": "40.15",
-         "Industry": "20.47",
-         "Services": "39.38"
+         "Number of employees": "105175"
       },
       {
          "Year": "2017",
-         "Agriculture": "40.6",
-         "Industry": "20.42",
-         "Services": "38.98"
+         "Number of employees": "99488"
       },
       {
          "Year": "2016",
-         "Agriculture": "42.66",
-         "Industry": "20.46",
-         "Services": "36.87"
+         "Number of employees": "94914"
       },
       {
          "Year": "2015",
-         "Agriculture": "43.44",
-         "Industry": "19.93",
-         "Services": "36.64"
+         "Number of employees": "99501"
       },
       {
          "Year": "2014",
-         "Agriculture": "44.29",
-         "Industry": "19.45",
-         "Services": "36.26"
+         "Number of employees": "92828"
       },
       {
          "Year": "2013",
-         "Agriculture": "45",
-         "Industry": "19.05",
-         "Services": "35.93"
+         "Number of employees": "95533"
       },
       {
          "Year": "2012",
-         "Agriculture": "45.77",
-         "Industry": "18.55",
-         "Services": "35.68"
+         "Number of employees": "98717"
       },
       {
          "Year": "2011",
-         "Agriculture": "46.57",
-         "Industry": "18.07",
-         "Services": "35.35"
+         "Number of employees": "98162"
       },
       {
          "Year": "2010",
-         "Agriculture": "47.31",
-         "Industry": "17.63",
-         "Services": "35.07"
+         "Number of employees": "90409"
       },
       {
          "Year": "2009",
-         "Agriculture": "47.54",
-         "Industry": "16.81",
-         "Services": "35.65"
+         "Number of employees": "90208"
+      },
+      {
+         "Year": "2008",
+         "Number of employees": "101380"
+      },
+      {
+         "Year": "2007",
+         "Number of employees": "101700"
+      },
+      {
+         "Year": "2006",
+         "Number of employees": "83190"
+      },
+      {
+         "Year": "2005",
+         "Number of employees": "81860"
+      },
+      {
+         "Year": "2004",
+         "Number of employees": "81080"
+      },
+      {
+         "Year": "2003",
+         "Number of employees": "75740"
       }
-   ]
+   ],
+   "gold": "This statistic represents the global number of Volvo Group employees from 2002 to 2018 . In 2018 , the Volvo Group had around 105,175 employees worldwide . This figure is considerably lower than that of other vehicle manufacturers : General Motors employed around 180,000 people in 2017 .\n"
 }

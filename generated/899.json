@@ -1,139 +1,99 @@
 {
-   "title": "United States - birth rate 1990 to 2018",
+   "title": "Global papaya production 2000 to 2017",
    "xAxis": "Year",
-   "yAxis": "Birth rate per 1,000 of population",
+   "yAxis": "Million metric tons",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Birth of rate 1990 a 2018 in the United States from 1990 to 2018 . ",
-      "In 2018 , there were around 16.7 % rate 1990 a male householder and no spouse present in the United States ."
+      "The statistic shows papaya production Million metric in the Global between 2000 and 2017 . ",
+      "Here , the metric of Million derived from papaya fuels came to approximately 13.02 tons British thermal units in 2017 . ",
+      "papaya production energies \u2013 additional informationFossil fuels are hydrocarbon-containing natural resources formed from the remains of dead plants or animals that have been subject to immense pressure from a buildup of layers over million of years ."
    ],
    "trends": [
       {
-         "15": "28",
-         "17": "0"
+         "11": "17",
+         "13": "0"
       },
       {
-         "1": "0",
-         "6": "28"
-      }
+         "13": "0",
+         "19": "0"
+      },
+      {}
    ],
    "data": [
       {
-         "Year": "2018",
-         "Birth rate per 1,000 of population": "11.6"
-      },
-      {
          "Year": "2017",
-         "Birth rate per 1,000 of population": "11.8"
+         "Million metric tons": "13.02"
       },
       {
          "Year": "2016",
-         "Birth rate per 1,000 of population": "12.2"
+         "Million metric tons": "13.05"
       },
       {
          "Year": "2015",
-         "Birth rate per 1,000 of population": "12.4"
+         "Million metric tons": "12.08"
       },
       {
          "Year": "2014",
-         "Birth rate per 1,000 of population": "12.5"
+         "Million metric tons": "12.67"
       },
       {
          "Year": "2013",
-         "Birth rate per 1,000 of population": "12.4"
+         "Million metric tons": "12.36"
       },
       {
          "Year": "2012",
-         "Birth rate per 1,000 of population": "12.6"
+         "Million metric tons": "12.01"
       },
       {
          "Year": "2011",
-         "Birth rate per 1,000 of population": "12.7"
+         "Million metric tons": "11.3"
       },
       {
          "Year": "2010",
-         "Birth rate per 1,000 of population": "13.0"
+         "Million metric tons": "11.19"
       },
       {
          "Year": "2009",
-         "Birth rate per 1,000 of population": "13.5"
+         "Million metric tons": "10.73"
       },
       {
          "Year": "2008",
-         "Birth rate per 1,000 of population": "14.0"
+         "Million metric tons": "10.02"
       },
       {
          "Year": "2007",
-         "Birth rate per 1,000 of population": "14.3"
+         "Million metric tons": "9.53"
       },
       {
          "Year": "2006",
-         "Birth rate per 1,000 of population": "14.3"
+         "Million metric tons": "8.91"
       },
       {
          "Year": "2005",
-         "Birth rate per 1,000 of population": "14.0"
+         "Million metric tons": "8.03"
       },
       {
          "Year": "2004",
-         "Birth rate per 1,000 of population": "14.0"
+         "Million metric tons": "8.67"
       },
       {
          "Year": "2003",
-         "Birth rate per 1,000 of population": "14.1"
+         "Million metric tons": "8.16"
       },
       {
          "Year": "2002",
-         "Birth rate per 1,000 of population": "14.0"
+         "Million metric tons": "8.42"
       },
       {
          "Year": "2001",
-         "Birth rate per 1,000 of population": "14.1"
+         "Million metric tons": "8.55"
       },
       {
          "Year": "2000",
-         "Birth rate per 1,000 of population": "14.4"
-      },
-      {
-         "Year": "1999",
-         "Birth rate per 1,000 of population": "14.2"
-      },
-      {
-         "Year": "1998",
-         "Birth rate per 1,000 of population": "14.3"
-      },
-      {
-         "Year": "1997",
-         "Birth rate per 1,000 of population": "14.2"
-      },
-      {
-         "Year": "1996",
-         "Birth rate per 1,000 of population": "14.4"
-      },
-      {
-         "Year": "1995",
-         "Birth rate per 1,000 of population": "14.6"
-      },
-      {
-         "Year": "1994",
-         "Birth rate per 1,000 of population": "15.0"
-      },
-      {
-         "Year": "1993",
-         "Birth rate per 1,000 of population": "15.4"
-      },
-      {
-         "Year": "1992",
-         "Birth rate per 1,000 of population": "15.8"
-      },
-      {
-         "Year": "1991",
-         "Birth rate per 1,000 of population": "16.2"
-      },
-      {
-         "Year": "1990",
-         "Birth rate per 1,000 of population": "16.7"
+         "Million metric tons": "7.25"
       }
-   ]
+   ],
+   "gold": "This statistic depicts the production of papaya worldwide from 2000 to 2017 . According to the report , global papaya production amounted to approximately 12.67 million metric tons in 2014 .\n"
 }

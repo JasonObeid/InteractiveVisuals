@@ -1,89 +1,129 @@
 {
-   "title": "Volkswagen 's EU share : new-car registrations in 2019",
-   "xAxis": "Month",
-   "yAxis": "Market share",
+   "title": "Georgia - unemployment rate 1992 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows Volkswagen 's share of new-car registrations 2019 in the EU between 2018 and 2019 . ",
-      "In 2019 , Volkswagen 's share of new-car registrations 2019 in the EU stood at 10.7 % . ",
-      "The Volkswagen Motor Company , a South Korean registrations manufacturer belonging to the Volkswagen Kia Automotive Group , was founded in 1967 by Chung Ju-Yung ."
+      "This statistic displays the Unemployment rate in Georgia from 1992 to 2018 . ",
+      "In 2018 , Unemployment in Georgia was 3.9 % ."
    ],
    "trends": [
       {},
       {
-         "15": "0"
-      },
-      {}
+         "7": "0"
+      }
    ],
    "data": [
       {
-         "Month": "Dec 19",
-         "Market share": "10.7"
+         "Year": "'18",
+         "Unemployment rate": "3.9"
       },
       {
-         "Month": "Nov 19",
-         "Market share": "12.3"
+         "Year": "'17",
+         "Unemployment rate": "4.7"
       },
       {
-         "Month": "Oct 19",
-         "Market share": "12.1"
+         "Year": "'16",
+         "Unemployment rate": "5.4"
       },
       {
-         "Month": "Sep 19",
-         "Market share": "9.2"
+         "Year": "'15",
+         "Unemployment rate": "6"
       },
       {
-         "Month": "Aug 19",
-         "Market share": "11.9"
+         "Year": "'14",
+         "Unemployment rate": "7.1"
       },
       {
-         "Month": "Jul 19",
-         "Market share": "11.8"
+         "Year": "'13",
+         "Unemployment rate": "8.2"
       },
       {
-         "Month": "Jun 19",
-         "Market share": "11.3"
+         "Year": "'12",
+         "Unemployment rate": "9.2"
       },
       {
-         "Month": "May 19",
-         "Market share": "11"
+         "Year": "'11",
+         "Unemployment rate": "10.2"
       },
       {
-         "Month": "Apr 19",
-         "Market share": "11.3"
+         "Year": "'10",
+         "Unemployment rate": "10.5"
       },
       {
-         "Month": "Mar 19",
-         "Market share": "10.5"
+         "Year": "'09",
+         "Unemployment rate": "9.9"
       },
       {
-         "Month": "Feb 19",
-         "Market share": "11.4"
+         "Year": "'08",
+         "Unemployment rate": "6.2"
       },
       {
-         "Month": "Jan 19",
-         "Market share": "11.5"
+         "Year": "'07",
+         "Unemployment rate": "4.5"
       },
       {
-         "Month": "Dec 18",
-         "Market share": "11.5"
+         "Year": "'06",
+         "Unemployment rate": "4.7"
       },
       {
-         "Month": "Nov 18",
-         "Market share": "11.8"
+         "Year": "'05",
+         "Unemployment rate": "5.3"
       },
       {
-         "Month": "Oct 18",
-         "Market share": "10.2"
+         "Year": "'04",
+         "Unemployment rate": "4.8"
       },
       {
-         "Month": "Sep 18",
-         "Market share": "6.6"
+         "Year": "'03",
+         "Unemployment rate": "4.8"
       },
       {
-         "Month": "Aug 18",
-         "Market share": "12.7"
+         "Year": "'02",
+         "Unemployment rate": "5"
+      },
+      {
+         "Year": "'01",
+         "Unemployment rate": "4"
+      },
+      {
+         "Year": "'00",
+         "Unemployment rate": "3.6"
+      },
+      {
+         "Year": "'99",
+         "Unemployment rate": "3.9"
+      },
+      {
+         "Year": "'98",
+         "Unemployment rate": "4.3"
+      },
+      {
+         "Year": "'97",
+         "Unemployment rate": "4.6"
+      },
+      {
+         "Year": "'96",
+         "Unemployment rate": "4.7"
+      },
+      {
+         "Year": "'95",
+         "Unemployment rate": "4.8"
+      },
+      {
+         "Year": "'94",
+         "Unemployment rate": "5.2"
+      },
+      {
+         "Year": "'93",
+         "Unemployment rate": "6"
+      },
+      {
+         "Year": "'92",
+         "Unemployment rate": "6.9"
       }
-   ]
+   ],
+   "gold": "This statistic displays the unemployment rate in Georgia from 1992 to 2018 . In 2018 , the unemployment rate in Georgia was at 3.9 percent .\n"
 }

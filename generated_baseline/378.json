@@ -4,27 +4,21 @@
    "yAxis": "Number of pregnancies resulting in maternity",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Number of pregnancies resulting in maternity, with a total of 14 data points. The chart has 2 significant trends.",
-      " The longest trend is extremely positive which exists from 2017 to 2007.",
-      " Additionally, the next significant trend is strongly positive which exists from 2006 to 2004."
+      " The longest trend is slightly negative which exists from 2017 to 2007.",
+      " But, the next significant trend is extremely negative which exists from 2007 to 2004."
    ],
    "trends": [
+      {},
       {
-         "Length": 11,
-         "direction": "positive",
-         "start": 0,
-         "end": 10,
-         "trend": "y=-3624.43x+7336454.4",
-         "magnitude": "extremely"
+         "1": "0",
+         "12": "10"
       },
       {
-         "Length": 3,
-         "direction": "positive",
-         "start": 11,
-         "end": 13,
-         "trend": "y=-365.5x+793408.83",
-         "magnitude": "strongly"
+         "3": "10",
+         "14": "13"
       }
    ],
    "data": [

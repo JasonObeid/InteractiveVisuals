@@ -1,44 +1,64 @@
 {
-   "title": "Pet population in Europe 2018 , by animal type",
-   "xAxis": "Pet Type",
-   "yAxis": "Number of pets in thousands",
+   "title": "Spotify : most streamed weekly tracks worldwide 2020",
+   "xAxis": "Songs",
+   "yAxis": "Number of streams in millions",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Pet population Europe 2018 by animal type U.S. on Europe as of 2011 . ",
-      "Dog Pet received 85184 likes from U.S. type ."
+      "The statistic shows the Spotify unit Number tracks of the top 32.33 Songs in terms of millions in the first half of 2020 . ",
+      "The Dance_Monkey_-_Tones_and_I XR Number amounted to 50.24 millions in the first half of 2020 ."
    ],
    "trends": [
-      {},
       {
-         "0": "1",
-         "3": "1"
+         "11": "3"
+      },
+      {
+         "1": "0",
+         "6": "0"
       }
    ],
    "data": [
       {
-         "Pet Type": "Cat",
-         "Number of pets in thousands": "103828"
+         "Songs": "Dance Monkey - Tones and I",
+         "Number of streams in millions": "50.24"
       },
       {
-         "Pet Type": "Dog",
-         "Number of pets in thousands": "85184"
+         "Songs": "Yummy - Justin Bieber",
+         "Number of streams in millions": "36.77"
       },
       {
-         "Pet Type": "Ornamental bird",
-         "Number of pets in thousands": "50212"
+         "Songs": "ROXANNE - Arizona Zervas",
+         "Number of streams in millions": "33.55"
       },
       {
-         "Pet Type": "Small mammal",
-         "Number of pets in thousands": "26794"
+         "Songs": "The Box - Roddy Ricch",
+         "Number of streams in millions": "32.33"
       },
       {
-         "Pet Type": "Aquaria",
-         "Number of pets in thousands": "15493"
+         "Songs": "Tusa - KAROL G",
+         "Number of streams in millions": "29.52"
       },
       {
-         "Pet Type": "Reptiles",
-         "Number of pets in thousands": "7848"
+         "Songs": "Blinding Lights - The Weeknd",
+         "Number of streams in millions": "29.2"
+      },
+      {
+         "Songs": "Falling - Trevor Daniel",
+         "Number of streams in millions": "28.25"
+      },
+      {
+         "Songs": "Don't Start Now - Dua Lipa",
+         "Number of streams in millions": "27.34"
+      },
+      {
+         "Songs": "Memories - Maroon 5",
+         "Number of streams in millions": "27.01"
+      },
+      {
+         "Songs": "Circles - Post Malone",
+         "Number of streams in millions": "26.37"
       }
-   ]
+   ],
+   "gold": "As of the week ending January 9 , 2020 , Tones and I 's 'Dance Monkey ' was the most-streamed track on Spotify with 50.24 million streams worldwide , followed by \u2018 Yummy ' by Justin Bieber with 36.77 million . How do music artists get so many streams on Spotify ? Firstly , Spotify is one of the most successful and popular music streaming services in the United States , and as of the first half of 2018 had the biggest share of music streaming subscribers in the world . With Spotify 's vast audience , featuring on the platform is a good start for emerging and popular artists hoping to make an impact .\n"
 }

@@ -1,99 +1,49 @@
 {
-   "title": "Oregon - poverty rate from 2000 to 2018",
-   "xAxis": "Year",
-   "yAxis": "Percentage of population",
+   "title": "Piracy - actual and attempted attacks worldwide by country 2019",
+   "xAxis": "Country",
+   "yAxis": "Number of incidents",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the poverty rate in Oregon from 2000 to 2018 . ",
-      "For instance , 12.6 percentage of Oregon 's population lived below the poverty line in 2018 ."
+      "The statistic presents the Number of incidents actual attempted attacks worldwide by in the Piracy in 2019 . ",
+      "In 2019 , 35 % of all incidents stated they attempted attacks worldwide by ."
    ],
    "trends": [
+      {},
       {
-         "9": "18",
-         "11": "0"
-      },
-      {
-         "3": "0",
-         "15": "0"
+         "3": "0"
       }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Percentage of population": "12.6"
+         "Country": "Nigeria",
+         "Number of incidents": "35"
       },
       {
-         "Year": "2017",
-         "Percentage of population": "13.2"
+         "Country": "Indonesia",
+         "Number of incidents": "25"
       },
       {
-         "Year": "2016",
-         "Percentage of population": "13.3"
+         "Country": "Singapore Staits",
+         "Number of incidents": "12"
       },
       {
-         "Year": "2015",
-         "Percentage of population": "15.4"
+         "Country": "Malaysia",
+         "Number of incidents": "11"
       },
       {
-         "Year": "2014",
-         "Percentage of population": "16.6"
+         "Country": "Peru",
+         "Number of incidents": "10"
       },
       {
-         "Year": "2013",
-         "Percentage of population": "16.7"
+         "Country": "Venezuela",
+         "Number of incidents": "6"
       },
       {
-         "Year": "2012",
-         "Percentage of population": "17.2"
-      },
-      {
-         "Year": "2011",
-         "Percentage of population": "17.5"
-      },
-      {
-         "Year": "2010",
-         "Percentage of population": "15.8"
-      },
-      {
-         "Year": "2009",
-         "Percentage of population": "14.3"
-      },
-      {
-         "Year": "2008",
-         "Percentage of population": "13.6"
-      },
-      {
-         "Year": "2007",
-         "Percentage of population": "12.9"
-      },
-      {
-         "Year": "2006",
-         "Percentage of population": "13.3"
-      },
-      {
-         "Year": "2005",
-         "Percentage of population": "14.1"
-      },
-      {
-         "Year": "2004",
-         "Percentage of population": "14.1"
-      },
-      {
-         "Year": "2003",
-         "Percentage of population": "13.9"
-      },
-      {
-         "Year": "2002",
-         "Percentage of population": "13.2"
-      },
-      {
-         "Year": "2001",
-         "Percentage of population": "13.4"
-      },
-      {
-         "Year": "2000",
-         "Percentage of population": "13.2"
+         "Country": "Cameroon",
+         "Number of incidents": "6"
       }
-   ]
+   ],
+   "gold": "The statistic represents the total number of actual and attempted piracy attacks in the world 's most perilous territorial waters in 2019 . That year , there were six actual and attempted piracy attacks off the Venezuelan coast .\n"
 }

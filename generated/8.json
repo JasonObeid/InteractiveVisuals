@@ -1,32 +1,106 @@
 {
-   "title": "Expected numer of Valentine 's Day proposals in the United States 2012 to 2013",
-   "xAxis": "Year",
-   "yAxis": "Valentine's Day proposals in millions",
+   "title": "Women 's average age at first marriage in Italy 2018 , by region",
+   "xAxis": "Month",
+   "yAxis": "Average age",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "In 2013 , e-books accounted for 14 millions of all book sales in the 's , three millions less than in the previous Year . ",
-      "This is due to Valentine's unit sales falling from 180 millions in 2012 to 162 millions in 2013 2012 In the latter Year , the top-selling Valentine's was 'The Handmaid 's Tale ' by Margaret Atwood , a novel which has seen become a highly popular and successful TV series ."
+      "In 2020 , the average of Women in Italy at their first marriage was 35,4 age . ",
+      "In the North-Italian region of Aosta_Valley , the average of grooms was 38,2 age , the highest figure in the country . ",
+      "On the contrary , the average of Women at their first marriage was the lowest in the Southern regions of Calabria and Sicily ."
    ],
    "trends": [
+      {},
       {
-         "1": "0",
-         "6": "0"
+         "5": "0"
       },
       {
-         "12": "1",
-         "17": "0",
-         "18": "1"
+         "21": "19",
+         "23": "18"
       }
    ],
    "data": [
       {
-         "Year": "2013",
-         "Valentine's Day proposals in millions": "14"
+         "Month": "Aosta Valley",
+         "Average age": "34.7"
       },
       {
-         "Year": "2012",
-         "Valentine's Day proposals in millions": "6"
+         "Month": "Liguria",
+         "Average age": "34.1"
+      },
+      {
+         "Month": "Emilia-Romagna",
+         "Average age": "33.9"
+      },
+      {
+         "Month": "Tuscany",
+         "Average age": "33.9"
+      },
+      {
+         "Month": "Sardinia",
+         "Average age": "33.9"
+      },
+      {
+         "Month": "Friuli-Venezia Giulia",
+         "Average age": "33.6"
+      },
+      {
+         "Month": "Lazio",
+         "Average age": "33.5"
+      },
+      {
+         "Month": "Trentino-South Tyrol",
+         "Average age": "33.4"
+      },
+      {
+         "Month": "Piedmont",
+         "Average age": "33.3"
+      },
+      {
+         "Month": "Lombardy",
+         "Average age": "33.1"
+      },
+      {
+         "Month": "Umbria",
+         "Average age": "33.0"
+      },
+      {
+         "Month": "Marche",
+         "Average age": "32.8"
+      },
+      {
+         "Month": "Veneto",
+         "Average age": "32.8"
+      },
+      {
+         "Month": "Abruzzo",
+         "Average age": "32.8"
+      },
+      {
+         "Month": "Molise",
+         "Average age": "32.2"
+      },
+      {
+         "Month": "Basilicata",
+         "Average age": "32.1"
+      },
+      {
+         "Month": "Apulia",
+         "Average age": "31.6"
+      },
+      {
+         "Month": "Campania",
+         "Average age": "31.0"
+      },
+      {
+         "Month": "Sicily",
+         "Average age": "30.8"
+      },
+      {
+         "Month": "Calabria",
+         "Average age": "30.6"
       }
-   ]
+   ],
+   "gold": "In 2018 , the average age of Italian women walking down the aisle was of 32.5 years . From the perspective of the singular regions , the oldest females to tie the knot were citizens of Aosta Valley and Liguria , where the average age of the bride at the first marriage reached 34.7 years and 34.1 years in 2018 . Aosta Valley was also the region with the oldest grooms in the country \u2013 a male inhabitant of the region got married at the average age of 38.2 years .\n"
 }

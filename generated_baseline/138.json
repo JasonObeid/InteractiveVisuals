@@ -4,15 +4,24 @@
    "yAxis": "Number of ships",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 3 categories for the x axis representing Ship Type, and a y axis representing Number of ships.",
       " The highest category is found at Chartered where Number of ships is 397.0.",
       " The lowest category is found at Orderbook where Number of ships is 13.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 2
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 2,
+         "12": 2
+      },
+      {}
+   ],
    "data": [
       {
          "Ship Type": "Chartered",

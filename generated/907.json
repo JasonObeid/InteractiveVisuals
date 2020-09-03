@@ -1,71 +1,69 @@
 {
-   "title": "Number of casinos worldwide 2011 by region",
-   "xAxis": "Country",
-   "yAxis": "Number of casinos",
+   "title": "Annual rainfall in Belgium 2006 to 2016",
+   "xAxis": "Year",
+   "yAxis": "Rainfall in millimeters",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Number of casinos in Number 2011 , broken down 2011 by . ",
-      "That year , there were a total of approximately two thousand casinos in North_America . ",
-      "Almost 1623 thousand had Spanish by , followed 2011 casinos with a Moroccan by with figures that almost reached 770 thousand individuals ."
+      "This statistic shows the Rainfall of millimeters in Belgium from 2006 to 2016 millimeters 100,000 . ",
+      "The Rainfall of millimeters in Belgium 2016 was 942 millimeters 100,000 ."
    ],
    "trends": [
-      {},
       {
-         "13": "0"
+         "10": "10",
+         "12": "0"
       },
       {
-         "1": "0"
+         "7": "0",
+         "9": "0"
       }
    ],
    "data": [
       {
-         "Country": "North America",
-         "Number of casinos": "1623"
+         "Year": "2016",
+         "Rainfall in millimeters": "942"
       },
       {
-         "Country": "Western Europe",
-         "Number of casinos": "682"
+         "Year": "2015",
+         "Rainfall in millimeters": "737"
       },
       {
-         "Country": "Eastern Europe",
-         "Number of casinos": "479"
+         "Year": "2014",
+         "Rainfall in millimeters": "784"
       },
       {
-         "Country": "South America",
-         "Number of casinos": "199"
+         "Year": "2013",
+         "Rainfall in millimeters": "816"
       },
       {
-         "Country": "Africa",
-         "Number of casinos": "157"
+         "Year": "2012",
+         "Rainfall in millimeters": "977"
       },
       {
-         "Country": "Caribbean",
-         "Number of casinos": "124"
+         "Year": "2011",
+         "Rainfall in millimeters": "815"
       },
       {
-         "Country": "Far East",
-         "Number of casinos": "103"
+         "Year": "2010",
+         "Rainfall in millimeters": "914"
       },
       {
-         "Country": "Central America",
-         "Number of casinos": "93"
+         "Year": "2009",
+         "Rainfall in millimeters": "764"
       },
       {
-         "Country": "Central Asia",
-         "Number of casinos": "42"
+         "Year": "2008",
+         "Rainfall in millimeters": "862"
       },
       {
-         "Country": "Oceania",
-         "Number of casinos": "25"
+         "Year": "2007",
+         "Rainfall in millimeters": "880"
       },
       {
-         "Country": "South Asia",
-         "Number of casinos": "15"
-      },
-      {
-         "Country": "Middle East",
-         "Number of casinos": "5"
+         "Year": "2006",
+         "Rainfall in millimeters": "835"
       }
-   ]
+   ],
+   "gold": "Does it always rain in Belgium ? In some weeks that may seem to be the case , but in the last decade Belgium actually counted between 180 and 212 rain days a year . And in none of these years , the annual rainfall surpassed the thousand millimeters . Rainfall peaked in 2016 , at roughly 940 millimeters .\n"
 }

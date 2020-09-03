@@ -4,8 +4,43 @@
    "yAxis": "Inflation rate compared to previous year",
    "columnType": "two",
    "graphType": "line",
-   "summary": [],
-   "trends": [],
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Inflation rate compared to previous year, with a total of 31 data points. The chart has 6 significant trends.",
+      " The longest trend is slightly negative which exists from 2007 to 2001.",
+      " On the contrary, the next significant trend is slightly negative which exists from 2020 to 2015.",
+      " Contrarily, the next significant trend is moderately positive which exists from 2024 to 2020.",
+      " Additionally, the next significant trend is extremely negative which exists from 2015 to 2011.",
+      " Differently, the next significant trend is moderately positive which exists from 2011 to 2007.",
+      " In a similar manner, the next significant trend is moderately positive which exists from 2001 to 1997."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "17",
+         "12": "23"
+      },
+      {
+         "3": "4",
+         "14": "9"
+      },
+      {
+         "3": "0",
+         "14": "4"
+      },
+      {
+         "3": "9",
+         "14": "13"
+      },
+      {
+         "3": "13",
+         "14": "17"
+      },
+      {
+         "3": "23",
+         "14": "27"
+      }
+   ],
    "data": [
       {
          "Year": "2024",

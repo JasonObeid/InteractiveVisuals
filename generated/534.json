@@ -1,60 +1,105 @@
 {
-   "title": "Share of U.S. middle class population 2015 , by race and ethnicity",
-   "labels": [
-      "unknown",
-      "1971",
-      "2001",
-      "2015"
-   ],
-   "columnType": "multi",
-   "graphType": "bar",
+   "title": "Employees with zero hours contracts in the UK 2000 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Employees in thousands",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Share and U.S. of class in the middle in 2015 , by . ",
-      "In 2015 , about 61 % All_adults class were 1971 class ."
+      "This statistic shows the zero Employees of the contracts UK of from 2000 to 2019 . ",
+      "The zero Employees of the Canadian UK was 896 thousands in 2016 ."
    ],
    "trends": [
-      {},
       {
-         "4": [
-            "4",
-            "1"
-         ],
-         "6": [
-            "4",
-            "0"
-         ]
+         "13": "19",
+         "15": "0"
+      },
+      {
+         "8": "0",
+         "11": "3"
       }
    ],
    "data": [
       {
-         "unknown": "Asian",
-         "1971": "56",
-         "2001": "52",
-         "2015": "47"
+         "Year": "2019",
+         "Employees in thousands": "896"
       },
       {
-         "unknown": "Black",
-         "1971": "46",
-         "2001": "49",
-         "2015": "45"
+         "Year": "2018",
+         "Employees in thousands": "780"
       },
       {
-         "unknown": "Hispanic",
-         "1971": "58",
-         "2001": "49",
-         "2015": "48"
+         "Year": "2017",
+         "Employees in thousands": "883"
       },
       {
-         "unknown": "White",
-         "1971": "63",
-         "2001": "56",
-         "2015": "52"
+         "Year": "2016",
+         "Employees in thousands": "903"
       },
       {
-         "unknown": "All adults",
-         "1971": "61",
-         "2001": "54",
-         "2015": "50"
+         "Year": "2015",
+         "Employees in thousands": "747"
+      },
+      {
+         "Year": "2014",
+         "Employees in thousands": "624"
+      },
+      {
+         "Year": "2013",
+         "Employees in thousands": "585"
+      },
+      {
+         "Year": "2012",
+         "Employees in thousands": "252"
+      },
+      {
+         "Year": "2011",
+         "Employees in thousands": "190"
+      },
+      {
+         "Year": "2010",
+         "Employees in thousands": "168"
+      },
+      {
+         "Year": "2009",
+         "Employees in thousands": "189"
+      },
+      {
+         "Year": "2008",
+         "Employees in thousands": "143"
+      },
+      {
+         "Year": "2007",
+         "Employees in thousands": "166"
+      },
+      {
+         "Year": "2006",
+         "Employees in thousands": "147"
+      },
+      {
+         "Year": "2005",
+         "Employees in thousands": "119"
+      },
+      {
+         "Year": "2004",
+         "Employees in thousands": "108"
+      },
+      {
+         "Year": "2003",
+         "Employees in thousands": "124"
+      },
+      {
+         "Year": "2002",
+         "Employees in thousands": "156"
+      },
+      {
+         "Year": "2001",
+         "Employees in thousands": "176"
+      },
+      {
+         "Year": "2000",
+         "Employees in thousands": "225"
       }
-   ]
+   ],
+   "gold": "This statistic shows the number of people in thousands on a zero-hour contract in the United Kingdom from 2000 to 2019 . In 2000 , there were 225 thousand people on zero-hour contracts , with this number increasing to approximately 896 thousand by 2019 .\n"
 }

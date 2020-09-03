@@ -1,102 +1,79 @@
 {
-   "title": "Leading export countries worldwide 2018",
-   "xAxis": "Country",
-   "yAxis": "Exports in billion U.S. dollars",
+   "title": "Number of road deaths in Germany 2006 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of fatalities",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the 20 Leading export the countries Exports billion 2018 in . ",
-      "In the China , the Exports decreased by about 2486.7 billion U.S. to the dollars , making it the Country export the countries Exports billion 2018 in . ",
-      "The Exports Today , the global Exports amounts to around 7 billion U.S. , i.e ."
+      "Between 2006 and 2018 , road fatalities in Germany had seen a net decline of 27 % . ",
+      "The lowest figure of such fatalities was recorded in 2017 at 3180 . ",
+      "These figures stand in contrast to an increase in the volume of passenger road transport ."
    ],
    "trends": [
-      {},
       {
-         "2": "0",
-         "9": "0"
+         "1": "12",
+         "3": "0"
+      },
+      {
+         "9": "1",
+         "11": "1"
       },
       {}
    ],
    "data": [
       {
-         "Country": "China",
-         "Exports in billion U.S. dollars": "2486.7"
+         "Year": "2018",
+         "Number of fatalities": "3275"
       },
       {
-         "Country": "United States of America",
-         "Exports in billion U.S. dollars": "1665.99"
+         "Year": "2017",
+         "Number of fatalities": "3180"
       },
       {
-         "Country": "Germany",
-         "Exports in billion U.S. dollars": "1560.65"
+         "Year": "2016",
+         "Number of fatalities": "3206"
       },
       {
-         "Country": "Japan",
-         "Exports in billion U.S. dollars": "738.14"
+         "Year": "2015",
+         "Number of fatalities": "3459"
       },
       {
-         "Country": "Netherlands",
-         "Exports in billion U.S. dollars": "723.75"
+         "Year": "2014",
+         "Number of fatalities": "3377"
       },
       {
-         "Country": "Korea Republic of",
-         "Exports in billion U.S. dollars": "604.86"
+         "Year": "2013",
+         "Number of fatalities": "3339"
       },
       {
-         "Country": "France",
-         "Exports in billion U.S. dollars": "581.87"
+         "Year": "2012",
+         "Number of fatalities": "3600"
       },
       {
-         "Country": "Hong Kong China",
-         "Exports in billion U.S. dollars": "568.45"
+         "Year": "2011",
+         "Number of fatalities": "4009"
       },
       {
-         "Country": "Italy",
-         "Exports in billion U.S. dollars": "546.64"
+         "Year": "2010",
+         "Number of fatalities": "3648"
       },
       {
-         "Country": "United Kingdom",
-         "Exports in billion U.S. dollars": "486.85"
+         "Year": "2009",
+         "Number of fatalities": "4152"
       },
       {
-         "Country": "Belgium",
-         "Exports in billion U.S. dollars": "466.72"
+         "Year": "2008",
+         "Number of fatalities": "4477"
       },
       {
-         "Country": "Mexico",
-         "Exports in billion U.S. dollars": "450.69"
+         "Year": "2007",
+         "Number of fatalities": "4949"
       },
       {
-         "Country": "Canada",
-         "Exports in billion U.S. dollars": "450.59"
-      },
-      {
-         "Country": "Russian Federation",
-         "Exports in billion U.S. dollars": "443.13"
-      },
-      {
-         "Country": "Singapore",
-         "Exports in billion U.S. dollars": "412.95"
-      },
-      {
-         "Country": "Spain",
-         "Exports in billion U.S. dollars": "345.17"
-      },
-      {
-         "Country": "Chinese Taipei",
-         "Exports in billion U.S. dollars": "335.91"
-      },
-      {
-         "Country": "India",
-         "Exports in billion U.S. dollars": "324.78"
-      },
-      {
-         "Country": "United Arab Emirates",
-         "Exports in billion U.S. dollars": "316.9"
-      },
-      {
-         "Country": "Switzerland",
-         "Exports in billion U.S. dollars": "310.75"
+         "Year": "2006",
+         "Number of fatalities": "5091"
       }
-   ]
+   ],
+   "gold": "This line graph shows the number of road traffic fatalities per year in Germany between 2006 and 2018 . In 2009 , 4,152 individuals were killed in motor vehicle accidents . An overall decrease in the number of road deaths was observed within the time period shown .\n"
 }

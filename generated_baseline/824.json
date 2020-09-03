@@ -4,15 +4,24 @@
    "yAxis": "Size of global sales force",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 42 categories for the x axis representing Quarter, and a y axis representing Size of global sales force.",
       " The highest category is found at Q1_'12 where Size of global sales force is 5735.0.",
       " The lowest category is found at Q1_'09 where Size of global sales force is 2.0."
    ],
-   "trends": {
-      "maxIndex": 29,
-      "minIndex": 41
-   },
+   "trends": [
+      {},
+      {
+         "7": 29,
+         "12": 29
+      },
+      {
+         "7": 41,
+         "12": 41
+      },
+      {}
+   ],
    "data": [
       {
          "Quarter": "Q4 '19",

@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 5 categories for the x axis of Race representing 2007, 2012.",
-      " The highest category is found at Fashion / Apparel with a mean value of 43.099999999999994.",
-      " The second highest category is found at Perfume & Cosmetics with a mean value of 18.049999999999997.",
+      "This grouped bar chart has 5 categories for the x axis of Race representing 2007, and 2012.",
+      " The highest category is found at Fashion / Apparel with a mean value of 43.1.",
+      " The second highest category is found at Perfume & Cosmetics with a mean value of 18.05.",
       " This represents a difference of 81.9%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Race": "Fashion / Apparel",

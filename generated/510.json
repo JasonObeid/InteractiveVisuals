@@ -1,105 +1,53 @@
 {
-   "title": "Share of economic sectors in the GDP in Bulgaria 2008 to 2018",
-   "labels": [
-      "Year",
-      "Agriculture",
-      "Industry",
-      "Services"
-   ],
-   "columnType": "multi",
-   "graphType": "line",
+   "title": "Leading industries targeted by DDoS attack traffic 2017",
+   "xAxis": "Industry",
+   "yAxis": "Percentage of attack traffic",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Share of the economic sectors GDP ( Bulgaria ) 2008 2018 in Bulgaria from 2008 to 2018 . ",
-      "In 2018 , Agriculture contributed around 3.65 % to the Bulgaria of , 23.76 % came from the Industry and 59.24 % from the service sector ."
+      "This statistic shows the distribution of attack traffic in the DDoS in 2017 , Industry . ",
+      "In the year 2017 , 79 percentage of attack traffic were attack traffic ."
    ],
    "trends": [
+      {},
       {
-         "19": [
-            "10",
-            "0"
-         ],
-         "21": [
-            "0",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "0"
-         ],
-         "6": [
-            "0",
-            "1"
-         ]
+         "5": "0"
       }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Agriculture": "3.65",
-         "Industry": "23.76",
-         "Services": "59.24"
+         "Industry": "Gaming",
+         "Percentage of attack traffic": "79"
       },
       {
-         "Year": "2017",
-         "Agriculture": "4.07",
-         "Industry": "24.67",
-         "Services": "57.99"
+         "Industry": "Internet and telecom",
+         "Percentage of attack traffic": "6"
       },
       {
-         "Year": "2016",
-         "Agriculture": "4.05",
-         "Industry": "24.43",
-         "Services": "57.8"
+         "Industry": "Financial services",
+         "Percentage of attack traffic": "4"
       },
       {
-         "Year": "2015",
-         "Agriculture": "4.14",
-         "Industry": "24.09",
-         "Services": "58.2"
+         "Industry": "Software and technology",
+         "Percentage of attack traffic": "4"
       },
       {
-         "Year": "2014",
-         "Agriculture": "4.56",
-         "Industry": "23.68",
-         "Services": "58.6"
+         "Industry": "Education",
+         "Percentage of attack traffic": "3"
       },
       {
-         "Year": "2013",
-         "Agriculture": "4.61",
-         "Industry": "23.48",
-         "Services": "57.99"
+         "Industry": "Retail and consumer goods",
+         "Percentage of attack traffic": "3"
       },
       {
-         "Year": "2012",
-         "Agriculture": "4.56",
-         "Industry": "25",
-         "Services": "56.97"
+         "Industry": "Media and entertainment",
+         "Percentage of attack traffic": "1"
       },
       {
-         "Year": "2011",
-         "Agriculture": "4.6",
-         "Industry": "25.61",
-         "Services": "57.24"
-      },
-      {
-         "Year": "2010",
-         "Agriculture": "4.16",
-         "Industry": "23.81",
-         "Services": "58.99"
-      },
-      {
-         "Year": "2009",
-         "Agriculture": "4.24",
-         "Industry": "26.38",
-         "Services": "56.19"
-      },
-      {
-         "Year": "2008",
-         "Agriculture": "5.88",
-         "Industry": "24.92",
-         "Services": "53.31"
+         "Industry": "Other",
+         "Percentage of attack traffic": "1"
       }
-   ]
+   ],
+   "gold": "The statistic shows the percentage of worldwide denial of service attack traffic in the fourth quarter of 2017 , sorted by industry . During that period of time , 79 percent of DDoS attack traffic were directed towards the gaming industry . Internet and telecom ranked second with six percent of DDoS attack traffic .\n"
 }

@@ -4,36 +4,26 @@
    "yAxis": "Franchise value in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Franchise value in million U.S. dollars, with a total of 18 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely negative which exists from 2019 to 2009.",
-      " Conversely, the next significant trend is extremely negative which exists from 2008 to 2004.",
-      " Differently, the next significant trend is moderately positive which exists from 2004 to 2002."
+      " The longest trend is extremely positive which exists from 2019 to 2009.",
+      " Also, the next significant trend is slightly positive which exists from 2009 to 2004.",
+      " In a similar manner, the next significant trend is slightly negative which exists from 2004 to 2002."
    ],
    "trends": [
+      {},
       {
-         "Length": 11,
-         "direction": "negative",
-         "start": 0,
-         "end": 10,
-         "trend": "y=298.2x+-599056.98",
-         "magnitude": "extremely"
+         "1": "0",
+         "12": "10"
       },
       {
-         "Length": 5,
-         "direction": "negative",
-         "start": 11,
-         "end": 15,
-         "trend": "y=33.0x+-65775.6",
-         "magnitude": "extremely"
+         "3": "10",
+         "14": "15"
       },
       {
-         "Length": 3,
-         "direction": "positive",
-         "start": 15,
-         "end": 17,
-         "trend": "y=6.5x+-12651.17",
-         "magnitude": "moderately"
+         "3": "15",
+         "14": "17"
       }
    ],
    "data": [

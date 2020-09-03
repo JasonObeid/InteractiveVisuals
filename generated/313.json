@@ -1,85 +1,104 @@
 {
-   "title": "Leading hotel companies worldwide as of June 2019 , by number of properties",
-   "xAxis": "Month",
-   "yAxis": "Number of properties",
+   "title": "Sugar beet production in the U.S. 2000 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Production in thousand tons",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the leading 15 Month models according to the Auto Express Driver Power survey responses worldwide on Month June 2019 . ",
-      "The survey was carried properties by the British automotive magazine online between 2014 and 2015 . ",
-      "Wyndham_Hotel_Group dominated this category securing the top three spots with the Wyndham_Hotel_Group , Choice_Hotels_International and Marriott_International models as well having three other models in the top 15 ."
+      "After figures tell us that the Sugar spent 35317 thousand of its gross domestic product on beet care in 2019 . ",
+      "Projections show us that in the subsequent two years the beet spending in regards to thousand will stagnate . ",
+      "The Sugar has the highest beet spending based on thousand share among developed countries ."
    ],
    "trends": [
-      {},
-      {},
       {
-         "0": "0",
-         "11": "0",
-         "13": "1",
-         "16": "1",
-         "17": "2"
-      }
+         "8": "2",
+         "19": "0"
+      },
+      {},
+      {}
    ],
    "data": [
       {
-         "Month": "Wyndham Hotel Group",
-         "Number of properties": "9157"
+         "Year": "2019",
+         "Production in thousand tons": "28600"
       },
       {
-         "Month": "Choice Hotels International",
-         "Number of properties": "7045"
+         "Year": "2018",
+         "Production in thousand tons": "33282"
       },
       {
-         "Month": "Marriott International",
-         "Number of properties": "7003"
+         "Year": "2017",
+         "Production in thousand tons": "35317"
       },
       {
-         "Month": "Hilton Worldwide",
-         "Number of properties": "5872"
+         "Year": "2016",
+         "Production in thousand tons": "36920"
       },
       {
-         "Month": "InterContinental Hotels Group (IHG)",
-         "Number of properties": "5656"
+         "Year": "2015",
+         "Production in thousand tons": "35371"
       },
       {
-         "Month": "Best Western Hotels & Resorts",
-         "Number of properties": "4008"
+         "Year": "2014",
+         "Production in thousand tons": "31285"
       },
       {
-         "Month": "G6 Hospitality",
-         "Number of properties": "1391"
+         "Year": "2013",
+         "Production in thousand tons": "32789"
       },
       {
-         "Month": "Radisson Hotel Group",
-         "Number of properties": "1179"
+         "Year": "2012",
+         "Production in thousand tons": "35224"
       },
       {
-         "Month": "RLH Corporation",
-         "Number of properties": "1167"
+         "Year": "2011",
+         "Production in thousand tons": "28896"
       },
       {
-         "Month": "Hyatt Hotels Corp.",
-         "Number of properties": "865"
+         "Year": "2010",
+         "Production in thousand tons": "32034"
       },
       {
-         "Month": "Aimbridge Hospitality",
-         "Number of properties": "834"
+         "Year": "2009",
+         "Production in thousand tons": "29783"
       },
       {
-         "Month": "Westmont Hospitality Group",
-         "Number of properties": "692"
+         "Year": "2008",
+         "Production in thousand tons": "26881"
       },
       {
-         "Month": "Red Roof",
-         "Number of properties": "637"
+         "Year": "2007",
+         "Production in thousand tons": "31834"
       },
       {
-         "Month": "Extended Stay America",
-         "Number of properties": "627"
+         "Year": "2006",
+         "Production in thousand tons": "34064"
       },
       {
-         "Month": "Interstate Hotels & Resorts",
-         "Number of properties": "479"
+         "Year": "2005",
+         "Production in thousand tons": "27433"
+      },
+      {
+         "Year": "2004",
+         "Production in thousand tons": "30021"
+      },
+      {
+         "Year": "2003",
+         "Production in thousand tons": "30710"
+      },
+      {
+         "Year": "2002",
+         "Production in thousand tons": "27707"
+      },
+      {
+         "Year": "2001",
+         "Production in thousand tons": "25708"
+      },
+      {
+         "Year": "2000",
+         "Production in thousand tons": "32541"
       }
-   ]
+   ],
+   "gold": "This statistic shows the total U.S. sugar beet production from 2000 to 2019 . According to the report , approximately 28.6 million tons of sugar beet were produced in the United States in 2019 .\n"
 }

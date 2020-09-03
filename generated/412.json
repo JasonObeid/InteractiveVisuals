@@ -1,55 +1,101 @@
 {
-   "title": "Number of employees at S & P\\xa0Global 2012 to 2019",
+   "title": "Georgia - Poverty rate 2000 to 2018",
    "xAxis": "Year",
-   "yAxis": "Number of employees in thousands",
+   "yAxis": "Percentage of population",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic depicts the Number of employees S , and S for the fiscal years 2012 to 2019 . ",
-      "The Number of employees at S , and S reached a high in 2017 with 20.4 employed at the S that Year ."
+      "This statistic shows the Poverty rate in Georgia from 2000 to 2018 . ",
+      "In 2018 , about 14.3 percentage of Georgia 's population lived below the Poverty line ."
    ],
    "trends": [
       {
-         "18": "7",
-         "20": "0"
+         "9": "18",
+         "11": "0"
       },
       {
-         "15": "2",
-         "17": "2"
+         "1": "0",
+         "4": "0"
       }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Number of employees in thousands": "23.0"
-      },
-      {
          "Year": "2018",
-         "Number of employees in thousands": "21.0"
+         "Percentage of population": "14.3"
       },
       {
          "Year": "2017",
-         "Number of employees in thousands": "20.4"
+         "Percentage of population": "14.9"
       },
       {
          "Year": "2016",
-         "Number of employees in thousands": "20.0"
+         "Percentage of population": "16"
       },
       {
          "Year": "2015",
-         "Number of employees in thousands": "20.4"
+         "Percentage of population": "17"
       },
       {
          "Year": "2014",
-         "Number of employees in thousands": "17.0"
+         "Percentage of population": "18.3"
       },
       {
          "Year": "2013",
-         "Number of employees in thousands": "16.4"
+         "Percentage of population": "19"
       },
       {
          "Year": "2012",
-         "Number of employees in thousands": "15.9"
+         "Percentage of population": "19.2"
+      },
+      {
+         "Year": "2011",
+         "Percentage of population": "19.1"
+      },
+      {
+         "Year": "2010",
+         "Percentage of population": "17.9"
+      },
+      {
+         "Year": "2009",
+         "Percentage of population": "16.5"
+      },
+      {
+         "Year": "2008",
+         "Percentage of population": "14.7"
+      },
+      {
+         "Year": "2007",
+         "Percentage of population": "14.3"
+      },
+      {
+         "Year": "2006",
+         "Percentage of population": "14.7"
+      },
+      {
+         "Year": "2005",
+         "Percentage of population": "14.4"
+      },
+      {
+         "Year": "2004",
+         "Percentage of population": "14.8"
+      },
+      {
+         "Year": "2003",
+         "Percentage of population": "13.4"
+      },
+      {
+         "Year": "2002",
+         "Percentage of population": "12.7"
+      },
+      {
+         "Year": "2001",
+         "Percentage of population": "11.7"
+      },
+      {
+         "Year": "2000",
+         "Percentage of population": "12.6"
       }
-   ]
+   ],
+   "gold": "This statistic shows the poverty rate in Georgia from 2000 to 2018 . In 2018 , about 14.3 percent of Georgia 's population lived below the poverty line .\n"
 }

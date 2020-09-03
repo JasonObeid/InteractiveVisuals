@@ -1,63 +1,79 @@
 {
-   "title": "Marks & Spencer revenue worldwide 2010 to 2019",
-   "xAxis": "Year",
-   "yAxis": "Revenue in million GBP",
+   "title": "Number of members of FC Bayern Munich 2005 to 2018",
+   "xAxis": "Month",
+   "yAxis": "Number of members in thousands",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "In the fiscal Year of 2019 , Marks Spencer transported passengers on a total of over 131.3 million British pounds . ",
-      "The low-cost carrier had a capacity of 157.2 million available seat Spencer in that same Year , and as such was efficient in using its fleet to transport paying customers . ",
-      "Flying with Marks Spencer ' main hub , Las Vegas McCarran International Airport , saw a traffic of 17.5 million Marks Spencer passengers in 2018 ."
+      "The statistic shows the Number of members thousands in international elementary from 2000 to 2018 . ",
+      "291.0 people were killed in the Nov_2018 2017/18 in 2018 ."
    ],
    "trends": [
-      {
-         "5": "0"
-      },
       {},
       {
-         "22": "1"
+         "0": "0",
+         "6": "0",
+         "7": "1"
       }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Revenue in million GBP": "10377.3"
+         "Month": "Nov 2018",
+         "Number of members in thousands": "291.0"
       },
       {
-         "Year": "2018",
-         "Revenue in million GBP": "10698.2"
+         "Month": "2017/18",
+         "Number of members in thousands": "290.0"
       },
       {
-         "Year": "2017",
-         "Revenue in million GBP": "10622.0"
+         "Month": "2016/17",
+         "Number of members in thousands": "284.04"
       },
       {
-         "Year": "2016",
-         "Revenue in million GBP": "10555.4"
+         "Month": "2015/16",
+         "Number of members in thousands": "270.33"
       },
       {
-         "Year": "2015",
-         "Revenue in million GBP": "10311.4"
+         "Month": "2014/15",
+         "Number of members in thousands": "251.32"
       },
       {
-         "Year": "2014",
-         "Revenue in million GBP": "10309.7"
+         "Month": "2013/14",
+         "Number of members in thousands": "233.43"
       },
       {
-         "Year": "2013",
-         "Revenue in million GBP": "10026.8"
+         "Month": "2012/13",
+         "Number of members in thousands": "195.69"
       },
       {
-         "Year": "2012",
-         "Revenue in million GBP": "9934.3"
+         "Month": "2011/12",
+         "Number of members in thousands": "187.87"
       },
       {
-         "Year": "2011",
-         "Revenue in million GBP": "9740.3"
+         "Month": "2010/11",
+         "Number of members in thousands": "171.35"
       },
       {
-         "Year": "2010",
-         "Revenue in million GBP": "9536.6"
+         "Month": "2009/10",
+         "Number of members in thousands": "162.18"
+      },
+      {
+         "Month": "2008/09",
+         "Number of members in thousands": "151.23"
+      },
+      {
+         "Month": "2007/08",
+         "Number of members in thousands": "147.07"
+      },
+      {
+         "Month": "2006/07",
+         "Number of members in thousands": "135.75"
+      },
+      {
+         "Month": "2005/06",
+         "Number of members in thousands": "121.12"
       }
-   ]
+   ],
+   "gold": "Over the past 10 years the number of members of the FC Bayern Munich , one of the most prominent football club of the German Bundesliga , the top tier football league of Germany , almost doubled . In 2008 there were roughly 151 thousand members of the club and in 2018 there were 291 thousand . In a survey based on public interest among Germans from 2018 , Bayern Munich lead in as the most popular club and the number of fan club members also came close to doubling in the last 10 years .\n"
 }

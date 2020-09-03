@@ -4,27 +4,21 @@
    "yAxis": "Share of respondents",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Share of respondents, with a total of 7 data points. The chart has 2 significant trends.",
-      " The longest trend is extremely positive which exists from 6-11_years to 25-34_years.",
-      " Also, the next significant trend is moderately negative which exists from 25-34_years to Over_55_years."
+      " The longest trend is extremely negative which exists from 6-11_years to 25-34_years.",
+      " Differently, the next significant trend is slightly positive which exists from 25-34_years to Over_55_years."
    ],
    "trends": [
+      {},
       {
-         "Length": 4,
-         "direction": "positive",
-         "start": 0,
-         "end": 3,
-         "trend": "y=0.01x+8.23",
-         "magnitude": "extremely"
+         "1": "0",
+         "12": "3"
       },
       {
-         "Length": 4,
-         "direction": "negative",
-         "start": 3,
-         "end": 6,
-         "trend": "y=0.0x+11.41",
-         "magnitude": "moderately"
+         "3": "3",
+         "14": "6"
       }
    ],
    "data": [

@@ -1,224 +1,97 @@
 {
-   "title": "Percentage of U.S. state population receiving SNAP benefits ( Food Stamps ) 2011",
-   "xAxis": "State",
-   "yAxis": "Number of households in millions",
+   "title": "Political stability - countries",
+   "xAxis": "Country",
+   "yAxis": "Index Value",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Number of households in the U.S. in 2011 , population State . ",
-      "In 2011 , about 22 millions households were counted in the federal State of District_of_Columbia ."
+      "The statistic displays the minimum Political of Index countries the population in selected Czech_Republic countries in order to be selected into the countries one hundred as of . ",
+      "stability instance , in Australia , the top countries one percent of the population started at 3.9 % Value in . ",
+      "In comparison , in Switzerland the cut-off point was at 1.2 thousand Value in the same year ."
    ],
    "trends": [
-      {},
+      {
+         "14": "4"
+      },
       {
          "4": "0",
-         "14": "0"
+         "16": "13"
+      },
+      {
+         "4": "16",
+         "10": "12"
       }
    ],
    "data": [
       {
-         "State": "District of Columbia",
-         "Number of households in millions": "22"
+         "Country": "Australia",
+         "Index Value": "3.6"
       },
       {
-         "State": "Mississippi",
-         "Number of households in millions": "21"
+         "Country": "Austria",
+         "Index Value": "3.6"
       },
       {
-         "State": "Tennessee",
-         "Number of households in millions": "20"
+         "Country": "Canada",
+         "Index Value": "2.8"
       },
       {
-         "State": "New Mexico",
-         "Number of households in millions": "20"
+         "Country": "Costa Rica",
+         "Index Value": "3.5"
       },
       {
-         "State": "Michigan",
-         "Number of households in millions": "20"
+         "Country": "Czech Republic",
+         "Index Value": "3.7"
       },
       {
-         "State": "Oregon",
-         "Number of households in millions": "20"
+         "Country": "Denmark",
+         "Index Value": "2.2"
       },
       {
-         "State": "Louisiana",
-         "Number of households in millions": "19"
+         "Country": "Finland",
+         "Index Value": "3.2"
       },
       {
-         "State": "Maine",
-         "Number of households in millions": "19"
+         "Country": "Germany",
+         "Index Value": "3.8"
       },
       {
-         "State": "Alabama",
-         "Number of households in millions": "19"
+         "Country": "Japan",
+         "Index Value": "3.8"
       },
       {
-         "State": "Kentucky",
-         "Number of households in millions": "19"
+         "Country": "Luxembourg",
+         "Index Value": "3.6"
       },
       {
-         "State": "West Virginia",
-         "Number of households in millions": "19"
+         "Country": "Mauritius",
+         "Index Value": "3.5"
       },
       {
-         "State": "Georgia",
-         "Number of households in millions": "18"
+         "Country": "New Zealand",
+         "Index Value": "3.6"
       },
       {
-         "State": "South Carolina",
-         "Number of households in millions": "18"
+         "Country": "Norway",
+         "Index Value": "1.2"
       },
       {
-         "State": "Arkansas",
-         "Number of households in millions": "17"
+         "Country": "Oman",
+         "Index Value": "3.9"
       },
       {
-         "State": "Florida",
-         "Number of households in millions": "16"
+         "Country": "Slovenia",
+         "Index Value": "3.8"
       },
       {
-         "State": "North Carolina",
-         "Number of households in millions": "16"
+         "Country": "Sweden",
+         "Index Value": "3.2"
       },
       {
-         "State": "Missouri",
-         "Number of households in millions": "16"
-      },
-      {
-         "State": "Arizona",
-         "Number of households in millions": "16"
-      },
-      {
-         "State": "Oklahoma",
-         "Number of households in millions": "16"
-      },
-      {
-         "State": "Washington",
-         "Number of households in millions": "15"
-      },
-      {
-         "State": "Texas",
-         "Number of households in millions": "15"
-      },
-      {
-         "State": "Vermont",
-         "Number of households in millions": "15"
-      },
-      {
-         "State": "New York",
-         "Number of households in millions": "15"
-      },
-      {
-         "State": "Rhode Island",
-         "Number of households in millions": "15"
-      },
-      {
-         "State": "Delaware",
-         "Number of households in millions": "15"
-      },
-      {
-         "State": "Ohio",
-         "Number of households in millions": "15"
-      },
-      {
-         "State": "Wisconsin",
-         "Number of households in millions": "14"
-      },
-      {
-         "State": "Idaho",
-         "Number of households in millions": "14"
-      },
-      {
-         "State": "Illinois",
-         "Number of households in millions": "14"
-      },
-      {
-         "State": "Pennsylvania",
-         "Number of households in millions": "13"
-      },
-      {
-         "State": "Indiana",
-         "Number of households in millions": "13"
-      },
-      {
-         "State": "Nevada",
-         "Number of households in millions": "12"
-      },
-      {
-         "State": "Montana",
-         "Number of households in millions": "12"
-      },
-      {
-         "State": "South Dakota",
-         "Number of households in millions": "12"
-      },
-      {
-         "State": "Iowa",
-         "Number of households in millions": "12"
-      },
-      {
-         "State": "Alaska",
-         "Number of households in millions": "12"
-      },
-      {
-         "State": "Hawaii",
-         "Number of households in millions": "12"
-      },
-      {
-         "State": "Massachusetts",
-         "Number of households in millions": "12"
-      },
-      {
-         "State": "Connecticut",
-         "Number of households in millions": "11"
-      },
-      {
-         "State": "Virginia",
-         "Number of households in millions": "11"
-      },
-      {
-         "State": "Maryland",
-         "Number of households in millions": "11"
-      },
-      {
-         "State": "Kansas",
-         "Number of households in millions": "10"
-      },
-      {
-         "State": "California",
-         "Number of households in millions": "10"
-      },
-      {
-         "State": "Utah",
-         "Number of households in millions": "10"
-      },
-      {
-         "State": "North Dakota",
-         "Number of households in millions": "9"
-      },
-      {
-         "State": "New Hampshire",
-         "Number of households in millions": "9"
-      },
-      {
-         "State": "Colorado",
-         "Number of households in millions": "9"
-      },
-      {
-         "State": "New Jersey",
-         "Number of households in millions": "9"
-      },
-      {
-         "State": "Minnesota",
-         "Number of households in millions": "9"
-      },
-      {
-         "State": "Nebraska",
-         "Number of households in millions": "9"
-      },
-      {
-         "State": "Wyoming",
-         "Number of households in millions": "6"
+         "Country": "Switzerland",
+         "Index Value": "3.4"
       }
-   ]
+   ],
+   "gold": "The statistic shows countries with the highest political stability in the period 2009/2010 . With an index value of 1.2 , Norway was the country with the world 's highest political stability in 2009/2010 .\n"
 }

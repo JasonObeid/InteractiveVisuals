@@ -4,36 +4,36 @@
    "yAxis": "Home attendance",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Home attendance, with a total of 14 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely negative which exists from 2013 to 2010.",
-      " Differently, the next significant trend is extremely negative which exists from 2018 to 2016.",
-      " On the other hand, the next significant trend is extremely positive which exists from 2008 to 2006."
+      "This line chart has an x axis representing Year and a y axis representing Home attendance, with a total of 14 data points. The chart has 5 significant trends.",
+      " The longest trend is moderately positive which exists from 2014 to 2010.",
+      " Additionally, the next significant trend is moderately positive which exists from 2019 to 2016.",
+      " In a similar manner, the next significant trend is extremely positive which exists from 2016 to 2014.",
+      " Additionally, the next significant trend is moderately positive which exists from 2010 to 2008.",
+      " Likewise, the next significant trend is slightly negative which exists from 2008 to 2006."
    ],
    "trends": [
+      {},
       {
-         "Length": 4,
-         "direction": "negative",
-         "start": 6,
-         "end": 9,
-         "trend": "y=6586.6x+-12694630.9",
-         "magnitude": "extremely"
+         "1": "5",
+         "12": "9"
       },
       {
-         "Length": 3,
-         "direction": "negative",
-         "start": 1,
-         "end": 3,
-         "trend": "y=11593.0x+-22810126.67",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "3"
       },
       {
-         "Length": 3,
-         "direction": "positive",
-         "start": 11,
-         "end": 13,
-         "trend": "y=-25468.0x+51655471.33",
-         "magnitude": "extremely"
+         "3": "3",
+         "14": "5"
+      },
+      {
+         "3": "9",
+         "14": "11"
+      },
+      {
+         "3": "11",
+         "14": "13"
       }
    ],
    "data": [

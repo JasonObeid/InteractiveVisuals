@@ -4,15 +4,24 @@
    "yAxis": "Units sold",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 42 categories for the x axis representing Month, and a y axis representing Units sold.",
       " The highest category is found at Sep_18 where Units sold is 829.0.",
       " The lowest category is found at Aug_17 where Units sold is 44.0."
    ],
-   "trends": {
-      "maxIndex": 15,
-      "minIndex": 28
-   },
+   "trends": [
+      {},
+      {
+         "7": 15,
+         "12": 15
+      },
+      {
+         "7": 28,
+         "12": 28
+      },
+      {}
+   ],
    "data": [
       {
          "Month": "Dec 19",

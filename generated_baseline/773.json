@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 6 categories for the x axis of Region representing Males, Females.",
+      "This grouped bar chart has 6 categories for the x axis of Region representing Males, and Females.",
       " The highest category is found at East Asia with a mean value of 77.5.",
       " The second highest category is found at Western Asia with a mean value of 74.5.",
       " This represents a difference of 3.9%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Region": "East Asia",

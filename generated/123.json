@@ -1,64 +1,72 @@
 {
-   "title": "Retail sales value of drinking milk in the United Kingdom ( UK ) 2009 to 2018",
-   "xAxis": "Year",
-   "yAxis": "Retail value sales in million U.S. dollars",
+   "title": "Per capita consumption of chewing gum in selected countries worldwide 2009 to 2012",
+   "xAxis": "Country",
+   "yAxis": "Index value",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The Retail value of the value market in United Kingdom amounted to around 6391.8 million U.S. in the 2018 financial Year . ",
-      "This is an increase of over 0.55 million U.S. dollars since 2009 . ",
-      "sales value laws Canada has complex value laws which have developed since Prohibition in the 1920s ."
+      "The United_States was the leading recipient of Per 's capita exports in 2009 , followed selected Austria and Belgium . ",
+      "The U.S. imported more than 152 % value of capita from Per in that year , more than 40 times than that imported selected Austria . ",
+      "capita sales have grown dramatically in the U.S ."
    ],
    "trends": [
       {
-         "12": "0",
-         "18": "0"
+         "1": "0",
+         "16": "1",
+         "18": "2"
       },
       {
-         "11": "9"
+         "5": "0",
+         "24": "1"
       },
       {}
    ],
    "data": [
       {
-         "Year": "2018",
-         "Retail value sales in million U.S. dollars": "6391.8"
+         "Country": "United States",
+         "Index value": "152"
       },
       {
-         "Year": "2017",
-         "Retail value sales in million U.S. dollars": "6308.0"
+         "Country": "Austria",
+         "Index value": "114"
       },
       {
-         "Year": "2016",
-         "Retail value sales in million U.S. dollars": "6235.0"
+         "Country": "Belgium",
+         "Index value": "112"
       },
       {
-         "Year": "2015",
-         "Retail value sales in million U.S. dollars": "6174.2"
+         "Country": "Germany",
+         "Index value": "100"
       },
       {
-         "Year": "2014",
-         "Retail value sales in million U.S. dollars": "6077.0"
+         "Country": "France",
+         "Index value": "96"
       },
       {
-         "Year": "2013",
-         "Retail value sales in million U.S. dollars": "6094.3"
+         "Country": "Great Britain",
+         "Index value": "89"
       },
       {
-         "Year": "2012",
-         "Retail value sales in million U.S. dollars": "5997.5"
+         "Country": "Spain",
+         "Index value": "85"
       },
       {
-         "Year": "2011",
-         "Retail value sales in million U.S. dollars": "5984.0"
+         "Country": "Russia",
+         "Index value": "84"
       },
       {
-         "Year": "2010",
-         "Retail value sales in million U.S. dollars": "5963.5"
+         "Country": "Poland",
+         "Index value": "70"
       },
       {
-         "Year": "2009",
-         "Retail value sales in million U.S. dollars": "5881.8"
+         "Country": "China",
+         "Index value": "31"
+      },
+      {
+         "Country": "India",
+         "Index value": "10"
       }
-   ]
+   ],
+   "gold": "The table shows the per capita consumption of chewing gum in selected countries worldwide from 2009 to 2012 . In 2010 , the United States ' index value of per capita consumption of chewing gum amounted to 152.Chewing gum marketChewing gum belongs to the snack and confectionery segment and is the smallest category besides chocolate and sugary products . Chewing gum has a chewy , easily formable texture and usually has \u2013 besides some exceptions \u2013 a sweet taste .\n"
 }

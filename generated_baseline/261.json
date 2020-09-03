@@ -4,36 +4,26 @@
    "yAxis": "Infant mortality rate per thousand live births",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Infant mortality rate per thousand live births, with a total of 29 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely positive which exists from 2002 to 1990.",
-      " Likewise, the next significant trend is extremely positive which exists from 2011 to 2004.",
-      " Likewise, the next significant trend is extremely positive which exists from 2016 to 2012."
+      " The longest trend is slightly negative which exists from 2004 to 1990.",
+      " On the other hand, the next significant trend is moderately negative which exists from 2012 to 2004.",
+      " On the contrary, the next significant trend is extremely negative which exists from 2018 to 2012."
    ],
    "trends": [
+      {},
       {
-         "Length": 13,
-         "direction": "positive",
-         "start": 16,
-         "end": 28,
-         "trend": "y=-0.21x+430.13",
-         "magnitude": "extremely"
+         "1": "14",
+         "12": "28"
       },
       {
-         "Length": 8,
-         "direction": "positive",
-         "start": 7,
-         "end": 14,
-         "trend": "y=-0.11x+235.95",
-         "magnitude": "extremely"
+         "3": "6",
+         "14": "14"
       },
       {
-         "Length": 5,
-         "direction": "positive",
-         "start": 2,
-         "end": 6,
-         "trend": "y=-0.1x+207.3",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "6"
       }
    ],
    "data": [

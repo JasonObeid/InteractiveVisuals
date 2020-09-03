@@ -1,41 +1,48 @@
 {
-   "title": "Medium term forecast for global fertilizer demand by nutrient to 2023",
+   "title": "Life expectancy in North America 2019",
    "labels": [
-      "Year",
-      "Urea (CH4N2O)",
-      "Phosphorus pentoxide (P2O5)",
-      "Potassium oxide (K2O)"
+      "Country",
+      "Males",
+      "Females"
    ],
    "columnType": "multi",
-   "graphType": "line",
+   "graphType": "bar",
    "summary": [
-      "This statistic presents the Phosphorus penetration of the Medium forecast sector in Medium , showing the term of Phosphorus and Urea forecast for in 2023 and with a forecast for 2023 . ",
-      "In 2023 , Phosphorus global made up 63.9 % of total forecast for of Medium . ",
-      "This is predicted to increase 63.9 % by 2023 ."
+      "In 2019 , 81 % of North civilian North_America employees in the America were Females . ",
+      "Only 84 % of North North_America officers were Females , while 80 % of North_America officers were Males . ",
+      "The Life divide North_America in the America is an indisputably male-dominated profession , particularly in the Federal Bureau of Investigation ( FBI ) ."
    ],
    "trends": [
       {
-         "24": [
-            "0",
-            "0"
+         "3": [
+            "2",
+            "2"
          ],
-         "30": [
+         "8": [
             "0",
             "0"
          ]
       },
       {
          "1": [
+            "1",
+            "2"
+         ],
+         "5": [
             "0",
             "0"
          ],
-         "7": [
+         "11": [
+            "1",
+            "1"
+         ],
+         "14": [
             "0",
-            "2"
+            "0"
          ]
       },
       {
-         "9": [
+         "3": [
             "0",
             "0"
          ]
@@ -43,10 +50,20 @@
    ],
    "data": [
       {
-         "Year": "2023",
-         "Urea (CH4N2O)": "184",
-         "Phosphorus pentoxide (P2O5)": "63.9",
-         "Potassium oxide (K2O)": "45.7"
+         "Country": "North America",
+         "Males": "76",
+         "Females": "81"
+      },
+      {
+         "Country": "Canada",
+         "Males": "80",
+         "Females": "84"
+      },
+      {
+         "Country": "USA",
+         "Males": "76",
+         "Females": "81"
       }
-   ]
+   ],
+   "gold": "This statistic shows the average life expectancy in North America for those born in 2019 , by gender and region . In Canada , the average life expectancy was 80 years for males and 84 years for females in 2019 . Life expectancy in North America Of those considered in this statistic , the life expectancy of female Canadian infants born in 2019 was the longest , at 84 years .\n"
 }

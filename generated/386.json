@@ -1,102 +1,46 @@
 {
-   "title": "Percentage of population with a university degree , by country 2007",
-   "xAxis": "Country",
-   "yAxis": "Percent with a university degree",
+   "title": "BASF 's planned capital expenditure by region 2020 to 2024",
+   "xAxis": "Region",
+   "yAxis": "Share of capital expenditure",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Percent of university degree by selected country 2007 in countries 2007 . ",
-      "The majority of immigrants in Canada that year were Swedes returning to Canada . ",
-      "The remaining top five countries of 2007 were New_Zealand , Japan Syria and Korea_Republic_of ."
+      "This statistic shows the distribution of expenditure capital in BASF 2020 . ",
+      "41 % of capital in BASF 2020 was caused by Asia_Pacific . ",
+      "capital is the intentional destruction of forested land for permanent reuse for agricultural , North_America industrial , or other non-forest operations ."
    ],
    "trends": [
       {},
       {
-         "5": "0",
-         "12": "0"
+         "0": "0",
+         "11": "0"
       },
       {
-         "8": "1",
-         "10": "2",
-         "14": "4"
+         "14": "2"
       }
    ],
    "data": [
       {
-         "Country": "Canada",
-         "Percent with a university degree": "48"
+         "Region": "Asia Pacific",
+         "Share of capital expenditure": "41"
       },
       {
-         "Country": "New Zealand",
-         "Percent with a university degree": "41"
+         "Region": "Europe",
+         "Share of capital expenditure": "34"
       },
       {
-         "Country": "Japan",
-         "Percent with a university degree": "41"
+         "Region": "North America",
+         "Share of capital expenditure": "19"
       },
       {
-         "Country": "United States",
-         "Percent with a university degree": "40"
+         "Region": "South America Africa Middle East",
+         "Share of capital expenditure": "1"
       },
       {
-         "Country": "Korea Republic of",
-         "Percent with a university degree": "35"
-      },
-      {
-         "Country": "Norway",
-         "Percent with a university degree": "34"
-      },
-      {
-         "Country": "Australia",
-         "Percent with a university degree": "34"
-      },
-      {
-         "Country": "Ireland",
-         "Percent with a university degree": "32"
-      },
-      {
-         "Country": "United Kingdom",
-         "Percent with a university degree": "32"
-      },
-      {
-         "Country": "Denmark",
-         "Percent with a university degree": "32"
-      },
-      {
-         "Country": "Sweden",
-         "Percent with a university degree": "31"
-      },
-      {
-         "Country": "Netherlands",
-         "Percent with a university degree": "31"
-      },
-      {
-         "Country": "Spain",
-         "Percent with a university degree": "29"
-      },
-      {
-         "Country": "France",
-         "Percent with a university degree": "27"
-      },
-      {
-         "Country": "Germany",
-         "Percent with a university degree": "24"
-      },
-      {
-         "Country": "Austria",
-         "Percent with a university degree": "18"
-      },
-      {
-         "Country": "Mexico",
-         "Percent with a university degree": "15"
-      },
-      {
-         "Country": "Portugal",
-         "Percent with a university degree": "14"
-      },
-      {
-         "Country": "Italy",
-         "Percent with a university degree": "13"
+         "Region": "Site alternatives currently being investigated",
+         "Share of capital expenditure": "5"
       }
-   ]
+   ],
+   "gold": "This statistic shows BASF 's planned capital expenditure between 2020 and 2024 , by region . In that period , some 19 percent of the company 's planned capital expenditure are expected to be spent in North America .\n"
 }

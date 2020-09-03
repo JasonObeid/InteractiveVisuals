@@ -1,99 +1,54 @@
 {
-   "title": "U.S. per capita consumption of fresh carrots 2000 to 2018",
-   "xAxis": "Year",
-   "yAxis": "Per capita consumption in pounds",
+   "title": "Revenue per employee of leading tech companies 2018",
+   "xAxis": "Company",
+   "yAxis": "Revenue per employee in U.S. dollars",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The timeline shows the Per capita consumption of fresh carrots 2000 in the U.S. from 2000 to 2018 . ",
-      "According to the report , the U.S. Per capita consumption of fresh carrots 2000 amounted to about 9.4 pounds in 2001 ."
+      "The statistic shows the tech in the per with the highest employee gaming revenues in 2018 . ",
+      "The location with the highest leading Revenue in the employee was unsurprisingly the Netflix Strip , Netflix totaling 2224555 million employee U.S. in employee gaming Revenue in 2018 ."
    ],
    "trends": [
+      {},
       {
-         "15": "18",
-         "17": "0"
-      },
-      {
-         "17": "17",
-         "20": "17"
+         "13": "0",
+         "16": "0"
       }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Per capita consumption in pounds": "8.5"
+         "Company": "Netflix",
+         "Revenue per employee in U.S. dollars": "2224555"
       },
       {
-         "Year": "2017",
-         "Per capita consumption in pounds": "7.4"
+         "Company": "Apple",
+         "Revenue per employee in U.S. dollars": "2012083"
       },
       {
-         "Year": "2016",
-         "Per capita consumption in pounds": "7.8"
+         "Company": "Facebook",
+         "Revenue per employee in U.S. dollars": "1569056"
       },
       {
-         "Year": "2015",
-         "Per capita consumption in pounds": "8.8"
+         "Company": "Alphabet",
+         "Revenue per employee in U.S. dollars": "1385214"
       },
       {
-         "Year": "2014",
-         "Per capita consumption in pounds": "8.5"
+         "Company": "Microsoft",
+         "Revenue per employee in U.S. dollars": "873910"
       },
       {
-         "Year": "2013",
-         "Per capita consumption in pounds": "8.0"
+         "Company": "Twitter",
+         "Revenue per employee in U.S. dollars": "776112"
       },
       {
-         "Year": "2012",
-         "Per capita consumption in pounds": "7.9"
+         "Company": "Alibaba",
+         "Revenue per employee in U.S. dollars": "550737"
       },
       {
-         "Year": "2011",
-         "Per capita consumption in pounds": "7.5"
-      },
-      {
-         "Year": "2010",
-         "Per capita consumption in pounds": "7.8"
-      },
-      {
-         "Year": "2009",
-         "Per capita consumption in pounds": "7.4"
-      },
-      {
-         "Year": "2008",
-         "Per capita consumption in pounds": "8.1"
-      },
-      {
-         "Year": "2007",
-         "Per capita consumption in pounds": "8.0"
-      },
-      {
-         "Year": "2006",
-         "Per capita consumption in pounds": "8.1"
-      },
-      {
-         "Year": "2005",
-         "Per capita consumption in pounds": "8.7"
-      },
-      {
-         "Year": "2004",
-         "Per capita consumption in pounds": "8.7"
-      },
-      {
-         "Year": "2003",
-         "Per capita consumption in pounds": "8.8"
-      },
-      {
-         "Year": "2002",
-         "Per capita consumption in pounds": "8.4"
-      },
-      {
-         "Year": "2001",
-         "Per capita consumption in pounds": "9.4"
-      },
-      {
-         "Year": "2000",
-         "Per capita consumption in pounds": "9.2"
+         "Company": "Amazon",
+         "Revenue per employee in U.S. dollars": "359671"
       }
-   ]
+   ],
+   "gold": "This statistic shows the revenue per employee of selected tech companies in 2018 . Netflix was the most effective company , generating over 2.22 million U.S. dollars of revenue per employee . Apple ranked in second place with an annual revenue of 2.01 million U.S. dollars per employee .\n"
 }

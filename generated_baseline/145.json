@@ -4,36 +4,31 @@
    "yAxis": "Number of inhabitants",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of inhabitants, with a total of 20 data points. The chart has 3 significant trends.",
-      " The longest trend is slightly negative which exists from 50-54_years to 95_years_and_older.",
-      " Contrarily, the next significant trend is extremely positive which exists from 10-14_years to 35-39_years.",
-      " Additionally, the next significant trend is extremely positive which exists from 40-44_years to 50-54_years."
+      "This line chart has an x axis representing Year and a y axis representing Number of inhabitants, with a total of 20 data points. The chart has 4 significant trends.",
+      " The longest trend is slightly positive which exists from 50-54_years to 95_years_and_older.",
+      " Also, the next significant trend is extremely negative which exists from 10-14_years to 35-39_years.",
+      " Differently, the next significant trend is slightly negative which exists from 35-39_years to 50-54_years.",
+      " Contrarily, the next significant trend is slightly positive which exists from 0-4_years to 10-14_years."
    ],
    "trends": [
+      {},
       {
-         "Length": 10,
-         "direction": "negative",
-         "start": 10,
-         "end": 19,
-         "trend": "y=-0.4x+23516.06",
-         "magnitude": "slightly"
+         "1": "10",
+         "12": "19"
       },
       {
-         "Length": 6,
-         "direction": "positive",
-         "start": 2,
-         "end": 7,
-         "trend": "y=7.32x+24345.28",
-         "magnitude": "extremely"
+         "3": "2",
+         "14": "7"
       },
       {
-         "Length": 3,
-         "direction": "positive",
-         "start": 8,
-         "end": 10,
-         "trend": "y=0.51x+44018.62",
-         "magnitude": "extremely"
+         "3": "7",
+         "14": "10"
+      },
+      {
+         "3": "0",
+         "14": "2"
       }
    ],
    "data": [

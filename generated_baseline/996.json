@@ -4,15 +4,24 @@
    "yAxis": "Number of monetizable daily active users in millions",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 12 categories for the x axis representing Quarter, and a y axis representing Number of monetizable daily active users in millions.",
       " The highest category is found at Q4_'19 where Number of monetizable daily active users in millions is 31.0.",
       " The lowest category is found at Q4_'17 where Number of monetizable daily active users in millions is 25.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 8
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
    "data": [
       {
          "Quarter": "Q4 '19",

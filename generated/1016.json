@@ -1,97 +1,63 @@
 {
-   "title": "ExxonMobil 's R & D costs 2001 to 2018",
+   "title": "Attendance at Cineplex cinemas 2010 to 2018",
    "xAxis": "Year",
-   "yAxis": "Costs in million U.S. dollars",
+   "yAxis": "Attendance in millions",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic depicts 's R Costs million in the ExxonMobil between 2001 and 2018 . ",
-      "Here , the million of Costs derived from 's fuels came to approximately 1116 U.S. British thermal units in 2018 . ",
-      "'s R energies \u2013 additional informationFossil fuels are hydrocarbon-containing natural resources formed from the remains of dead plants or animals that have been subject to immense pressure from a buildup of layers over million of years ."
+      "This statistic shows the cinemas 2010 of Cineplex from 2010 to 2018 . ",
+      "In 2018 , the company had cinemas 2010 worth approximately 69.27 millions . ",
+      "Cineplex was an agricultural company specialized on genetically engineered seeds ."
    ],
    "trends": [
       {
-         "11": "17",
-         "13": "0"
+         "9": "8",
+         "11": "0"
       },
       {
-         "13": "0",
-         "19": "0"
+         "1": "0",
+         "10": "0"
       },
       {}
    ],
    "data": [
       {
          "Year": "2018",
-         "Costs in million U.S. dollars": "1116"
+         "Attendance in millions": "69.27"
       },
       {
          "Year": "2017",
-         "Costs in million U.S. dollars": "1063"
+         "Attendance in millions": "70.4"
       },
       {
          "Year": "2016",
-         "Costs in million U.S. dollars": "1058"
+         "Attendance in millions": "74.6"
       },
       {
          "Year": "2015",
-         "Costs in million U.S. dollars": "1008"
+         "Attendance in millions": "77.0"
       },
       {
          "Year": "2014",
-         "Costs in million U.S. dollars": "971"
+         "Attendance in millions": "73.6"
       },
       {
          "Year": "2013",
-         "Costs in million U.S. dollars": "1044"
+         "Attendance in millions": "72.7"
       },
       {
          "Year": "2012",
-         "Costs in million U.S. dollars": "1042"
+         "Attendance in millions": "71.2"
       },
       {
          "Year": "2011",
-         "Costs in million U.S. dollars": "1044"
+         "Attendance in millions": "66.1"
       },
       {
          "Year": "2010",
-         "Costs in million U.S. dollars": "1012"
-      },
-      {
-         "Year": "2009",
-         "Costs in million U.S. dollars": "1050"
-      },
-      {
-         "Year": "2008",
-         "Costs in million U.S. dollars": "847"
-      },
-      {
-         "Year": "2007",
-         "Costs in million U.S. dollars": "814"
-      },
-      {
-         "Year": "2006",
-         "Costs in million U.S. dollars": "733"
-      },
-      {
-         "Year": "2005",
-         "Costs in million U.S. dollars": "712"
-      },
-      {
-         "Year": "2004",
-         "Costs in million U.S. dollars": "649"
-      },
-      {
-         "Year": "2003",
-         "Costs in million U.S. dollars": "618"
-      },
-      {
-         "Year": "2002",
-         "Costs in million U.S. dollars": "631"
-      },
-      {
-         "Year": "2001",
-         "Costs in million U.S. dollars": "603"
+         "Attendance in millions": "67.0"
       }
-   ]
+   ],
+   "gold": "The timeline presents the attendance figures at Cineplex from 2010 to 2018 . In 2018 , 69.27 million people attended movies at the Canadian movie theater chain , down from 70.4 million visitors a year earlier .\n"
 }

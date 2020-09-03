@@ -1,81 +1,61 @@
 {
-   "title": "Interpublic Group 's revenue 2006 to 2019",
-   "xAxis": "Year",
-   "yAxis": "Revenue in billion U.S. dollars",
+   "title": "Problems of the Italian school system 2019",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Interpublic Group 's of PricewaterhouseCoopers from 2006 to 2019 . ",
-      "In the fiscal Year of 2019 , Interpublic Group generated approximately 10.22 billion U.S. dollars in Interpublic Group 's . ",
-      "Interpublic Group - additional information Interpublic Group is one of the four largest accounting and audit firms in the world ."
+      "This statistic shows the Problems ten Italian in school system on Lack_of_opportunities_to_enter_into_the_labor_market Bad_teachers in the 2019 as forecasted by professional chefs for 2019 . ",
+      "During the survey , 26 % of the respondents stated that Lack_of_opportunities_to_enter_into_the_labor_market items ( e.g ."
    ],
    "trends": [
       {
-         "10": "13",
-         "12": "0"
+         "11": "0",
+         "12": "2"
       },
       {
-         "5": "0",
-         "10": "0"
-      },
-      {}
+         "4": "0",
+         "11": "0"
+      }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Revenue in billion U.S. dollars": "10.22"
+         "Response": "Lack of opportunities to enter into the labor market",
+         "Share of respondents": "26"
       },
       {
-         "Year": "2018",
-         "Revenue in billion U.S. dollars": "9.71"
+         "Response": "Lack of funding and resources",
+         "Share of respondents": "21"
       },
       {
-         "Year": "2017",
-         "Revenue in billion U.S. dollars": "9.05"
+         "Response": "Bad teachers",
+         "Share of respondents": "13"
       },
       {
-         "Year": "2016",
-         "Revenue in billion U.S. dollars": "7.85"
+         "Response": "Lack of financial aid for low-income families and students",
+         "Share of respondents": "13"
       },
       {
-         "Year": "2015",
-         "Revenue in billion U.S. dollars": "7.61"
+         "Response": "Inadequacy or backwardness of programs",
+         "Share of respondents": "11"
       },
       {
-         "Year": "2014",
-         "Revenue in billion U.S. dollars": "7.54"
+         "Response": "Violence",
+         "Share of respondents": "7"
       },
       {
-         "Year": "2013",
-         "Revenue in billion U.S. dollars": "7.12"
+         "Response": "All these aspects",
+         "Share of respondents": "4"
       },
       {
-         "Year": "2012",
-         "Revenue in billion U.S. dollars": "6.96"
+         "Response": "Others",
+         "Share of respondents": "2"
       },
       {
-         "Year": "2011",
-         "Revenue in billion U.S. dollars": "7.01"
-      },
-      {
-         "Year": "2010",
-         "Revenue in billion U.S. dollars": "6.51"
-      },
-      {
-         "Year": "2009",
-         "Revenue in billion U.S. dollars": "6.01"
-      },
-      {
-         "Year": "2008",
-         "Revenue in billion U.S. dollars": "6.94"
-      },
-      {
-         "Year": "2007",
-         "Revenue in billion U.S. dollars": "6.54"
-      },
-      {
-         "Year": "2006",
-         "Revenue in billion U.S. dollars": "6.19"
+         "Response": "I do not know",
+         "Share of respondents": "3"
       }
-   ]
+   ],
+   "gold": "In a survey conducted in December 2019 , the largest group of respondents indicated the the lack of opportunities to enter into the labor market as the main problem of Italian schools . Furthermore , 21 percent of interviewees stated that the lack of funding and resources was a relevant problem in the Italian school system .\n"
 }

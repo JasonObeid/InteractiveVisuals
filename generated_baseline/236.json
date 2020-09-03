@@ -8,16 +8,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 4 categories for the x axis of Response representing Never, A few times a month or less, 2-3 times per week or more.",
-      " The highest category is found at Tablet with a mean value of 33.333333333333336.",
-      " The second highest category is found at Laptop notebook or Chromebook with a mean value of 33.333333333333336.",
+      "This grouped bar chart has 4 categories for the x axis of Response representing Never, A few times a month or less, and 2-3 times per week or more.",
+      " The highest category is found at Tablet with a mean value of 33.33.",
+      " The second highest category is found at Laptop notebook or Chromebook with a mean value of 33.33.",
       " This represents a difference of 0.0%."
    ],
-   "trends": {
-      "maxIndex": 2,
-      "secondIndex": 2
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "13": [
+            "3",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "3",
+            "0"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Response": "Laptop notebook or Chromebook",

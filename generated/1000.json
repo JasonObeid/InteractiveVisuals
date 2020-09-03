@@ -1,51 +1,79 @@
 {
-   "title": "U.S. fashion and accessories e-retail revenue 2017 to 2023",
+   "title": "France : number of public primary schools 2005 to 2018",
    "xAxis": "Year",
-   "yAxis": "Revenue in million U.S. dollars",
+   "yAxis": "Number of public schools",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the Revenue of the e-retail revenue 2017 in U.S. from 2017 to 2023 . ",
-      "In 2017 , the Revenue of the million U.S. e-retail revenue 2017 in U.S. was 96245 million U.S. dollars ."
+      "The statistic shows the Number of public schools in the France between 2005 and 2018 . ",
+      "In 2018 , around 44902 public schools were recorded in the France . ",
+      "France is the world with the third-most public schools and the sixth-most fatalities due to France worldwide ."
    ],
    "trends": [
       {
-         "13": "6",
-         "15": "0"
+         "12": "12",
+         "14": "0"
       },
       {
-         "1": "6",
-         "15": "6"
-      }
+         "1": "0",
+         "4": "0"
+      },
+      {}
    ],
    "data": [
       {
-         "Year": "2023",
-         "Revenue in million U.S. dollars": "145831"
-      },
-      {
-         "Year": "2022",
-         "Revenue in million U.S. dollars": "139576"
-      },
-      {
-         "Year": "2021",
-         "Revenue in million U.S. dollars": "131000"
-      },
-      {
-         "Year": "2020",
-         "Revenue in million U.S. dollars": "120797"
-      },
-      {
-         "Year": "2019",
-         "Revenue in million U.S. dollars": "110605"
-      },
-      {
          "Year": "2018",
-         "Revenue in million U.S. dollars": "102153"
+         "Number of public schools": "44902"
       },
       {
          "Year": "2017",
-         "Revenue in million U.S. dollars": "96245"
+         "Number of public schools": "45401"
+      },
+      {
+         "Year": "2016",
+         "Number of public schools": "45877"
+      },
+      {
+         "Year": "2015",
+         "Number of public schools": "46435"
+      },
+      {
+         "Year": "2014",
+         "Number of public schools": "46962"
+      },
+      {
+         "Year": "2013",
+         "Number of public schools": "47306"
+      },
+      {
+         "Year": "2012",
+         "Number of public schools": "47672"
+      },
+      {
+         "Year": "2011",
+         "Number of public schools": "48139"
+      },
+      {
+         "Year": "2010",
+         "Number of public schools": "48522"
+      },
+      {
+         "Year": "2009",
+         "Number of public schools": "48975"
+      },
+      {
+         "Year": "2008",
+         "Number of public schools": "49498"
+      },
+      {
+         "Year": "2007",
+         "Number of public schools": "49928"
+      },
+      {
+         "Year": "2005",
+         "Number of public schools": "50668"
       }
-   ]
+   ],
+   "gold": "This graphic shows the total number of public primary schools in France from 2005 to 2018 . Over nine years , the number of public primary schools gradually diminished and reached 44,902 in 2018 .\n"
 }

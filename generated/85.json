@@ -1,56 +1,59 @@
 {
-   "title": "Apple : iPod sales worldwide 2006 to 2014",
-   "xAxis": "fiscal years",
-   "yAxis": "Sales in million units",
-   "columnType": "two",
-   "graphType": "bar",
+   "title": "U.S. investment banking : Number of establishments and employees",
+   "labels": [
+      "Year",
+      "Establishments",
+      "Employees"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
    "summary": [
-      "This statistic shows the Apple iPod worldwide titles 2014 as of 2019 . ",
-      "With some 54.83 million units sold 2014 , 7 was the Apple iPod worldwide game as of 2019 ."
+      "The statistic shows the projected wholesale U.S. of investment banking Number and establishments in the employees from 2009 to 2006 . ",
+      "In 2009 , 4.9 investment banking Number were sold to employees in the employees ."
    ],
    "trends": [
-      {},
       {
-         "2": "6",
-         "8": "0"
+         "17": [
+            "3",
+            "0"
+         ],
+         "19": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "3",
+            "0"
+         ],
+         "3": [
+            "3",
+            "1"
+         ]
       }
    ],
    "data": [
       {
-         "fiscal years": "2014",
-         "Sales in million units": "14.38"
+         "Year": "2006",
+         "Establishments": "7.6",
+         "Employees": "156"
       },
       {
-         "fiscal years": "2013",
-         "Sales in million units": "26.38"
+         "Year": "2007",
+         "Establishments": "9.3",
+         "Employees": "184"
       },
       {
-         "fiscal years": "2012",
-         "Sales in million units": "35.17"
+         "Year": "2008",
+         "Establishments": "4.5",
+         "Employees": "137"
       },
       {
-         "fiscal years": "2011",
-         "Sales in million units": "42.62"
-      },
-      {
-         "fiscal years": "2010",
-         "Sales in million units": "50.31"
-      },
-      {
-         "fiscal years": "2009",
-         "Sales in million units": "54.13"
-      },
-      {
-         "fiscal years": "2008",
-         "Sales in million units": "54.83"
-      },
-      {
-         "fiscal years": "2007",
-         "Sales in million units": "51.63"
-      },
-      {
-         "fiscal years": "2006",
-         "Sales in million units": "39.41"
+         "Year": "2009",
+         "Establishments": "4.9",
+         "Employees": "115"
       }
-   ]
+   ],
+   "gold": "The statistic represents the number of establishments and employees of investment banking businesses from 2006 to 2009 . In 2006 , U.S. investment banking businesses had 7,600 establishments and 156,000 employees .\n"
 }

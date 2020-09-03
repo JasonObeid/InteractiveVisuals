@@ -4,27 +4,31 @@
    "yAxis": "Number of restaurants",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of restaurants, with a total of 14 data points. The chart has 2 significant trends.",
-      " The longest trend is extremely positive which exists from 2008 to 2013.",
-      " In a similar manner, the next significant trend is extremely positive which exists from 2000 to 2004."
+      "This line chart has an x axis representing Year and a y axis representing Number of restaurants, with a total of 14 data points. The chart has 4 significant trends.",
+      " The longest trend is extremely negative which exists from 2008 to 2013.",
+      " Differently, the next significant trend is extremely negative which exists from 2000 to 2004.",
+      " But, the next significant trend is moderately negative which exists from 2004 to 2006.",
+      " Differently, the next significant trend is slightly neutral which exists from 2006 to 2008."
    ],
    "trends": [
+      {},
       {
-         "Length": 6,
-         "direction": "positive",
-         "start": 8,
-         "end": 13,
-         "trend": "y=4.89x+-9127.56",
-         "magnitude": "extremely"
+         "1": "8",
+         "12": "13"
       },
       {
-         "Length": 5,
-         "direction": "positive",
-         "start": 0,
-         "end": 4,
-         "trend": "y=6.4x+-12145.8",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "4"
+      },
+      {
+         "3": "4",
+         "14": "6"
+      },
+      {
+         "3": "6",
+         "14": "8"
       }
    ],
    "data": [

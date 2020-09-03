@@ -1,69 +1,101 @@
 {
-   "title": "Number of Dollarama stores Canada by province 2019",
-   "xAxis": "Month",
-   "yAxis": "Number of stores",
+   "title": "Canada : total university enrollment 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of students in thousands",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "Ontario Vecchio , founder of the eyewear company Luxottica , podiumed in the yearly Dollarama of Italian billionaires , published by the American business magazine Dollarama . ",
-      "With the total net worth estimated at 503 million stores , Ontario put ahead other Italian entrepreneurs - Qu\u00e9bec , the CEO of the Italian confectionary company Qu\u00e9bec and the fashion designer Alberta , whose fortunes reached respectively 344 and 107 million stores . ",
-      "Largest eyewear company in the world Luxottica is the largest company in the eyewear sector worldwide ."
+      "The statistic represents the total Number of Canada university enrollment 2000 in the 2018 from 2000 to 2018 . ",
+      "In 2018 , 1341.35 thousands of university enrollment 2000 were produced in the Canada ."
    ],
    "trends": [
       {
-         "0": "0"
+         "15": "18",
+         "17": "0"
       },
       {
-         "7": "0",
-         "11": "0",
-         "18": "1",
-         "27": "1",
-         "32": "2",
-         "38": "1",
-         "40": "2"
-      },
-      {}
+         "1": "0",
+         "3": "0"
+      }
    ],
    "data": [
       {
-         "Month": "Ontario",
-         "Number of stores": "503"
+         "Year": "2018",
+         "Number of students in thousands": "1341.35"
       },
       {
-         "Month": "Qu\u00e9bec",
-         "Number of stores": "344"
+         "Year": "2017",
+         "Number of students in thousands": "1320.56"
       },
       {
-         "Month": "Alberta",
-         "Number of stores": "107"
+         "Year": "2016",
+         "Number of students in thousands": "1306.04"
       },
       {
-         "Month": "British Columbia",
-         "Number of stores": "102"
+         "Year": "2015",
+         "Number of students in thousands": "1303.74"
       },
       {
-         "Month": "Nova Scotia",
-         "Number of stores": "39"
+         "Year": "2014",
+         "Number of students in thousands": "1298.96"
       },
       {
-         "Month": "New Brunswick",
-         "Number of stores": "38"
+         "Year": "2013",
+         "Number of students in thousands": "1281.69"
       },
       {
-         "Month": "Manitoba",
-         "Number of stores": "37"
+         "Year": "2012",
+         "Number of students in thousands": "1260.22"
       },
       {
-         "Month": "Saskatchewan",
-         "Number of stores": "31"
+         "Year": "2011",
+         "Number of students in thousands": "1234.14"
       },
       {
-         "Month": "Newfoundland and Labrador",
-         "Number of stores": "19"
+         "Year": "2010",
+         "Number of students in thousands": "1199.45"
       },
       {
-         "Month": "Prince Edward Island",
-         "Number of stores": "5"
+         "Year": "2009",
+         "Number of students in thousands": "1112.59"
+      },
+      {
+         "Year": "2008",
+         "Number of students in thousands": "1072.9"
+      },
+      {
+         "Year": "2007",
+         "Number of students in thousands": "1066.93"
+      },
+      {
+         "Year": "2006",
+         "Number of students in thousands": "1050.83"
+      },
+      {
+         "Year": "2005",
+         "Number of students in thousands": "1020.68"
+      },
+      {
+         "Year": "2004",
+         "Number of students in thousands": "994.24"
+      },
+      {
+         "Year": "2003",
+         "Number of students in thousands": "935.86"
+      },
+      {
+         "Year": "2002",
+         "Number of students in thousands": "885.94"
+      },
+      {
+         "Year": "2001",
+         "Number of students in thousands": "850.42"
+      },
+      {
+         "Year": "2000",
+         "Number of students in thousands": "846.6"
       }
-   ]
+   ],
+   "gold": "This statistic shows the total number of students enrolled in Canadian universities from 2000 to 2018 . In 2018 , around 1.34 million students were enrolled in Canadian universities .\n"
 }

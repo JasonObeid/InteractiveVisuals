@@ -1,52 +1,71 @@
 {
-   "title": "Daily active users of Instagram Stories 2019",
-   "xAxis": "Month",
-   "yAxis": "Number of DAU in millions",
+   "title": "Urbanization in Iran 2018",
+   "xAxis": "Year",
+   "yAxis": "Share of urban population in total population",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "As of Jan_'19 , it was estimated that Instagram Stories had just 500 thousand DAU in the users , a significant drop from the 500 millions recorded in Jun_'18 . ",
-      "Instagram Stories is no stranger to media attention , but after the recent claims from a source that they had obtained internal data about Instagram Stories 's floundering subscriber base , the company is once again in the spotlight . ",
-      "What is Instagram Stories ? is a subscription-based movie ticketing service , designed to allow DAU to buy a select amount of movie tickets each Month for a single fee ."
+      "This statistic shows the degree of Urbanization in Iran from 2008 to 2018 . ",
+      "Urbanization means the Share of urban population in the total population of a country . ",
+      "In 2018 , 74.9 % of Iran 's total population lived in urban areas and cities ."
    ],
    "trends": [
       {
-         "2": "0",
-         "11": "0",
-         "23": "0",
-         "27": "1"
+         "10": "10",
+         "12": "0"
       },
       {},
-      {}
+      {
+         "1": "0",
+         "3": "0"
+      }
    ],
    "data": [
       {
-         "Month": "Jan '19",
-         "Number of DAU in millions": "500"
+         "Year": "2018",
+         "Share of urban population in total population": "74.9"
       },
       {
-         "Month": "Jun '18",
-         "Number of DAU in millions": "400"
+         "Year": "2017",
+         "Share of urban population in total population": "74.39"
       },
       {
-         "Month": "Oct '17",
-         "Number of DAU in millions": "300"
+         "Year": "2016",
+         "Share of urban population in total population": "74.88"
       },
       {
-         "Month": "Jun '17",
-         "Number of DAU in millions": "250"
+         "Year": "2015",
+         "Share of urban population in total population": "73.36"
       },
       {
-         "Month": "Apr '17",
-         "Number of DAU in millions": "200"
+         "Year": "2014",
+         "Share of urban population in total population": "72.83"
       },
       {
-         "Month": "Jan '17",
-         "Number of DAU in millions": "150"
+         "Year": "2013",
+         "Share of urban population in total population": "72.3"
       },
       {
-         "Month": "Oct '16",
-         "Number of DAU in millions": "100"
+         "Year": "2012",
+         "Share of urban population in total population": "71.76"
+      },
+      {
+         "Year": "2011",
+         "Share of urban population in total population": "71.2"
+      },
+      {
+         "Year": "2010",
+         "Share of urban population in total population": "70.63"
+      },
+      {
+         "Year": "2009",
+         "Share of urban population in total population": "70.05"
+      },
+      {
+         "Year": "2008",
+         "Share of urban population in total population": "69.46"
       }
-   ]
+   ],
+   "gold": "This statistic shows the degree of urbanization in Iran from 2008 to 2018 . Urbanization means the share of urban population in the total population of a country . In 2018 , 74.9 percent of Iran 's total population lived in urban areas and cities .\n"
 }

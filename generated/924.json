@@ -1,69 +1,149 @@
 {
-   "title": "EU : used car sales in 2013 , per 1,000 population",
+   "title": "Payroll taxes in EU countries 2018",
    "xAxis": "Country",
-   "yAxis": "Number of used car sales per thousand population",
+   "yAxis": "Payroll taxes of 100 euros gross earnings",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Number of EU used in selected countries in EU 2013 . ",
-      "Spain had per far the highest Number of people using EU used companies in EU and almost five times as many Portugal . ",
-      "In Belgium there were an estimated 78 EU share used ."
+      "The statistic shows the 2018 that are 2018 EU and malnutrition according to the Payroll EU 2018 . ",
+      "In 2018 , the Sweden Republic had the highest score ( 48 ) . ",
+      "Malnutrition According to the Payroll EU , which was adopted 2018 the International Food Policy Research Institute , France and Lithuania are among the 2018 EU and malnutrition , with an Payroll of 45 and 43 , respectively ."
    ],
    "trends": [
       {},
       {
-         "0": "0",
-         "22": "2"
+         "4": "0",
+         "11": "0"
       },
       {
-         "1": "3",
-         "6": "3"
+         "19": "1",
+         "21": "2",
+         "37": "1",
+         "39": "2"
       }
    ],
    "data": [
       {
-         "Country": "Spain",
-         "Number of used car sales per thousand population": "35"
-      },
-      {
-         "Country": "Italy",
-         "Number of used car sales per thousand population": "42"
-      },
-      {
-         "Country": "Portugal",
-         "Number of used car sales per thousand population": "49"
-      },
-      {
-         "Country": "Belgium",
-         "Number of used car sales per thousand population": "78"
+         "Country": "Sweden",
+         "Payroll taxes of 100 euros gross earnings": "48"
       },
       {
          "Country": "France",
-         "Number of used car sales per thousand population": "81"
+         "Payroll taxes of 100 euros gross earnings": "45"
       },
       {
-         "Country": "Germany",
-         "Number of used car sales per thousand population": "88"
+         "Country": "Lithuania",
+         "Payroll taxes of 100 euros gross earnings": "43"
       },
       {
-         "Country": "Denmark",
-         "Number of used car sales per thousand population": "97"
+         "Country": "Italy",
+         "Payroll taxes of 100 euros gross earnings": "40"
       },
       {
          "Country": "Austria",
-         "Number of used car sales per thousand population": "98"
+         "Payroll taxes of 100 euros gross earnings": "38"
+      },
+      {
+         "Country": "Czech Republic",
+         "Payroll taxes of 100 euros gross earnings": "37"
+      },
+      {
+         "Country": "Belgium",
+         "Payroll taxes of 100 euros gross earnings": "37"
+      },
+      {
+         "Country": "Slowakia",
+         "Payroll taxes of 100 euros gross earnings": "37"
+      },
+      {
+         "Country": "Estonia",
+         "Payroll taxes of 100 euros gross earnings": "35"
+      },
+      {
+         "Country": "Spain",
+         "Payroll taxes of 100 euros gross earnings": "35"
+      },
+      {
+         "Country": "Euro area",
+         "Payroll taxes of 100 euros gross earnings": "34"
+      },
+      {
+         "Country": "Greece",
+         "Payroll taxes of 100 euros gross earnings": "33"
       },
       {
          "Country": "Netherlands",
-         "Number of used car sales per thousand population": "102"
+         "Payroll taxes of 100 euros gross earnings": "30"
       },
       {
-         "Country": "Sweden",
-         "Number of used car sales per thousand population": "107"
+         "Country": "EU",
+         "Payroll taxes of 100 euros gross earnings": "30"
       },
       {
-         "Country": "UK",
-         "Number of used car sales per thousand population": "116"
+         "Country": "Latvia",
+         "Payroll taxes of 100 euros gross earnings": "29"
+      },
+      {
+         "Country": "Germany",
+         "Payroll taxes of 100 euros gross earnings": "27"
+      },
+      {
+         "Country": "Portugal",
+         "Payroll taxes of 100 euros gross earnings": "26"
+      },
+      {
+         "Country": "Finland",
+         "Payroll taxes of 100 euros gross earnings": "25"
+      },
+      {
+         "Country": "Hungary",
+         "Payroll taxes of 100 euros gross earnings": "25"
+      },
+      {
+         "Country": "Poland",
+         "Payroll taxes of 100 euros gross earnings": "22"
+      },
+      {
+         "Country": "United Kingdom",
+         "Payroll taxes of 100 euros gross earnings": "20"
+      },
+      {
+         "Country": "Slovenia",
+         "Payroll taxes of 100 euros gross earnings": "19"
+      },
+      {
+         "Country": "Croatia",
+         "Payroll taxes of 100 euros gross earnings": "19"
+      },
+      {
+         "Country": "Bulgaria",
+         "Payroll taxes of 100 euros gross earnings": "19"
+      },
+      {
+         "Country": "Ireland",
+         "Payroll taxes of 100 euros gross earnings": "18"
+      },
+      {
+         "Country": "Cyprus",
+         "Payroll taxes of 100 euros gross earnings": "16"
+      },
+      {
+         "Country": "Denmark",
+         "Payroll taxes of 100 euros gross earnings": "16"
+      },
+      {
+         "Country": "Luxembourg",
+         "Payroll taxes of 100 euros gross earnings": "13"
+      },
+      {
+         "Country": "Malta",
+         "Payroll taxes of 100 euros gross earnings": "8"
+      },
+      {
+         "Country": "Romania",
+         "Payroll taxes of 100 euros gross earnings": "0"
       }
-   ]
+   ],
+   "gold": "The statistic shows payroll taxes of 100 euros gross earnings in member states of the European Union in 2018 . Payroll taxes include social contributions , the cost of professional education and training , the taxes on payroll or number of employees , and other special expenses . In 2018 , payroll taxes of 100 euros gross earning amounted to 30 euros in the European Union .\n"
 }

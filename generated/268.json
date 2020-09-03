@@ -1,121 +1,132 @@
 {
-   "title": "Average age at marriage in the Netherlands 1950 - 2018 , by gender",
+   "title": "Average retail price for ground beef in Canada 2015 to 2019",
    "labels": [
-      "Year",
-      "Men",
-      "Women"
+      "Month",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019"
    ],
    "columnType": "multi",
-   "graphType": "line",
+   "graphType": "bar",
    "summary": [
-      "This statistic shows the Average age of Netherlands inhabitants from 1950 to 2018 . ",
-      "In 2018 , about 38.2 % of inhabitants were aged 0 to 14 years , while approximately 35.2 % were aged 15 to 64 , and 35.2 % of Netherlands inhabitants were aged Women or older ."
+      "The Average retail price for one kilogram of ground in Canada was 12.41 Canadian dollars in 2019 . ",
+      "This price remained relatively stable in 2019 , staying between 11.93 and 12.2 Canadian dollars per kilogram . ",
+      "Prices were higher in 2015 , with an Average monthly cost of 11.93 dollars ."
    ],
    "trends": [
       {
-         "10": [
-            "14",
-            "0"
-         ],
          "12": [
-            "0",
-            "0"
+            "4",
+            "3"
          ]
       },
       {
-         "1": [
-            "0",
-            "0"
-         ],
-         "4": [
-            "0",
-            "1"
-         ],
-         "17": [
-            "0",
-            "2"
-         ],
-         "26": [
-            "0",
-            "2"
+         "12": [
+            "6",
+            "3"
          ]
-      }
+      },
+      {}
    ],
    "data": [
       {
-         "Year": "2018",
-         "Men": "38.2",
-         "Women": "35.2"
+         "Month": "Dec",
+         "2015": "12.8",
+         "2016": "11.91",
+         "2017": "12.21",
+         "2018": "11.47",
+         "2019": "0"
       },
       {
-         "Year": "2015",
-         "Men": "37.5",
-         "Women": "34.4"
+         "Month": "Nov",
+         "2015": "12.86",
+         "2016": "12.04",
+         "2017": "12.35",
+         "2018": "11.96",
+         "2019": "11.69"
       },
       {
-         "Year": "2010",
-         "Men": "36.6",
-         "Women": "33.4"
+         "Month": "Oct",
+         "2015": "13.23",
+         "2016": "12.36",
+         "2017": "12.11",
+         "2018": "11.94",
+         "2019": "11.54"
       },
       {
-         "Year": "2005",
-         "Men": "35.8",
-         "Women": "32.7"
+         "Month": "Sep",
+         "2015": "12.96",
+         "2016": "12.4",
+         "2017": "12.45",
+         "2018": "11.95",
+         "2019": "11.67"
       },
       {
-         "Year": "2000",
-         "Men": "34.1",
-         "Women": "31.1"
+         "Month": "Aug",
+         "2015": "12.66",
+         "2016": "12.19",
+         "2017": "12.41",
+         "2018": "12.18",
+         "2019": "11.23"
       },
       {
-         "Year": "1995",
-         "Men": "32.4",
-         "Women": "29.6"
+         "Month": "Jul",
+         "2015": "12.57",
+         "2016": "12.25",
+         "2017": "12.19",
+         "2018": "11.71",
+         "2019": "10.86"
       },
       {
-         "Year": "1990",
-         "Men": "30.7",
-         "Women": "28.0"
+         "Month": "Jun",
+         "2015": "12.75",
+         "2016": "12.29",
+         "2017": "12.2",
+         "2018": "12.15",
+         "2019": "11.41"
       },
       {
-         "Year": "1985",
-         "Men": "29.1",
-         "Women": "26.3"
+         "Month": "May",
+         "2015": "12.64",
+         "2016": "12.71",
+         "2017": "12.38",
+         "2018": "12.05",
+         "2019": "11.3"
       },
       {
-         "Year": "1980",
-         "Men": "27.4",
-         "Women": "24.5"
+         "Month": "Apr",
+         "2015": "12.59",
+         "2016": "12.78",
+         "2017": "12.36",
+         "2018": "12.53",
+         "2019": "11.19"
       },
       {
-         "Year": "1975",
-         "Men": "26.5",
-         "Women": "23.8"
+         "Month": "Mar",
+         "2015": "12.43",
+         "2016": "13.11",
+         "2017": "12.21",
+         "2018": "12.1",
+         "2019": "11.29"
       },
       {
-         "Year": "1970",
-         "Men": "26.2",
-         "Women": "23.7"
+         "Month": "Feb",
+         "2015": "12.29",
+         "2016": "12.62",
+         "2017": "12.02",
+         "2018": "12.11",
+         "2019": "11.41"
       },
       {
-         "Year": "1965",
-         "Men": "27.1",
-         "Women": "24.3"
-      },
-      {
-         "Year": "1960",
-         "Men": "28.3",
-         "Women": "25.4"
-      },
-      {
-         "Year": "1955",
-         "Men": "29.2",
-         "Women": "26.3"
-      },
-      {
-         "Year": "1950",
-         "Men": "30.0",
-         "Women": "26.9"
+         "Month": "Jan",
+         "2015": "11.99",
+         "2016": "12.75",
+         "2017": "11.93",
+         "2018": "12.19",
+         "2019": "11.55"
       }
-   ]
+   ],
+   "gold": "In Canada , one kilogram of ground beef cost an average 11.69 Canadian dollars in November 2019 . This price has fluctuated throughout the year , with a high of 11.67 dollars in October 2019 . Ground , otherwise known as minced , beef is often considered a cheaper and more versatile alternative to other cuts of beef .\n"
 }

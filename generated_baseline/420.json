@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 50 categories for the x axis of State representing Number of fires, Number of acres burned.",
+      "This grouped bar chart has 50 categories for the x axis of State representing Number of fires, and Number of acres burned.",
       " The highest category is found at Alaska with a mean value of 1249439.5.",
       " The second highest category is found at Arizona with a mean value of 193405.5.",
       " This represents a difference of 146.4%."
    ],
-   "trends": {
-      "maxIndex": 1,
-      "secondIndex": 1
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "2",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "14": [
+            "2",
+            "2"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "State": "Alabama",

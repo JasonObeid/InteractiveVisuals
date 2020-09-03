@@ -1,48 +1,52 @@
 {
-   "title": "Largest Mainline Protestant churches in the U.S. 2010 , by congregations",
-   "xAxis": "Mainline Protestant church",
-   "yAxis": "Number of congregations",
+   "title": "Preferred social login ID worldwide 2016",
+   "xAxis": "Platform",
+   "yAxis": "Share of logins",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the total Number of congregations in the Protestant in 2010 , by Mainline . ",
-      "In 2010 , 33323 % of the congregations was United_Methodist_Church in Protestant ."
+      "This statistic shows the regional 2016 of ID social login ID logins in 2016 . ",
+      "About 53.1 logins with login assets of at least 50 million U.S. dollars were residing in Facebook 2016 . ",
+      "That is about 50 % of the total Share of logins worldwide ."
    ],
    "trends": [
       {},
       {
-         "3": "0",
-         "10": "0"
-      }
+         "1": "0",
+         "16": "0"
+      },
+      {}
    ],
    "data": [
       {
-         "Mainline Protestant church": "United Methodist Church",
-         "Number of congregations": "33323"
+         "Platform": "Facebook",
+         "Share of logins": "53.1"
       },
       {
-         "Mainline Protestant church": "Presbyterian Church (U.S.A.)",
-         "Number of congregations": "10487"
+         "Platform": "GooglePlus",
+         "Share of logins": "44.8"
       },
       {
-         "Mainline Protestant church": "Evangelical Lutheran Church in America",
-         "Number of congregations": "9846"
+         "Platform": "Twitter",
+         "Share of logins": "1.01"
       },
       {
-         "Mainline Protestant church": "Episcopal Church",
-         "Number of congregations": "6794"
+         "Platform": "LinkedIn",
+         "Share of logins": "0.56"
       },
       {
-         "Mainline Protestant church": "American Baptist Churches in the U.S.A.",
-         "Number of congregations": "5243"
+         "Platform": "Yahoo",
+         "Share of logins": "0.29"
       },
       {
-         "Mainline Protestant church": "United Church of Christ",
-         "Number of congregations": "5225"
+         "Platform": "Vkontakte",
+         "Share of logins": "0.15"
       },
       {
-         "Mainline Protestant church": "All other Mainline Protestant",
-         "Number of congregations": "6842"
+         "Platform": "Live",
+         "Share of logins": "0.11"
       }
-   ]
+   ],
+   "gold": "This statistic gives information on the preferred social login ID used by internet users worldwide . During the second quarter of 2016 , data analysis revealed that 53.1 percent of social logins were through a Facebook account . Approximately one percent of internet users used their Twitter account to login to a website .\n"
 }

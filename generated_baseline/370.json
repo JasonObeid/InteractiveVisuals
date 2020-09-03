@@ -4,36 +4,26 @@
    "yAxis": "Revenue in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 6 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely negative which exists from 2019/20 to 2017/18.",
-      " Differently, the next significant trend is extremely negative which exists from 2016/17 to 2014/15.",
-      " Conversely, the next significant trend is extremely positive which exists from 2017/18 to 2016/17."
+      " The longest trend is extremely positive which exists from 2019/20 to 2017/18.",
+      " Additionally, the next significant trend is moderately positive which exists from 2016/17 to 2014/15.",
+      " Correspondingly, the next significant trend is slightly negative which exists from 2017/18 to 2016/17."
    ],
    "trends": [
+      {},
       {
-         "Length": 3,
-         "direction": "negative",
-         "start": 0,
-         "end": 2,
-         "trend": "y=917.3x+-1844831.37",
-         "magnitude": "extremely"
+         "1": "0",
+         "12": "2"
       },
       {
-         "Length": 3,
-         "direction": "negative",
-         "start": 3,
-         "end": 5,
-         "trend": "y=246.45x+-491485.35",
-         "magnitude": "extremely"
+         "3": "3",
+         "14": "5"
       },
       {
-         "Length": 2,
-         "direction": "positive",
-         "start": 2,
-         "end": 3,
-         "trend": "y=-137.2x+281988.9",
-         "magnitude": "extremely"
+         "3": "2",
+         "14": "3"
       }
    ],
    "data": [

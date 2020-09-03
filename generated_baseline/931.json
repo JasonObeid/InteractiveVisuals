@@ -4,15 +4,24 @@
    "yAxis": "Amount of category views in billions",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 9 categories for the x axis representing Selected Cosmetics, and a y axis representing Amount of category views in billions.",
       " The highest category is found at Beauty_-_overall where Amount of category views in billions is 219.0.",
       " The lowest category is found at Nails where Amount of category views in billions is 4.0."
    ],
-   "trends": {
-      "maxIndex": 3,
-      "minIndex": 8
-   },
+   "trends": [
+      {},
+      {
+         "7": 3,
+         "12": 3
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
    "data": [
       {
          "Selected Cosmetics": "Personal care - overall",

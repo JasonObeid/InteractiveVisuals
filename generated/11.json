@@ -1,153 +1,80 @@
 {
-   "title": "Revenue of Johnson & Johnson 's pharmaceuticals segment worldwide 2012 to 2024",
+   "title": "U.S. Millennials : most popular social network 2016 , by age group",
    "labels": [
-      "Year",
-      "Immunology",
-      "Cardiovascular/Metabolism/Other",
-      "Oncology",
-      "Central nervous system",
-      "Anti-infectives"
+      "Platform",
+      "18-24",
+      "25-29",
+      "30-34"
    ],
    "columnType": "multi",
-   "graphType": "line",
+   "graphType": "bar",
    "summary": [
-      "This statistic shows the Revenue of Johnson Johnson from 2024 to 2012 , 's pharmaceuticals groups . ",
-      "In 2012 , the largest pharmaceuticals groups were the 5.94 to 24 Year olds , and the 45 to 69 Year olds , with roughly 7.87 and 6.72 % ."
+      "This statistic shows the results of a survey on the U.S. Millennials popular in Millennials as of 2018 , sorted by age . ",
+      "During the survey , 36 % of respondents aged 18-24 to years stated that they used Gmail as their primary popular provider . ",
+      "Instagram was ranked second with 24 % ."
    ],
    "trends": [
+      {},
       {
-         "8": [
-            "12",
-            "0"
-         ],
-         "10": [
+         "4": [
             "0",
-            "0"
+            "1"
          ]
       },
       {
-         "1": [
-            "0",
+         "0": [
+            "1",
             "0"
          ],
-         "9": [
-            "12",
-            "5"
-         ],
-         "25": [
-            "0",
+         "5": [
+            "1",
             "1"
-         ],
-         "27": [
-            "0",
-            "4"
          ]
       }
    ],
    "data": [
       {
-         "Year": "2012",
-         "Immunology": "7.87",
-         "Cardiovascular/Metabolism/Other": "4.94",
-         "Oncology": "2.63",
-         "Central nervous system": "6.72",
-         "Anti-infectives": "3.19"
+         "Platform": "Facebook",
+         "18-24": "36",
+         "25-29": "41",
+         "30-34": "50"
       },
       {
-         "Year": "2013",
-         "Immunology": "9.19",
-         "Cardiovascular/Metabolism/Other": "4.95",
-         "Oncology": "3.77",
-         "Central nervous system": "6.67",
-         "Anti-infectives": "3.55"
+         "Platform": "Instagram",
+         "18-24": "24",
+         "25-29": "17",
+         "30-34": "13"
       },
       {
-         "Year": "2014",
-         "Immunology": "10.19",
-         "Cardiovascular/Metabolism/Other": "5.58",
-         "Oncology": "4.46",
-         "Central nervous system": "6.49",
-         "Anti-infectives": "5.6"
+         "Platform": "YouTube",
+         "18-24": "12",
+         "25-29": "14",
+         "30-34": "11"
       },
       {
-         "Year": "2015",
-         "Immunology": "10.4",
-         "Cardiovascular/Metabolism/Other": "6.42",
-         "Oncology": "4.7",
-         "Central nervous system": "6.26",
-         "Anti-infectives": "3.66"
+         "Platform": "LinkedIn",
+         "18-24": "7",
+         "25-29": "10",
+         "30-34": "10"
       },
       {
-         "Year": "2016",
-         "Immunology": "11.97",
-         "Cardiovascular/Metabolism/Other": "6.4",
-         "Oncology": "5.81",
-         "Central nervous system": "6.08",
-         "Anti-infectives": "3.21"
+         "Platform": "Pinterest",
+         "18-24": "9",
+         "25-29": "8",
+         "30-34": "8"
       },
       {
-         "Year": "2017",
-         "Immunology": "12.24",
-         "Cardiovascular/Metabolism/Other": "6.29",
-         "Oncology": "7.26",
-         "Central nervous system": "5.99",
-         "Anti-infectives": "3.15"
+         "Platform": "Snapchat",
+         "18-24": "9",
+         "25-29": "9",
+         "30-34": "5"
       },
       {
-         "Year": "2018",
-         "Immunology": "12.34",
-         "Cardiovascular/Metabolism/Other": "7.19",
-         "Oncology": "8.96",
-         "Central nervous system": "5.74",
-         "Anti-infectives": "3.18"
-      },
-      {
-         "Year": "2019",
-         "Immunology": "12.49",
-         "Cardiovascular/Metabolism/Other": "7.27",
-         "Oncology": "988.0",
-         "Central nervous system": "4.93",
-         "Anti-infectives": "3.79"
-      },
-      {
-         "Year": "2020",
-         "Immunology": "12.09",
-         "Cardiovascular/Metabolism/Other": "7.1",
-         "Oncology": "10.73",
-         "Central nervous system": "4.84",
-         "Anti-infectives": "3.95"
-      },
-      {
-         "Year": "2021",
-         "Immunology": "11.69",
-         "Cardiovascular/Metabolism/Other": "7.09",
-         "Oncology": "11.78",
-         "Central nervous system": "4.94",
-         "Anti-infectives": "4.38"
-      },
-      {
-         "Year": "2022",
-         "Immunology": "11.14",
-         "Cardiovascular/Metabolism/Other": "6.93",
-         "Oncology": "12.71",
-         "Central nervous system": "5.05",
-         "Anti-infectives": "5.02"
-      },
-      {
-         "Year": "2023",
-         "Immunology": "10.24",
-         "Cardiovascular/Metabolism/Other": "6.8",
-         "Oncology": "13.91",
-         "Central nervous system": "4.68",
-         "Anti-infectives": "5.45"
-      },
-      {
-         "Year": "2024",
-         "Immunology": "9.34",
-         "Cardiovascular/Metabolism/Other": "6.79",
-         "Oncology": "14.86",
-         "Central nervous system": "5.03",
-         "Anti-infectives": "5.94"
+         "Platform": "Twitter",
+         "18-24": "3",
+         "25-29": "1",
+         "30-34": "2"
       }
-   ]
+   ],
+   "gold": "This statistic presents the most popular social network among Millennials in the United States as of August 2016 , by age group . During the survey period , 24 percent of respondents between 18 and 24 years old stated that they used Instagram the most .\n"
 }

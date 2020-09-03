@@ -4,15 +4,24 @@
    "yAxis": "Number of hours",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 72 categories for the x axis representing Month, and a y axis representing Number of hours.",
       " The highest category is found at May_'18 where Number of hours is 246.0.",
       " The lowest category is found at Dec_'15 where Number of hours is 29.2."
    ],
-   "trends": {
-      "maxIndex": 19,
-      "minIndex": 48
-   },
+   "trends": [
+      {},
+      {
+         "7": 19,
+         "12": 19
+      },
+      {
+         "7": 48,
+         "12": 48
+      },
+      {}
+   ],
    "data": [
       {
          "Month": "Dec '19",

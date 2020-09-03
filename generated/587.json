@@ -1,183 +1,126 @@
 {
-   "title": "Quarterly revenue of Electronic Arts from Q3 2010 to Q2 2020",
-   "xAxis": "Quarter",
-   "yAxis": "Revenue in million U.S. dollars",
+   "title": "Bottled water consumption per capita in Europe 2017 , by country",
+   "xAxis": "Country",
+   "yAxis": "Litres consumed per capita",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "In the final Quarter of Q2_'11 , The Electronic Arts Times generated a total Revenue of 1243 million U.S. dollars , indicating a small increase from the corresponding Quarter of Q2_'12 . ",
-      "The fourth Quarter of the year is generally the one in which the Electronic Arts makes the most Revenue , and at the end of Q2_'12 the figure surpassed 500 million for the first time in years ."
+      "This statistic shows the Bottled of water consumption per in Europe 2017 . ",
+      "Italy had the highest Bottled of water consumption per with 188 certified water consumption sources ."
    ],
    "trends": [
+      {},
       {
-         "5": "36",
-         "16": "39",
-         "30": "32"
-      },
-      {
-         "24": "32"
+         "0": "0",
+         "10": "0"
       }
    ],
    "data": [
       {
-         "Quarter": "Q2 '20",
-         "Revenue in million U.S. dollars": "1348"
+         "Country": "Italy",
+         "Litres consumed per capita": "188"
       },
       {
-         "Quarter": "Q1 '20",
-         "Revenue in million U.S. dollars": "1209"
+         "Country": "Germany",
+         "Litres consumed per capita": "175"
       },
       {
-         "Quarter": "Q4 '19",
-         "Revenue in million U.S. dollars": "1238"
+         "Country": "Hungary",
+         "Litres consumed per capita": "126"
       },
       {
-         "Quarter": "Q3 '19",
-         "Revenue in million U.S. dollars": "1289"
+         "Country": "Belgium",
+         "Litres consumed per capita": "130"
       },
       {
-         "Quarter": "Q2 '19",
-         "Revenue in million U.S. dollars": "1286"
+         "Country": "France",
+         "Litres consumed per capita": "125"
       },
       {
-         "Quarter": "Q1 '19",
-         "Revenue in million U.S. dollars": "1137"
+         "Country": "Spain",
+         "Litres consumed per capita": "126"
       },
       {
-         "Quarter": "Q4 '18",
-         "Revenue in million U.S. dollars": "1582"
+         "Country": "Portugal",
+         "Litres consumed per capita": "125"
       },
       {
-         "Quarter": "Q3 '18",
-         "Revenue in million U.S. dollars": "1160"
+         "Country": "EU Average",
+         "Litres consumed per capita": "117"
       },
       {
-         "Quarter": "Q2 '18",
-         "Revenue in million U.S. dollars": "959"
+         "Country": "Poland",
+         "Litres consumed per capita": "99"
       },
       {
-         "Quarter": "Q1 '18",
-         "Revenue in million U.S. dollars": "1449"
+         "Country": "Austria",
+         "Litres consumed per capita": "92"
       },
       {
-         "Quarter": "Q4 '17",
-         "Revenue in million U.S. dollars": "1527"
+         "Country": "Greece",
+         "Litres consumed per capita": "93"
       },
       {
-         "Quarter": "Q3 '17",
-         "Revenue in million U.S. dollars": "1149"
+         "Country": "Romania",
+         "Litres consumed per capita": "90"
       },
       {
-         "Quarter": "Q2 '17",
-         "Revenue in million U.S. dollars": "898"
+         "Country": "Bulgaria",
+         "Litres consumed per capita": "80"
       },
       {
-         "Quarter": "Q1 '17",
-         "Revenue in million U.S. dollars": "1271"
+         "Country": "Croatia",
+         "Litres consumed per capita": "74"
       },
       {
-         "Quarter": "Q4 '16",
-         "Revenue in million U.S. dollars": "1308"
+         "Country": "Slovakia",
+         "Litres consumed per capita": "67"
       },
       {
-         "Quarter": "Q3 '16",
-         "Revenue in million U.S. dollars": "1070"
+         "Country": "Slovenia",
+         "Litres consumed per capita": "61"
       },
       {
-         "Quarter": "Q2 '16",
-         "Revenue in million U.S. dollars": "815"
+         "Country": "Latvia",
+         "Litres consumed per capita": "62"
       },
       {
-         "Quarter": "Q1 '16",
-         "Revenue in million U.S. dollars": "1203"
+         "Country": "Czech Republic",
+         "Litres consumed per capita": "50"
       },
       {
-         "Quarter": "Q4 '15",
-         "Revenue in million U.S. dollars": "1185"
+         "Country": "Lithuania",
+         "Litres consumed per capita": "48"
       },
       {
-         "Quarter": "Q3 '15",
-         "Revenue in million U.S. dollars": "1126"
+         "Country": "Ireland",
+         "Litres consumed per capita": "48"
       },
       {
-         "Quarter": "Q2 '15",
-         "Revenue in million U.S. dollars": "990"
+         "Country": "United Kingdom",
+         "Litres consumed per capita": "36"
       },
       {
-         "Quarter": "Q1 '15",
-         "Revenue in million U.S. dollars": "1214"
+         "Country": "Estonia",
+         "Litres consumed per capita": "32"
       },
       {
-         "Quarter": "Q4 '14",
-         "Revenue in million U.S. dollars": "1123"
+         "Country": "Netherlands",
+         "Litres consumed per capita": "25"
       },
       {
-         "Quarter": "Q3 '14",
-         "Revenue in million U.S. dollars": "808"
+         "Country": "Denmark",
+         "Litres consumed per capita": "21"
       },
       {
-         "Quarter": "Q2 '14",
-         "Revenue in million U.S. dollars": "695"
+         "Country": "Finland",
+         "Litres consumed per capita": "14"
       },
       {
-         "Quarter": "Q1 '14",
-         "Revenue in million U.S. dollars": "949"
-      },
-      {
-         "Quarter": "Q4 '13",
-         "Revenue in million U.S. dollars": "1209"
-      },
-      {
-         "Quarter": "Q3 '13",
-         "Revenue in million U.S. dollars": "922"
-      },
-      {
-         "Quarter": "Q2 '13",
-         "Revenue in million U.S. dollars": "711"
-      },
-      {
-         "Quarter": "Q1 '13",
-         "Revenue in million U.S. dollars": "955"
-      },
-      {
-         "Quarter": "Q4 '12",
-         "Revenue in million U.S. dollars": "1368"
-      },
-      {
-         "Quarter": "Q3 '12",
-         "Revenue in million U.S. dollars": "1061"
-      },
-      {
-         "Quarter": "Q2 '12",
-         "Revenue in million U.S. dollars": "715"
-      },
-      {
-         "Quarter": "Q1 '12",
-         "Revenue in million U.S. dollars": "999"
-      },
-      {
-         "Quarter": "Q4 '11",
-         "Revenue in million U.S. dollars": "1090"
-      },
-      {
-         "Quarter": "Q3 '11",
-         "Revenue in million U.S. dollars": "1053"
-      },
-      {
-         "Quarter": "Q2 '11",
-         "Revenue in million U.S. dollars": "631"
-      },
-      {
-         "Quarter": "Q1 '11",
-         "Revenue in million U.S. dollars": "815"
-      },
-      {
-         "Quarter": "Q4 '10",
-         "Revenue in million U.S. dollars": "979"
-      },
-      {
-         "Quarter": "Q3 '10",
-         "Revenue in million U.S. dollars": "1243"
+         "Country": "Sweden",
+         "Litres consumed per capita": "10"
       }
-   ]
+   ],
+   "gold": "This statistic shows the per capita consumption of bottled water in Europe in 2017 . In this year , Italy was the leading market for the consumption of bottled water with 188 liters of bottled water consumed per person and Germany was the second largest consumer of bottled water with 175 liters consumed per person . Bottled water in the European Union is predominantly made up of the natural mineral water category.Germany is the market with the largest amount of different mineral water brands .\n"
 }

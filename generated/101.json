@@ -1,83 +1,51 @@
 {
-   "title": "Projected Consumer Price Index in the United States 2010 to 2024",
-   "xAxis": "Year",
-   "yAxis": "Consumer price index (100=1982-1984)",
+   "title": "Number of Crunchyroll subscribers 2012 to 2018",
+   "xAxis": "Month",
+   "yAxis": "Number of users in thousands",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the price rate of the global Price Index United from 2010 to 2024 . ",
-      "The Price Index United is Consumer to grow by 237.0 % in 2015 , reaching 42 billion U.S. dollars in size ."
+      "The statistic shows information on the Number of users PlayerUnknown 's Battlegrounds ( Crunchyroll ) on 2018 Crunchyroll from September_2012 to November_2018 . ",
+      "According to the estimates , the battle royale game developed by Bluehole attracted 2000 thousands users on 2018 in November_2018 . ",
+      "At the same time , the game had a global player base of 10 thousands ."
    ],
    "trends": [
       {
-         "13": "14",
-         "15": "0"
+         "20": "5",
+         "22": "0"
       },
       {
-         "9": "9",
-         "12": "9"
-      }
+         "13": "0",
+         "19": "0"
+      },
+      {}
    ],
    "data": [
       {
-         "Year": "2024",
-         "Consumer price index (100=1982-1984)": "287.51"
+         "Month": "November 2018",
+         "Number of users in thousands": "2000"
       },
       {
-         "Year": "2023",
-         "Consumer price index (100=1982-1984)": "281.23"
+         "Month": "February 2017",
+         "Number of users in thousands": "1000"
       },
       {
-         "Year": "2022",
-         "Consumer price index (100=1982-1984)": "275.09"
+         "Month": "November 2015",
+         "Number of users in thousands": "750"
       },
       {
-         "Year": "2021",
-         "Consumer price index (100=1982-1984)": "269.1"
+         "Month": "November 2014",
+         "Number of users in thousands": "400"
       },
       {
-         "Year": "2020",
-         "Consumer price index (100=1982-1984)": "263.12"
+         "Month": "March 2013",
+         "Number of users in thousands": "200"
       },
       {
-         "Year": "2019",
-         "Consumer price index (100=1982-1984)": "256.12"
-      },
-      {
-         "Year": "2018",
-         "Consumer price index (100=1982-1984)": "251.1"
-      },
-      {
-         "Year": "2017",
-         "Consumer price index (100=1982-1984)": "245.13"
-      },
-      {
-         "Year": "2016",
-         "Consumer price index (100=1982-1984)": "240.01"
-      },
-      {
-         "Year": "2015",
-         "Consumer price index (100=1982-1984)": "237.0"
-      },
-      {
-         "Year": "2014",
-         "Consumer price index (100=1982-1984)": "236.72"
-      },
-      {
-         "Year": "2013",
-         "Consumer price index (100=1982-1984)": "232.95"
-      },
-      {
-         "Year": "2012",
-         "Consumer price index (100=1982-1984)": "229.59"
-      },
-      {
-         "Year": "2011",
-         "Consumer price index (100=1982-1984)": "224.92"
-      },
-      {
-         "Year": "2010",
-         "Consumer price index (100=1982-1984)": "218.08"
+         "Month": "September 2012",
+         "Number of users in thousands": "100"
       }
-   ]
+   ],
+   "gold": "As of November 2018 , the anime-focused subscription video-on-demand platform Crunchyroll had around two million paying subscribers . Subscription numbers have grown rapidly in recent years , with the company managing to double its number of paying subscribers between February 2017 and November 2018 . What is Crunchyroll ? Similar to services like Netflix and Hulu , Crunchyroll provides subscribers with on-demand access to shows and video media through either monthly subscriptions or cheaper , ad-supported programming .\n"
 }

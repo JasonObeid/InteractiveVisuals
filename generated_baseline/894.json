@@ -4,27 +4,26 @@
    "yAxis": "Rate per 100,000 population",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Rate per 100,000 population, with a total of 29 data points. The chart has 2 significant trends.",
-      " The longest trend is extremely positive which exists from 2000 to 1990.",
-      " Additionally, the next significant trend is extremely positive which exists from 2011 to 2003."
+      "This line chart has an x axis representing Year and a y axis representing Rate per 100,000 population, with a total of 29 data points. The chart has 3 significant trends.",
+      " The longest trend is slightly negative which exists from 2003 to 1990.",
+      " Contrarily, the next significant trend is slightly negative which exists from 2014 to 2003.",
+      " Contrarily, the next significant trend is extremely positive which exists from 2018 to 2014."
    ],
    "trends": [
+      {},
       {
-         "Length": 11,
-         "direction": "positive",
-         "start": 18,
-         "end": 28,
-         "trend": "y=-26.86x+54143.11",
-         "magnitude": "extremely"
+         "1": "15",
+         "12": "28"
       },
       {
-         "Length": 9,
-         "direction": "positive",
-         "start": 7,
-         "end": 15,
-         "trend": "y=-29.37x+59281.21",
-         "magnitude": "extremely"
+         "3": "4",
+         "14": "15"
+      },
+      {
+         "3": "0",
+         "14": "4"
       }
    ],
    "data": [

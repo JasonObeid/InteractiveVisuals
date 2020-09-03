@@ -1,41 +1,109 @@
 {
-   "title": "Age structure in Iraq 2017",
-   "xAxis": "Year",
-   "yAxis": "Share of population",
-   "columnType": "two",
+   "title": "Global bauxite import and export 2005 to 2018",
+   "labels": [
+      "Year",
+      "Export",
+      "Import"
+   ],
+   "columnType": "multi",
    "graphType": "line",
    "summary": [
-      "This statistic shows the responses from Age structure Iraq 2017 by industry experts in Iraq 2017 . ",
-      "The 2017 returns were set at approximately 0-14_years to 15-24_years % by 39.01 % of population at that time ."
+      "The statistic shows the Global bauxite of import export 2005 in the 2018 from 2005 to 2018 . ",
+      "In 2018 , 55968.7 % of import were export 2005 in the 2018 ."
    ],
    "trends": [
-      {},
       {
-         "7": "0",
-         "9": "1",
-         "12": "0"
+         "14": [
+            "13",
+            "0"
+         ],
+         "16": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "3": [
+            "0",
+            "1"
+         ]
       }
    ],
    "data": [
       {
-         "Year": "0-14 years",
-         "Share of population": "39.01"
+         "Year": "2018",
+         "Export": "55968.7",
+         "Import": "108775.3"
       },
       {
-         "Year": "15-24 years",
-         "Share of population": "19.42"
+         "Year": "2017",
+         "Export": "45622.2",
+         "Import": "94101.9"
       },
       {
-         "Year": "25-54 years",
-         "Share of population": "33.97"
+         "Year": "2016",
+         "Export": "48752.7",
+         "Import": "78531.7"
       },
       {
-         "Year": "55-64 years",
-         "Share of population": "4.05"
+         "Year": "2015",
+         "Export": "71404.6",
+         "Import": "88653.6"
       },
       {
-         "Year": "65 years and over",
-         "Share of population": "3.55"
+         "Year": "2014",
+         "Export": "43256.4",
+         "Import": "69174.6"
+      },
+      {
+         "Year": "2013",
+         "Export": "91886.1",
+         "Import": "103475.2"
+      },
+      {
+         "Year": "2012",
+         "Export": "55652.9",
+         "Import": "72623.0"
+      },
+      {
+         "Year": "2011",
+         "Export": "65749.5",
+         "Import": "75092.9"
+      },
+      {
+         "Year": "2010",
+         "Export": "48278.3",
+         "Import": "57152.3"
+      },
+      {
+         "Year": "2009",
+         "Export": "29452.8",
+         "Import": "44580.8"
+      },
+      {
+         "Year": "2008",
+         "Export": "42525.4",
+         "Import": "62685.1"
+      },
+      {
+         "Year": "2007",
+         "Export": "38762.0",
+         "Import": "59961.2"
+      },
+      {
+         "Year": "2006",
+         "Export": "28678.0",
+         "Import": "42992.7"
+      },
+      {
+         "Year": "2005",
+         "Export": "24045.7",
+         "Import": "37427.3"
       }
-   ]
+   ],
+   "gold": "This statistic shows the sum of the imports and exports of bauxite worldwide from 2005 to 2018 . Total global bauxite exports increased from 24 million in 2005 to 55.97 million metric tons at the end of 2018 . Total global imports of bauxite reached around 108.8 million metric tons at end of 2018 .\n"
 }

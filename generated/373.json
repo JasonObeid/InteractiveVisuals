@@ -1,68 +1,54 @@
 {
-   "title": "Market share held by NAND and DRAM manufacturers 2017 and Q1'18",
-   "labels": [
-      "Year",
-      "SK Hynix",
-      "Micron",
-      "Sony",
-      "Toshiba",
-      "Samsung",
-      "TI",
-      "Intel",
-      "Other"
-   ],
-   "columnType": "multi",
+   "title": "Brazil : number of Facebook users 2017 to 2023",
+   "xAxis": "Year",
+   "yAxis": "Number of users in millions",
+   "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows projected figures for the NAND market from 2017 to , 2017 product Q1'18 . ",
-      "For Q1_2018 , the NAND share held of Micron and NAND are by to reach 26.4 million units . ",
-      "The NAND NAND market - additional information After decades of being part of the essential arsenal of fictional heroes from Batman to James Bond , NAND ( also known as Sony technology or Sony computers ) are finally entering the mainstream ."
+      "In 2018 , the Number of Facebook users in Brazil amounted to 75.6 millions and is projected to grow 91.5 millions in 2023 . ",
+      "The current Facebook usage penetration in Brazil is about 64 millions of the population . ",
+      "Social media in Brazil Social networking is a popular online activity in Brazil ."
    ],
    "trends": [
       {
-         "11": [
-            "0",
-            "0"
-         ],
-         "13": [
-            "0",
-            "0"
-         ]
+         "1": "5",
+         "12": "5",
+         "20": "0",
+         "23": "0"
       },
-      {
-         "1": [
-            "1",
-            "0"
-         ],
-         "17": [
-            "1",
-            "2"
-         ]
-      },
+      {},
       {}
    ],
    "data": [
       {
-         "Year": "2017",
-         "SK Hynix": "27.8",
-         "Micron": "25.1",
-         "Sony": "10.5",
-         "Toshiba": "11.5",
-         "Samsung": "8.4",
-         "TI": "6",
-         "Intel": "3.7",
-         "Other": "7"
+         "Year": "2023",
+         "Number of users in millions": "91.5"
       },
       {
-         "Year": "Q1 2018",
-         "SK Hynix": "29.2",
-         "Micron": "26.4",
-         "Sony": "10.7",
-         "Toshiba": "8.6",
-         "Samsung": "6.8",
-         "TI": "5.9",
-         "Intel": "3.7",
-         "Other": "7"
+         "Year": "2022",
+         "Number of users in millions": "89.0"
+      },
+      {
+         "Year": "2021",
+         "Number of users in millions": "86.1"
+      },
+      {
+         "Year": "2020",
+         "Number of users in millions": "82.9"
+      },
+      {
+         "Year": "2019",
+         "Number of users in millions": "79.4"
+      },
+      {
+         "Year": "2018",
+         "Number of users in millions": "75.6"
+      },
+      {
+         "Year": "2017",
+         "Number of users in millions": "71.9"
       }
-   ]
+   ],
+   "gold": "This statistic shows the number of Facebook users in Brazil from 2017 to 2023 . In 2018 , the number of Facebook users in Brazil reached 75.6 million , up from 71.9 million in 2017 . Facebook users in Brazil \u2013 additional information One of the leading online activities worldwide is social networking .\n"
 }

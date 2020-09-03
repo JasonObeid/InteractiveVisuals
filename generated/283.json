@@ -1,60 +1,189 @@
 {
-   "title": "Leading baby wipes vendors in the U.S. 2016 , based on sales",
-   "xAxis": "Company",
-   "yAxis": "Million U.S. dollars",
+   "title": "Wage and salary workers in the U.S. : hourly earnings 1979 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Wage in current U.S. dollars",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the Company baby programs with the most U.S. in the U.S. baby Million ( Madness , Big Dance ) . ",
-      "The baby team of Seventh_Generation has participated 276.6 times in the Million up to 2016 ."
+      "In 2018 , total earnings at the U.S. box current amounted to 4.44 14.99 dollars . ",
+      "Whilst this figure remains above 6.99 % in line with trends over the last few years , it failed to match the 1980 figure of 14.99 % , which is the highest figure recorded to date . ",
+      "Wage current hourly in U.S. America The film industry uses Wage current hourly , or the amount of money generated through movie ticket sales , to measure the commercial success of the films it produces ."
    ],
    "trends": [
-      {},
       {
-         "4": "3",
-         "7": "2"
-      }
+         "1": "0",
+         "12": "39",
+         "13": "0"
+      },
+      {
+         "5": "29",
+         "22": "38",
+         "25": "0"
+      },
+      {}
    ],
    "data": [
       {
-         "Company": "Private label",
-         "Million U.S. dollars": "494.4"
+         "Year": "2018",
+         "Wage in current U.S. dollars": "14.99"
       },
       {
-         "Company": "Kimberly Clark Corp.",
-         "Million U.S. dollars": "416.2"
+         "Year": "2017",
+         "Wage in current U.S. dollars": "14.63"
       },
       {
-         "Company": "Procter & Gamble",
-         "Million U.S. dollars": "276.6"
+         "Year": "2016",
+         "Wage in current U.S. dollars": "14.0"
       },
       {
-         "Company": "Seventh Generation",
-         "Million U.S. dollars": "9.6"
+         "Year": "2015",
+         "Wage in current U.S. dollars": "13.44"
       },
       {
-         "Company": "The Honest Co.",
-         "Million U.S. dollars": "8.6"
+         "Year": "2014",
+         "Wage in current U.S. dollars": "13.14"
       },
       {
-         "Company": "Johnson & Johnson",
-         "Million U.S. dollars": "7.1"
+         "Year": "2013",
+         "Wage in current U.S. dollars": "12.93"
       },
       {
-         "Company": "Nice-Pak Products",
-         "Million U.S. dollars": "6.3"
+         "Year": "2012",
+         "Wage in current U.S. dollars": "12.8"
       },
       {
-         "Company": "Paper Partners",
-         "Million U.S. dollars": "6.1"
+         "Year": "2011",
+         "Wage in current U.S. dollars": "12.71"
       },
       {
-         "Company": "Kas Direct",
-         "Million U.S. dollars": "5.7"
+         "Year": "2010",
+         "Wage in current U.S. dollars": "12.5"
       },
       {
-         "Company": "Irish Breeze",
-         "Million U.S. dollars": "4.4"
+         "Year": "2009",
+         "Wage in current U.S. dollars": "12.44"
+      },
+      {
+         "Year": "2008",
+         "Wage in current U.S. dollars": "12.23"
+      },
+      {
+         "Year": "2007",
+         "Wage in current U.S. dollars": "11.95"
+      },
+      {
+         "Year": "2006",
+         "Wage in current U.S. dollars": "11.76"
+      },
+      {
+         "Year": "2005",
+         "Wage in current U.S. dollars": "11.19"
+      },
+      {
+         "Year": "2004",
+         "Wage in current U.S. dollars": "11.0"
+      },
+      {
+         "Year": "2003",
+         "Wage in current U.S. dollars": "10.85"
+      },
+      {
+         "Year": "2002",
+         "Wage in current U.S. dollars": "10.47"
+      },
+      {
+         "Year": "2001",
+         "Wage in current U.S. dollars": "10.19"
+      },
+      {
+         "Year": "2000",
+         "Wage in current U.S. dollars": "9.91"
+      },
+      {
+         "Year": "1999",
+         "Wage in current U.S. dollars": "9.53"
+      },
+      {
+         "Year": "1998",
+         "Wage in current U.S. dollars": "9.1"
+      },
+      {
+         "Year": "1997",
+         "Wage in current U.S. dollars": "8.75"
+      },
+      {
+         "Year": "1996",
+         "Wage in current U.S. dollars": "8.4"
+      },
+      {
+         "Year": "1995",
+         "Wage in current U.S. dollars": "8.17"
+      },
+      {
+         "Year": "1994",
+         "Wage in current U.S. dollars": "8.01"
+      },
+      {
+         "Year": "1993",
+         "Wage in current U.S. dollars": "7.87"
+      },
+      {
+         "Year": "1992",
+         "Wage in current U.S. dollars": "7.72"
+      },
+      {
+         "Year": "1991",
+         "Wage in current U.S. dollars": "7.5"
+      },
+      {
+         "Year": "1990",
+         "Wage in current U.S. dollars": "7.23"
+      },
+      {
+         "Year": "1989",
+         "Wage in current U.S. dollars": "6.99"
+      },
+      {
+         "Year": "1988",
+         "Wage in current U.S. dollars": "6.73"
+      },
+      {
+         "Year": "1987",
+         "Wage in current U.S. dollars": "6.47"
+      },
+      {
+         "Year": "1986",
+         "Wage in current U.S. dollars": "6.2"
+      },
+      {
+         "Year": "1985",
+         "Wage in current U.S. dollars": "6.03"
+      },
+      {
+         "Year": "1984",
+         "Wage in current U.S. dollars": "5.83"
+      },
+      {
+         "Year": "1983",
+         "Wage in current U.S. dollars": "5.59"
+      },
+      {
+         "Year": "1982",
+         "Wage in current U.S. dollars": "5.4"
+      },
+      {
+         "Year": "1981",
+         "Wage in current U.S. dollars": "5.15"
+      },
+      {
+         "Year": "1980",
+         "Wage in current U.S. dollars": "4.82"
+      },
+      {
+         "Year": "1979",
+         "Wage in current U.S. dollars": "4.44"
       }
-   ]
+   ],
+   "gold": "In 2018 , the median hourly earnings of wage and salary workers in the United States was 14.99 U.S. dollars . This is an increase from 1979 , when median hourly earnings were at 4.44 U.S. dollars . Hourly Workers The United States national minimum wage is 7.25 U.S. dollars per hour , which has been the minimum wage since 2009 .\n"
 }

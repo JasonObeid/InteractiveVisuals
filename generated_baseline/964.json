@@ -10,16 +10,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 6 categories for the x axis of Response representing 2014, 2015, 2016, 2017, 2018.",
+      "This grouped bar chart has 6 categories for the x axis of Response representing 2014, 2015, 2016, 2017, and 2018.",
       " The highest category is found at Yes if I believe the reviews are authentic with a mean value of 25.2.",
       " The second highest category is found at Yes if there are multiple customer reviews to read with a mean value of 22.0.",
       " This represents a difference of 13.6%."
    ],
-   "trends": {
-      "maxIndex": 1,
-      "secondIndex": 1
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "5",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "14": [
+            "5",
+            "3"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Response": "Yes always",

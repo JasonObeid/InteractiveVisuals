@@ -4,15 +4,24 @@
    "yAxis": "Unit shipments in thousands",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 32 categories for the x axis representing Quarter, and a y axis representing Unit shipments in thousands.",
       " The highest category is found at 4Q_'19 where Unit shipments in thousands is 2905.3.",
       " The lowest category is found at 1Q_'12 where Unit shipments in thousands is 1732.2."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 31
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 31,
+         "12": 31
+      },
+      {}
+   ],
    "data": [
       {
          "Quarter": "4Q '19",

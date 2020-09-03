@@ -1,61 +1,60 @@
 {
-   "title": "U.S. consumer perception of Amazon as a company 2017",
-   "xAxis": "Response",
-   "yAxis": "Share of respondents",
+   "title": "Profile of Millennial travelers in the U.S. as of July 2016",
+   "xAxis": "Profile Type",
+   "yAxis": "Average Traveler Psychographic Intensity Index score",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the U.S. consumer perception Amazon company 2017 in the 2017 as of 2013 . ",
-      "During the survey , 67 % of the female respondents named I_like_using_Amazon as their U.S. preferred activity during perception I_trust_Amazon_with_my_payment_information ."
+      "This statistic shows the Profile settlements in the Millennial U.S. July in 2016 . ",
+      "In 2016 , around 70.3 million people lived in Cultural_interest , making it the Profile city in the Millennial U.S. July . ",
+      "Population of the Millennial U.S. July With the global financial crisis in 2008 as well the Euro zone crisis , many countries in Europe suffered a great economic impact ."
    ],
    "trends": [
       {},
       {
          "4": "0",
-         "11": "0",
-         "19": "2"
-      }
+         "9": "0"
+      },
+      {}
    ],
    "data": [
       {
-         "Response": "I like using Amazon",
-         "Share of respondents": "67"
+         "Profile Type": "Cultural interest",
+         "Average Traveler Psychographic Intensity Index score": "70.3"
       },
       {
-         "Response": "With Amazon I get what I need",
-         "Share of respondents": "57"
+         "Profile Type": "Exploration hungry",
+         "Average Traveler Psychographic Intensity Index score": "69.5"
       },
       {
-         "Response": "I trust Amazon with my payment information",
-         "Share of respondents": "53"
+         "Profile Type": "Food and cuisine driven traveler",
+         "Average Traveler Psychographic Intensity Index score": "68.5"
       },
       {
-         "Response": "Amazon takes the interests of its customers seriously",
-         "Share of respondents": "38"
+         "Profile Type": "Wants the real destination not commercial tourism product",
+         "Average Traveler Psychographic Intensity Index score": "65.2"
       },
       {
-         "Response": "Amazon assumes a pioneering role in this day and age",
-         "Share of respondents": "35"
+         "Profile Type": "Connected during leisure travel and its planning",
+         "Average Traveler Psychographic Intensity Index score": "65.1"
       },
       {
-         "Response": "Amazon is an integral part of my life",
-         "Share of respondents": "32"
+         "Profile Type": "Intensively plans leisure travel",
+         "Average Traveler Psychographic Intensity Index score": "60.5"
       },
       {
-         "Response": "Amazon respects my privacy",
-         "Share of respondents": "32"
+         "Profile Type": "Nature lovers",
+         "Average Traveler Psychographic Intensity Index score": "58.8"
       },
       {
-         "Response": "I would like to see more products and services from Amazon",
-         "Share of respondents": "27"
+         "Profile Type": "Activity seekers",
+         "Average Traveler Psychographic Intensity Index score": "56.9"
       },
       {
-         "Response": "There are no alternatives to Amazon",
-         "Share of respondents": "18"
-      },
-      {
-         "Response": "None of the above",
-         "Share of respondents": "12"
+         "Profile Type": "Price sensitivity",
+         "Average Traveler Psychographic Intensity Index score": "55.4"
       }
-   ]
+   ],
+   "gold": "This statistic shows the profile of Millennial travelers in the United States as of July 2016 . Millennial travelers were characterized most by their cultural interest with an average Traveler Psychographic Intensity Index score of 70.3 in this category . Millennial travelers were the generation group whose activity choices were most influenced by what was posted on social media .\n"
 }

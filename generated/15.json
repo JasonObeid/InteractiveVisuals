@@ -1,67 +1,109 @@
 {
-   "title": "Share of social media users in Denmark 2017 - 2018 , by age group",
-   "labels": [
-      "Year",
-      "2017",
-      "2018"
-   ],
-   "columnType": "multi",
-   "graphType": "bar",
+   "title": "Natural gas production - United States 1998 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Production in billion cubic meters",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic displays the results of a survey on the proportion of people within different age groups who gamble social on a monthly basis in the Denmark ( UK ) from 2017 to 2018 . ",
-      "As of 2018 , it was found that 97 % of respondents between the age of 25 and 34 years stated that they took part in a form of social media in the past four weeks . ",
-      "This age group had the highest proportion of people who gamble social ."
+      "The statistic shows the total United States energy-related meters Production between 1998 and 2018 . ",
+      "In 2018 , around 831.8 billion cubic meters of CO2 Production were produced from energy consumption in the Natural . ",
+      "In 2015 , around 34.8 billion cubic meters of was emitted globally ."
    ],
    "trends": [
-      {},
       {
-         "8": [
-            "0",
-            "2"
-         ]
+         "11": "19",
+         "13": "0"
       },
-      {}
+      {
+         "1": "0",
+         "4": "0"
+      },
+      {
+         "1": "3"
+      }
    ],
    "data": [
       {
-         "Year": "16-24 years",
-         "2017": "98",
-         "2018": "97"
+         "Year": "2018",
+         "Production in billion cubic meters": "831.8"
       },
       {
-         "Year": "25-34 years",
-         "2017": "94",
-         "2018": "91"
+         "Year": "2017",
+         "Production in billion cubic meters": "745.8"
       },
       {
-         "Year": "35-44 years",
-         "2017": "87",
-         "2018": "90"
+         "Year": "2016",
+         "Production in billion cubic meters": "727.4"
       },
       {
-         "Year": "45-54 years",
-         "2017": "77",
-         "2018": "82"
+         "Year": "2015",
+         "Production in billion cubic meters": "740.3"
       },
       {
-         "Year": "55-64 years",
-         "2017": "63",
-         "2018": "69"
+         "Year": "2014",
+         "Production in billion cubic meters": "704.7"
       },
       {
-         "Year": "65-74 years",
-         "2017": "42",
-         "2018": "50"
+         "Year": "2013",
+         "Production in billion cubic meters": "655.7"
       },
       {
-         "Year": "75-89 years",
-         "2017": "26",
-         "2018": "32"
+         "Year": "2012",
+         "Production in billion cubic meters": "649.1"
       },
       {
-         "Year": "Total",
-         "2017": "75",
-         "2018": "77"
+         "Year": "2011",
+         "Production in billion cubic meters": "617.4"
+      },
+      {
+         "Year": "2010",
+         "Production in billion cubic meters": "575.2"
+      },
+      {
+         "Year": "2009",
+         "Production in billion cubic meters": "557.6"
+      },
+      {
+         "Year": "2008",
+         "Production in billion cubic meters": "546.1"
+      },
+      {
+         "Year": "2007",
+         "Production in billion cubic meters": "521.9"
+      },
+      {
+         "Year": "2006",
+         "Production in billion cubic meters": "524.0"
+      },
+      {
+         "Year": "2005",
+         "Production in billion cubic meters": "511.1"
+      },
+      {
+         "Year": "2004",
+         "Production in billion cubic meters": "526.4"
+      },
+      {
+         "Year": "2003",
+         "Production in billion cubic meters": "540.8"
+      },
+      {
+         "Year": "2002",
+         "Production in billion cubic meters": "536.0"
+      },
+      {
+         "Year": "2001",
+         "Production in billion cubic meters": "555.5"
+      },
+      {
+         "Year": "2000",
+         "Production in billion cubic meters": "543.2"
+      },
+      {
+         "Year": "1998",
+         "Production in billion cubic meters": "538.7"
       }
-   ]
+   ],
+   "gold": "Production of natural gas in the United States has been increasing for the past decade and amounted to 831.8 billion cubic meters in 2018 . An increase in production corresponded with rising demand for natural gas in the United States , particularly after the 2008 Recession . Natural gas becomes competitive Since the early 2000s , the price of coal had been going up , and increased more rapidly following the 2008 Recession , which affected the cost of crude oil to an even greater degree .\n"
 }

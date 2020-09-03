@@ -4,18 +4,16 @@
    "yAxis": "Amount spent in U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Amount spent in U.S. dollars with a total of 4 data points. The chart has one significant trend.",
-      " This trend is extremely positive which exists from 2013 to 2016."
+      " This trend is negative which exists from 2013 to 2016."
    ],
    "trends": [
+      {},
       {
-         "Length": 4,
-         "direction": "positive",
-         "start": 0,
-         "end": 3,
-         "trend": "y=3.28x+-6565.21",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "3"
       }
    ],
    "data": [

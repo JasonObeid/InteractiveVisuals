@@ -4,15 +4,24 @@
    "yAxis": "Number of members in thousands",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 14 categories for the x axis representing Month, and a y axis representing Number of members in thousands.",
       " The highest category is found at Nov_2018 where Number of members in thousands is 291.0.",
       " The lowest category is found at 2005/06 where Number of members in thousands is 121.12."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 13
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 13,
+         "12": 13
+      },
+      {}
+   ],
    "data": [
       {
          "Month": "Nov 2018",

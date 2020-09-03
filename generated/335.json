@@ -1,37 +1,79 @@
 {
-   "title": "Global feed conversion ratio of selected meat and fish",
-   "xAxis": "Animal Type",
-   "yAxis": "Feed conversion ratio",
+   "title": "Total assets of HSBC 2007 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Total assets in billion U.S.dollars",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the percentage of Global conversion ratio selected meat fish Type in , by the Animal of Type . ",
-      "7.0 % of conversion with Salmon and Type used selected meat fish in ."
+      "The statistic shows the Total of pharmaceutical company HSBC 2019 from 2007 to 2019 . ",
+      "HSBC is one of the largest global pharmaceutical companies . ",
+      "In 2019 , HSBC reported approximately 2715.15 billion worldwide ."
    ],
    "trends": [
+      {
+         "11": "12",
+         "13": "0"
+      },
       {},
       {
-         "0": "0",
-         "5": "3",
-         "7": "3"
+         "1": "0",
+         "6": "0"
       }
    ],
    "data": [
       {
-         "Animal Type": "Cattle",
-         "Feed conversion ratio": "7.0"
+         "Year": "2019",
+         "Total assets in billion U.S.dollars": "2715.15"
       },
       {
-         "Animal Type": "Pork",
-         "Feed conversion ratio": "3.0"
+         "Year": "2018",
+         "Total assets in billion U.S.dollars": "2558.12"
       },
       {
-         "Animal Type": "Chicken",
-         "Feed conversion ratio": "1.9"
+         "Year": "2017",
+         "Total assets in billion U.S.dollars": "2521.77"
       },
       {
-         "Animal Type": "Salmon",
-         "Feed conversion ratio": "1.1"
+         "Year": "2016",
+         "Total assets in billion U.S.dollars": "2374.99"
+      },
+      {
+         "Year": "2015",
+         "Total assets in billion U.S.dollars": "2409.66"
+      },
+      {
+         "Year": "2014",
+         "Total assets in billion U.S.dollars": "2634.14"
+      },
+      {
+         "Year": "2013",
+         "Total assets in billion U.S.dollars": "2671.3"
+      },
+      {
+         "Year": "2012",
+         "Total assets in billion U.S.dollars": "2692.5"
+      },
+      {
+         "Year": "2011",
+         "Total assets in billion U.S.dollars": "2555.6"
+      },
+      {
+         "Year": "2010",
+         "Total assets in billion U.S.dollars": "2454.7"
+      },
+      {
+         "Year": "2009",
+         "Total assets in billion U.S.dollars": "2364.5"
+      },
+      {
+         "Year": "2008",
+         "Total assets in billion U.S.dollars": "2527.5"
+      },
+      {
+         "Year": "2007",
+         "Total assets in billion U.S.dollars": "2354.3"
       }
-   ]
+   ],
+   "gold": "This statistic presents the total assets of the British bank HSBC from 2007 to 2019 . In 2019 , the total assets of the HSBC bank reached 2.72 trillion U.S. dollars . HSBC - additional information HSBC Holdings plc is a British multinational bank and financial services organization based in London , United Kingdom .\n"
 }

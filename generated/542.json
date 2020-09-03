@@ -1,77 +1,73 @@
 {
-   "title": "Global electricity consumption 1980 to 2016",
+   "title": "Vending machines : sales volume of vended products 2010",
    "xAxis": "Year",
-   "yAxis": "Net consumption in billion kilowatt hours",
+   "yAxis": "Vended volume (in billion U.S. dollars)",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Net of electricity traffic consumption per Year in Global from 1980 to 2016 . ",
-      "In 2016 , about 21801 individuals were killed in motor vehicle accidents . ",
-      "An overall decrease in the Net of electricity consumption was observed within the time period shown ."
+      "The statistic shows the total Vended of sales and volume vended products in the 2010 from 1999 to 2010 . ",
+      "In 2010 , there were 42.2 sales and volume vended products in the Vending ."
    ],
    "trends": [
       {
-         "14": "12",
-         "16": "0"
+         "16": "0",
+         "18": "11"
       },
       {
-         "1": "0",
-         "4": "0"
-      },
-      {}
+         "1": "11",
+         "5": "11"
+      }
    ],
    "data": [
       {
-         "Year": "2016",
-         "Net consumption in billion kilowatt hours": "21801"
-      },
-      {
-         "Year": "2015",
-         "Net consumption in billion kilowatt hours": "21192"
-      },
-      {
-         "Year": "2014",
-         "Net consumption in billion kilowatt hours": "20761"
-      },
-      {
-         "Year": "2013",
-         "Net consumption in billion kilowatt hours": "20340"
-      },
-      {
-         "Year": "2012",
-         "Net consumption in billion kilowatt hours": "19713"
-      },
-      {
-         "Year": "2011",
-         "Net consumption in billion kilowatt hours": "19324"
-      },
-      {
-         "Year": "2010",
-         "Net consumption in billion kilowatt hours": "18643"
-      },
-      {
-         "Year": "2005",
-         "Net consumption in billion kilowatt hours": "15717"
+         "Year": "1999",
+         "Vended volume (in billion U.S. dollars)": "36.6"
       },
       {
          "Year": "2000",
-         "Net consumption in billion kilowatt hours": "13253"
+         "Vended volume (in billion U.S. dollars)": "38.7"
       },
       {
-         "Year": "1995",
-         "Net consumption in billion kilowatt hours": "11486"
+         "Year": "2001",
+         "Vended volume (in billion U.S. dollars)": "41.0"
       },
       {
-         "Year": "1990",
-         "Net consumption in billion kilowatt hours": "10395"
+         "Year": "2002",
+         "Vended volume (in billion U.S. dollars)": "41.1"
       },
       {
-         "Year": "1985",
-         "Net consumption in billion kilowatt hours": "8657"
+         "Year": "2003",
+         "Vended volume (in billion U.S. dollars)": "42.2"
       },
       {
-         "Year": "1980",
-         "Net consumption in billion kilowatt hours": "7323"
+         "Year": "2004",
+         "Vended volume (in billion U.S. dollars)": "44.2"
+      },
+      {
+         "Year": "2005",
+         "Vended volume (in billion U.S. dollars)": "46.0"
+      },
+      {
+         "Year": "2006",
+         "Vended volume (in billion U.S. dollars)": "46.8"
+      },
+      {
+         "Year": "2007",
+         "Vended volume (in billion U.S. dollars)": "47.5"
+      },
+      {
+         "Year": "2008",
+         "Vended volume (in billion U.S. dollars)": "45.6"
+      },
+      {
+         "Year": "2009",
+         "Vended volume (in billion U.S. dollars)": "42.9"
+      },
+      {
+         "Year": "2010",
+         "Vended volume (in billion U.S. dollars)": "42.2"
       }
-   ]
+   ],
+   "gold": "This graph depicts the total sales volume of products sold through vending machines in the U.S. from 1999 to 2010 . In 1999 , the sales volume was 36.6 billion U.S. dollars .\n"
 }

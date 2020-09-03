@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 14 categories for the x axis of Newspaper representing Female, Male.",
+      "This grouped bar chart has 14 categories for the x axis of Newspaper representing Female, and Male.",
       " The highest category is found at The Philadelphia Inquirer with a mean value of 50.0.",
       " The second highest category is found at The Arizona Republic with a mean value of 50.0.",
       " This represents a difference of 0.0%."
    ],
-   "trends": {
-      "maxIndex": 13,
-      "secondIndex": 13
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "13"
+         ],
+         "13": [
+            "2",
+            "13"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "12"
+         ],
+         "14": [
+            "2",
+            "12"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Newspaper": "USA Today",

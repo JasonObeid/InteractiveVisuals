@@ -1,101 +1,54 @@
 {
-   "title": "Direct investment position of the U.S. abroad 2000 to 2018",
-   "xAxis": "Year",
-   "yAxis": "Direct investments in trillion U.S. dollars",
+   "title": "Number of cigarettes smoked daily in the United Kingdom ( UK ) 2015",
+   "xAxis": "Number of cigarettes",
+   "yAxis": "Share of respondents",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Direct investment position of the U.S. in from 2000 to 2018 , on a historical-cost basis . ",
-      "In 2018 , the U.S. investments made in U.S. were valued at approximately 5.95 trillion U.S. dollars . ",
-      "Direct investment position of the U.S. - additional information Foreign Direct investment ( FDI ) , simply put , is an investment of one company into another company located in a different country ."
+      "This statistic depicts smoked daily United cigarettes the Number by United Kingdom construction firms in 2015 . ",
+      "The survey revealed that 24 % of the respondents cigarettes 1_to_5 Number smoked daily the Number ."
    ],
    "trends": [
+      {},
       {
-         "13": "18",
-         "15": "0"
-      },
-      {
-         "1": "0",
-         "13": "0"
-      },
-      {}
+         "4": "1",
+         "10": "0"
+      }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Direct investments in trillion U.S. dollars": "5.95"
+         "Number of cigarettes": "1 to 5",
+         "Share of respondents": "23"
       },
       {
-         "Year": "2017",
-         "Direct investments in trillion U.S. dollars": "6.01"
+         "Number of cigarettes": "6 to 10",
+         "Share of respondents": "24"
       },
       {
-         "Year": "2016",
-         "Direct investments in trillion U.S. dollars": "5.59"
+         "Number of cigarettes": "11 to 15",
+         "Share of respondents": "22"
       },
       {
-         "Year": "2015",
-         "Direct investments in trillion U.S. dollars": "5.29"
+         "Number of cigarettes": "16 to 20",
+         "Share of respondents": "19"
       },
       {
-         "Year": "2014",
-         "Direct investments in trillion U.S. dollars": "5.11"
+         "Number of cigarettes": "21 to 25",
+         "Share of respondents": "6"
       },
       {
-         "Year": "2013",
-         "Direct investments in trillion U.S. dollars": "4.58"
+         "Number of cigarettes": "26 to 30",
+         "Share of respondents": "4"
       },
       {
-         "Year": "2012",
-         "Direct investments in trillion U.S. dollars": "4.41"
+         "Number of cigarettes": "31 to 50",
+         "Share of respondents": "2"
       },
       {
-         "Year": "2011",
-         "Direct investments in trillion U.S. dollars": "4.05"
-      },
-      {
-         "Year": "2010",
-         "Direct investments in trillion U.S. dollars": "3.74"
-      },
-      {
-         "Year": "2009",
-         "Direct investments in trillion U.S. dollars": "3.57"
-      },
-      {
-         "Year": "2008",
-         "Direct investments in trillion U.S. dollars": "3.23"
-      },
-      {
-         "Year": "2007",
-         "Direct investments in trillion U.S. dollars": "2.99"
-      },
-      {
-         "Year": "2006",
-         "Direct investments in trillion U.S. dollars": "2.48"
-      },
-      {
-         "Year": "2005",
-         "Direct investments in trillion U.S. dollars": "2.24"
-      },
-      {
-         "Year": "2004",
-         "Direct investments in trillion U.S. dollars": "2.16"
-      },
-      {
-         "Year": "2003",
-         "Direct investments in trillion U.S. dollars": "1.77"
-      },
-      {
-         "Year": "2002",
-         "Direct investments in trillion U.S. dollars": "1.62"
-      },
-      {
-         "Year": "2001",
-         "Direct investments in trillion U.S. dollars": "1.46"
-      },
-      {
-         "Year": "2000",
-         "Direct investments in trillion U.S. dollars": "1.32"
+         "Number of cigarettes": "51 and over",
+         "Share of respondents": "3"
       }
-   ]
+   ],
+   "gold": "This statistic displays the number of cigarettes smoked per day in the United Kingdom ( UK ) in 2015 . Approximately 69 percent of respondents smoked between one and 15 cigarettes daily in that year .\n"
 }

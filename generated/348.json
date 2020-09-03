@@ -1,187 +1,44 @@
 {
-   "title": "Average number of minutes waiting in the emergency department in the UK 2011 to 2018",
-   "xAxis": "Month",
-   "yAxis": "Number of minutes",
+   "title": "Reach of fashion blog websites in Great Britain as of August 2013 , by age and gender",
+   "xAxis": "Sex",
+   "yAxis": "Share of respondents",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the results of the Average number minutes in the UK ( ) from 2016 to 2019 . ",
-      "The Average number minutes held a range between 69 and hundred minutes , meaning it consistently among the previous year ."
+      "The statistic shows the blog of Great Britain developers websites in 2013 , broken down Britain August . ",
+      "According to the survey findings , the majority of responding Great Britain developers were between Female to Male old , while 7 % were in their 40s ."
    ],
    "trends": [
       {},
       {
-         "8": "12"
+         "14": "1",
+         "16": "1",
+         "17": "0",
+         "21": "2"
       }
    ],
    "data": [
       {
-         "Month": "Mar 2018",
-         "Number of minutes": "64"
+         "Sex": "Male",
+         "Share of respondents": "2"
       },
       {
-         "Month": "Jan 2018",
-         "Number of minutes": "57"
+         "Sex": "Female",
+         "Share of respondents": "6"
       },
       {
-         "Month": "Nov 2017",
-         "Number of minutes": "60"
+         "Sex": "Under 35",
+         "Share of respondents": "7"
       },
       {
-         "Month": "Sep 2017",
-         "Number of minutes": "58"
+         "Sex": "35 to 49",
+         "Share of respondents": "3"
       },
       {
-         "Month": "Jul 2017",
-         "Number of minutes": "60"
-      },
-      {
-         "Month": "May 2017",
-         "Number of minutes": "59"
-      },
-      {
-         "Month": "Mar 2017",
-         "Number of minutes": "58"
-      },
-      {
-         "Month": "Jan 2017",
-         "Number of minutes": "57"
-      },
-      {
-         "Month": "Nov 2016",
-         "Number of minutes": "59"
-      },
-      {
-         "Month": "Sep 2016",
-         "Number of minutes": "59"
-      },
-      {
-         "Month": "Jul 2016",
-         "Number of minutes": "62"
-      },
-      {
-         "Month": "May 2016",
-         "Number of minutes": "62"
-      },
-      {
-         "Month": "Mar 2016",
-         "Number of minutes": "69"
-      },
-      {
-         "Month": "Jan 2016",
-         "Number of minutes": "58"
-      },
-      {
-         "Month": "Nov 2015",
-         "Number of minutes": "58"
-      },
-      {
-         "Month": "Sep 2015",
-         "Number of minutes": "55"
-      },
-      {
-         "Month": "Jul 2015",
-         "Number of minutes": "53"
-      },
-      {
-         "Month": "May 2015",
-         "Number of minutes": "53"
-      },
-      {
-         "Month": "Mar 2015",
-         "Number of minutes": "56"
-      },
-      {
-         "Month": "Jan 2015",
-         "Number of minutes": "46"
-      },
-      {
-         "Month": "Nov 2014",
-         "Number of minutes": "54"
-      },
-      {
-         "Month": "Sep 2014",
-         "Number of minutes": "55"
-      },
-      {
-         "Month": "Jul 2014",
-         "Number of minutes": "56"
-      },
-      {
-         "Month": "May 2014",
-         "Number of minutes": "56"
-      },
-      {
-         "Month": "Mar 2014",
-         "Number of minutes": "56"
-      },
-      {
-         "Month": "Jan 2014",
-         "Number of minutes": "47"
-      },
-      {
-         "Month": "Nov 2013",
-         "Number of minutes": "50"
-      },
-      {
-         "Month": "Sep 2013",
-         "Number of minutes": "50"
-      },
-      {
-         "Month": "Jul 2013",
-         "Number of minutes": "53"
-      },
-      {
-         "Month": "May 2013",
-         "Number of minutes": "51"
-      },
-      {
-         "Month": "Mar 2013",
-         "Number of minutes": "57"
-      },
-      {
-         "Month": "Jan 2013",
-         "Number of minutes": "50"
-      },
-      {
-         "Month": "Nov 2012",
-         "Number of minutes": "53"
-      },
-      {
-         "Month": "Sep 2012",
-         "Number of minutes": "53"
-      },
-      {
-         "Month": "Jul 2012",
-         "Number of minutes": "54"
-      },
-      {
-         "Month": "May 2012",
-         "Number of minutes": "53"
-      },
-      {
-         "Month": "Mar 2012",
-         "Number of minutes": "55"
-      },
-      {
-         "Month": "Jan 2012",
-         "Number of minutes": "49"
-      },
-      {
-         "Month": "Nov 2011",
-         "Number of minutes": "51"
-      },
-      {
-         "Month": "Sep 2011",
-         "Number of minutes": "53"
-      },
-      {
-         "Month": "Jul 2011",
-         "Number of minutes": "53"
-      },
-      {
-         "Month": "May 2011",
-         "Number of minutes": "57"
+         "Sex": "50 to 64",
+         "Share of respondents": "2"
       }
-   ]
+   ],
+   "gold": "This statistic displays the reach of fashion blog websites in Great Britain in 2013 , by demographic group . Among female respondents , 6 percent reported regularly visiting fashion websites or blogs as of August 2013 .\n"
 }

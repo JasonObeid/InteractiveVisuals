@@ -4,15 +4,24 @@
    "yAxis": "Percentage of respondents",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 5 categories for the x axis representing Age of casino visitors, and a y axis representing Percentage of respondents.",
       " The highest category is found at Age_50-64 where Percentage of respondents is 33.0.",
       " The lowest category is found at Don't_know_/_refused where Percentage of respondents is 3.0."
    ],
-   "trends": {
-      "maxIndex": 2,
-      "minIndex": 4
-   },
+   "trends": [
+      {},
+      {
+         "7": 2,
+         "12": 2
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
    "data": [
       {
          "Age of casino visitors": "Age 21-34",

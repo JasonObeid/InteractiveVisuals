@@ -1,122 +1,94 @@
 {
-   "title": "Racist incidents recorded by the police in England and Wales 2015/16 - 2018/19",
+   "title": "Percentage of U.S. population engaged in leisure and sports per day 2010 to 2018",
    "labels": [
-      "unknown",
-      "2015/16",
-      "2016/17",
-      "2017/18",
-      "2018/19"
+      "Year",
+      "All",
+      "Men",
+      "Women"
    ],
    "columnType": "multi",
-   "graphType": "bar",
+   "graphType": "line",
    "summary": [
-      "This statistic shows the London of by in the United Kingdom ( England ) London on 31 , England Wales London and 2018/19 . ",
-      "As of this date , there were 2018/19 16037 thousand adminstrative South_East and West_Midlands that were aged between 2613 and 59 ."
+      "This graph depicts the average percentage of the U.S. population participating in leisure , sports and recreational activities per day by gender from 2010 to 2018 . ",
+      "According to the source , 96.2 % of Men participated in leisure , sports and recreational activities every day in 2018 ."
    ],
    "trends": [
       {
-         "4": [
-            "0",
+         "23": [
+            "8",
             "0"
          ],
-         "14": [
-            "0",
-            "0"
-         ],
-         "22": [
+         "25": [
             "0",
             "0"
          ]
       },
       {
-         "8": [
+         "5": [
             "0",
-            "4"
+            "2"
          ],
-         "11": [
-            "2",
+         "20": [
+            "0",
             "0"
-         ],
-         "13": [
-            "4",
-            "0"
-         ],
-         "18": [
-            "9",
-            "1"
          ]
       }
    ],
    "data": [
       {
-         "unknown": "London",
-         "2015/16": "12784",
-         "2016/17": "16016",
-         "2017/18": "15537",
-         "2018/19": "16037"
+         "Year": "2018",
+         "All": "95.6",
+         "Men": "96.2",
+         "Women": "94.9"
       },
       {
-         "unknown": "North West",
-         "2015/16": "9377",
-         "2016/17": "8409",
-         "2017/18": "11182",
-         "2018/19": "12310"
+         "Year": "2017",
+         "All": "95.6",
+         "Men": "95.6",
+         "Women": "95.6"
       },
       {
-         "unknown": "South East",
-         "2015/16": "7012",
-         "2016/17": "7078",
-         "2017/18": "8833",
-         "2018/19": "10609"
+         "Year": "2016",
+         "All": "95.8",
+         "Men": "96.4",
+         "Women": "95.3"
       },
       {
-         "unknown": "Yorkshire and the Humber",
-         "2015/16": "6437",
-         "2016/17": "6275",
-         "2017/18": "7350",
-         "2018/19": "9329"
+         "Year": "2015",
+         "All": "96.1",
+         "Men": "96.6",
+         "Women": "95.6"
       },
       {
-         "unknown": "West Midlands",
-         "2015/16": "6057",
-         "2016/17": "6290",
-         "2017/18": "6716",
-         "2018/19": "7257"
+         "Year": "2014",
+         "All": "95.7",
+         "Men": "95.8",
+         "Women": "95.7"
       },
       {
-         "unknown": "East of England",
-         "2015/16": "4192",
-         "2016/17": "4845",
-         "2017/18": "5470",
-         "2018/19": "6202"
+         "Year": "2013",
+         "All": "95.3",
+         "Men": "95.1",
+         "Women": "95.4"
       },
       {
-         "unknown": "South West",
-         "2015/16": "3607",
-         "2016/17": "3835",
-         "2017/18": "4475",
-         "2018/19": "4568"
+         "Year": "2012",
+         "All": "96.2",
+         "Men": "96.9",
+         "Women": "95.6"
       },
       {
-         "unknown": "East Midlands",
-         "2015/16": "3930",
-         "2016/17": "3012",
-         "2017/18": "3725",
-         "2018/19": "4136"
+         "Year": "2011",
+         "All": "95.2",
+         "Men": "95.7",
+         "Women": "94.8"
       },
       {
-         "unknown": "North East",
-         "2015/16": "2188",
-         "2016/17": "2581",
-         "2017/18": "2980",
-         "2018/19": "3068"
-      },
-      {
-         "unknown": "Wales",
-         "2015/16": "2613",
-         "2016/17": "2080",
-         "2017/18": "2298",
-         "2018/19": "2676"
+         "Year": "2010",
+         "All": "95.8",
+         "Men": "96.1",
+         "Women": "95.4"
       }
-   ]
+   ],
+   "gold": "This graph depicts the daily percentage of U.S. Americans engaged in leisure and sports activities from 2010 to 2018 . According to the source , 95.6 percent of all men were engaged in leisure and sports activities in 2018 .\n"
 }

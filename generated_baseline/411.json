@@ -4,15 +4,24 @@
    "yAxis": "Average number of partners",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 42 categories for the x axis representing Country, and a y axis representing Average number of partners.",
       " The highest category is found at Turkey where Average number of partners is 14.5.",
       " The lowest category is found at India where Average number of partners is 3.0."
    ],
-   "trends": {
-      "maxIndex": 1,
-      "minIndex": 41
-   },
+   "trends": [
+      {},
+      {
+         "7": 1,
+         "12": 1
+      },
+      {
+         "7": 41,
+         "12": 41
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "Global",

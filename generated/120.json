@@ -1,187 +1,64 @@
 {
-   "title": "Gross domestic product ( GDP ) in Haiti 2024",
-   "xAxis": "Year",
-   "yAxis": "Gross domestic product in billion U.S. dollars",
+   "title": "Leading hair conditioner brands in the U.S. 2018",
+   "xAxis": "Brand",
+   "yAxis": "Sales in million U.S. dollars",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows Gross domestic product ( GDP ) in Haiti from 1984 to 2017 , with projections up until 2024 . ",
-      "Gross domestic product ( GDP ) denotes the aggregate value of all services and goods produced within a country in any given Year . ",
-      "GDP is an important indicator of a country 's economic power ."
+      "In 2018 , Organix achieved 133.7 million U.S. dollars in Sales . ",
+      "Eyelash extensions , also known as permanent conditioner brands or semi permanent eyelash extensions are the latest trend sweeping across the beauty industry and have become a favorite of many celebrities . ",
+      "hair Cosmetics Categories in the 2018 ."
    ],
    "trends": [
       {
-         "12": "40",
-         "14": "7",
-         "20": "0"
+         "3": "0",
+         "5": "0"
       },
       {},
       {}
    ],
    "data": [
       {
-         "Year": "2024",
-         "Gross domestic product in billion U.S. dollars": "10.21"
+         "Brand": "Organix",
+         "Sales in million U.S. dollars": "133.7"
       },
       {
-         "Year": "2023",
-         "Gross domestic product in billion U.S. dollars": "9.82"
+         "Brand": "Shea Moisture",
+         "Sales in million U.S. dollars": "77.1"
       },
       {
-         "Year": "2022",
-         "Gross domestic product in billion U.S. dollars": "9.45"
+         "Brand": "Garnier Whole Blends",
+         "Sales in million U.S. dollars": "63.0"
       },
       {
-         "Year": "2021",
-         "Gross domestic product in billion U.S. dollars": "9.07"
+         "Brand": "It's A 10 Miracle",
+         "Sales in million U.S. dollars": "59.8"
       },
       {
-         "Year": "2020",
-         "Gross domestic product in billion U.S. dollars": "8.71"
+         "Brand": "Garnier Fructis Sleek And Shine",
+         "Sales in million U.S. dollars": "52.0"
       },
       {
-         "Year": "2019",
-         "Gross domestic product in billion U.S. dollars": "8.82"
+         "Brand": "TRESemm\u00e9 Moisture Rich",
+         "Sales in million U.S. dollars": "37.0"
       },
       {
-         "Year": "2018",
-         "Gross domestic product in billion U.S. dollars": "9.66"
+         "Brand": "Dove Nutritive Solutions",
+         "Sales in million U.S. dollars": "36.9"
       },
       {
-         "Year": "2017",
-         "Gross domestic product in billion U.S. dollars": "8.41"
+         "Brand": "Suave Professionals",
+         "Sales in million U.S. dollars": "35.6"
       },
       {
-         "Year": "2016",
-         "Gross domestic product in billion U.S. dollars": "7.98"
+         "Brand": "Herbal Essences Bio Renew",
+         "Sales in million U.S. dollars": "34.6"
       },
       {
-         "Year": "2015",
-         "Gross domestic product in billion U.S. dollars": "8.72"
-      },
-      {
-         "Year": "2014",
-         "Gross domestic product in billion U.S. dollars": "8.78"
-      },
-      {
-         "Year": "2013",
-         "Gross domestic product in billion U.S. dollars": "8.45"
-      },
-      {
-         "Year": "2012",
-         "Gross domestic product in billion U.S. dollars": "7.89"
-      },
-      {
-         "Year": "2011",
-         "Gross domestic product in billion U.S. dollars": "7.52"
-      },
-      {
-         "Year": "2010",
-         "Gross domestic product in billion U.S. dollars": "6.62"
-      },
-      {
-         "Year": "2009",
-         "Gross domestic product in billion U.S. dollars": "6.58"
-      },
-      {
-         "Year": "2008",
-         "Gross domestic product in billion U.S. dollars": "6.55"
-      },
-      {
-         "Year": "2007",
-         "Gross domestic product in billion U.S. dollars": "5.89"
-      },
-      {
-         "Year": "2006",
-         "Gross domestic product in billion U.S. dollars": "4.76"
-      },
-      {
-         "Year": "2005",
-         "Gross domestic product in billion U.S. dollars": "4.31"
-      },
-      {
-         "Year": "2004",
-         "Gross domestic product in billion U.S. dollars": "3.54"
-      },
-      {
-         "Year": "2003",
-         "Gross domestic product in billion U.S. dollars": "2.96"
-      },
-      {
-         "Year": "2002",
-         "Gross domestic product in billion U.S. dollars": "3.47"
-      },
-      {
-         "Year": "2001",
-         "Gross domestic product in billion U.S. dollars": "3.6"
-      },
-      {
-         "Year": "2000",
-         "Gross domestic product in billion U.S. dollars": "3.95"
-      },
-      {
-         "Year": "1999",
-         "Gross domestic product in billion U.S. dollars": "4.15"
-      },
-      {
-         "Year": "1998",
-         "Gross domestic product in billion U.S. dollars": "3.72"
-      },
-      {
-         "Year": "1997",
-         "Gross domestic product in billion U.S. dollars": "3.34"
-      },
-      {
-         "Year": "1996",
-         "Gross domestic product in billion U.S. dollars": "2.91"
-      },
-      {
-         "Year": "1995",
-         "Gross domestic product in billion U.S. dollars": "2.81"
-      },
-      {
-         "Year": "1994",
-         "Gross domestic product in billion U.S. dollars": "1.78"
-      },
-      {
-         "Year": "1993",
-         "Gross domestic product in billion U.S. dollars": "0.61"
-      },
-      {
-         "Year": "1992",
-         "Gross domestic product in billion U.S. dollars": "0.53"
-      },
-      {
-         "Year": "1991",
-         "Gross domestic product in billion U.S. dollars": "0.89"
-      },
-      {
-         "Year": "1990",
-         "Gross domestic product in billion U.S. dollars": "0.99"
-      },
-      {
-         "Year": "1989",
-         "Gross domestic product in billion U.S. dollars": "0.78"
-      },
-      {
-         "Year": "1988",
-         "Gross domestic product in billion U.S. dollars": "0.84"
-      },
-      {
-         "Year": "1987",
-         "Gross domestic product in billion U.S. dollars": "1.28"
-      },
-      {
-         "Year": "1986",
-         "Gross domestic product in billion U.S. dollars": "2.6"
-      },
-      {
-         "Year": "1985",
-         "Gross domestic product in billion U.S. dollars": "2.34"
-      },
-      {
-         "Year": "1984",
-         "Gross domestic product in billion U.S. dollars": "2.11"
+         "Brand": "L'Or\u00e9al EverPure",
+         "Sales in million U.S. dollars": "29.0"
       }
-   ]
+   ],
+   "gold": "This statistic shows the sales of the leading hair conditioner/creme rinse brands in the United States in 2018 . In that year , the leading hair conditioner brand of the United States was OGX with sales that amounted to approximately 133.7 million U.S. dollars .\n"
 }

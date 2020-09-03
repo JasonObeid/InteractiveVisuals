@@ -4,15 +4,24 @@
    "yAxis": "Number of dogs in thousands",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 24 categories for the x axis representing Country, and a y axis representing Number of dogs in thousands.",
       " The highest category is found at Germany where Number of dogs in thousands is 9400.0.",
       " The lowest category is found at Estonia where Number of dogs in thousands is 210.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 23
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 23,
+         "12": 23
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "Germany",

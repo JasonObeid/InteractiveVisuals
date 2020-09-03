@@ -1,103 +1,84 @@
 {
-   "title": "Fastest growing mobile app categories 2018",
-   "xAxis": "Month",
-   "yAxis": "Growth Index score",
+   "title": "Sales of the leading 15 optical retailers in the U.S. 2018",
+   "xAxis": "Optical retailer",
+   "yAxis": "Sales in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Fastest Education Games_-_Mid-core ranking for 2018 , sorted app Growth Index . ",
-      "The trend Growth Games_-_Mid-core was 18.53 Index in 2018 . ",
-      "The Growth Index score was the highest in Games_-_Mid-core , at 17.63 ."
+      "The statistic shows the Sales of the Sales leading 15 optical retailers in the U.S. in 2018 . ",
+      "In that year , the Vision_Source ranked first with Sales of 2840.0 million U.S. dollars , followed by Luxottica_retail with 2470.0 million U.S. dollars in revenues ."
    ],
    "trends": [
+      {},
       {
-         "7": "0"
-      },
-      {
-         "3": "0",
-         "5": "0"
-      },
-      {
-         "8": "0",
-         "11": "1"
+         "5": "0",
+         "11": "0",
+         "18": "1",
+         "20": "1"
       }
    ],
    "data": [
       {
-         "Month": "Games - Mid-core",
-         "Growth Index score": "18.53"
+         "Optical retailer": "Vision Source",
+         "Sales in million U.S. dollars": "2840.0"
       },
       {
-         "Month": "Ride-Hail & Taxi",
-         "Growth Index score": "17.63"
+         "Optical retailer": "Luxottica retail",
+         "Sales in million U.S. dollars": "2470.0"
       },
       {
-         "Month": "Games - Sports",
-         "Growth Index score": "15.07"
+         "Optical retailer": "Walmart stores",
+         "Sales in million U.S. dollars": "1762.0"
       },
       {
-         "Month": "Video & Streaming",
-         "Growth Index score": "12.34"
+         "Optical retailer": "National Vision",
+         "Sales in million U.S. dollars": "1537.0"
       },
       {
-         "Month": "Dating",
-         "Growth Index score": "11.28"
+         "Optical retailer": "Costco Wholesale",
+         "Sales in million U.S. dollars": "1129.8"
       },
       {
-         "Month": "Games - Casual",
-         "Growth Index score": "10.5"
+         "Optical retailer": "Visionworks of America",
+         "Sales in million U.S. dollars": "947.4"
       },
       {
-         "Month": "Shopping",
-         "Growth Index score": "10.1"
+         "Optical retailer": "MyEyeDr/Capital Vision Services LLC",
+         "Sales in million U.S. dollars": "602.0"
       },
       {
-         "Month": "Games - Casino",
-         "Growth Index score": "7.72"
+         "Optical retailer": "Eyecare Partners",
+         "Sales in million U.S. dollars": "420.0"
       },
       {
-         "Month": "Communication",
-         "Growth Index score": "7.64"
+         "Optical retailer": "Warby Parker",
+         "Sales in million U.S. dollars": "315.0"
       },
       {
-         "Month": "Food Delivery",
-         "Growth Index score": "6.13"
+         "Optical retailer": "Refac Optical Group",
+         "Sales in million U.S. dollars": "275.5"
       },
       {
-         "Month": "Travel Booking",
-         "Growth Index score": "4.76"
+         "Optical retailer": "Eyemart Express",
+         "Sales in million U.S. dollars": "263.0"
       },
       {
-         "Month": "Marketplace & Classifieds",
-         "Growth Index score": "4.52"
+         "Optical retailer": "Now Optics LLC",
+         "Sales in million U.S. dollars": "155.0"
       },
       {
-         "Month": "Weather",
-         "Growth Index score": "4.11"
+         "Optical retailer": "Cohen's Fashion Optical",
+         "Sales in million U.S. dollars": "152.0"
       },
       {
-         "Month": "Health",
-         "Growth Index score": "3.99"
+         "Optical retailer": "Texas State Optical",
+         "Sales in million U.S. dollars": "120.0"
       },
       {
-         "Month": "Comics",
-         "Growth Index score": "3.82"
-      },
-      {
-         "Month": "Music",
-         "Growth Index score": "3.81"
-      },
-      {
-         "Month": "Banking",
-         "Growth Index score": "3.8"
-      },
-      {
-         "Month": "Social Network",
-         "Growth Index score": "2.29"
-      },
-      {
-         "Month": "News",
-         "Growth Index score": "2.11"
+         "Optical retailer": "Emerging Vision Inc.",
+         "Sales in million U.S. dollars": "110.4"
       }
-   ]
+   ],
+   "gold": "This statistic depicts the sales of the leading 15 optical retailers in the United States in 2018 . In that year , Visionworks of America was the sixth ranked optical retailer in the United States , with sales that amounted to about 947.4 million U.S. dollars .\n"
 }

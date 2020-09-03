@@ -1,74 +1,41 @@
 {
-   "title": "Budget balance in China in relation to gross domestic product ( GDP ) 2012 to 2024",
+   "title": "UK : length of wait for security screening in Luton Airport 2018",
    "xAxis": "Year",
-   "yAxis": "Budget balance to GDP ratio",
+   "yAxis": "Share of respondents",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Budget balance of China in the relation from 2012 to 2024 . ",
-      "In 2018 , the Budget balance of China in the relation amounted to about -6.06 trillion ."
+      "This statistic shows a distribution of UK , length wait for times in the United Kingdom in 2018 . ",
+      "According to Thinkbox and Ipsos , 48 % of respondents reported typically waking for at approximately 6 - 7am ."
    ],
    "trends": [
+      {},
       {
-         "13": "12",
-         "15": "0"
-      },
-      {
-         "1": "6"
+         "6": "1"
       }
    ],
    "data": [
       {
-         "Year": "2024",
-         "Budget balance to GDP ratio": "-5.26"
+         "Year": "0 mins",
+         "Share of respondents": "14"
       },
       {
-         "Year": "2023",
-         "Budget balance to GDP ratio": "-5.33"
+         "Year": "1-5 mins",
+         "Share of respondents": "48"
       },
       {
-         "Year": "2022",
-         "Budget balance to GDP ratio": "-5.42"
+         "Year": "6-10 mins",
+         "Share of respondents": "25"
       },
       {
-         "Year": "2021",
-         "Budget balance to GDP ratio": "-5.4"
+         "Year": "11-20 mins",
+         "Share of respondents": "12"
       },
       {
-         "Year": "2020",
-         "Budget balance to GDP ratio": "-5.48"
-      },
-      {
-         "Year": "2019",
-         "Budget balance to GDP ratio": "-6.06"
-      },
-      {
-         "Year": "2018",
-         "Budget balance to GDP ratio": "-4.81"
-      },
-      {
-         "Year": "2017",
-         "Budget balance to GDP ratio": "-3.9"
-      },
-      {
-         "Year": "2016",
-         "Budget balance to GDP ratio": "-3.7"
-      },
-      {
-         "Year": "2015",
-         "Budget balance to GDP ratio": "-2.79"
-      },
-      {
-         "Year": "2014",
-         "Budget balance to GDP ratio": "-0.91"
-      },
-      {
-         "Year": "2013",
-         "Budget balance to GDP ratio": "-0.83"
-      },
-      {
-         "Year": "2012",
-         "Budget balance to GDP ratio": "-0.3"
+         "Year": "21-30 mins",
+         "Share of respondents": "1"
       }
-   ]
+   ],
+   "gold": "The greatest share of passengers at Luton Airport waited between one to five minutes to be security screened . Only 25 percent stated that they had queued for longer than six minutes , although none of the respondents waited for longer than 30 minutes . 85 percent of passengers at Luton airport were satisfied with their security screening experience .\n"
 }

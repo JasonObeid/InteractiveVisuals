@@ -1,53 +1,71 @@
 {
-   "title": "NHL sponsorship revenue 2011 to 2018",
+   "title": "Urbanization in Nigeria 2018",
    "xAxis": "Year",
-   "yAxis": "Revenue in million U.S. dollars",
+   "yAxis": "Share of urban population in total population",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the Revenue of the NHL Warriors franchise from the 2001/02 season to the fiscal Year of 17/18 . ",
-      "In the last season , the Revenue of the NHL Warriors was 559.5 million U.S. dollars ."
+      "This statistic shows the degree of Urbanization in Nigeria from 2008 to 2018 . ",
+      "Urbanization means the Share of urban population in the total population of a country . ",
+      "In 2018 , 50.34 % of Nigeria 's total population lived in urban areas and cities ."
    ],
    "trends": [
       {
-         "19": "0"
-      },
-      {
+         "10": "10",
          "12": "0"
+      },
+      {},
+      {
+         "1": "0",
+         "3": "0"
       }
    ],
    "data": [
       {
-         "Year": "17/18",
-         "Revenue in million U.S. dollars": "559.5"
+         "Year": "2018",
+         "Share of urban population in total population": "50.34"
       },
       {
-         "Year": "16/17",
-         "Revenue in million U.S. dollars": "505.0"
+         "Year": "2017",
+         "Share of urban population in total population": "49.52"
       },
       {
-         "Year": "15/16",
-         "Revenue in million U.S. dollars": "477.0"
+         "Year": "2016",
+         "Share of urban population in total population": "48.68"
       },
       {
-         "Year": "14/15",
-         "Revenue in million U.S. dollars": "447.0"
+         "Year": "2015",
+         "Share of urban population in total population": "47.84"
       },
       {
-         "Year": "13/14",
-         "Revenue in million U.S. dollars": "409.0"
+         "Year": "2014",
+         "Share of urban population in total population": "46.98"
       },
       {
-         "Year": "12/13",
-         "Revenue in million U.S. dollars": "390.0"
+         "Year": "2013",
+         "Share of urban population in total population": "46.12"
       },
       {
-         "Year": "11/12",
-         "Revenue in million U.S. dollars": "372.0"
+         "Year": "2012",
+         "Share of urban population in total population": "45.25"
       },
       {
-         "Year": "10/11",
-         "Revenue in million U.S. dollars": "356.0"
+         "Year": "2011",
+         "Share of urban population in total population": "44.37"
+      },
+      {
+         "Year": "2010",
+         "Share of urban population in total population": "43.48"
+      },
+      {
+         "Year": "2009",
+         "Share of urban population in total population": "42.59"
+      },
+      {
+         "Year": "2008",
+         "Share of urban population in total population": "41.7"
       }
-   ]
+   ],
+   "gold": "This statistic shows the degree of urbanization in Nigeria from 2008 to 2018 . Urbanization means the share of urban population in the total population of a country . In 2018 , 50.34 percent of Nigeria 's total population lived in urban areas and cities .\n"
 }

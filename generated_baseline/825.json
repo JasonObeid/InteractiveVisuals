@@ -4,15 +4,24 @@
    "yAxis": "Industrial robot revenue in million euros",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 6 categories for the x axis representing Companies, and a y axis representing Industrial robot revenue in million euros.",
       " The highest category is found at ABB where Industrial robot revenue in million euros is 6819.0.",
       " The lowest category is found at KUKA where Industrial robot revenue in million euros is 1200.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 4
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
    "data": [
       {
          "Companies": "ABB",

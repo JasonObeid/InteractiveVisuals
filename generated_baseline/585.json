@@ -1,68 +1,98 @@
 {
-   "title": "Number of stores of Sears Holdings worldwide 2009 to 2017\n",
-   "xAxis": "Year",
-   "yAxis": "Number of stores",
-   "columnType": "two",
+   "title": "Average life expectancy at birth in Sweden 2008 - 2018 , by gender",
+   "labels": [
+      "Year",
+      "Men",
+      "Women"
+   ],
+   "columnType": "multi",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of stores, with a total of 9 data points. The chart has 2 significant trends.",
-      " The longest trend is extremely positive which exists from 2017 to 2011.",
-      " Also, the next significant trend is extremely negative which exists from 2011 to 2009."
+      "This line chart has 2 lines.",
+      " The line representing Women had the highest values across Year with a mean value of 83.7.",
+      " This peaked at 2014-2018 with a value of 84.1. ",
+      " The line with the second highest values was Men with a mean value of 80.0.",
+      " This line peaked at 2014-2018 with a value of 80.5"
    ],
    "trends": [
+      {},
       {
-         "Length": 7,
-         "direction": "positive",
-         "start": 0,
-         "end": 6,
-         "trend": "y=-429.18x+866482.21",
-         "magnitude": "extremely"
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "6",
+            "1"
+         ]
       },
       {
-         "Length": 3,
-         "direction": "negative",
-         "start": 6,
-         "end": 8,
-         "trend": "y=74.0x+-144799.67",
-         "magnitude": "extremely"
+         "1": [
+            "0",
+            "1"
+         ],
+         "9": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "6",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "10": [
+            "0",
+            "0"
+         ]
       }
    ],
    "data": [
       {
-         "Year": "2017",
-         "Number of stores": 1002.0
+         "Year": "2014-2018",
+         "Men": "80.55",
+         "Women": "84.1"
       },
       {
-         "Year": "2016",
-         "Number of stores": 1430.0
+         "Year": "2013-2017",
+         "Men": "80.41",
+         "Women": "83.99"
       },
       {
-         "Year": "2015",
-         "Number of stores": 1672.0
+         "Year": "2012-2016",
+         "Men": "80.24",
+         "Women": "83.88"
       },
       {
-         "Year": "2014",
-         "Number of stores": 1725.0
+         "Year": "2011-2015",
+         "Men": "80.08",
+         "Women": "83.79"
       },
       {
-         "Year": "2013",
-         "Number of stores": 2429.0
+         "Year": "2010-2014",
+         "Men": "79.93",
+         "Women": "83.69"
       },
       {
-         "Year": "2012",
-         "Number of stores": 2548.0
+         "Year": "2009-2013",
+         "Men": "79.72",
+         "Women": "83.55"
       },
       {
-         "Year": "2011",
-         "Number of stores": 4010.0
-      },
-      {
-         "Year": "2010",
-         "Number of stores": 3949.0
-      },
-      {
-         "Year": "2009",
-         "Number of stores": 3862.0
+         "Year": "2008-2012",
+         "Men": "79.52",
+         "Women": "83.43"
       }
    ]
 }

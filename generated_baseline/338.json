@@ -4,36 +4,26 @@
    "yAxis": "Labor force in millions",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Labor force in millions, with a total of 11 data points. The chart has 3 significant trends.",
-      " The longest trend is  negative which exists from 2020 to 2014.",
-      " Contrarily, the next significant trend is  positive which exists from 2014 to 2012.",
-      " Correspondingly, the next significant trend is  negative which exists from 2012 to 2010."
+      " The longest trend is extremely positive which exists from 2020 to 2014.",
+      " Similarly, the next significant trend is slightly negative which exists from 2014 to 2012.",
+      " On the other hand, the next significant trend is moderately positive which exists from 2012 to 2010."
    ],
    "trends": [
+      {},
       {
-         "Length": 7,
-         "direction": "negative",
-         "start": 0,
-         "end": 6,
-         "trend": "y=0.13x+-262.99",
-         "magnitude": ""
+         "1": "0",
+         "12": "6"
       },
       {
-         "Length": 3,
-         "direction": "positive",
-         "start": 6,
-         "end": 8,
-         "trend": "y=-0.06x+129.05",
-         "magnitude": ""
+         "3": "6",
+         "14": "8"
       },
       {
-         "Length": 3,
-         "direction": "negative",
-         "start": 8,
-         "end": 10,
-         "trend": "y=0.03x+-41.98",
-         "magnitude": ""
+         "3": "8",
+         "14": "10"
       }
    ],
    "data": [

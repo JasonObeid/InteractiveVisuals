@@ -1,107 +1,132 @@
 {
-   "title": "Number of PwC employees worldwide by region 2013 to 2019",
+   "title": "Monthly retail sales of beer , wine and liquor stores in Canada 2015 to 2019",
    "labels": [
-      "Year",
-      "Americas",
-      "Asia",
-      "Australasia and Pacific Islands",
-      "Central and Eastern Europe",
-      "Middle East and Africa",
-      "Western Europe"
+      "Month",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019"
    ],
    "columnType": "multi",
-   "graphType": "line",
+   "graphType": "bar",
    "summary": [
-      "This statistic shows the Number PwC employees of worldwide by in the PwC from 2013 to 2019 , . ",
-      "In 2019 , one employees of worldwide by in Americas was worth 59103 PwC dollars . ",
-      "In 2024 , the global Number for one pound of worldwide is expected to reach approximately 0.22 PwC dollars ."
+      "The Monthly retail sales beer one kilogram of wine in Canada was 1.89 Canadian dollars in 2019 . ",
+      "This sales remained relatively stable in 2019 , staying between 1.87 and 1.91 Canadian dollars per kilogram . ",
+      "Prices were higher in 2015 , with an Monthly cost of 1.87 dollars ."
    ],
    "trends": [
       {
-         "14": [
-            "6",
-            "0"
-         ],
-         "16": [
-            "0",
-            "0"
+         "12": [
+            "4",
+            "3"
          ]
       },
       {
-         "1": [
-            "0",
-            "0"
-         ],
          "12": [
             "6",
-            "1"
+            "3"
          ]
       },
       {}
    ],
    "data": [
       {
-         "Year": "2019",
-         "Americas": "73801",
-         "Asia": "73856",
-         "Australasia and Pacific Islands": "10444",
-         "Central and Eastern Europe": "13695",
-         "Middle East and Africa": "16145",
-         "Western Europe": "88064"
+         "Month": "Dec",
+         "2015": "1.82",
+         "2016": "1.86",
+         "2017": "1.94",
+         "2018": "1.98",
+         "2019": "0"
       },
       {
-         "Year": "2018",
-         "Americas": "71222",
-         "Asia": "68963",
-         "Australasia and Pacific Islands": "8966",
-         "Central and Eastern Europe": "11538",
-         "Middle East and Africa": "15090",
-         "Western Europe": "75151"
+         "Month": "Nov",
+         "2015": "1.81",
+         "2016": "1.9",
+         "2017": "1.91",
+         "2018": "1.98",
+         "2019": "0"
       },
       {
-         "Year": "2017",
-         "Americas": "70982",
-         "Asia": "60255",
-         "Australasia and Pacific Islands": "8308",
-         "Central and Eastern Europe": "10451",
-         "Middle East and Africa": "13974",
-         "Western Europe": "72265"
+         "Month": "Oct",
+         "2015": "1.77",
+         "2016": "1.88",
+         "2017": "1.93",
+         "2018": "2.01",
+         "2019": "0"
       },
       {
-         "Year": "2016",
-         "Americas": "70883",
-         "Asia": "53010",
-         "Australasia and Pacific Islands": "7639",
-         "Central and Eastern Europe": "9273",
-         "Middle East and Africa": "13036",
-         "Western Europe": "69627"
+         "Month": "Sep",
+         "2015": "1.84",
+         "2016": "1.85",
+         "2017": "1.91",
+         "2018": "1.97",
+         "2019": "0"
       },
       {
-         "Year": "2015",
-         "Americas": "66517",
-         "Asia": "47090",
-         "Australasia and Pacific Islands": "7339",
-         "Central and Eastern Europe": "8432",
-         "Middle East and Africa": "12861",
-         "Western Europe": "65870"
+         "Month": "Aug",
+         "2015": "1.84",
+         "2016": "1.85",
+         "2017": "1.89",
+         "2018": "2.02",
+         "2019": "0"
       },
       {
-         "Year": "2014",
-         "Americas": "62803",
-         "Asia": "43370",
-         "Australasia and Pacific Islands": "6967",
-         "Central and Eastern Europe": "7746",
-         "Middle East and Africa": "12486",
-         "Western Europe": "62061"
+         "Month": "Jul",
+         "2015": "1.8",
+         "2016": "1.83",
+         "2017": "1.93",
+         "2018": "1.98",
+         "2019": "0"
       },
       {
-         "Year": "2013",
-         "Americas": "59103",
-         "Asia": "38863",
-         "Australasia and Pacific Islands": "6760",
-         "Central and Eastern Europe": "7490",
-         "Middle East and Africa": "11578",
-         "Western Europe": "60441"
+         "Month": "Jun",
+         "2015": "1.77",
+         "2016": "1.86",
+         "2017": "1.91",
+         "2018": "1.97",
+         "2019": "0"
+      },
+      {
+         "Month": "May",
+         "2015": "1.73",
+         "2016": "1.9",
+         "2017": "1.9",
+         "2018": "1.97",
+         "2019": "0"
+      },
+      {
+         "Month": "Apr",
+         "2015": "1.77",
+         "2016": "1.85",
+         "2017": "1.87",
+         "2018": "1.97",
+         "2019": "0"
+      },
+      {
+         "Month": "Mar",
+         "2015": "1.77",
+         "2016": "1.88",
+         "2017": "1.87",
+         "2018": "1.94",
+         "2019": "0"
+      },
+      {
+         "Month": "Feb",
+         "2015": "1.73",
+         "2016": "1.87",
+         "2017": "1.89",
+         "2018": "1.93",
+         "2019": "2.01"
+      },
+      {
+         "Month": "Jan",
+         "2015": "1.71",
+         "2016": "1.81",
+         "2017": "1.87",
+         "2018": "1.95",
+         "2019": "2.02"
       }
-   ]
+   ],
+   "gold": "Retail sales of beer , wine and liquor stores reached approximately 2.01 billion Canadian dollars in February 2019 , an increase of around 80 million Canadian dollars compared to February in the previous year . Monthly sales have witnessed a steady increase over the past five years . Of these beverages , wine is the most popular among Canadians , followed by domestic and imported beer .\n"
 }

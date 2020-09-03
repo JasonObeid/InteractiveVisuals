@@ -1,82 +1,59 @@
 {
-   "title": "Annual spending on veterinary and pet services in the UK by volume 2005 to 2018",
+   "title": "Sporting goods industry : Revenue of Easton Bell Sports 2013",
    "xAxis": "Year",
-   "yAxis": "Expenditure in million GBP",
+   "yAxis": "Revenue (in million U.S. dollars)",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the total annual Expenditure on Annual and furnishings in the UK from 2005 to 2018 , based on volume . ",
-      "In 2018 , UK households purchased approximately 19.1 million British pounds worth of Annual and furnishings , an increase on the previous Year of roughly one and a half million British pounds . ",
-      "According to results of the 2017 Statista Global Consumer survey , 24 million of UK consumers have bought Annual and household goods online in the last 12 months , while 33 million claim to mostly look online for information about these products ."
+      "The statistic above shows Easton Bell Sports goods industry Revenue in the Easton from 2006 to 2013 . ",
+      "In 2013 , the women goods magazine generated a total industry Revenue of almost 780.4 million U.S.",
+      "Here you can find out how many industry pages the magazine sells annually ."
    ],
    "trends": [
       {
-         "15": "13",
-         "17": "0"
+         "12": "7",
+         "14": "0"
       },
       {
-         "1": "0"
+         "1": "0",
+         "14": "0"
       },
-      {
-         "5": "1"
-      }
+      {}
    ],
    "data": [
       {
-         "Year": "2018",
-         "Expenditure in million GBP": "5059"
-      },
-      {
-         "Year": "2017",
-         "Expenditure in million GBP": "4235"
-      },
-      {
-         "Year": "2016",
-         "Expenditure in million GBP": "3527"
-      },
-      {
-         "Year": "2015",
-         "Expenditure in million GBP": "3180"
-      },
-      {
-         "Year": "2014",
-         "Expenditure in million GBP": "3220"
-      },
-      {
          "Year": "2013",
-         "Expenditure in million GBP": "3175"
+         "Revenue (in million U.S. dollars)": "780.4"
       },
       {
          "Year": "2012",
-         "Expenditure in million GBP": "3083"
+         "Revenue (in million U.S. dollars)": "827.2"
       },
       {
          "Year": "2011",
-         "Expenditure in million GBP": "2810"
+         "Revenue (in million U.S. dollars)": "834.9"
       },
       {
          "Year": "2010",
-         "Expenditure in million GBP": "3136"
+         "Revenue (in million U.S. dollars)": "772.8"
       },
       {
          "Year": "2009",
-         "Expenditure in million GBP": "2923"
+         "Revenue (in million U.S. dollars)": "716.3"
       },
       {
          "Year": "2008",
-         "Expenditure in million GBP": "2962"
+         "Revenue (in million U.S. dollars)": "775.5"
       },
       {
          "Year": "2007",
-         "Expenditure in million GBP": "3273"
+         "Revenue (in million U.S. dollars)": "724.7"
       },
       {
          "Year": "2006",
-         "Expenditure in million GBP": "2839"
-      },
-      {
-         "Year": "2005",
-         "Expenditure in million GBP": "2990"
+         "Revenue (in million U.S. dollars)": "639.0"
       }
-   ]
+   ],
+   "gold": "This graph depicts the revenue of the sporting goods company Easton-Bell Sports from 2006 to 2013 . In 2006 , Easton-Bell Sports generated revenues of 639 million U.S. dollars . Easton-Bell Sports makes sports equipment and clothing under the brands Bell Sports , Blackburn , Easton , Giro , and Riddell .\n"
 }

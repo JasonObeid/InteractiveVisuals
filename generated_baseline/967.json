@@ -4,27 +4,26 @@
    "yAxis": "Unemployment rate",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 21 data points. The chart has 2 significant trends.",
-      " The longest trend is extremely positive which exists from 2008 to 1999.",
-      " Similarly, the next significant trend is extremely positive which exists from 2019 to 2011."
+      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 21 data points. The chart has 3 significant trends.",
+      " The longest trend is slightly negative which exists from 2008 to 1999.",
+      " On the contrary, the next significant trend is moderately negative which exists from 2019 to 2011.",
+      " Differently, the next significant trend is extremely positive which exists from 2011 to 2008."
    ],
    "trends": [
+      {},
       {
-         "Length": 10,
-         "direction": "positive",
-         "start": 11,
-         "end": 20,
-         "trend": "y=-0.25x+513.46",
-         "magnitude": "extremely"
+         "1": "11",
+         "12": "20"
       },
       {
-         "Length": 9,
-         "direction": "positive",
-         "start": 0,
-         "end": 8,
-         "trend": "y=-0.12x+252.3",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "8"
+      },
+      {
+         "3": "8",
+         "14": "11"
       }
    ],
    "data": [

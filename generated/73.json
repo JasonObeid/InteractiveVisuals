@@ -1,98 +1,101 @@
 {
-   "title": "GDP of Canada 1960 to 2018",
-   "xAxis": "Year",
-   "yAxis": "Gross domestic product in billion U.S. dollars",
+   "title": "Top female table tennis players worldwide 2018",
+   "xAxis": "Table Tennis Players",
+   "yAxis": "Number of ranking points",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows Gross domestic product ( 2018 ) in Canada from 1960 to 2018 . ",
-      "Gross domestic product ( 2018 ) denotes the aggregate value of all services and goods produced within a country in any given Year . ",
-      "2018 is an important indicator of a country 's economic power ."
+      "The statistic depicts the Top female table tennis players worldwide from 2018 to . ",
+      "In 2018 , Yuling_Zhu_(China) was the Top female table in the tennis with Number amounting to approximately 16524 million Swiss Francs ."
    ],
    "trends": [
-      {
-         "12": "18",
-         "14": "0"
-      },
       {},
-      {}
+      {
+         "3": "0"
+      }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Gross domestic product in billion U.S. dollars": "1709.33"
+         "Table Tennis Players": "Yuling Zhu (China)",
+         "Number of ranking points": "16524"
       },
       {
-         "Year": "2017",
-         "Gross domestic product in billion U.S. dollars": "1646.87"
+         "Table Tennis Players": "Shiwen Liu (China)",
+         "Number of ranking points": "15669"
       },
       {
-         "Year": "2016",
-         "Gross domestic product in billion U.S. dollars": "1526.71"
+         "Table Tennis Players": "Meng Chen (China)",
+         "Number of ranking points": "15294"
       },
       {
-         "Year": "2015",
-         "Gross domestic product in billion U.S. dollars": "1552.9"
+         "Table Tennis Players": "Kasumi Ishikawa (Japan)",
+         "Number of ranking points": "15135"
       },
       {
-         "Year": "2014",
-         "Gross domestic product in billion U.S. dollars": "1801.48"
+         "Table Tennis Players": "Manyu Wang (China)",
+         "Number of ranking points": "15105"
       },
       {
-         "Year": "2013",
-         "Gross domestic product in billion U.S. dollars": "1842.02"
+         "Table Tennis Players": "Ning Ding (China)",
+         "Number of ranking points": "14784"
       },
       {
-         "Year": "2012",
-         "Gross domestic product in billion U.S. dollars": "1823.97"
+         "Table Tennis Players": "Mima Ito (Japan)",
+         "Number of ranking points": "13910"
       },
       {
-         "Year": "2011",
-         "Gross domestic product in billion U.S. dollars": "1789.14"
+         "Table Tennis Players": "I-Ching Cheng (Chinese Taipei)",
+         "Number of ranking points": "13231"
       },
       {
-         "Year": "2010",
-         "Gross domestic product in billion U.S. dollars": "1613.54"
+         "Table Tennis Players": "Miu Hirano (Japan)",
+         "Number of ranking points": "13193"
       },
       {
-         "Year": "2005",
-         "Gross domestic product in billion U.S. dollars": "1169.36"
+         "Table Tennis Players": "Xingtong Chen (China)",
+         "Number of ranking points": "12708"
       },
       {
-         "Year": "2000",
-         "Gross domestic product in billion U.S. dollars": "742.3"
+         "Table Tennis Players": "Tianwei Feng (Singapore)",
+         "Number of ranking points": "12565"
       },
       {
-         "Year": "1995",
-         "Gross domestic product in billion U.S. dollars": "604.03"
+         "Table Tennis Players": "Hyowon Suh (Korea)",
+         "Number of ranking points": "11954"
       },
       {
-         "Year": "1990",
-         "Gross domestic product in billion U.S. dollars": "593.93"
+         "Table Tennis Players": "Hoi Kem Doo (Hong Kong)",
+         "Number of ranking points": "11940"
       },
       {
-         "Year": "1985",
-         "Gross domestic product in billion U.S. dollars": "364.76"
+         "Table Tennis Players": "Hitomi Sato (Japan)",
+         "Number of ranking points": "11898"
       },
       {
-         "Year": "1980",
-         "Gross domestic product in billion U.S. dollars": "273.85"
+         "Table Tennis Players": "Yuting Gu (China)",
+         "Number of ranking points": "11607"
       },
       {
-         "Year": "1975",
-         "Gross domestic product in billion U.S. dollars": "173.83"
+         "Table Tennis Players": "Saki Shibata (Japan)",
+         "Number of ranking points": "10851"
       },
       {
-         "Year": "1970",
-         "Gross domestic product in billion U.S. dollars": "87.9"
+         "Table Tennis Players": "Sofia Polcanova (Austria)",
+         "Number of ranking points": "10618"
       },
       {
-         "Year": "1965",
-         "Gross domestic product in billion U.S. dollars": "53.91"
+         "Table Tennis Players": "Jie Li (Netherlands)",
+         "Number of ranking points": "10406"
       },
       {
-         "Year": "1960",
-         "Gross domestic product in billion U.S. dollars": "41.09"
+         "Table Tennis Players": "Ho Ching Lee (Hong Hong)",
+         "Number of ranking points": "10395"
+      },
+      {
+         "Table Tennis Players": "Elizabeta Samara (Romania)",
+         "Number of ranking points": "10063"
       }
-   ]
+   ],
+   "gold": "This graph depicts the top female professional table tennis players worldwide as of September 2018 , by number of ranking points . Top of the list was the Chinese table tennis player , Yuling Zhu , who had 16,524 ranking points worldwide as of September 2018 .\n"
 }

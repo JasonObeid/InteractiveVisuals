@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 2 categories for the x axis of Country representing Men, Women.",
+      "This grouped bar chart has 2 categories for the x axis of Country representing Men, and Women.",
       " The highest category is found at 65 years with a mean value of 20.3.",
       " The second highest category is found at 45 years with a mean value of 10.95.",
       " This represents a difference of 59.8%."
    ],
-   "trends": {
-      "maxIndex": 1,
-      "secondIndex": 1
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "2",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "2",
+            "0"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "45 years",

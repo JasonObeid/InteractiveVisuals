@@ -4,54 +4,41 @@
    "yAxis": "Average annual wages in euros",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Average annual wages in euros, with a total of 19 data points. The chart has 5 significant trends.",
-      " The longest trend is extremely negative which exists from 2016 to 2012.",
-      " Conversely, the next significant trend is extremely negative which exists from 2010 to 2007.",
-      " Differently, the next significant trend is extremely negative which exists from 2006 to 2003.",
-      " Contrarily, the next significant trend is strongly positive which exists from 2003 to 2000.",
-      " Similarly, the next significant trend is extremely positive which exists from 2012 to 2010."
+      "This line chart has an x axis representing Year and a y axis representing Average annual wages in euros, with a total of 19 data points. The chart has 6 significant trends.",
+      " The longest trend is extremely positive which exists from 2016 to 2012.",
+      " Similarly, the next significant trend is extremely positive which exists from 2007 to 2003.",
+      " Also, the next significant trend is extremely positive which exists from 2010 to 2007.",
+      " In a similar manner, the next significant trend is moderately negative which exists from 2003 to 2000.",
+      " But, the next significant trend is moderately negative which exists from 2018 to 2016.",
+      " But, the next significant trend is slightly negative which exists from 2012 to 2010."
    ],
    "trends": [
+      {},
       {
-         "Length": 5,
-         "direction": "negative",
-         "start": 2,
-         "end": 6,
-         "trend": "y=158.1x+-288938.4",
-         "magnitude": "extremely"
+         "1": "2",
+         "12": "6"
       },
       {
-         "Length": 4,
-         "direction": "negative",
-         "start": 8,
-         "end": 11,
-         "trend": "y=156.7x+-284412.7",
-         "magnitude": "extremely"
+         "3": "11",
+         "14": "15"
       },
       {
-         "Length": 4,
-         "direction": "negative",
-         "start": 12,
-         "end": 15,
-         "trend": "y=373.6x+-719175.2",
-         "magnitude": "extremely"
+         "3": "8",
+         "14": "11"
       },
       {
-         "Length": 4,
-         "direction": "positive",
-         "start": 15,
-         "end": 18,
-         "trend": "y=-44.8x+118795.2",
-         "magnitude": "strongly"
+         "3": "15",
+         "14": "18"
       },
       {
-         "Length": 3,
-         "direction": "positive",
-         "start": 6,
-         "end": 8,
-         "trend": "y=-694.5x+1426636.5",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "6",
+         "14": "8"
       }
    ],
    "data": [

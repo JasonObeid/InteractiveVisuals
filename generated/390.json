@@ -1,101 +1,46 @@
 {
-   "title": "Direct investment position of the U.S. in Russia 2000 to 2018",
+   "title": "Adults attending a classical music event in the past 12 months in the U.S. 1982 to 2012",
    "xAxis": "Year",
-   "yAxis": "Direct investments in billion U.S. dollars",
+   "yAxis": "Share of adults",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Direct investment position of the U.S. in Russia from 2000 to 2018 , on a historical-cost basis . ",
-      "In 2018 , the U.S. investments made in Russia were valued at approximately 17.8 billion U.S. dollars . ",
-      "Direct investment position of the U.S. - additional information Foreign Direct investment ( FDI ) , simply put , is an investment of one company into another company located in a different country ."
+      "The statistic shows the percentage of worldwide classical music event past in the 12 from 1982 to 2012 . ",
+      "In 2012 , 8.8 % of classical music event past were between 18 and 12.5 % were past ."
    ],
    "trends": [
       {
-         "13": "18",
-         "15": "0"
+         "15": "0",
+         "17": "4"
       },
       {
-         "1": "0",
-         "13": "0"
-      },
-      {}
+         "1": "4",
+         "3": "4",
+         "14": "1"
+      }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Direct investments in billion U.S. dollars": "17.8"
+         "Year": "1982",
+         "Share of adults": "13"
       },
       {
-         "Year": "2017",
-         "Direct investments in billion U.S. dollars": "13.88"
-      },
-      {
-         "Year": "2016",
-         "Direct investments in billion U.S. dollars": "14.52"
-      },
-      {
-         "Year": "2015",
-         "Direct investments in billion U.S. dollars": "10.26"
-      },
-      {
-         "Year": "2014",
-         "Direct investments in billion U.S. dollars": "9.76"
-      },
-      {
-         "Year": "2013",
-         "Direct investments in billion U.S. dollars": "13.28"
-      },
-      {
-         "Year": "2012",
-         "Direct investments in billion U.S. dollars": "13.39"
-      },
-      {
-         "Year": "2011",
-         "Direct investments in billion U.S. dollars": "11.29"
-      },
-      {
-         "Year": "2010",
-         "Direct investments in billion U.S. dollars": "10.04"
-      },
-      {
-         "Year": "2009",
-         "Direct investments in billion U.S. dollars": "20.76"
-      },
-      {
-         "Year": "2008",
-         "Direct investments in billion U.S. dollars": "19.78"
-      },
-      {
-         "Year": "2007",
-         "Direct investments in billion U.S. dollars": "15.03"
-      },
-      {
-         "Year": "2006",
-         "Direct investments in billion U.S. dollars": "11.37"
-      },
-      {
-         "Year": "2005",
-         "Direct investments in billion U.S. dollars": "9.36"
-      },
-      {
-         "Year": "2004",
-         "Direct investments in billion U.S. dollars": "6.09"
-      },
-      {
-         "Year": "2003",
-         "Direct investments in billion U.S. dollars": "2.51"
+         "Year": "1992",
+         "Share of adults": "12.5"
       },
       {
          "Year": "2002",
-         "Direct investments in billion U.S. dollars": "1.14"
+         "Share of adults": "11.6"
       },
       {
-         "Year": "2001",
-         "Direct investments in billion U.S. dollars": "0.88"
+         "Year": "2008",
+         "Share of adults": "9.3"
       },
       {
-         "Year": "2000",
-         "Direct investments in billion U.S. dollars": "1.15"
+         "Year": "2012",
+         "Share of adults": "8.8"
       }
-   ]
+   ],
+   "gold": "This statistic shows the share of adults attending a classical music event at least once in the past 12 months in the United States from 1982 to 2012 . In 2012 , 8.8 percent of U.S. adults had attended a classical music event at least once in the past year .\n"
 }

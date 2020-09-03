@@ -4,15 +4,24 @@
    "yAxis": "Goals scored",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 23 categories for the x axis representing Month, and a y axis representing Goals scored.",
       " The highest category is found at Henrik_Larsson where Goals scored is 40.0.",
       " The lowest category is found at J\u00fcrgen_Klinsmann where Goals scored is 22.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 17
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 17,
+         "12": 17
+      },
+      {}
+   ],
    "data": [
       {
          "Month": "Henrik Larsson",

@@ -1,119 +1,73 @@
 {
-   "title": "MMR vaccination rate among U.S. children aged 19 - 35 months 1994 to 2017",
-   "xAxis": "Year",
-   "yAxis": "Immunization rate",
+   "title": "LINE app : quarterly revenue 2012 to 2015",
+   "xAxis": "Quarter",
+   "yAxis": "Revenue in billion yen",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic presents the Immunization of vaccination rate among in the children from 1994 to 2017 . ",
-      "In 2017 , there were 91.5 vaccination rate among in the children ."
+      "The statistic shows the Revenue of app billion in the LINE from the first Quarter of 2012 to the fourth Quarter of 2015 . ",
+      "In the fourth Quarter of 2015 , around 30.0 billion yen were shipped in the LINE ."
    ],
    "trends": [
+      {},
       {
-         "14": "23",
-         "16": "0"
-      },
-      {
-         "1": "0",
-         "5": "0"
+         "8": "0"
       }
    ],
    "data": [
       {
-         "Year": "2017",
-         "Immunization rate": "91.5"
+         "Quarter": "Q4 '15",
+         "Revenue in billion yen": "30.0"
       },
       {
-         "Year": "2016",
-         "Immunization rate": "91.1"
+         "Quarter": "Q3 '15",
+         "Revenue in billion yen": "29.9"
       },
       {
-         "Year": "2015",
-         "Immunization rate": "91.9"
+         "Quarter": "Q2 '15",
+         "Revenue in billion yen": "25.3"
       },
       {
-         "Year": "2014",
-         "Immunization rate": "91.5"
+         "Quarter": "Q1 '15",
+         "Revenue in billion yen": "25.4"
       },
       {
-         "Year": "2013",
-         "Immunization rate": "91.9"
+         "Quarter": "Q4 '14",
+         "Revenue in billion yen": "23.6"
       },
       {
-         "Year": "2012",
-         "Immunization rate": "90.8"
+         "Quarter": "Q3 '14",
+         "Revenue in billion yen": "20.9"
       },
       {
-         "Year": "2011",
-         "Immunization rate": "91.6"
+         "Quarter": "Q2 '14",
+         "Revenue in billion yen": "17.7"
       },
       {
-         "Year": "2010",
-         "Immunization rate": "91.5"
+         "Quarter": "Q1 '14",
+         "Revenue in billion yen": "14.6"
       },
       {
-         "Year": "2009",
-         "Immunization rate": "90"
+         "Quarter": "Q4 '13",
+         "Revenue in billion yen": "12.2"
       },
       {
-         "Year": "2008",
-         "Immunization rate": "92.1"
+         "Quarter": "Q3 '13",
+         "Revenue in billion yen": "10.2"
       },
       {
-         "Year": "2007",
-         "Immunization rate": "92.3"
+         "Quarter": "Q2 '13",
+         "Revenue in billion yen": "7.4"
       },
       {
-         "Year": "2006",
-         "Immunization rate": "92.3"
+         "Quarter": "Q1 '13",
+         "Revenue in billion yen": "4.5"
       },
       {
-         "Year": "2005",
-         "Immunization rate": "91.5"
-      },
-      {
-         "Year": "2004",
-         "Immunization rate": "93"
-      },
-      {
-         "Year": "2003",
-         "Immunization rate": "93"
-      },
-      {
-         "Year": "2002",
-         "Immunization rate": "91.6"
-      },
-      {
-         "Year": "2001",
-         "Immunization rate": "91.4"
-      },
-      {
-         "Year": "2000",
-         "Immunization rate": "91"
-      },
-      {
-         "Year": "1999",
-         "Immunization rate": "92"
-      },
-      {
-         "Year": "1998",
-         "Immunization rate": "86"
-      },
-      {
-         "Year": "1997",
-         "Immunization rate": "88.5"
-      },
-      {
-         "Year": "1996",
-         "Immunization rate": "91"
-      },
-      {
-         "Year": "1995",
-         "Immunization rate": "90"
-      },
-      {
-         "Year": "1994",
-         "Immunization rate": "89"
+         "Quarter": "Q4 '12",
+         "Revenue in billion yen": "2.2"
       }
-   ]
+   ],
+   "gold": "This statistic gives information on the quarterly revenue of the chat-app LINE . In the fourth quarter of 2015 , the Japanese chat app had generated 30 billion yen in revenues . This figure translates to approximately 247 million US dollars .\n"
 }

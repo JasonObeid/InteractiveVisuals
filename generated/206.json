@@ -1,74 +1,74 @@
 {
-   "title": "Share of art buyers who bought art and/or collectibles via the internet 2014 to 2019",
-   "labels": [
-      "Year",
-      "Yes",
-      "No"
-   ],
-   "columnType": "multi",
-   "graphType": "line",
+   "title": "Canadian snowmobile registrations by province 2018",
+   "xAxis": "Province",
+   "yAxis": "Number of registrations",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the bought of art buyers who from 2014 to 2019 In 2014 , art buyers who accounted for 38 % of all Share art data who . ",
-      "This bought is projected to grow 44 % in 2019 at a CAGR of 60 % . ",
-      "art buyers who includes video streaming , audio streaming , online gaming , social networking , web browsing and online storage ."
+      "The statistic shows the Canadian snowmobile in Canadian 2018 , province . ",
+      "In 2018 , the highest Canadian snowmobile was in Quebec with 201732 murders registrations 100,000 residents ."
    ],
    "trends": [
+      {},
       {
-         "10": [
-            "5",
-            "0"
-         ],
-         "12": [
-            "0",
-            "0"
-         ],
-         "14": [
-            "5",
-            "0"
-         ],
-         "21": [
-            "5",
-            "1"
-         ]
-      },
-      {
-         "10": [
-            "0",
-            "0"
-         ]
-      },
-      {}
+         "9": "0",
+         "11": "0"
+      }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Yes": "44",
-         "No": "56"
+         "Province": "Quebec",
+         "Number of registrations": "201732"
       },
       {
-         "Year": "2018",
-         "Yes": "43",
-         "No": "57"
+         "Province": "Ontario",
+         "Number of registrations": "155000"
       },
       {
-         "Year": "2017",
-         "Yes": "49",
-         "No": "51"
+         "Province": "Alberta",
+         "Number of registrations": "73000"
       },
       {
-         "Year": "2016",
-         "Yes": "49",
-         "No": "51"
+         "Province": "New Foundland",
+         "Number of registrations": "58700"
       },
       {
-         "Year": "2015",
-         "Yes": "49",
-         "No": "51"
+         "Province": "British Columbia",
+         "Number of registrations": "44500"
       },
       {
-         "Year": "2014",
-         "Yes": "38",
-         "No": "62"
+         "Province": "Manitoba",
+         "Number of registrations": "35354"
+      },
+      {
+         "Province": "New Brunswick",
+         "Number of registrations": "19550"
+      },
+      {
+         "Province": "Saskatchewan",
+         "Number of registrations": "16175"
+      },
+      {
+         "Province": "Nunavut",
+         "Number of registrations": "14200"
+      },
+      {
+         "Province": "North West Territory",
+         "Number of registrations": "9800"
+      },
+      {
+         "Province": "Nova Scotia",
+         "Number of registrations": "7200"
+      },
+      {
+         "Province": "Prince Edward Island",
+         "Number of registrations": "2180"
+      },
+      {
+         "Province": "Yukon",
+         "Number of registrations": "1805"
       }
-   ]
+   ],
+   "gold": "In the winter of 2019 , about 14,200 snowmobiles were registered in Nunavut . At some 200,000 , most snowmobile registrations took place in Quebec . In total , the International Snowmobile Manufacturers Association ( ISMA ) reported over 600,000 snowmobile registrations throughout Canada .\n"
 }

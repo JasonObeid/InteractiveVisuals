@@ -1,79 +1,51 @@
 {
-   "title": "Average revenue multiple of National Football league teams 2006 to 2019",
-   "xAxis": "Year",
-   "yAxis": "Revenue multiple",
+   "title": "Leading cause of ransomware infection 2019",
+   "xAxis": "Cause of ransomware infection",
+   "yAxis": "Percentage of respondents",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Average Revenue of multiple in the National Football from 2006 to 2019 . ",
-      "In 2019 , there were a Average of 6.31 directory listings for multiple throughout the National Football ."
+      "This statistic shows the results of a survey among American Poor_user_practices/gullibility owners on the Leading of cause they estimate to spend 2019 annum on their Poor_user_practices/gullibility . ",
+      "The survey was conducted in 2019 , and is sorted 2019 type of purchase/reason for Cause . ",
+      "The Percentage Leading ransomware on Lack_of_cyber_security_training for infection thus adds up to an Percentage mean Leading of approximately 36 respondents 2019 ."
    ],
    "trends": [
       {
-         "13": "13",
-         "15": "0"
+         "10": "3",
+         "25": "3"
       },
+      {},
       {
-         "1": "0",
-         "8": "0"
+         "5": "1",
+         "18": "1"
       }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Revenue multiple": "6.31"
+         "Cause of ransomware infection": "Spam/phishing emails",
+         "Percentage of respondents": "67"
       },
       {
-         "Year": "2018",
-         "Revenue multiple": "6.01"
+         "Cause of ransomware infection": "Lack of cyber security training",
+         "Percentage of respondents": "36"
       },
       {
-         "Year": "2017",
-         "Revenue multiple": "6.14"
+         "Cause of ransomware infection": "Weak passwords/access management",
+         "Percentage of respondents": "30"
       },
       {
-         "Year": "2016",
-         "Revenue multiple": "6.16"
+         "Cause of ransomware infection": "Poor user practices/gullibility",
+         "Percentage of respondents": "25"
       },
       {
-         "Year": "2015",
-         "Revenue multiple": "5.67"
+         "Cause of ransomware infection": "Malicious websites/web ads",
+         "Percentage of respondents": "16"
       },
       {
-         "Year": "2014",
-         "Revenue multiple": "4.77"
-      },
-      {
-         "Year": "2013",
-         "Revenue multiple": "4.07"
-      },
-      {
-         "Year": "2012",
-         "Revenue multiple": "4.01"
-      },
-      {
-         "Year": "2011",
-         "Revenue multiple": "3.97"
-      },
-      {
-         "Year": "2010",
-         "Revenue multiple": "4.08"
-      },
-      {
-         "Year": "2009",
-         "Revenue multiple": "4.41"
-      },
-      {
-         "Year": "2008",
-         "Revenue multiple": "4.68"
-      },
-      {
-         "Year": "2007",
-         "Revenue multiple": "4.69"
-      },
-      {
-         "Year": "2006",
-         "Revenue multiple": "4.66"
+         "Cause of ransomware infection": "Report clickbait",
+         "Percentage of respondents": "16"
       }
-   ]
+   ],
+   "gold": "This statistic depicts the leading causes of ransomware infections according to MSPs worldwide in 2019 . According to the survey , 67 percent of responding MSPs indicated that phishing scams were the most common cause of ransomware infection .\n"
 }

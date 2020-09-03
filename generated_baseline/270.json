@@ -1,62 +1,130 @@
 {
-   "title": "Cyber crime : average company loss in selected countries 2018\n",
-   "xAxis": "Country",
-   "yAxis": "Average cyber crime cost in million US dollars",
-   "columnType": "two",
-   "graphType": "bar",
-   "summary": [
-      "This bar chart has 11 categories for the x axis representing Country, and a y axis representing Average cyber crime cost in million US dollars.",
-      " The highest category is found at United_States where Average cyber crime cost in million US dollars is 27.37.",
-      " The lowest category is found at Australia where Average cyber crime cost in million US dollars is 6.79."
+   "title": "Share of economic sectors in the GDP in Ghana 2018",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 10
-   },
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 3 lines.",
+      " The line representing Services had the highest values across Year with a mean value of 43.5.",
+      " This peaked at 2010 with a value of 48.1. ",
+      " The line with the second highest values was Industry with a mean value of 27.1.",
+      " This line peaked at 2013 with a value of 34.8"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "16": [
+            "10",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "2"
+         ],
+         "9": [
+            "0",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "10": [
+            "0",
+            "1"
+         ]
+      }
+   ],
    "data": [
       {
-         "Country": "United States",
-         "Average cyber crime cost in million US dollars": 27.37
+         "Year": "2018",
+         "Agriculture": "18.27",
+         "Industry": "31.53",
+         "Services": "43.01"
       },
       {
-         "Country": "Japan",
-         "Average cyber crime cost in million US dollars": 13.57
+         "Year": "2017",
+         "Agriculture": "19.7",
+         "Industry": "30.78",
+         "Services": "42.35"
       },
       {
-         "Country": "Germany",
-         "Average cyber crime cost in million US dollars": 13.12
+         "Year": "2016",
+         "Agriculture": "20.98",
+         "Industry": "28.23",
+         "Services": "43.09"
       },
       {
-         "Country": "United Kingdom",
-         "Average cyber crime cost in million US dollars": 11.46
+         "Year": "2015",
+         "Agriculture": "20.25",
+         "Industry": "31.68",
+         "Services": "39.54"
       },
       {
-         "Country": "France",
-         "Average cyber crime cost in million US dollars": 9.72
+         "Year": "2014",
+         "Agriculture": "20",
+         "Industry": "34.59",
+         "Services": "36.11"
       },
       {
-         "Country": "Singapore",
-         "Average cyber crime cost in million US dollars": 9.32
+         "Year": "2013",
+         "Agriculture": "20.45",
+         "Industry": "34.86",
+         "Services": "39.15"
       },
       {
-         "Country": "Canada",
-         "Average cyber crime cost in million US dollars": 9.25
+         "Year": "2012",
+         "Agriculture": "22.13",
+         "Industry": "27.14",
+         "Services": "47.58"
       },
       {
-         "Country": "Spain",
-         "Average cyber crime cost in million US dollars": 8.16
+         "Year": "2011",
+         "Agriculture": "23.66",
+         "Industry": "23.86",
+         "Services": "45.84"
       },
       {
-         "Country": "Italy",
-         "Average cyber crime cost in million US dollars": 8.01
+         "Year": "2010",
+         "Agriculture": "28.04",
+         "Industry": "18.01",
+         "Services": "48.18"
       },
       {
-         "Country": "Brazil",
-         "Average cyber crime cost in million US dollars": 7.24
+         "Year": "2009",
+         "Agriculture": "30.99",
+         "Industry": "18.51",
+         "Services": "47.94"
       },
       {
-         "Country": "Australia",
-         "Average cyber crime cost in million US dollars": 6.79
+         "Year": "2008",
+         "Agriculture": "29.41",
+         "Industry": "19.4",
+         "Services": "46.17"
       }
    ]
 }

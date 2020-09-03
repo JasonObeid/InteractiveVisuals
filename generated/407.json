@@ -1,51 +1,55 @@
 {
-   "title": "Aggregated revenues of PwC by industry sector 2018",
-   "xAxis": "Industry sector",
-   "yAxis": "Revenue in billion U.S. dollars",
-   "columnType": "two",
+   "title": "Prescription for glasses or contact lenses in the UK 2014 , by country",
+   "labels": [
+      "Country",
+      "Yes",
+      "No"
+   ],
+   "columnType": "multi",
    "graphType": "bar",
    "summary": [
-      "This statistic shows the Aggregated revenues Revenue of by industry in the sector in 2018 . ",
-      "The Aggregated revenues Revenue of by for the sector amounted to approximately 10.73 billion U.S. dollars in 2018 ."
+      "This statistic shows the UK of for glasses contact lenses UK 2014 as of October 2014 , by Country . ",
+      "During the survey , 66 % of respondents from the Wales said that official for classifications or star ratings were Yes contact lenses a for ."
    ],
    "trends": [
       {},
       {
-         "12": "0"
+         "4": [
+            "1",
+            "1"
+         ],
+         "10": [
+            "1",
+            "0"
+         ]
       }
    ],
    "data": [
       {
-         "Industry sector": "Financial services",
-         "Revenue in billion U.S. dollars": "10.73"
+         "Country": "England",
+         "Yes": "78",
+         "No": "22"
       },
       {
-         "Industry sector": "Industrial manufacturing and automotive",
-         "Revenue in billion U.S. dollars": "6.53"
+         "Country": "Wales",
+         "Yes": "66",
+         "No": "33"
       },
       {
-         "Industry sector": "Consumer markets",
-         "Revenue in billion U.S. dollars": "6.47"
+         "Country": "Scotland",
+         "Yes": "84",
+         "No": "16"
       },
       {
-         "Industry sector": "Technology media and telecommunications",
-         "Revenue in billion U.S. dollars": "5.47"
+         "Country": "Northern Ireland",
+         "Yes": "77",
+         "No": "23"
       },
       {
-         "Industry sector": "Energy utilities and resources",
-         "Revenue in billion U.S. dollars": "3.91"
-      },
-      {
-         "Industry sector": "Health industries",
-         "Revenue in billion U.S. dollars": "3.18"
-      },
-      {
-         "Industry sector": "Government and public services",
-         "Revenue in billion U.S. dollars": "2.64"
-      },
-      {
-         "Industry sector": "Private equity and sovereign investment funds",
-         "Revenue in billion U.S. dollars": "2.37"
+         "Country": "United Kingdom",
+         "Yes": "77",
+         "No": "22"
       }
-   ]
+   ],
+   "gold": "This statistic depicts the share of respondents who have a prescription for glasses or contact lenses in the United Kingdom in 2014 , by country of the UK . Of respondents , 77 percent of individuals in the UK had a prescription for glasses or contact lenses .\n"
 }

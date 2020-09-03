@@ -1,134 +1,100 @@
 {
-   "title": "U.S. : reported robbery cases 1990 to 2018",
-   "xAxis": "Year",
-   "yAxis": "Number of reported cases",
+   "title": "Number of retail chains in Poland 2019 , by sector",
+   "xAxis": "Retail Categories",
+   "yAxis": "Number of retail chains",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic show the reported robbery cases between 1990 and 2018 ."
+      "This statistic portrays the Number of retail chains by sector in Poland the year 2019 . ",
+      "Overall , the total Number of retail chains amounted to 121 and the leading sector was Fashion_&_Clothing and , with 57 chains . ",
+      "Furniture_&_Decoration ranked in second place , with 28 retail chains ."
    ],
    "trends": [
+      {},
       {
-         "9": "28",
-         "11": "0"
+         "16": "0",
+         "18": "0",
+         "21": "0"
+      },
+      {
+         "0": "1",
+         "7": "1"
       }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Number of reported cases": "282061"
+         "Retail Categories": "Fashion & Clothing",
+         "Number of retail chains": "57"
       },
       {
-         "Year": "2017",
-         "Number of reported cases": "320596"
+         "Retail Categories": "Furniture & Decoration",
+         "Number of retail chains": "28"
       },
       {
-         "Year": "2016",
-         "Number of reported cases": "332797"
+         "Retail Categories": "Footwear & Leather",
+         "Number of retail chains": "28"
       },
       {
-         "Year": "2015",
-         "Number of reported cases": "328109"
+         "Retail Categories": "Food",
+         "Number of retail chains": "25"
       },
       {
-         "Year": "2014",
-         "Number of reported cases": "322905"
+         "Retail Categories": "Personal Care",
+         "Number of retail chains": "23"
       },
       {
-         "Year": "2013",
-         "Number of reported cases": "345093"
+         "Retail Categories": "Consumer Electronics",
+         "Number of retail chains": "23"
       },
       {
-         "Year": "2012",
-         "Number of reported cases": "355051"
+         "Retail Categories": "Home Ware",
+         "Number of retail chains": "20"
       },
       {
-         "Year": "2011",
-         "Number of reported cases": "354746"
+         "Retail Categories": "Car Parts & Accessories",
+         "Number of retail chains": "14"
       },
       {
-         "Year": "2010",
-         "Number of reported cases": "369089"
+         "Retail Categories": "DIY & Gardening",
+         "Number of retail chains": "13"
       },
       {
-         "Year": "2009",
-         "Number of reported cases": "408742"
+         "Retail Categories": "Sport & Leisure",
+         "Number of retail chains": "13"
       },
       {
-         "Year": "2008",
-         "Number of reported cases": "443563"
+         "Retail Categories": "Toys & Games",
+         "Number of retail chains": "12"
       },
       {
-         "Year": "2007",
-         "Number of reported cases": "447324"
+         "Retail Categories": "Petrol",
+         "Number of retail chains": "12"
       },
       {
-         "Year": "2006",
-         "Number of reported cases": "449246"
+         "Retail Categories": "Jewelry & Watches",
+         "Number of retail chains": "12"
       },
       {
-         "Year": "2005",
-         "Number of reported cases": "417438"
+         "Retail Categories": "Telecom",
+         "Number of retail chains": "11"
       },
       {
-         "Year": "2004",
-         "Number of reported cases": "401470"
+         "Retail Categories": "Books & Magazines",
+         "Number of retail chains": "10"
       },
       {
-         "Year": "2003",
-         "Number of reported cases": "414235"
+         "Retail Categories": "Baby Ware",
+         "Number of retail chains": "9"
       },
       {
-         "Year": "2002",
-         "Number of reported cases": "420806"
+         "Retail Categories": "Optical",
+         "Number of retail chains": "8"
       },
       {
-         "Year": "2001",
-         "Number of reported cases": "422921"
-      },
-      {
-         "Year": "2000",
-         "Number of reported cases": "408016"
-      },
-      {
-         "Year": "1999",
-         "Number of reported cases": "409371"
-      },
-      {
-         "Year": "1998",
-         "Number of reported cases": "447186"
-      },
-      {
-         "Year": "1997",
-         "Number of reported cases": "497950"
-      },
-      {
-         "Year": "1996",
-         "Number of reported cases": "535590"
-      },
-      {
-         "Year": "1995",
-         "Number of reported cases": "580510"
-      },
-      {
-         "Year": "1994",
-         "Number of reported cases": "618950"
-      },
-      {
-         "Year": "1993",
-         "Number of reported cases": "659870"
-      },
-      {
-         "Year": "1992",
-         "Number of reported cases": "672480"
-      },
-      {
-         "Year": "1991",
-         "Number of reported cases": "687730"
-      },
-      {
-         "Year": "1990",
-         "Number of reported cases": "639270"
+         "Retail Categories": "Pet Care",
+         "Number of retail chains": "5"
       }
-   ]
+   ],
+   "gold": "Despite the government 's ban on Sunday trading , the situation of retail chains is not as dramatic as expected . In 2019 , 242 retail chains were operating in Poland , the largest share of which belonged to the clothing and footwear , furniture , and food sectors . Retail sales in Poland Retail sales volume in Poland have fluctuated but remained at six percent since 2015 .\n"
 }

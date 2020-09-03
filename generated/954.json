@@ -1,39 +1,37 @@
 {
-   "title": "Apple Music users in the U.S. 2018 , by age",
-   "xAxis": "Year",
-   "yAxis": "Share of users",
+   "title": "Number of outbound trips from China to Europe in 2018 , by region of destination",
+   "xAxis": "Europe European Union",
+   "yAxis": "Arrivals in millions",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the Apple of Music users in the Apple Music as of 2014 , broken down age . ",
-      "During the measured period , 23 % of Music users were between 30 and 34 years old ."
+      "This statistic shows the millions of in the Europe in 2018 , from Europe European . ",
+      "In 2018 , about 1.12 millions of the millions were living in the Europe ."
    ],
    "trends": [
       {},
       {
-         "5": "1"
+         "4": "3"
       }
    ],
    "data": [
       {
-         "Year": "18-24",
-         "Share of users": "17"
+         "Europe European Union": "Central/Eastern Europe",
+         "Arrivals in millions": "5.93"
       },
       {
-         "Year": "25-34",
-         "Share of users": "23"
+         "Europe European Union": "Western Europe",
+         "Arrivals in millions": "5.9"
       },
       {
-         "Year": "35-44",
-         "Share of users": "22"
+         "Europe European Union": "Northern Europe",
+         "Arrivals in millions": "1.15"
       },
       {
-         "Year": "45-54",
-         "Share of users": "15"
-      },
-      {
-         "Year": "55+",
-         "Share of users": "23"
+         "Europe European Union": "Southern/Mediterranean Europe",
+         "Arrivals in millions": "1.12"
       }
-   ]
+   ],
+   "gold": "This statistic shows the number of outbound trips from China to Europe in 2018 , by region of destination . There were approximately 1.15 million trips from China to Northern Europe in 2018 .\n"
 }

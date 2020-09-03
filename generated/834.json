@@ -1,45 +1,55 @@
 {
-   "title": "Terrorism - number of hostages taken by region",
-   "xAxis": "Country",
-   "yAxis": "Number of hostages taken",
+   "title": "South Africa : number of Facebook users 2017 to 2023",
+   "xAxis": "Year",
+   "yAxis": "Number of users in millions",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Terrorism of the hostages taken as of mid-2019 , by region . ",
-      "As of , about 2651 % of the hostages taken was living in Africa . ",
-      "The total world taken amounted to 7.69 billion people on the planet ."
+      "This statistic shows the Number of Facebook users in South Africa from 2017 to 2023 . ",
+      "In 2018 , there were around 16.2 millions number Facebook users in South Africa , and this figure is projected to grow 19.8 millions in 2023 ."
    ],
    "trends": [
-      {},
       {
+         "12": "6",
          "14": "0"
       },
-      {}
+      {
+         "1": "5",
+         "6": "5",
+         "22": "0",
+         "25": "0"
+      }
    ],
    "data": [
       {
-         "Country": "Africa",
-         "Number of hostages taken": "2651"
+         "Year": "2023",
+         "Number of users in millions": "19.8"
       },
       {
-         "Country": "South Asia",
-         "Number of hostages taken": "1748"
+         "Year": "2022",
+         "Number of users in millions": "19.0"
       },
       {
-         "Country": "Near East",
-         "Number of hostages taken": "1206"
+         "Year": "2021",
+         "Number of users in millions": "18.3"
       },
       {
-         "Country": "East Asia and Pacific",
-         "Number of hostages taken": "246"
+         "Year": "2020",
+         "Number of users in millions": "17.6"
       },
       {
-         "Country": "Western Hemisphere",
-         "Number of hostages taken": "190"
+         "Year": "2019",
+         "Number of users in millions": "16.9"
       },
       {
-         "Country": "Europe and Eurasia",
-         "Number of hostages taken": "9"
+         "Year": "2018",
+         "Number of users in millions": "16.2"
+      },
+      {
+         "Year": "2017",
+         "Number of users in millions": "15.4"
       }
-   ]
+   ],
+   "gold": "This statistic shows the number of Facebook users in South Africa from 2017 to 2023 . In 2023 , the number of Facebook users in South Africa is expected to reach 19.8 million , up from 16.2 million users in 2018 .\n"
 }

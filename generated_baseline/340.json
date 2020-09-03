@@ -4,18 +4,16 @@
    "yAxis": "Reach",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Reach with a total of 5 data points. The chart has one significant trend.",
-      " This trend is slightly negative which exists from 15-25_years to 56+_years."
+      " This trend is positive which exists from 15-25_years to 56+_years."
    ],
    "trends": [
+      {},
       {
-         "Length": 5,
-         "direction": "negative",
-         "start": 0,
-         "end": 4,
-         "trend": "y=0.0x+67.3",
-         "magnitude": "slightly"
+         "3": "0",
+         "14": "4"
       }
    ],
    "data": [

@@ -4,15 +4,24 @@
    "yAxis": "Revenue in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 36 categories for the x axis representing Quarter, and a y axis representing Revenue in million U.S. dollars.",
       " The highest category is found at Q4_'19 where Revenue in million U.S. dollars is 1007.43.",
       " The lowest category is found at Q1_'11 where Revenue in million U.S. dollars is 17.91."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 35
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 35,
+         "12": 35
+      },
+      {}
+   ],
    "data": [
       {
          "Quarter": "Q4 '19",

@@ -1,73 +1,101 @@
 {
-   "title": "Production of copper in Canada by province 2018",
-   "xAxis": "Month",
-   "yAxis": "Production in metric tons",
+   "title": "Foreign exchange earnings from tourism in India 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Foreign exchange earnings in billion U.S. dollars",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Canada Business Production from 2019 to 2020 . ",
-      "In 2020 , the Production amounted to 27456 . ",
-      "The Production consists of 10 indicators derived from questions addressing Canada owners : Plans to create employment ; plans to make capital outlays ; plans to increase inventories ; expect economy to improve ; expect real sales higher ; current inventory ; current job openings ; expected credit conditions ; now a good time to expand ; earnings trends ."
+      "The statistic shows the total Foreign of from worldwide 2000 to 2018 . ",
+      "In 2018 , the total Foreign from amounted to 28.59 billion earnings ."
    ],
    "trends": [
-      {},
       {
-         "7": "0"
+         "10": "18",
+         "12": "0"
       },
-      {}
+      {
+         "1": "0",
+         "10": "0"
+      }
    ],
    "data": [
       {
-         "Month": "Newfoundland and Labrador",
-         "Production in metric tons": "27456"
+         "Year": "2018",
+         "Foreign exchange earnings in billion U.S. dollars": "28.59"
       },
       {
-         "Month": "Prince Edward Island",
-         "Production in metric tons": "0"
+         "Year": "2017",
+         "Foreign exchange earnings in billion U.S. dollars": "27.31"
       },
       {
-         "Month": "Nova Scotia",
-         "Production in metric tons": "0"
+         "Year": "2016",
+         "Foreign exchange earnings in billion U.S. dollars": "22.92"
       },
       {
-         "Month": "New Brunswick",
-         "Production in metric tons": "487"
+         "Year": "2015",
+         "Foreign exchange earnings in billion U.S. dollars": "21.1"
       },
       {
-         "Month": "Quebec",
-         "Production in metric tons": "35912"
+         "Year": "2014",
+         "Foreign exchange earnings in billion U.S. dollars": "19.7"
       },
       {
-         "Month": "Ontario",
-         "Production in metric tons": "135297"
+         "Year": "2013",
+         "Foreign exchange earnings in billion U.S. dollars": "18.39"
       },
       {
-         "Month": "Manitoba",
-         "Production in metric tons": "33608"
+         "Year": "2012",
+         "Foreign exchange earnings in billion U.S. dollars": "17.74"
       },
       {
-         "Month": "Saskatchewan",
-         "Production in metric tons": "0"
+         "Year": "2011",
+         "Foreign exchange earnings in billion U.S. dollars": "16.56"
       },
       {
-         "Month": "Alberta",
-         "Production in metric tons": "0"
+         "Year": "2010",
+         "Foreign exchange earnings in billion U.S. dollars": "14.19"
       },
       {
-         "Month": "British Columbia",
-         "Production in metric tons": "293468"
+         "Year": "2009",
+         "Foreign exchange earnings in billion U.S. dollars": "11.39"
       },
       {
-         "Month": "Yukon",
-         "Production in metric tons": "9282"
+         "Year": "2008",
+         "Foreign exchange earnings in billion U.S. dollars": "11.83"
       },
       {
-         "Month": "Northwest Territories",
-         "Production in metric tons": "0"
+         "Year": "2007",
+         "Foreign exchange earnings in billion U.S. dollars": "10.73"
       },
       {
-         "Month": "Nunavut",
-         "Production in metric tons": "0"
+         "Year": "2006",
+         "Foreign exchange earnings in billion U.S. dollars": "8.63"
+      },
+      {
+         "Year": "2005",
+         "Foreign exchange earnings in billion U.S. dollars": "7.49"
+      },
+      {
+         "Year": "2004",
+         "Foreign exchange earnings in billion U.S. dollars": "6.17"
+      },
+      {
+         "Year": "2003",
+         "Foreign exchange earnings in billion U.S. dollars": "4.46"
+      },
+      {
+         "Year": "2002",
+         "Foreign exchange earnings in billion U.S. dollars": "3.1"
+      },
+      {
+         "Year": "2001",
+         "Foreign exchange earnings in billion U.S. dollars": "3.2"
+      },
+      {
+         "Year": "2000",
+         "Foreign exchange earnings in billion U.S. dollars": "3.46"
       }
-   ]
+   ],
+   "gold": "In 2018 , foreign exchange earnings from tourism industry across India amounted to over 28 billion U.S. dollars , an increase from the previous year . An exponential rise in the foreign exchange earnings was seen from 2009 in the country .\n"
 }

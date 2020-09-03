@@ -1,85 +1,91 @@
 {
-   "title": "Average U.S. TV ratings NHL Stanley Cup games 2006 to 2019",
-   "xAxis": "Year",
-   "yAxis": "Average TV rating",
+   "title": "Top-selling DVDs in the U.S. in 2019",
+   "xAxis": "Movies",
+   "yAxis": "Number of units sold in thousands",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "3.3 million people used the Average in NHL Stanley Cup during 2019 2013 to the United Kingdom 's ( UK ) Office for National Statistics ( ONS ) , breaking the record set in 2016 . ",
-      "There were 2.3 million Average TV in NHL Stanley Cup during 2016 , the first time the amount had exceeded 40 % . ",
-      "Average access in the UK While the vast majority of households in the UK are able to go online , one in ten households was without an Average connection as of 2018 , according to the ONS ."
+      "The statistic depicts the Number units of 2019 the DVDs U.S. men 's DVDs tournament ( U.S. 2019 ) in 2019 . ",
+      "It includes the The_Goonies and the 2019 of the Aquaman , the Avengers:_Endgame and the Hocus_Pocus . ",
+      "The The_Goonies between and The_Goonies had a rating of 903.47 ."
    ],
    "trends": [
+      {},
       {
-         "0": "6",
-         "10": "0",
-         "11": "6",
-         "33": "3"
+         "3": "0",
+         "9": "1",
+         "12": "3",
+         "15": "7"
       },
       {
-         "2": "3",
-         "10": "3"
-      },
-      {
-         "31": "1"
+         "1": "0",
+         "3": "0",
+         "5": "0",
+         "10": "0"
       }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Average TV rating": "3.0"
+         "Movies": "The Goonies",
+         "Number of units sold in thousands": "903.47"
       },
       {
-         "Year": "2018",
-         "Average TV rating": "2.7"
+         "Movies": "Aquaman",
+         "Number of units sold in thousands": "868.93"
       },
       {
-         "Year": "2017",
-         "Average TV rating": "2.7"
+         "Movies": "Bohemian Rhapsody",
+         "Number of units sold in thousands": "855.06"
       },
       {
-         "Year": "2016",
-         "Average TV rating": "2.3"
+         "Movies": "Avengers: Endgame",
+         "Number of units sold in thousands": "848.49"
       },
       {
-         "Year": "2015",
-         "Average TV rating": "3.2"
+         "Movies": "Captain Marvel",
+         "Number of units sold in thousands": "840.92"
       },
       {
-         "Year": "2014",
-         "Average TV rating": "3.0"
+         "Movies": "A Star is Born",
+         "Number of units sold in thousands": "832.1"
       },
       {
-         "Year": "2013",
-         "Average TV rating": "3.3"
+         "Movies": "How to Train Your Dragon: The Hidden World",
+         "Number of units sold in thousands": "686.49"
       },
       {
-         "Year": "2012",
-         "Average TV rating": "1.8"
+         "Movies": "Hocus Pocus",
+         "Number of units sold in thousands": "656.63"
       },
       {
-         "Year": "2011",
-         "Average TV rating": "2.7"
+         "Movies": "Matilda",
+         "Number of units sold in thousands": "569.92"
       },
       {
-         "Year": "2010",
-         "Average TV rating": "2.9"
+         "Movies": "John Wick: Chapter 3 - Parabellum",
+         "Number of units sold in thousands": "567.68"
       },
       {
-         "Year": "2009",
-         "Average TV rating": "2.7"
+         "Movies": "Fantastic Beasts: The Crimes of Grindelwald",
+         "Number of units sold in thousands": "542.02"
       },
       {
-         "Year": "2008",
-         "Average TV rating": "2.6"
+         "Movies": "Bumblebee",
+         "Number of units sold in thousands": "531.96"
       },
       {
-         "Year": "2007",
-         "Average TV rating": "1.2"
+         "Movies": "Dr. Seuss' The Grinch",
+         "Number of units sold in thousands": "529.48"
       },
       {
-         "Year": "2006",
-         "Average TV rating": "1.8"
+         "Movies": "Pokemon: Detective Pikachu",
+         "Number of units sold in thousands": "509.33"
+      },
+      {
+         "Movies": "Aladdin",
+         "Number of units sold in thousands": "506.52"
       }
-   ]
+   ],
+   "gold": "In 2019 , the top-selling DVD in the United States was 1985 movie 'The Goonies ' _ , which sold approximately 903.5 thousand copies in the U.S. that year . In second place was 'Aquaman ' with 868.93 thousand copies sold . The movie also ranked fourth in the 2019 DVD sales list based on consumer spending .\n"
 }

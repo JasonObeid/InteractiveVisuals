@@ -4,15 +4,24 @@
    "yAxis": "Number of cores",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 10 categories for the x axis representing Location, and a y axis representing Number of cores.",
       " The highest category is found at Sunway_TaihuLight__China where Number of cores is 10649600.0.",
       " The lowest category is found at Lassen_United_States where Number of cores is 288288.0."
    ],
-   "trends": {
-      "maxIndex": 2,
-      "minIndex": 9
-   },
+   "trends": [
+      {},
+      {
+         "7": 2,
+         "12": 2
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
    "data": [
       {
          "Location": "Summit United States",

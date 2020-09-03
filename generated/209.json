@@ -1,82 +1,73 @@
 {
-   "title": "Consumer spending in the United Kingdom ( UK ) 2005 to 2018",
+   "title": "Number of visitors to the Rocky Mountain National Park in the U.S. 2008 to 2019",
    "xAxis": "Year",
-   "yAxis": "Expenditure in million GBP",
+   "yAxis": "Number of visitors in millions",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the total annual Expenditure on Consumer and furnishings in the United Kingdom from 2005 to 2018 , based on volume . ",
-      "In 2018 , UK households purchased approximately 19.1 million British pounds worth of Consumer and furnishings , an increase on the previous Year of roughly one and a half million British pounds . ",
-      "According to results of the 2017 Statista Global Consumer survey , 24 million of UK consumers have bought Consumer and household goods online in the last 12 months , while 33 million claim to mostly look online for information about these products ."
+      "This statistic shows the Number of recreational visitors to the Rocky Mountain National Park Memorial in the Park from 2008 to 2019 . ",
+      "The Number of visitors to the Rocky Mountain National Park Memorial amounted to approximately 4.67 millions in 2019 ."
    ],
    "trends": [
       {
-         "15": "13",
-         "17": "0"
+         "16": "11",
+         "18": "0"
       },
       {
-         "1": "0"
-      },
-      {
-         "5": "1"
+         "11": "0",
+         "14": "0"
       }
    ],
    "data": [
       {
+         "Year": "2019",
+         "Number of visitors in millions": "4.67"
+      },
+      {
          "Year": "2018",
-         "Expenditure in million GBP": "1341849"
+         "Number of visitors in millions": "4.59"
       },
       {
          "Year": "2017",
-         "Expenditure in million GBP": "1288984"
+         "Number of visitors in millions": "4.44"
       },
       {
          "Year": "2016",
-         "Expenditure in million GBP": "1235247"
+         "Number of visitors in millions": "4.52"
       },
       {
          "Year": "2015",
-         "Expenditure in million GBP": "1178915"
+         "Number of visitors in millions": "4.16"
       },
       {
          "Year": "2014",
-         "Expenditure in million GBP": "1142350"
+         "Number of visitors in millions": "3.43"
       },
       {
          "Year": "2013",
-         "Expenditure in million GBP": "1097963"
+         "Number of visitors in millions": "2.99"
       },
       {
          "Year": "2012",
-         "Expenditure in million GBP": "1052306"
+         "Number of visitors in millions": "3.23"
       },
       {
          "Year": "2011",
-         "Expenditure in million GBP": "1012673"
+         "Number of visitors in millions": "3.18"
       },
       {
          "Year": "2010",
-         "Expenditure in million GBP": "983196"
+         "Number of visitors in millions": "2.96"
       },
       {
          "Year": "2009",
-         "Expenditure in million GBP": "959219"
+         "Number of visitors in millions": "2.82"
       },
       {
          "Year": "2008",
-         "Expenditure in million GBP": "984020"
-      },
-      {
-         "Year": "2007",
-         "Expenditure in million GBP": "952873"
-      },
-      {
-         "Year": "2006",
-         "Expenditure in million GBP": "911678"
-      },
-      {
-         "Year": "2005",
-         "Expenditure in million GBP": "873079"
+         "Number of visitors in millions": "2.76"
       }
-   ]
+   ],
+   "gold": "This statistic shows the number of recreational visitors to the Rocky Mountain National Park in the United States from 2008 to 2019 . The number of visitors to the Rocky Mountain National Park amounted to approximately 4.67 million in 2019 .\n"
 }

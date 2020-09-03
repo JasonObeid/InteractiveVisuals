@@ -1,60 +1,114 @@
 {
-   "title": "Latin America & the Caribbean : athletes in 2018 Winter Games , by country",
-   "xAxis": "Country",
-   "yAxis": "Number of athletes",
-   "columnType": "two",
-   "graphType": "bar",
+   "title": "Share of economic sectors in the global gross domestic product from 2007 to 2017",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
    "summary": [
-      "This statistic shows the share of Caribbean athletes Latin Latin America Caribbean athletes 2018 in , Winter Country . ",
-      "In 2018 , Caribbean Latin Latin America Caribbean athletes in Total accounted for around 37 % of the world 's total Caribbean athletes grid-connected Latin America Caribbean athletes ."
+      "The statistic shows the distribution of Share in economic sectors global from 2017 to 2007 . ",
+      "In 2007 , 3.76 % of the employees in Share were active in the agricultural global , 28.59 % in Industry and 61.64 % in the service global ."
    ],
    "trends": [
-      {},
       {
-         "9": "0",
-         "13": "0"
+         "13": [
+            "10",
+            "0"
+         ],
+         "15": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "3": [
+            "0",
+            "1"
+         ],
+         "17": [
+            "0",
+            "2"
+         ],
+         "22": [
+            "0",
+            "3"
+         ]
       }
    ],
    "data": [
       {
-         "Country": "Total",
-         "Number of athletes": "37"
+         "Year": "2007",
+         "Agriculture": "3.76",
+         "Industry": "28.59",
+         "Services": "61.64"
       },
       {
-         "Country": "Puerto Rico",
-         "Number of athletes": "1"
+         "Year": "2008",
+         "Agriculture": "3.74",
+         "Industry": "28.43",
+         "Services": "61.95"
       },
       {
-         "Country": "Ecuador",
-         "Number of athletes": "1"
+         "Year": "2009",
+         "Agriculture": "3.68",
+         "Industry": "26.72",
+         "Services": "63.89"
       },
       {
-         "Country": "Bolivia",
-         "Number of athletes": "2"
+         "Year": "2010",
+         "Agriculture": "3.66",
+         "Industry": "27.2",
+         "Services": "63.21"
       },
       {
-         "Country": "Jamaica",
-         "Number of athletes": "3"
+         "Year": "2011",
+         "Agriculture": "3.7",
+         "Industry": "27.39",
+         "Services": "62.92"
       },
       {
-         "Country": "Mexico",
-         "Number of athletes": "4"
+         "Year": "2012",
+         "Agriculture": "3.64",
+         "Industry": "26.98",
+         "Services": "63.42"
       },
       {
-         "Country": "Colombia",
-         "Number of athletes": "4"
+         "Year": "2013",
+         "Agriculture": "3.69",
+         "Industry": "26.61",
+         "Services": "63.71"
       },
       {
-         "Country": "Argentina",
-         "Number of athletes": "6"
+         "Year": "2014",
+         "Agriculture": "3.59",
+         "Industry": "26.39",
+         "Services": "63.97"
       },
       {
-         "Country": "Chile",
-         "Number of athletes": "7"
+         "Year": "2015",
+         "Agriculture": "3.52",
+         "Industry": "25.56",
+         "Services": "64.86"
       },
       {
-         "Country": "Brazil",
-         "Number of athletes": "9"
+         "Year": "2016",
+         "Agriculture": "3.52",
+         "Industry": "25.12",
+         "Services": "65.26"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "3.43",
+         "Industry": "25.44",
+         "Services": "65.03"
       }
-   ]
+   ],
+   "gold": "This statistic shows the share of economic sectors in the global gross domestic product ( GDP ) from 2007 to 2017 . In 2017 , agriculture contributed 3.43 percent , industry contributed approximately 25.44 percent and services contributed about 65.03 percent to the global gross domestic product . See global GDP for comparison .\n"
 }

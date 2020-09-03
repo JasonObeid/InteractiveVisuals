@@ -4,15 +4,24 @@
    "yAxis": "Vehicle retail sales in thousands",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 5 categories for the x axis representing Vehicles, and a y axis representing Vehicle retail sales in thousands.",
       " The highest category is found at Motor_vehicles_(total) where Vehicle retail sales in thousands is 17494.6.",
       " The lowest category is found at Heavy_trucks where Vehicle retail sales in thousands is 529.5."
    ],
-   "trends": {
-      "maxIndex": 4,
-      "minIndex": 3
-   },
+   "trends": [
+      {},
+      {
+         "7": 4,
+         "12": 4
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
    "data": [
       {
          "Vehicles": "Light vehicles (total)",

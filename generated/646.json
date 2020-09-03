@@ -1,189 +1,190 @@
 {
-   "title": "Hyundai car sales in the United Kingdom ( UK ) 2016 to 2019",
-   "xAxis": "Month",
-   "yAxis": "Units sold",
+   "title": "Inflation rate in Luxembourg 2024",
+   "xAxis": "Year",
+   "yAxis": "Inflation rate compared to previous year",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "German vehicle manufacturer Hyundai sold 3801 cars in the United Kingdom in 2019 . ",
-      "Generally , sales figures were highest in and of each year , with 2018 being a notable exception . ",
-      "The Driver & Vehicle Licensing Agency issues new registration plates in and , which usually corresponds with an increased sales volume ."
+      "This statistic shows the average Inflation rate in Luxembourg from 1984 to 2018 , with projections up until 2024 . ",
+      "In 2018 , the average Inflation rate in Luxembourg amounted to about 2.02 % compared to the previous Year ."
    ],
    "trends": [
       {
-         "5": "0"
+         "10": "40",
+         "12": "6",
+         "18": "0"
       },
-      {},
-      {}
+      {
+         "1": "6",
+         "12": "6"
+      }
    ],
    "data": [
       {
-         "Month": "Dec 19",
-         "Units sold": "3801"
+         "Year": "2024",
+         "Inflation rate compared to previous year": "1.93"
       },
       {
-         "Month": "Nov 19",
-         "Units sold": "5276"
+         "Year": "2023",
+         "Inflation rate compared to previous year": "1.88"
       },
       {
-         "Month": "Oct 19",
-         "Units sold": "5538"
+         "Year": "2022",
+         "Inflation rate compared to previous year": "1.95"
       },
       {
-         "Month": "Sep 19",
-         "Units sold": "14418"
+         "Year": "2021",
+         "Inflation rate compared to previous year": "1.87"
       },
       {
-         "Month": "Aug 19",
-         "Units sold": "2686"
+         "Year": "2020",
+         "Inflation rate compared to previous year": "1.74"
       },
       {
-         "Month": "Jul 19",
-         "Units sold": "5649"
+         "Year": "2019",
+         "Inflation rate compared to previous year": "1.73"
       },
       {
-         "Month": "Jun 19",
-         "Units sold": "7803"
+         "Year": "2018",
+         "Inflation rate compared to previous year": "2.02"
       },
       {
-         "Month": "May 19",
-         "Units sold": "6868"
+         "Year": "2017",
+         "Inflation rate compared to previous year": "2.11"
       },
       {
-         "Month": "Apr 19",
-         "Units sold": "6468"
+         "Year": "2016",
+         "Inflation rate compared to previous year": "0.04"
       },
       {
-         "Month": "Mar 19",
-         "Units sold": "16317"
+         "Year": "2015",
+         "Inflation rate compared to previous year": "0.06"
       },
       {
-         "Month": "Feb 19",
-         "Units sold": "2682"
+         "Year": "2014",
+         "Inflation rate compared to previous year": "0.7"
       },
       {
-         "Month": "Jan 19",
-         "Units sold": "5778"
+         "Year": "2013",
+         "Inflation rate compared to previous year": "1.7"
       },
       {
-         "Month": "Dec 18",
-         "Units sold": "4009"
+         "Year": "2012",
+         "Inflation rate compared to previous year": "2.89"
       },
       {
-         "Month": "Nov 18",
-         "Units sold": "4821"
+         "Year": "2011",
+         "Inflation rate compared to previous year": "3.73"
       },
       {
-         "Month": "Oct 18",
-         "Units sold": "5297"
+         "Year": "2010",
+         "Inflation rate compared to previous year": "2.8"
       },
       {
-         "Month": "Sep 18",
-         "Units sold": "16102"
+         "Year": "2009",
+         "Inflation rate compared to previous year": "0.01"
       },
       {
-         "Month": "Aug 18",
-         "Units sold": "2689"
+         "Year": "2008",
+         "Inflation rate compared to previous year": "4.09"
       },
       {
-         "Month": "Jul 18",
-         "Units sold": "5966"
+         "Year": "2007",
+         "Inflation rate compared to previous year": "2.66"
       },
       {
-         "Month": "Jun 18",
-         "Units sold": "8663"
+         "Year": "2006",
+         "Inflation rate compared to previous year": "2.96"
       },
       {
-         "Month": "May 18",
-         "Units sold": "7387"
+         "Year": "2005",
+         "Inflation rate compared to previous year": "3.76"
       },
       {
-         "Month": "Apr 18",
-         "Units sold": "6987"
+         "Year": "2004",
+         "Inflation rate compared to previous year": "3.24"
       },
       {
-         "Month": "Mar 18",
-         "Units sold": "18526"
+         "Year": "2003",
+         "Inflation rate compared to previous year": "2.53"
       },
       {
-         "Month": "Feb 18",
-         "Units sold": "3049"
+         "Year": "2002",
+         "Inflation rate compared to previous year": "2.06"
       },
       {
-         "Month": "Jan 18",
-         "Units sold": "6429"
+         "Year": "2001",
+         "Inflation rate compared to previous year": "2.4"
       },
       {
-         "Month": "Dec 17",
-         "Units sold": "5026"
+         "Year": "2000",
+         "Inflation rate compared to previous year": "3.78"
       },
       {
-         "Month": "Nov 17",
-         "Units sold": "6509"
+         "Year": "1999",
+         "Inflation rate compared to previous year": "1.02"
       },
       {
-         "Month": "Oct 17",
-         "Units sold": "6553"
+         "Year": "1998",
+         "Inflation rate compared to previous year": "0.97"
       },
       {
-         "Month": "Sep 17",
-         "Units sold": "16587"
+         "Year": "1997",
+         "Inflation rate compared to previous year": "1.37"
       },
       {
-         "Month": "Aug 17",
-         "Units sold": "2441"
+         "Year": "1996",
+         "Inflation rate compared to previous year": "1.56"
       },
       {
-         "Month": "Jul 17",
-         "Units sold": "6187"
+         "Year": "1995",
+         "Inflation rate compared to previous year": "1.9"
       },
       {
-         "Month": "Jun 17",
-         "Units sold": "7965"
+         "Year": "1994",
+         "Inflation rate compared to previous year": "2.2"
       },
       {
-         "Month": "May 17",
-         "Units sold": "7321"
+         "Year": "1993",
+         "Inflation rate compared to previous year": "3.6"
       },
       {
-         "Month": "Apr 17",
-         "Units sold": "6958"
+         "Year": "1992",
+         "Inflation rate compared to previous year": "3.2"
       },
       {
-         "Month": "Mar 17",
-         "Units sold": "18460"
+         "Year": "1991",
+         "Inflation rate compared to previous year": "3.1"
       },
       {
-         "Month": "Feb 17",
-         "Units sold": "3009"
+         "Year": "1990",
+         "Inflation rate compared to previous year": "3.7"
       },
       {
-         "Month": "Jan 17",
-         "Units sold": "6387"
+         "Year": "1989",
+         "Inflation rate compared to previous year": "3.4"
       },
       {
-         "Month": "Dec 16",
-         "Units sold": "5625"
+         "Year": "1988",
+         "Inflation rate compared to previous year": "1.4"
       },
       {
-         "Month": "Nov 16",
-         "Units sold": "6560"
+         "Year": "1987",
+         "Inflation rate compared to previous year": "-0.1"
       },
       {
-         "Month": "Oct 16",
-         "Units sold": "6585"
+         "Year": "1986",
+         "Inflation rate compared to previous year": "0.3"
       },
       {
-         "Month": "Sep 16",
-         "Units sold": "17039"
+         "Year": "1985",
+         "Inflation rate compared to previous year": "4.09"
       },
       {
-         "Month": "Aug 16",
-         "Units sold": "2440"
-      },
-      {
-         "Month": "Jul 16",
-         "Units sold": "6093"
+         "Year": "1984",
+         "Inflation rate compared to previous year": "5.64"
       }
-   ]
+   ],
+   "gold": "This statistic shows the average inflation rate in Luxembourg from 1984 to 2018 , with projections up until 2024 . In 2018 , the average inflation rate in Luxembourg amounted to about 2.02 percent compared to the previous year .\n"
 }

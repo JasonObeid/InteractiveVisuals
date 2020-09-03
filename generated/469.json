@@ -1,60 +1,65 @@
 {
-   "title": "Top selling Nintendo Wii games worldwide in 2019",
-   "xAxis": "Month",
-   "yAxis": "Sales in million units",
+   "title": "Average ticket price Chicago Blackhawks ( NHL ) 2014/15",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Top selling Nintendo Wii Wii titles worldwide as of 2019 . ",
-      "With 82.88 million units sold worldwide , Wii_Sports 7 was the Top selling Nintendo Wii Wii game as of 2019 ."
+      "This graph depicts the Average ticket price for Chicago Blackhawks games of the National Basketball Association from 2005/06 to 2014/15 . ",
+      "In the 2005/06 season , the Average ticket price was 34.88 U.S. dollars ."
    ],
    "trends": [
-      {},
       {
-         "1": "0",
-         "7": "0"
+         "16": "9",
+         "18": "0"
+      },
+      {
+         "2": "9",
+         "10": "9"
       }
    ],
    "data": [
       {
-         "Month": "Wii Sports",
-         "Sales in million units": "82.88"
+         "Year": "2014/15",
+         "Average ticket price in U.S. dollars": "78.8"
       },
       {
-         "Month": "Mario Kart Wii",
-         "Sales in million units": "37.24"
+         "Year": "2013/14",
+         "Average ticket price in U.S. dollars": "72.95"
       },
       {
-         "Month": "Wii Sports Resort",
-         "Sales in million units": "33.11"
+         "Year": "2012/13",
+         "Average ticket price in U.S. dollars": "62.88"
       },
       {
-         "Month": "New Super Mario Bros. Wii",
-         "Sales in million units": "30.28"
+         "Year": "2011/12",
+         "Average ticket price in U.S. dollars": "55.72"
       },
       {
-         "Month": "Wii Play",
-         "Sales in million units": "28.02"
+         "Year": "2010/11",
+         "Average ticket price in U.S. dollars": "55.39"
       },
       {
-         "Month": "Wii Fit",
-         "Sales in million units": "22.67"
+         "Year": "2009/10",
+         "Average ticket price in U.S. dollars": "55.39"
       },
       {
-         "Month": "Wii Fit Plus",
-         "Sales in million units": "21.13"
+         "Year": "2008/09",
+         "Average ticket price in U.S. dollars": "46.8"
       },
       {
-         "Month": "Super Smash Bros. Brawl",
-         "Sales in million units": "13.3"
+         "Year": "2007/08",
+         "Average ticket price in U.S. dollars": "52.22"
       },
       {
-         "Month": "Super Mario Galaxy",
-         "Sales in million units": "12.79"
+         "Year": "2006/07",
+         "Average ticket price in U.S. dollars": "34.88"
       },
       {
-         "Month": "Wii Party",
-         "Sales in million units": "9.34"
+         "Year": "2005/06",
+         "Average ticket price in U.S. dollars": "34.88"
       }
-   ]
+   ],
+   "gold": "This graph depicts the average ticket price of Chicago Blackhawks games within the National Hockey League from 2005/06 to 2014/15 In the 2005/06 season , the average ticket price was 34.88 U.S. dollars . The Blackhawks play their home games at the United Center .\n"
 }

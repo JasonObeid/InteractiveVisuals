@@ -4,15 +4,24 @@
    "yAxis": "Consumer Price Index (100=1982-1984)",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 5 categories for the x axis representing Country, and a y axis representing Consumer Price Index (100=1982-1984).",
       " The highest category is found at West where Consumer Price Index (100=1982-1984) is 270.35.",
       " The lowest category is found at Midwest where Consumer Price Index (100=1982-1984) is 237.78."
    ],
-   "trends": {
-      "maxIndex": 4,
-      "minIndex": 2
-   },
+   "trends": [
+      {},
+      {
+         "7": 4,
+         "12": 4
+      },
+      {
+         "7": 2,
+         "12": 2
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "U.S. city average",

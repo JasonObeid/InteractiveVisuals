@@ -8,16 +8,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 5 categories for the x axis of Response representing 2017, 2018, 2019.",
-      " The highest category is found at Somewhat agree with a mean value of 39.06666666666667.",
-      " The second highest category is found at Somewhat disagree with a mean value of 21.733333333333334.",
+      "This grouped bar chart has 5 categories for the x axis of Response representing 2017, 2018, and 2019.",
+      " The highest category is found at Somewhat agree with a mean value of 39.07.",
+      " The second highest category is found at Somewhat disagree with a mean value of 21.73.",
       " This represents a difference of 57.0%."
    ],
-   "trends": {
-      "maxIndex": 3,
-      "secondIndex": 3
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "13": [
+            "3",
+            "3"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "3",
+            "1"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Response": "Strongly disagree",

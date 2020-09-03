@@ -4,15 +4,24 @@
    "yAxis": "Cesarean sections per 1,000 live births",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 25 categories for the x axis representing Country, and a y axis representing Cesarean sections per 1,000 live births.",
       " The highest category is found at Turkey where Cesarean sections per 1,000 live births is 531.4.",
       " The lowest category is found at Israel where Cesarean sections per 1,000 live births is 148.4."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 24
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 24,
+         "12": 24
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "Turkey",

@@ -9,16 +9,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 6 categories for the x axis of Country representing 2003, 2008, 2012, 2015.",
+      "This grouped bar chart has 6 categories for the x axis of Country representing 2003, 2008, 2012, and 2015.",
       " The highest category is found at 30 to 39 with a mean value of 36.5.",
       " The second highest category is found at 25 to 29 with a mean value of 35.0.",
       " This represents a difference of 4.2%."
    ],
-   "trends": {
-      "maxIndex": 2,
-      "secondIndex": 2
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "13": [
+            "4",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "4",
+            "1"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "18 to 24",

@@ -4,27 +4,21 @@
    "yAxis": "Inflation rate compared to previous year",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Inflation rate compared to previous year, with a total of 11 data points. The chart has 2 significant trends.",
-      " The longest trend is extremely positive which exists from 2024 to 2016.",
-      " Similarly, the next significant trend is extremely negative which exists from 2016 to 2014."
+      " The longest trend is slightly negative which exists from 2024 to 2016.",
+      " Differently, the next significant trend is extremely positive which exists from 2016 to 2014."
    ],
    "trends": [
+      {},
       {
-         "Length": 9,
-         "direction": "positive",
-         "start": 0,
-         "end": 8,
-         "trend": "y=-36.52x+73846.81",
-         "magnitude": "extremely"
+         "1": "0",
+         "12": "8"
       },
       {
-         "Length": 3,
-         "direction": "negative",
-         "start": 8,
-         "end": 10,
-         "trend": "y=189.1x+-380881.65",
-         "magnitude": "extremely"
+         "3": "8",
+         "14": "10"
       }
    ],
    "data": [

@@ -1,60 +1,65 @@
 {
-   "title": "Forecast major categories of U.S. healthcare expenditures 2015 to 2020",
-   "labels": [
-      "unknown",
-      "2015",
-      "2020"
-   ],
-   "columnType": "multi",
+   "title": "The most spoken languages worldwide",
+   "xAxis": "Languages",
+   "yAxis": "Native speaker in millions",
+   "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the U.S. major categories U.S. in 2015 and 2020 , healthcare expenditures 2015 . ",
-      "Prescription_drugs and Prescription_drugs had a 2015 of 442050 % in the global U.S. major categories in 2015 . ",
-      "This expenditures is estimated to increase 702550 million healthcare 2020 ."
+      "The statistic shows the Native of persons in particular countries , who were spoken languages worldwide periods from 1900 to Chinese . ",
+      "The Languages occurred in Chinese Spanish spoken total 460 millions The ."
    ],
    "trends": [
-      {},
       {
-         "0": [
-            "2",
-            "0"
-         ],
-         "2": [
-            "2",
-            "0"
-         ],
-         "7": [
-            "2",
-            "1"
-         ]
+         "21": "0"
       },
-      {}
+      {
+         "4": "0",
+         "6": "1",
+         "9": "1"
+      }
    ],
    "data": [
       {
-         "unknown": "U.S. GDP",
-         "2015": "17722000",
-         "2020": "22145000"
+         "Languages": "Chinese",
+         "Native speaker in millions": "1311"
       },
       {
-         "unknown": "Total health spending",
-         "2015": "3544400",
-         "2020": "5204100"
+         "Languages": "Spanish",
+         "Native speaker in millions": "460"
       },
       {
-         "unknown": "Prescription drugs",
-         "2015": "442050",
-         "2020": "702550"
+         "Languages": "English",
+         "Native speaker in millions": "379"
       },
       {
-         "unknown": "Hospital care",
-         "2015": "1134200",
-         "2020": "1665300"
+         "Languages": "Hindi",
+         "Native speaker in millions": "341"
       },
       {
-         "unknown": "MD & outpatient",
-         "2015": "673000",
-         "2020": "936700"
+         "Languages": "Arabic",
+         "Native speaker in millions": "319"
+      },
+      {
+         "Languages": "Bengali",
+         "Native speaker in millions": "228"
+      },
+      {
+         "Languages": "Portuguese",
+         "Native speaker in millions": "221"
+      },
+      {
+         "Languages": "Russian",
+         "Native speaker in millions": "154"
+      },
+      {
+         "Languages": "Japanese",
+         "Native speaker in millions": "128"
+      },
+      {
+         "Languages": "Lahnda",
+         "Native speaker in millions": "119"
       }
-   ]
+   ],
+   "gold": "The statistic shows the most spoken languages worldwide . There were around 1.3 billion native Chinese speakers a the time of survey . Spoken languages in the United States The United States does not have an official language , but they use English , specifically American English , for legislation , regulation and other official pronouncements .\n"
 }

@@ -4,36 +4,26 @@
    "yAxis": "Per capita Real GDP in chained (2012) U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Per capita Real GDP in chained (2012) U.S. dollars, with a total of 30 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely negative which exists from '19 to '09.",
-      " On the contrary, the next significant trend is strongly negative which exists from '00 to '90.",
-      " On the other hand, the next significant trend is extremely negative which exists from '07 to '01."
+      " The longest trend is slightly positive which exists from '01 to '90.",
+      " Similarly, the next significant trend is extremely positive which exists from '19 to '09.",
+      " Likewise, the next significant trend is moderately positive which exists from '09 to '01."
    ],
    "trends": [
+      {},
       {
-         "Length": 11,
-         "direction": "negative",
-         "start": 0,
-         "end": 10,
-         "trend": "y=841.45x+41592.09",
-         "magnitude": "extremely"
+         "1": "18",
+         "12": "29"
       },
       {
-         "Length": 11,
-         "direction": "negative",
-         "start": 19,
-         "end": 29,
-         "trend": "y=-57.74x+45667.68",
-         "magnitude": "strongly"
+         "3": "0",
+         "14": "10"
       },
       {
-         "Length": 7,
-         "direction": "negative",
-         "start": 12,
-         "end": 18,
-         "trend": "y=980.71x+45183.0",
-         "magnitude": "extremely"
+         "3": "10",
+         "14": "18"
       }
    ],
    "data": [

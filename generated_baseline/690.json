@@ -4,15 +4,24 @@
    "yAxis": "Average length in minutes",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 7 categories for the x axis representing Youtube Category, and a y axis representing Average length in minutes.",
       " The highest category is found at Gaming where Average length in minutes is 24.7.",
       " The lowest category is found at Music where Average length in minutes is 6.8."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 6
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 6,
+         "12": 6
+      },
+      {}
+   ],
    "data": [
       {
          "Youtube Category": "Gaming",

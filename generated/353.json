@@ -1,150 +1,42 @@
 {
-   "title": "Unions : Collective agreement coverage in the United Kingdom ( UK ) 1996 - 2018 , by sector",
-   "labels": [
-      "Year",
-      "Private sector",
-      "Public sector"
-   ],
-   "columnType": "multi",
-   "graphType": "line",
+   "title": "Boat ownership by age in the U.S. 2013",
+   "xAxis": "Age (in years)",
+   "yAxis": "Own a boat",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The cost of agreement coverage in the electric power industry can vary depending on the source that is used . ",
-      "In general , agreement coverage cost about 58.9 United Kingdom dollars per million British thermal units ( Btu ) but can range from 14.7 United Kingdom dollars per million Btu United Private to 58.9 United Kingdom dollars per million Btu United Public . ",
-      "Private and oil prices In general , Private and oil prices have been the most volatile , while Public sector prices have remained relatively stable in comparison ."
+      "The statistic depicts the Age ownership (in of the 2013 clubs in the U.S. Five 2013 U.S. in the 2013 season . ",
+      "The Age (in from merchandising in the German 35_to_44 was at 6 % years) 2013 in the 2013 season ."
    ],
    "trends": [
       {},
       {
-         "7": [
-            "0",
-            "2"
-         ],
-         "22": [
-            "0",
-            "1"
-         ],
-         "31": [
-            "0",
-            "2"
-         ]
-      },
-      {}
+         "8": "2",
+         "11": "4"
+      }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Private sector": "14.7",
-         "Public sector": "58.9"
+         "Age (in years)": "Under 16",
+         "Own a boat": "7.1"
       },
       {
-         "Year": "2017",
-         "Private sector": "15.3",
-         "Public sector": "57.6"
+         "Age (in years)": "16 to 34",
+         "Own a boat": "8.2"
       },
       {
-         "Year": "2016",
-         "Private sector": "15",
-         "Public sector": "59"
+         "Age (in years)": "35 to 44",
+         "Own a boat": "7.6"
       },
       {
-         "Year": "2015",
-         "Private sector": "16.1",
-         "Public sector": "60.7"
+         "Age (in years)": "45 to 64",
+         "Own a boat": "7.5"
       },
       {
-         "Year": "2014",
-         "Private sector": "15.4",
-         "Public sector": "60.7"
-      },
-      {
-         "Year": "2013",
-         "Private sector": "16.6",
-         "Public sector": "63.7"
-      },
-      {
-         "Year": "2012",
-         "Private sector": "16.1",
-         "Public sector": "63.7"
-      },
-      {
-         "Year": "2011",
-         "Private sector": "17",
-         "Public sector": "67.8"
-      },
-      {
-         "Year": "2010",
-         "Private sector": "16.9",
-         "Public sector": "64.5"
-      },
-      {
-         "Year": "2009",
-         "Private sector": "17.8",
-         "Public sector": "68.2"
-      },
-      {
-         "Year": "2008",
-         "Private sector": "18.7",
-         "Public sector": "70.5"
-      },
-      {
-         "Year": "2007",
-         "Private sector": "20",
-         "Public sector": "72"
-      },
-      {
-         "Year": "2006",
-         "Private sector": "19.6",
-         "Public sector": "69"
-      },
-      {
-         "Year": "2005",
-         "Private sector": "20.6",
-         "Public sector": "70.9"
-      },
-      {
-         "Year": "2004",
-         "Private sector": "20.5",
-         "Public sector": "71.2"
-      },
-      {
-         "Year": "2003",
-         "Private sector": "21.9",
-         "Public sector": "71.6"
-      },
-      {
-         "Year": "2002",
-         "Private sector": "21.1",
-         "Public sector": "73.6"
-      },
-      {
-         "Year": "2001",
-         "Private sector": "21.9",
-         "Public sector": "72.6"
-      },
-      {
-         "Year": "2000",
-         "Private sector": "22.5",
-         "Public sector": "74.2"
-      },
-      {
-         "Year": "1999",
-         "Private sector": "23",
-         "Public sector": "72.7"
-      },
-      {
-         "Year": "1998",
-         "Private sector": "21.7",
-         "Public sector": "75.1"
-      },
-      {
-         "Year": "1997",
-         "Private sector": "22",
-         "Public sector": "74.9"
-      },
-      {
-         "Year": "1996",
-         "Private sector": "23.2",
-         "Public sector": "74.4"
+         "Age (in years)": "65+",
+         "Own a boat": "6"
       }
-   ]
+   ],
+   "gold": "The statistic depicts the boat ownership rate by age in the U.S. in 2013 . 7.5 percent of the respondents aged 45 to 64 years own a boat .\n"
 }

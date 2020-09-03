@@ -1,135 +1,90 @@
 {
-   "title": "Monthly average temperatures in Finland 2017 to 2018",
-   "labels": [
-      "Month",
-      "Helsinki",
-      "Sodankyl\u00e4"
-   ],
-   "columnType": "multi",
+   "title": "Crucial problems in U.S. politics as of 2018",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Monthly average temperatures in the United Kingdom ( Finland ) 2017 their 2018 in 2017 and 2018 . ",
-      "In both years Feb_'18 retailer C Oct'_18 J Dec_'18 , trading as `` Clarks '' , held the largest 2018 of the Finland average 2018 . ",
-      "Compared to 2017 , Nov_'18 gained 2018 , ranking them as the second biggest average retailer on the 2018 in ."
+      "The statistic shows the results of a survey concerned with the U.S. why people quit their Defense/_national_security membership . ",
+      "12 % of respondents said that the Race_relations/_racism Immigration expensive and they Immigration afford it ."
    ],
    "trends": [
-      {},
       {
-         "3": [
-            "10",
-            "0"
-         ],
-         "6": [
-            "2",
-            "0"
-         ],
-         "8": [
-            "0",
-            "0"
-         ]
+         "16": "15"
       },
       {
-         "4": [
-            "1",
-            "0"
-         ]
+         "0": "0",
+         "7": "1",
+         "8": "0",
+         "12": "0"
       }
    ],
    "data": [
       {
-         "Month": "Dec '18",
-         "Helsinki": "-0.8",
-         "Sodankyl\u00e4": "-8.6"
+         "Response": "Immigration",
+         "Share of respondents": "12"
       },
       {
-         "Month": "Nov '18",
-         "Helsinki": "3.8",
-         "Sodankyl\u00e4": "-0.9"
+         "Response": "Race relations/ racism",
+         "Share of respondents": "8"
       },
       {
-         "Month": "Oct' 18",
-         "Helsinki": "7.6",
-         "Sodankyl\u00e4": "-0.6"
+         "Response": "Donald Trump",
+         "Share of respondents": "8"
       },
       {
-         "Month": "Sep '18",
-         "Helsinki": "13.8",
-         "Sodankyl\u00e4": "7.6"
+         "Response": "Parties/ gridlock/ divisions in country",
+         "Share of respondents": "7"
       },
       {
-         "Month": "Aug '18",
-         "Helsinki": "18.5",
-         "Sodankyl\u00e4": "13.4"
+         "Response": "Economy (general) health care/costs/accessibility",
+         "Share of respondents": "6"
       },
       {
-         "Month": "Jul '18",
-         "Helsinki": "21.0",
-         "Sodankyl\u00e4": "19.9"
+         "Response": "Unemployment/ lack of jobs",
+         "Share of respondents": "4"
       },
       {
-         "Month": "Jun '18",
-         "Helsinki": "15.3",
-         "Sodankyl\u00e4": "10.8"
+         "Response": "Distribution of wealth / Inequality",
+         "Share of respondents": "4"
       },
       {
-         "Month": "May '18",
-         "Helsinki": "14.4",
-         "Sodankyl\u00e4": "9.9"
+         "Response": "Education/ schools/ affording education",
+         "Share of respondents": "4"
       },
       {
-         "Month": "Apr '18",
-         "Helsinki": "4.9",
-         "Sodankyl\u00e4": "0.0"
+         "Response": "Foreign policy (general)",
+         "Share of respondents": "4"
       },
       {
-         "Month": "Mar '18",
-         "Helsinki": "-3.7",
-         "Sodankyl\u00e4": "-10.6"
+         "Response": "Crime/violence/judicial system",
+         "Share of respondents": "3"
       },
       {
-         "Month": "Feb '18",
-         "Helsinki": "-7.1",
-         "Sodankyl\u00e4": "-14.9"
+         "Response": "Morality/ ethics/ family values",
+         "Share of respondents": "3"
       },
       {
-         "Month": "Jan '18",
-         "Helsinki": "-1.2",
-         "Sodankyl\u00e4": "-11.7"
+         "Response": "Gun control/ too many guns",
+         "Share of respondents": "3"
       },
       {
-         "Month": "Dec '17",
-         "Helsinki": "1.8",
-         "Sodankyl\u00e4": "-10.3"
+         "Response": "Lack of humanity/ respect",
+         "Share of respondents": "3"
       },
       {
-         "Month": "Nov '17",
-         "Helsinki": "4.0",
-         "Sodankyl\u00e4": "-5.6"
+         "Response": "Environment/ global warming",
+         "Share of respondents": "2"
       },
       {
-         "Month": "Oct' 17",
-         "Helsinki": "5.8",
-         "Sodankyl\u00e4": "0.3"
+         "Response": "Dissatisfaction with government/ politics/ corruption",
+         "Share of respondents": "2"
       },
       {
-         "Month": "Sep '17",
-         "Helsinki": "12.1",
-         "Sodankyl\u00e4": "7.0"
-      },
-      {
-         "Month": "Aug '17",
-         "Helsinki": "16.3",
-         "Sodankyl\u00e4": "11.8"
-      },
-      {
-         "Month": "Jul '17",
-         "Helsinki": "15.9",
-         "Sodankyl\u00e4": "14.9"
-      },
-      {
-         "Month": "Jun '17",
-         "Helsinki": "13.5",
-         "Sodankyl\u00e4": "10.1"
+         "Response": "Defense/ national security",
+         "Share of respondents": "2"
       }
-   ]
+   ],
+   "gold": "In this 2018 survey , eight percent of respondents stated they think the biggest problem for the United States today is Donald Trump . In fact , most of the important problems mentioned are somehow related to the current POTUS \u2013 the most mentioned one being immigration and racism . A country divided Since Trump 's inauguration in January 2017 , political camps in the United States are deeply divided and global politics is in turmoil ; Trump 's job approval ratings are notoriously low , and in fact , they are lower than Reagan 's or Nixon 's averages ever were .\n"
 }

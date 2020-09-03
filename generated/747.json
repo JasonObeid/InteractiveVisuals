@@ -1,40 +1,46 @@
 {
-   "title": "United Kingdom tobacco imports : Leading 5 countries ranked by value 2019",
-   "xAxis": "Country",
-   "yAxis": "Import value in 1,000 GBP",
+   "title": "Average price of wearable technology products in the United Kingdom ( UK ) 2014",
+   "xAxis": "Wearable Technology Products",
+   "yAxis": "Average price in GBP",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the United Kingdom tobacco imports United Kingdom in 2019 . ",
-      "In 2019 , the most important Kingdom partner imports United Kingdom was Poland , accounting imports 203.88 % of all 1,000 ."
+      "This statistic shows the distribution of GBP price in United Kingdom 2014 . ",
+      "220 % of price in United Kingdom 2014 was caused by Action_cameras_headsets_and_glasses . ",
+      "price is the intentional destruction of forested land for permanent reuse for agricultural , Total_market industrial , or other non-forest operations ."
    ],
    "trends": [
       {},
       {
-         "11": "0",
-         "15": "0"
+         "0": "0",
+         "11": "0"
+      },
+      {
+         "14": "2"
       }
    ],
    "data": [
       {
-         "Country": "Poland",
-         "Import value in 1,000 GBP": "203.88"
+         "Wearable Technology Products": "Action cameras headsets and glasses",
+         "Average price in GBP": "220"
       },
       {
-         "Country": "Germany",
-         "Import value in 1,000 GBP": "107.07"
+         "Wearable Technology Products": "Smart watches",
+         "Average price in GBP": "163"
       },
       {
-         "Country": "Netherlands",
-         "Import value in 1,000 GBP": "94.13"
+         "Wearable Technology Products": "Total market",
+         "Average price in GBP": "120"
       },
       {
-         "Country": "Romania",
-         "Import value in 1,000 GBP": "21.27"
+         "Wearable Technology Products": "Wrist sport computers",
+         "Average price in GBP": "82"
       },
       {
-         "Country": "Belgium",
-         "Import value in 1,000 GBP": "18.06"
+         "Wearable Technology Products": "Health and fitness trackers",
+         "Average price in GBP": "73"
       }
-   ]
+   ],
+   "gold": "This statistic shows the average price of wearable technology products in the United Kingdom ( UK ) during the period from January to September 2014 , by product . Smart watches cost an average 163 British pounds in the UK , while wrist sport computers cost an average 82 British pounds .\n"
 }

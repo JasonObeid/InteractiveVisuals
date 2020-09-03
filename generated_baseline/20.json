@@ -4,15 +4,24 @@
    "yAxis": "Total number of mentions",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 10 categories for the x axis representing Hashtag, and a y axis representing Total number of mentions.",
       " The highest category is found at #forthepeople where Total number of mentions is 6961.0.",
       " The lowest category is found at #hr1 where Total number of mentions is 1683.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 9
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
    "data": [
       {
          "Hashtag": "#forthepeople",

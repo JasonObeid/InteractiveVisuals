@@ -1,270 +1,63 @@
 {
-   "title": "U.S. unemployment rate by age 1990 to 2019",
-   "labels": [
-      "Year",
-      "16-24",
-      "25-29",
-      "30-34",
-      "35-44",
-      "45 and over"
-   ],
-   "columnType": "multi",
+   "title": "India : number of internet users 2015 to 2023",
+   "xAxis": "Year",
+   "yAxis": "Number of internet users in millions",
+   "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This graph shows the rate of unemployment amongst those aged 25 or older , distinguished by educational attainment levels from 2019 to in the U.S.",
-      "In 2019 , around 8.4 % of people aged 25 and older who had 16-24 a , were unemployed . ",
-      "The monthly unemployment rate in the U.S. can be accessed here and the unemployment rate for each U.S. state can be accessed here ."
+      "This statistic provides information on the Number of internet in India from 2015 to 2023 . ",
+      "In 2023 , it is expected that 666.4 millions of the population in India will be also accessing the social network , up from 483.0 millions in 2018 ."
    ],
    "trends": [
-      {},
       {
-         "4": [
-            "0",
-            "1"
-         ]
+         "12": "8",
+         "14": "0"
       },
-      {}
+      {
+         "1": "0",
+         "7": "0",
+         "24": "5",
+         "27": "5"
+      }
    ],
    "data": [
       {
-         "Year": "'19",
-         "16-24": "8.4",
-         "25-29": "4.1",
-         "30-34": "3.3",
-         "35-44": "2.7",
-         "45 and over": "2.7"
+         "Year": "2023",
+         "Number of internet users in millions": "666.4"
       },
       {
-         "Year": "'18",
-         "16-24": "8.6",
-         "25-29": "4.3",
-         "30-34": "3.5",
-         "35-44": "3",
-         "45 and over": "2.9"
+         "Year": "2022",
+         "Number of internet users in millions": "634.9"
       },
       {
-         "Year": "'17",
-         "16-24": "9.2",
-         "25-29": "4.9",
-         "30-34": "4.2",
-         "35-44": "3.5",
-         "45 and over": "3.2"
+         "Year": "2021",
+         "Number of internet users in millions": "601.0"
       },
       {
-         "Year": "'16",
-         "16-24": "10.4",
-         "25-29": "5.6",
-         "30-34": "4.5",
-         "35-44": "3.8",
-         "45 and over": "3.6"
+         "Year": "2020",
+         "Number of internet users in millions": "564.5"
       },
       {
-         "Year": "'15",
-         "16-24": "11.6",
-         "25-29": "6",
-         "30-34": "4.9",
-         "35-44": "4.1",
-         "45 and over": "3.7"
+         "Year": "2019",
+         "Number of internet users in millions": "525.3"
       },
       {
-         "Year": "'14",
-         "16-24": "13.4",
-         "25-29": "7.2",
-         "30-34": "5.9",
-         "35-44": "4.7",
-         "45 and over": "4.4"
+         "Year": "2018",
+         "Number of internet users in millions": "483.0"
       },
       {
-         "Year": "'13",
-         "16-24": "15.5",
-         "25-29": "8.1",
-         "30-34": "6.7",
-         "35-44": "5.9",
-         "45 and over": "5.5"
+         "Year": "2017",
+         "Number of internet users in millions": "437.4"
       },
       {
-         "Year": "'12",
-         "16-24": "16.2",
-         "25-29": "8.9",
-         "30-34": "7.6",
-         "35-44": "6.6",
-         "45 and over": "6.1"
+         "Year": "2016",
+         "Number of internet users in millions": "295.39"
       },
       {
-         "Year": "'11",
-         "16-24": "17.3",
-         "25-29": "10.3",
-         "30-34": "8.6",
-         "35-44": "7.3",
-         "45 and over": "6.8"
-      },
-      {
-         "Year": "'10",
-         "16-24": "18.4",
-         "25-29": "10.9",
-         "30-34": "9.2",
-         "35-44": "8.1",
-         "45 and over": "7.4"
-      },
-      {
-         "Year": "'09",
-         "16-24": "17.6",
-         "25-29": "10.6",
-         "30-34": "9",
-         "35-44": "7.9",
-         "45 and over": "6.9"
-      },
-      {
-         "Year": "'08",
-         "16-24": "12.8",
-         "25-29": "6.5",
-         "30-34": "5.2",
-         "35-44": "4.6",
-         "45 and over": "4"
-      },
-      {
-         "Year": "'07",
-         "16-24": "10.5",
-         "25-29": "5.2",
-         "30-34": "4.1",
-         "35-44": "3.4",
-         "45 and over": "3.2"
-      },
-      {
-         "Year": "'06",
-         "16-24": "10.5",
-         "25-29": "5.1",
-         "30-34": "4.2",
-         "35-44": "3.6",
-         "45 and over": "3"
-      },
-      {
-         "Year": "'05",
-         "16-24": "11.3",
-         "25-29": "5.8",
-         "30-34": "4.5",
-         "35-44": "3.9",
-         "45 and over": "3.4"
-      },
-      {
-         "Year": "'04",
-         "16-24": "11.8",
-         "25-29": "6.1",
-         "30-34": "5",
-         "35-44": "4.4",
-         "45 and over": "3.8"
-      },
-      {
-         "Year": "'03",
-         "16-24": "12.4",
-         "25-29": "6.6",
-         "30-34": "5.5",
-         "35-44": "4.9",
-         "45 and over": "4.1"
-      },
-      {
-         "Year": "'02",
-         "16-24": "12",
-         "25-29": "6.4",
-         "30-34": "5.4",
-         "35-44": "4.6",
-         "45 and over": "4"
-      },
-      {
-         "Year": "'01",
-         "16-24": "10.6",
-         "25-29": "4.9",
-         "30-34": "4.3",
-         "35-44": "3.6",
-         "45 and over": "3.1"
-      },
-      {
-         "Year": "'00",
-         "16-24": "9.3",
-         "25-29": "4.1",
-         "30-34": "3.3",
-         "35-44": "3",
-         "45 and over": "2.5"
-      },
-      {
-         "Year": "'99",
-         "16-24": "9.9",
-         "25-29": "4.4",
-         "30-34": "3.6",
-         "35-44": "3",
-         "45 and over": "2.6"
-      },
-      {
-         "Year": "'98",
-         "16-24": "10.4",
-         "25-29": "4.7",
-         "30-34": "4",
-         "35-44": "3.4",
-         "45 and over": "2.7"
-      },
-      {
-         "Year": "'97",
-         "16-24": "11.3",
-         "25-29": "5.3",
-         "30-34": "4.2",
-         "35-44": "3.8",
-         "45 and over": "3"
-      },
-      {
-         "Year": "'96",
-         "16-24": "12",
-         "25-29": "5.8",
-         "30-34": "4.7",
-         "35-44": "4.1",
-         "45 and over": "3.4"
-      },
-      {
-         "Year": "'95",
-         "16-24": "12.1",
-         "25-29": "5.8",
-         "30-34": "5.1",
-         "35-44": "4.3",
-         "45 and over": "3.5"
-      },
-      {
-         "Year": "'94",
-         "16-24": "12.5",
-         "25-29": "6.6",
-         "30-34": "5.5",
-         "35-44": "4.6",
-         "45 and over": "4"
-      },
-      {
-         "Year": "'93",
-         "16-24": "13.4",
-         "25-29": "7.5",
-         "30-34": "6.4",
-         "35-44": "5.5",
-         "45 and over": "4.6"
-      },
-      {
-         "Year": "'92",
-         "16-24": "14.2",
-         "25-29": "8.2",
-         "30-34": "7.2",
-         "35-44": "5.8",
-         "45 and over": "5"
-      },
-      {
-         "Year": "'91",
-         "16-24": "13.4",
-         "25-29": "7.4",
-         "30-34": "6.4",
-         "35-44": "5.2",
-         "45 and over": "4.3"
-      },
-      {
-         "Year": "'90",
-         "16-24": "11.2",
-         "25-29": "6",
-         "30-34": "5.1",
-         "35-44": "4.1",
-         "45 and over": "3.4"
+         "Year": "2015",
+         "Number of internet users in millions": "259.88"
       }
-   ]
+   ],
+   "gold": "In 2018 , India had 483 million internet users . This figure is projected to grow to 666.4 million internet users in 2023 . Despite the untapped potential , India already is the second-largest online market worldwide .\n"
 }

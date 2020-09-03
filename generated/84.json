@@ -1,59 +1,69 @@
 {
-   "title": "Total assets of the Bank of China 2010 to 2018",
+   "title": "Gross domestic product ( GDP ) growth rate in Thailand 2024",
    "xAxis": "Year",
-   "yAxis": "Total assets in billion yuan",
+   "yAxis": "GDP growth compared to previous year",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Total of assets billion owned by households in the China from 2010 to 2018 . ",
-      "In 2018 , there were around 21267.28 thousand assets billion on Total assets and Bank in the China ."
+      "The statistic shows the growth in real GDP in Thailand from 2014 to 2018 , with projections up until 2024 . ",
+      "In 2018 , Thailand 's real Gross domestic product increased by around 4.91 % compared to the previous Year ."
    ],
    "trends": [
       {
-         "15": "8",
-         "17": "0"
+         "11": "10",
+         "13": "6",
+         "19": "0"
       },
       {
-         "1": "0",
-         "6": "0"
+         "1": "6"
       }
    ],
    "data": [
       {
+         "Year": "2024",
+         "GDP growth compared to previous year": "3.65"
+      },
+      {
+         "Year": "2023",
+         "GDP growth compared to previous year": "3.65"
+      },
+      {
+         "Year": "2022",
+         "GDP growth compared to previous year": "3.65"
+      },
+      {
+         "Year": "2021",
+         "GDP growth compared to previous year": "3.49"
+      },
+      {
+         "Year": "2020",
+         "GDP growth compared to previous year": "3.01"
+      },
+      {
+         "Year": "2019",
+         "GDP growth compared to previous year": "2.87"
+      },
+      {
          "Year": "2018",
-         "Total assets in billion yuan": "21267.28"
+         "GDP growth compared to previous year": "4.13"
       },
       {
          "Year": "2017",
-         "Total assets in billion yuan": "19467.42"
+         "GDP growth compared to previous year": "4.02"
       },
       {
          "Year": "2016",
-         "Total assets in billion yuan": "18148.89"
+         "GDP growth compared to previous year": "3.36"
       },
       {
          "Year": "2015",
-         "Total assets in billion yuan": "16815.6"
+         "GDP growth compared to previous year": "3.13"
       },
       {
          "Year": "2014",
-         "Total assets in billion yuan": "15251.4"
-      },
-      {
-         "Year": "2013",
-         "Total assets in billion yuan": "13874.3"
-      },
-      {
-         "Year": "2012",
-         "Total assets in billion yuan": "12680.6"
-      },
-      {
-         "Year": "2011",
-         "Total assets in billion yuan": "11829.8"
-      },
-      {
-         "Year": "2010",
-         "Total assets in billion yuan": "10459.7"
+         "GDP growth compared to previous year": "0.98"
       }
-   ]
+   ],
+   "gold": "Thailand 's gross domestic product ( GDP ) grew at a rate of 4 percent in 2017 . It is expected to grow slightly faster in the coming year before converging to a long-run growth rate around 3.6 percent . This steady growth can be attributed to Thailand 's relatively developed economy .\n"
 }

@@ -8,16 +8,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 4 categories for the x axis of Country representing 1-2 physicians, 3-6 physicians, 7 or more physicians.",
-      " The highest category is found at South with a mean value of 54.333333333333336.",
+      "This grouped bar chart has 4 categories for the x axis of Country representing 1-2 physicians, 3-6 physicians, and 7 or more physicians.",
+      " The highest category is found at South with a mean value of 54.33.",
       " The second highest category is found at Midwest with a mean value of 43.0.",
       " This represents a difference of 23.3%."
    ],
-   "trends": {
-      "maxIndex": 2,
-      "secondIndex": 2
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "13": [
+            "3",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "3",
+            "0"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "Midwest",

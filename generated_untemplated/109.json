@@ -1,0 +1,28 @@
+{
+   "title": "Organ donation rate in the United Kingdom 2018/19 , by country\n",
+   "xAxis": "Country",
+   "yAxis": "Rate of donation per million population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the number of outbound power stations to be closed down worldwide by 2030 , based on world region . 165 nuclear power stations will be closed down in europe by 2030 . There will be a total of 297 power station closures worldwide by 2030 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Country": "Scotland",
+         "Rate of donation per million population": 17.9
+      },
+      {
+         "Country": "Northern Ireland",
+         "Rate of donation per million population": 23.0
+      },
+      {
+         "Country": "England",
+         "Rate of donation per million population": 24.5
+      },
+      {
+         "Country": "Wales",
+         "Rate of donation per million population": 30.7
+      }
+   ]
+}

@@ -9,16 +9,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 5 categories for the x axis of Submarket representing 2013, 2014, 2015, 2016.",
+      "This grouped bar chart has 5 categories for the x axis of Submarket representing 2013, 2014, 2015, and 2016.",
       " The highest category is found at Residential property: owner occupied & social housing with a mean value of 4291.0.",
       " The second highest category is found at Residential property: privately rented with a mean value of 973.25.",
       " This represents a difference of 126.0%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "4",
+            "1"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Submarket": "Residential property: owner occupied & social housing",

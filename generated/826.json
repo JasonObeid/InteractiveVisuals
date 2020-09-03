@@ -1,113 +1,49 @@
 {
-   "title": "Employment by economic sector in South Korea 2019",
-   "labels": [
-      "Year",
-      "Agriculture",
-      "Industry",
-      "Services"
-   ],
-   "columnType": "multi",
+   "title": "Olympic Summer Games - revenue generated from domestic sponsorships 1996 to 2016",
+   "xAxis": "Year",
+   "yAxis": "Domestic sponsorship revenue in million U.S. dollars",
+   "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the distribution of Employment in South Korea by economic sector from 2009 to 2019 . ",
-      "In 2019 , 4.68 % of the employees in South Korea were active in the agricultural sector , 24.84 % in Industry and 70.48 % in the service sector ."
+      "This statistic shows the Summer Games Domestic of the generated of Olympic Summer Games from 1996_Atlanta to 2016_Rio . ",
+      "The average Domestic of the generated is predicted to rise continuously over this 25 Year period , with the sharpest rise between 2012_London and 2016_Rio , of 0.9 years ."
    ],
    "trends": [
       {
-         "13": [
-            "10",
-            "0"
-         ],
-         "15": [
-            "0",
-            "0"
-         ]
+         "13": "5",
+         "15": "0"
       },
       {
-         "1": [
-            "0",
-            "0"
-         ],
-         "3": [
-            "0",
-            "1"
-         ],
-         "17": [
-            "0",
-            "2"
-         ],
-         "22": [
-            "0",
-            "3"
-         ]
+         "22": "1",
+         "24": "0"
       }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Agriculture": "4.68",
-         "Industry": "24.84",
-         "Services": "70.48"
+         "Year": "2016 Rio",
+         "Domestic sponsorship revenue in million U.S. dollars": "848"
       },
       {
-         "Year": "2018",
-         "Agriculture": "4.73",
-         "Industry": "24.96",
-         "Services": "70.31"
+         "Year": "2012 London",
+         "Domestic sponsorship revenue in million U.S. dollars": "1150"
       },
       {
-         "Year": "2017",
-         "Agriculture": "4.78",
-         "Industry": "25.07",
-         "Services": "70.14"
+         "Year": "2008 Beijing",
+         "Domestic sponsorship revenue in million U.S. dollars": "1218"
       },
       {
-         "Year": "2016",
-         "Agriculture": "4.82",
-         "Industry": "24.99",
-         "Services": "70.19"
+         "Year": "2004 Athens",
+         "Domestic sponsorship revenue in million U.S. dollars": "302"
       },
       {
-         "Year": "2015",
-         "Agriculture": "5.11",
-         "Industry": "25.2",
-         "Services": "69.69"
+         "Year": "2000 Sydney",
+         "Domestic sponsorship revenue in million U.S. dollars": "492"
       },
       {
-         "Year": "2014",
-         "Agriculture": "5.58",
-         "Industry": "24.77",
-         "Services": "69.65"
-      },
-      {
-         "Year": "2013",
-         "Agriculture": "5.98",
-         "Industry": "24.52",
-         "Services": "69.5"
-      },
-      {
-         "Year": "2012",
-         "Agriculture": "6.13",
-         "Industry": "24.58",
-         "Services": "69.29"
-      },
-      {
-         "Year": "2011",
-         "Agriculture": "6.37",
-         "Industry": "24.85",
-         "Services": "68.78"
-      },
-      {
-         "Year": "2010",
-         "Agriculture": "6.6",
-         "Industry": "25.02",
-         "Services": "68.38"
-      },
-      {
-         "Year": "2009",
-         "Agriculture": "7.01",
-         "Industry": "24.5",
-         "Services": "68.5"
+         "Year": "1996 Atlanta",
+         "Domestic sponsorship revenue in million U.S. dollars": "426"
       }
-   ]
+   ],
+   "gold": "The statistic shows the revenue generated from domestic sponsorships at the Olympic Summer Games from 1996 to 2016 . The 2016 Olympic Games in Rio de Janeiro generated about 848 million U.S. dollars in sponsorship revenues .\n"
 }

@@ -4,15 +4,24 @@
    "yAxis": "Maximum fine (in U.S. dollars)",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 9 categories for the x axis representing Fine Types, and a y axis representing Maximum fine (in U.S. dollars).",
       " The highest category is found at Unexcused_late_reporting_foror_absence_from_preseason_training where Maximum fine (in U.S. dollars) is 30000.0.",
       " The lowest category is found at Being_overweight_(per_lb.) where Maximum fine (in U.S. dollars) is 470.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 8
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
    "data": [
       {
          "Fine Types": "Unexcused late reporting foror absence from preseason training",

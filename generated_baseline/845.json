@@ -4,27 +4,41 @@
    "yAxis": "GDP per capita in U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing GDP per capita in U.S. dollars, with a total of 41 data points. The chart has 2 significant trends.",
-      " The longest trend is extremely negative which exists from 2008 to 2002.",
-      " Differently, the next significant trend is extremely negative which exists from 1994 to 1989."
+      "This line chart has an x axis representing Year and a y axis representing GDP per capita in U.S. dollars, with a total of 41 data points. The chart has 6 significant trends.",
+      " The longest trend is extremely positive which exists from 2017 to 2009.",
+      " Additionally, the next significant trend is moderately negative which exists from 2024 to 2017.",
+      " Differently, the next significant trend is extremely positive which exists from 2009 to 2002.",
+      " Also, the next significant trend is slightly positive which exists from 2002 to 1995.",
+      " Correspondingly, the next significant trend is extremely positive which exists from 1995 to 1989.",
+      " Similarly, the next significant trend is moderately positive which exists from 1989 to 1984."
    ],
    "trends": [
+      {},
       {
-         "Length": 7,
-         "direction": "negative",
-         "start": 16,
-         "end": 22,
-         "trend": "y=990.8x+-1981067.89",
-         "magnitude": "extremely"
+         "1": "7",
+         "12": "15"
       },
       {
-         "Length": 6,
-         "direction": "negative",
-         "start": 30,
-         "end": 35,
-         "trend": "y=1041.82x+-2068643.74",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "7"
+      },
+      {
+         "3": "15",
+         "14": "22"
+      },
+      {
+         "3": "22",
+         "14": "29"
+      },
+      {
+         "3": "29",
+         "14": "35"
+      },
+      {
+         "3": "35",
+         "14": "40"
       }
    ],
    "data": [

@@ -4,27 +4,21 @@
    "yAxis": "Billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Billion U.S. dollars, with a total of 27 data points. The chart has 2 significant trends.",
-      " The longest trend is strongly negative which exists from 11 to 92.",
-      " But, the next significant trend is extremely negative which exists from 18 to 12."
+      " The longest trend is slightly positive which exists from 12 to 92.",
+      " Similarly, the next significant trend is extremely positive which exists from 18 to 12."
    ],
    "trends": [
+      {},
       {
-         "Length": 20,
-         "direction": "negative",
-         "start": 7,
-         "end": 26,
-         "trend": "y=-0.97x+188.35",
-         "magnitude": "strongly"
+         "1": "6",
+         "12": "26"
       },
       {
-         "Length": 7,
-         "direction": "negative",
-         "start": 0,
-         "end": 6,
-         "trend": "y=9.71x+113.55",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "6"
       }
    ],
    "data": [

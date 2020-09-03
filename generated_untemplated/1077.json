@@ -1,0 +1,25 @@
+{
+   "title": "Luxury retail segment growth in the United Kingdom ( UK ) 2008 to 2018",
+   "labels": [
+      "Year",
+      "Luxury segment",
+      "All retail"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": "This statistic shows the air value of the grocery retail sector in germany in 2011 and 2014 , alongside the share of online and offline stores in the netherlands was projected to grow to 5 percent .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2013-2018",
+         "Luxury segment": "24.8",
+         "All retail": "11.9"
+      },
+      {
+         "Year": "2008-2013",
+         "Luxury segment": "24",
+         "All retail": "7.1"
+      }
+   ]
+}

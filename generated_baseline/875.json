@@ -4,36 +4,36 @@
    "yAxis": "Rate per 1,000 members",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Rate per 1,000 members, with a total of 15 data points. The chart has 3 significant trends.",
-      " The longest trend is  positive which exists from <1_year to 15-17_years.",
-      " Additionally, the next significant trend is  negative which exists from 15-17_years to 30-34_years.",
-      " Conversely, the next significant trend is  neutral which exists from 50-54_years to 60-64_years."
+      "This line chart has an x axis representing Year and a y axis representing Rate per 1,000 members, with a total of 15 data points. The chart has 5 significant trends.",
+      " The longest trend is extremely negative which exists from <1_year to 15-17_years.",
+      " On the contrary, the next significant trend is slightly positive which exists from 15-17_years to 30-34_years.",
+      " Correspondingly, the next significant trend is moderately positive which exists from 30-34_years to 40-44_years.",
+      " Likewise, the next significant trend is moderately positive which exists from 40-44_years to 50-54_years.",
+      " Also, the next significant trend is moderately neutral which exists from 50-54_years to 60-64_years."
    ],
    "trends": [
+      {},
       {
-         "Length": 5,
-         "direction": "positive",
-         "start": 0,
-         "end": 4,
-         "trend": "y=0.01x+1.94",
-         "magnitude": ""
+         "1": "0",
+         "12": "4"
       },
       {
-         "Length": 5,
-         "direction": "negative",
-         "start": 4,
-         "end": 8,
-         "trend": "y=-0.01x+29.36",
-         "magnitude": ""
+         "3": "4",
+         "14": "8"
       },
       {
-         "Length": 3,
-         "direction": "neutral",
-         "start": 12,
-         "end": 14,
-         "trend": "y=0.0x+1.8",
-         "magnitude": ""
+         "3": "8",
+         "14": "10"
+      },
+      {
+         "3": "10",
+         "14": "12"
+      },
+      {
+         "3": "12",
+         "14": "14"
       }
    ],
    "data": [

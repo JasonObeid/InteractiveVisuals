@@ -9,16 +9,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 3 categories for the x axis of Response representing Under $50, $50 - $100, $100 - $200, $200 and up.",
+      "This grouped bar chart has 3 categories for the x axis of Response representing Under $50, $50 - $100, $100 - $200, and $200 and up.",
       " The highest category is found at BlackBerry owners with a mean value of 23.5.",
       " The second highest category is found at iPhone owners with a mean value of 23.5.",
       " This represents a difference of 0.0%."
    ],
-   "trends": {
-      "maxIndex": 2,
-      "secondIndex": 2
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "13": [
+            "4",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "4",
+            "1"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Response": "Android owners",

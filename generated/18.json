@@ -1,92 +1,144 @@
 {
-   "title": "Trump budget proposal 2018 : changes by department",
-   "xAxis": "Department Name",
-   "yAxis": "Percentage change from 2017",
-   "columnType": "two",
-   "graphType": "bar",
+   "title": "U.S. construction : annual spending in public and private sectors 1998 to 2018",
+   "labels": [
+      "Year",
+      "Public sector",
+      "Private sector"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
    "summary": [
-      "The statistic shows the Percentage of health and fitness change in Trump American in 2018 , by Department . ",
-      "In Environmental_Protection_Agency , 9 fitness and health change were in operation 2018 ."
+      "The statistic depicts the U.S. of participants/athletes at the U.S. Games from '98 to 2019 . ",
+      "At the '17 U.S. Games in '17 283 male athletes particpated in the competitions ."
    ],
    "trends": [
-      {},
       {
-         "1": "0",
-         "3": "17"
+         "12": [
+            "20",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "1",
+            "0"
+         ],
+         "6": [
+            "1",
+            "0"
+         ],
+         "7": [
+            "1",
+            "1"
+         ]
       }
    ],
    "data": [
       {
-         "Department Name": "Environmental Protection Agency",
-         "Percentage change from 2017": "-31"
+         "Year": "'18",
+         "Public sector": "302",
+         "Private sector": "992"
       },
       {
-         "Department Name": "State Department",
-         "Percentage change from 2017": "-29"
+         "Year": "'17",
+         "Public sector": "283",
+         "Private sector": "963"
       },
       {
-         "Department Name": "Agriculture Department",
-         "Percentage change from 2017": "-21"
+         "Year": "'16",
+         "Public sector": "292",
+         "Private sector": "899"
       },
       {
-         "Department Name": "Labor Department",
-         "Percentage change from 2017": "-21"
+         "Year": "'15",
+         "Public sector": "290",
+         "Private sector": "823"
       },
       {
-         "Department Name": "Department of Health and Human Services",
-         "Percentage change from 2017": "-18"
+         "Year": "'14",
+         "Public sector": "276",
+         "Private sector": "730"
       },
       {
-         "Department Name": "Commerce Department",
-         "Percentage change from 2017": "-16"
+         "Year": "'13",
+         "Public sector": "271",
+         "Private sector": "636"
       },
       {
-         "Department Name": "Education Department",
-         "Percentage change from 2017": "-14"
+         "Year": "'12",
+         "Public sector": "279",
+         "Private sector": "571"
       },
       {
-         "Department Name": "Department of Housing and Urban Development",
-         "Percentage change from 2017": "-13"
+         "Year": "'11",
+         "Public sector": "286",
+         "Private sector": "502"
       },
       {
-         "Department Name": "Transportation Department",
-         "Percentage change from 2017": "-13"
+         "Year": "'10",
+         "Public sector": "304",
+         "Private sector": "505"
       },
       {
-         "Department Name": "Interior Department",
-         "Percentage change from 2017": "-12"
+         "Year": "'09",
+         "Public sector": "315",
+         "Private sector": "592"
       },
       {
-         "Department Name": "Energy Department",
-         "Percentage change from 2017": "-6"
+         "Year": "'08",
+         "Public sector": "309",
+         "Private sector": "769"
       },
       {
-         "Department Name": "Small Business Administration",
-         "Percentage change from 2017": "-5"
+         "Year": "'07",
+         "Public sector": "289",
+         "Private sector": "863"
       },
       {
-         "Department Name": "Treasury Department",
-         "Percentage change from 2017": "-4"
+         "Year": "'06",
+         "Public sector": "255",
+         "Private sector": "912"
       },
       {
-         "Department Name": "Justice Department",
-         "Percentage change from 2017": "-4"
+         "Year": "'05",
+         "Public sector": "234",
+         "Private sector": "870"
       },
       {
-         "Department Name": "NASA",
-         "Percentage change from 2017": "-1"
+         "Year": "'04",
+         "Public sector": "220",
+         "Private sector": "771"
       },
       {
-         "Department Name": "Department of Veterans Affairs",
-         "Percentage change from 2017": "6"
+         "Year": "'03",
+         "Public sector": "216",
+         "Private sector": "675"
       },
       {
-         "Department Name": "Department of Homeland Security",
-         "Percentage change from 2017": "7"
+         "Year": "'02",
+         "Public sector": "213",
+         "Private sector": "634"
       },
       {
-         "Department Name": "Defense Department",
-         "Percentage change from 2017": "9"
+         "Year": "'01",
+         "Public sector": "202",
+         "Private sector": "638"
+      },
+      {
+         "Year": "'00",
+         "Public sector": "181",
+         "Private sector": "621"
+      },
+      {
+         "Year": "'99",
+         "Public sector": "169",
+         "Private sector": "575"
+      },
+      {
+         "Year": "'98",
+         "Public sector": "155",
+         "Private sector": "534"
       }
-   ]
+   ],
+   "gold": "The statistic reflects the total value of both public and private sector construction spending in the United States between 1993 and 2018 . In 2018 , private sector construction spending is expected to total around 992 billion US dollars .\n"
 }

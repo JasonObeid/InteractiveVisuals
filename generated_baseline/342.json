@@ -1,116 +1,130 @@
 {
-   "title": "Unemployment rate in Ghana 2019\n",
-   "xAxis": "Year",
-   "yAxis": "Unemployment rate",
-   "columnType": "two",
+   "title": "Liverpool FC revenue by stream 2018/19",
+   "labels": [
+      "Year",
+      "Matchday",
+      "Broadcasting",
+      "Commercial"
+   ],
+   "columnType": "multi",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 21 data points. The chart has 2 significant trends.",
-      " The longest trend is extremely negative which exists from 2015 to 2007.",
-      " On the other hand, the next significant trend is extremely positive which exists from 2007 to 1999."
+      "This line chart has 3 lines.",
+      " The line representing Broadcasting had the highest values across Year with a mean value of 144.8.",
+      " This peaked at 2018/19 with a value of 299.0. ",
+      " The line with the second highest values was Commercial with a mean value of 130.1.",
+      " This line peaked at 2018/19 with a value of 210.0"
    ],
    "trends": [
+      {},
       {
-         "Length": 9,
-         "direction": "negative",
-         "start": 4,
-         "end": 12,
-         "trend": "y=0.29x+-585.19",
-         "magnitude": "extremely"
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "10",
+            "1"
+         ]
       },
       {
-         "Length": 9,
-         "direction": "positive",
-         "start": 12,
-         "end": 20,
-         "trend": "y=-0.81x+1639.57",
-         "magnitude": "extremely"
+         "1": [
+            "0",
+            "1"
+         ],
+         "9": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "15": [
+            "10",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "2"
+         ],
+         "10": [
+            "0",
+            "2"
+         ]
       }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Unemployment rate": 6.78
+         "Year": "2018/19",
+         "Matchday": "94.5",
+         "Broadcasting": "299.3",
+         "Commercial": "210.9"
       },
       {
-         "Year": "2018",
-         "Unemployment rate": 6.71
+         "Year": "2017/18",
+         "Matchday": "91.6",
+         "Broadcasting": "251.3",
+         "Commercial": "170.8"
       },
       {
-         "Year": "2017",
-         "Unemployment rate": 6.63
+         "Year": "2016/17",
+         "Matchday": "80.1",
+         "Broadcasting": "182.5",
+         "Commercial": "161.6"
       },
       {
-         "Year": "2016",
-         "Unemployment rate": 6.77
+         "Year": "2015/16",
+         "Matchday": "75.9",
+         "Broadcasting": "168.1",
+         "Commercial": "159.8"
       },
       {
-         "Year": "2015",
-         "Unemployment rate": 6.81
+         "Year": "2014/15",
+         "Matchday": "75.0",
+         "Broadcasting": "163.8",
+         "Commercial": "153.0"
       },
       {
-         "Year": "2014",
-         "Unemployment rate": 6.48
+         "Year": "2013/14",
+         "Matchday": "61.0",
+         "Broadcasting": "120.8",
+         "Commercial": "124.1"
       },
       {
-         "Year": "2013",
-         "Unemployment rate": 6.43
+         "Year": "2012/13",
+         "Matchday": "52.1",
+         "Broadcasting": "74.5",
+         "Commercial": "114.0"
       },
       {
-         "Year": "2012",
-         "Unemployment rate": 6.01
+         "Year": "2011/12",
+         "Matchday": "55.9",
+         "Broadcasting": "78.2",
+         "Commercial": "99.1"
       },
       {
-         "Year": "2011",
-         "Unemployment rate": 5.91
+         "Year": "2010/11",
+         "Matchday": "45.3",
+         "Broadcasting": "72.3",
+         "Commercial": "85.7"
       },
       {
-         "Year": "2010",
-         "Unemployment rate": 5.32
+         "Year": "2009/10",
+         "Matchday": "52.4",
+         "Broadcasting": "97.1",
+         "Commercial": "75.8"
       },
       {
-         "Year": "2009",
-         "Unemployment rate": 5.17
-      },
-      {
-         "Year": "2008",
-         "Unemployment rate": 4.66
-      },
-      {
-         "Year": "2007",
-         "Unemployment rate": 4.57
-      },
-      {
-         "Year": "2006",
-         "Unemployment rate": 4.64
-      },
-      {
-         "Year": "2005",
-         "Unemployment rate": 5.54
-      },
-      {
-         "Year": "2004",
-         "Unemployment rate": 6.47
-      },
-      {
-         "Year": "2003",
-         "Unemployment rate": 7.57
-      },
-      {
-         "Year": "2002",
-         "Unemployment rate": 8.58
-      },
-      {
-         "Year": "2001",
-         "Unemployment rate": 9.29
-      },
-      {
-         "Year": "2000",
-         "Unemployment rate": 10.36
-      },
-      {
-         "Year": "1999",
-         "Unemployment rate": 10.1
+         "Year": "2008/09",
+         "Matchday": "49.9",
+         "Broadcasting": "87.6",
+         "Commercial": "79.5"
       }
    ]
 }

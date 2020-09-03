@@ -9,16 +9,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 3 categories for the x axis of Sex representing All races / ethnicities, White (non-Hispanic), Black (non-Hispanic), Hispanic.",
-      " The highest category is found at Male with a mean value of 7.125.",
+      "This grouped bar chart has 3 categories for the x axis of Sex representing All races / ethnicities, White (non-Hispanic), Black (non-Hispanic), and Hispanic.",
+      " The highest category is found at Male with a mean value of 7.12.",
       " The second highest category is found at Total with a mean value of 6.05.",
       " This represents a difference of 16.3%."
    ],
-   "trends": {
-      "maxIndex": 1,
-      "secondIndex": 1
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "4",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "14": [
+            "4",
+            "2"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Sex": "Female",

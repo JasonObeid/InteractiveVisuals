@@ -1,189 +1,64 @@
 {
-   "title": "Dacia car sales in the United Kingdom ( UK ) 2016 to 2019",
-   "xAxis": "Month",
-   "yAxis": "Units sold",
+   "title": "Leading convention centers in Canada as of June 2017 , by size",
+   "xAxis": "Buildings",
+   "yAxis": "Exhibition space in thousand square feet",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "German vehicle manufacturer Dacia sold 2357 cars in the United Kingdom in 2019 . ",
-      "Generally , sales figures were highest in and of each year , with 2018 being a notable exception . ",
-      "The Driver & Vehicle Licensing Agency issues new registration plates in and , which usually corresponds with an increased sales volume ."
+      "The statistic shows the Canada unit Exhibition June of the top 460.0 Buildings in terms of thousand in the first half of 2017 . ",
+      "The Enercare_Centre XR Exhibition amounted to 1000.0 thousand in the first half of 2017 ."
    ],
    "trends": [
       {
-         "5": "0"
+         "11": "3"
       },
-      {},
-      {}
+      {
+         "1": "0",
+         "6": "0"
+      }
    ],
    "data": [
       {
-         "Month": "Dec 19",
-         "Units sold": "2357"
+         "Buildings": "Enercare Centre",
+         "Exhibition space in thousand square feet": "1000.0"
       },
       {
-         "Month": "Nov 19",
-         "Units sold": "1963"
+         "Buildings": "The Toronto Congress Centre",
+         "Exhibition space in thousand square feet": "1000.0"
       },
       {
-         "Month": "Oct 19",
-         "Units sold": "1287"
+         "Buildings": "The International Centre Toronto",
+         "Exhibition space in thousand square feet": "500.0"
       },
       {
-         "Month": "Sep 19",
-         "Units sold": "4300"
+         "Buildings": "Metro Toronto Convention Centre",
+         "Exhibition space in thousand square feet": "460.0"
       },
       {
-         "Month": "Aug 19",
-         "Units sold": "1031"
+         "Buildings": "Evraz Place",
+         "Exhibition space in thousand square feet": "452.0"
       },
       {
-         "Month": "Jul 19",
-         "Units sold": "1445"
+         "Buildings": "Olympic Park",
+         "Exhibition space in thousand square feet": "410.0"
       },
       {
-         "Month": "Jun 19",
-         "Units sold": "2935"
+         "Buildings": "Northlands",
+         "Exhibition space in thousand square feet": "401.0"
       },
       {
-         "Month": "May 19",
-         "Units sold": "2647"
+         "Buildings": "Calgary Stampede Park",
+         "Exhibition space in thousand square feet": "400.0"
       },
       {
-         "Month": "Apr 19",
-         "Units sold": "2060"
+         "Buildings": "Place Bonaventure",
+         "Exhibition space in thousand square feet": "315.0"
       },
       {
-         "Month": "Mar 19",
-         "Units sold": "7443"
-      },
-      {
-         "Month": "Feb 19",
-         "Units sold": "1008"
-      },
-      {
-         "Month": "Jan 19",
-         "Units sold": "2475"
-      },
-      {
-         "Month": "Dec 18",
-         "Units sold": "1890"
-      },
-      {
-         "Month": "Nov 18",
-         "Units sold": "2237"
-      },
-      {
-         "Month": "Oct 18",
-         "Units sold": "1778"
-      },
-      {
-         "Month": "Sep 18",
-         "Units sold": "2470"
-      },
-      {
-         "Month": "Aug 18",
-         "Units sold": "811"
-      },
-      {
-         "Month": "Jul 18",
-         "Units sold": "1366"
-      },
-      {
-         "Month": "Jun 18",
-         "Units sold": "2000"
-      },
-      {
-         "Month": "May 18",
-         "Units sold": "2516"
-      },
-      {
-         "Month": "Apr 18",
-         "Units sold": "1919"
-      },
-      {
-         "Month": "Mar 18",
-         "Units sold": "4013"
-      },
-      {
-         "Month": "Feb 18",
-         "Units sold": "1048"
-      },
-      {
-         "Month": "Jan 18",
-         "Units sold": "2121"
-      },
-      {
-         "Month": "Dec 17",
-         "Units sold": "983"
-      },
-      {
-         "Month": "Nov 17",
-         "Units sold": "1466"
-      },
-      {
-         "Month": "Oct 17",
-         "Units sold": "1625"
-      },
-      {
-         "Month": "Sep 17",
-         "Units sold": "4459"
-      },
-      {
-         "Month": "Aug 17",
-         "Units sold": "769"
-      },
-      {
-         "Month": "Jul 17",
-         "Units sold": "1460"
-      },
-      {
-         "Month": "Jun 17",
-         "Units sold": "2845"
-      },
-      {
-         "Month": "May 17",
-         "Units sold": "1939"
-      },
-      {
-         "Month": "Apr 17",
-         "Units sold": "1397"
-      },
-      {
-         "Month": "Mar 17",
-         "Units sold": "5773"
-      },
-      {
-         "Month": "Feb 17",
-         "Units sold": "439"
-      },
-      {
-         "Month": "Jan 17",
-         "Units sold": "1994"
-      },
-      {
-         "Month": "Dec 16",
-         "Units sold": "1891"
-      },
-      {
-         "Month": "Nov 16",
-         "Units sold": "1405"
-      },
-      {
-         "Month": "Oct 16",
-         "Units sold": "2280"
-      },
-      {
-         "Month": "Sep 16",
-         "Units sold": "5247"
-      },
-      {
-         "Month": "Aug 16",
-         "Units sold": "845"
-      },
-      {
-         "Month": "Jul 16",
-         "Units sold": "1386"
+         "Buildings": "Vancouver Convention Centre",
+         "Exhibition space in thousand square feet": "311.5"
       }
-   ]
+   ],
+   "gold": "This statistic shows the leading convention centers in Canada as of June 2017 , by size . The Enercare Centre and The Toronto Congress Centre were the largest convention centers in Canada at one million square feet each .\n"
 }

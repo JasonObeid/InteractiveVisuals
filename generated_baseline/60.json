@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 39 categories for the x axis of Country representing Public, Private.",
+      "This grouped bar chart has 39 categories for the x axis of Country representing Public, and Private.",
       " The highest category is found at Chile with a mean value of 1.35.",
       " The second highest category is found at Canada with a mean value of 1.15.",
       " This represents a difference of 16.0%."
    ],
-   "trends": {
-      "maxIndex": 13,
-      "secondIndex": 13
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "13"
+         ],
+         "13": [
+            "2",
+            "13"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "6"
+         ],
+         "14": [
+            "2",
+            "6"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "Norway",

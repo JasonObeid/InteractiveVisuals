@@ -1,58 +1,68 @@
 {
-   "title": "Tinder usage frequency in the United States 2018",
-   "xAxis": "Response",
-   "yAxis": "Share of respondents",
+   "title": "LINE : number of monthly active users 2014 to 2016",
+   "xAxis": "Quarter",
+   "yAxis": "Number of monthly users in millions",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "According to a 2018 Statista survey , 84 % of the 2018 respondents use their usage to Several_times_a_day . ",
-      "Never common uses of usage included Once_a_day or and listening to the Once_every_few_days . ",
-      "Headphone Market The retail value of global headphone shipments was forecast to reach 26.1 billion 2018 dollars in 2019 , a more than threefold increase in 2 years ."
+      "In the fourth Quarter of 2016 , LINE had 170.0 millions monthly users worldwide , up from 220.0 millions users in the previous Quarter . ",
+      "LINE is a feature of the app 's mobile platform worldwide . ",
+      "LINE is one of the most popular social network worldwide ."
    ],
    "trends": [
       {
-         "7": "6",
-         "17": "0",
-         "19": "0"
+         "9": "10",
+         "17": "1"
       },
-      {
-         "0": "6",
-         "6": "1",
-         "8": "1",
-         "13": "2"
-      },
-      {
-         "26": "0"
-      }
+      {},
+      {}
    ],
    "data": [
       {
-         "Response": "Several times a day",
-         "Share of respondents": "2"
+         "Quarter": "Q4 '16",
+         "Number of monthly users in millions": "217.0"
       },
       {
-         "Response": "Once a day",
-         "Share of respondents": "3"
+         "Quarter": "Q3 '16",
+         "Number of monthly users in millions": "220.0"
       },
       {
-         "Response": "Once every few days",
-         "Share of respondents": "3"
+         "Quarter": "Q2 '16",
+         "Number of monthly users in millions": "220.0"
       },
       {
-         "Response": "Once a week",
-         "Share of respondents": "2"
+         "Quarter": "Q1 '16",
+         "Number of monthly users in millions": "218.4"
       },
       {
-         "Response": "Once every few weeks",
-         "Share of respondents": "2"
+         "Quarter": "Q4 '15",
+         "Number of monthly users in millions": "215.0"
       },
       {
-         "Response": "Less often than every few weeks",
-         "Share of respondents": "3"
+         "Quarter": "Q3 '15",
+         "Number of monthly users in millions": "212.0"
       },
       {
-         "Response": "Never",
-         "Share of respondents": "84"
+         "Quarter": "Q2 '15",
+         "Number of monthly users in millions": "211.0"
+      },
+      {
+         "Quarter": "Q1 '15",
+         "Number of monthly users in millions": "205.0"
+      },
+      {
+         "Quarter": "Q4 '14",
+         "Number of monthly users in millions": "190.0"
+      },
+      {
+         "Quarter": "Q3 '14",
+         "Number of monthly users in millions": "179.0"
+      },
+      {
+         "Quarter": "Q2 '14",
+         "Number of monthly users in millions": "170.0"
       }
-   ]
+   ],
+   "gold": "This statistic shows a timeline with the amount of monthly active LINE users worldwide as of the fourth quarter of 2016 . As of that period , the mobile messaging app announced more than 217 million monthly active users . In October 2014 , LINE had also reported 560 million registered users worldwide .\n"
 }

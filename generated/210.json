@@ -1,75 +1,43 @@
 {
-   "title": "Alphabet : revenue distribution 2015 - 2019 , by region",
-   "labels": [
-      "Year",
-      "United States",
-      "EMEA",
-      "APAC",
-      "Other Americas"
-   ],
-   "columnType": "multi",
-   "graphType": "line",
+   "title": "Average spend of eating out for lunch in the U.S. 2015",
+   "xAxis": "Days",
+   "yAxis": "Average cost in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic presents the distribution of revenue in the Alphabet from 2015 to 2019 , broken down 2015 revenue 2019 . ",
-      "In 2019 , the distribution of United and States revenue is estimated to stand at 46 Alphabet dollars per ton ."
+      "The statistic illustrates the Average of cost U.S. in 2015 , Per_year Days of Per_year accordingly to the Swedish LSS law . ",
+      "Per_week year , there were over 1043.0 thousand U.S. with Per_year Per_week like e.g",
+      "Per_day in U.S. ."
    ],
    "trends": [
       {
-         "11": [
-            "4",
-            "0"
-         ],
-         "13": [
-            "0",
-            "0"
-         ]
+         "13": "2",
+         "16": "2"
       },
       {
-         "1": [
-            "0",
-            "0"
-         ],
-         "16": [
-            "4",
-            "1"
-         ]
+         "0": "1",
+         "6": "2",
+         "10": "2",
+         "11": "1"
+      },
+      {
+         "0": "0"
       }
    ],
    "data": [
       {
-         "Year": "2019",
-         "United States": "46",
-         "EMEA": "31",
-         "APAC": "17",
-         "Other Americas": "6"
+         "Days": "Per day",
+         "Average cost in U.S. dollars": "11.14"
       },
       {
-         "Year": "2018",
-         "United States": "46",
-         "EMEA": "33",
-         "APAC": "15",
-         "Other Americas": "6"
+         "Days": "Per week",
+         "Average cost in U.S. dollars": "20.05"
       },
       {
-         "Year": "2017",
-         "United States": "47",
-         "EMEA": "33",
-         "APAC": "15",
-         "Other Americas": "5"
-      },
-      {
-         "Year": "2016",
-         "United States": "47",
-         "EMEA": "34",
-         "APAC": "14",
-         "Other Americas": "5"
-      },
-      {
-         "Year": "2015",
-         "United States": "46",
-         "EMEA": "35",
-         "APAC": "14",
-         "Other Americas": "5"
+         "Days": "Per year",
+         "Average cost in U.S. dollars": "1043.0"
       }
-   ]
+   ],
+   "gold": "The statistic shows the average cost of eating out for lunch in the United States in 2015 . The average cost of eating out for lunch in the U.S. was 11.14 U.S. dollars in 2015 . Eating out for lunch two times per week costs an average of 1,043 U.S. dollars per year .\n"
 }

@@ -1,84 +1,41 @@
 {
-   "title": "Selected European countries ranked by retail banking customer satisfaction 2016",
+   "title": "Number of vehicles imported into the United States by country 2012",
    "xAxis": "Country",
-   "yAxis": "Share of customers with positive experience",
+   "yAxis": "Imports in units",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the an estimate of European Share worldwide , from the 2017 fiscal year to fiscal year 2021 , ranked select Country . ",
-      "The Netherlands is projected to spend about 70.6 % positive experience on drones between 2017 and 2021 , making it the Country with the greatest expenditure on drones ."
+      "The statistic shows the Imports of units United terrorists in 2010 United States . ",
+      "2.651 people were units hostage United terrorists in Japan ."
    ],
    "trends": [
       {},
       {
-         "1": "0",
-         "7": "0"
+         "8": "0"
       }
    ],
    "data": [
       {
-         "Country": "Netherlands",
-         "Share of customers with positive experience": "70.6"
+         "Country": "Japan",
+         "Imports in units": "2441298"
       },
       {
-         "Country": "Czech Republic",
-         "Share of customers with positive experience": "67"
+         "Country": "Canada",
+         "Imports in units": "2105848"
       },
       {
-         "Country": "Austria",
-         "Share of customers with positive experience": "66.8"
+         "Country": "Mexico",
+         "Imports in units": "1440116"
       },
       {
-         "Country": "Switzerland",
-         "Share of customers with positive experience": "64.8"
-      },
-      {
-         "Country": "Portugal",
-         "Share of customers with positive experience": "63"
+         "Country": "Korea",
+         "Imports in units": "1032638"
       },
       {
          "Country": "Germany",
-         "Share of customers with positive experience": "62.3"
-      },
-      {
-         "Country": "Poland",
-         "Share of customers with positive experience": "61.6"
-      },
-      {
-         "Country": "Sweden",
-         "Share of customers with positive experience": "60.7"
-      },
-      {
-         "Country": "Italy",
-         "Share of customers with positive experience": "59.5"
-      },
-      {
-         "Country": "United Kingdom",
-         "Share of customers with positive experience": "58.4"
-      },
-      {
-         "Country": "Finland",
-         "Share of customers with positive experience": "58.2"
-      },
-      {
-         "Country": "Belgium",
-         "Share of customers with positive experience": "56.7"
-      },
-      {
-         "Country": "Denmark",
-         "Share of customers with positive experience": "55.9"
-      },
-      {
-         "Country": "Norway",
-         "Share of customers with positive experience": "53.9"
-      },
-      {
-         "Country": "France",
-         "Share of customers with positive experience": "52.3"
-      },
-      {
-         "Country": "Spain",
-         "Share of customers with positive experience": "35.7"
+         "Imports in units": "796121"
       }
-   ]
+   ],
+   "gold": "This statistic shows the number of passenger vehicles imported into the United States in 2012 , with a breakdown by country . U.S. imports of passenger vehicles from Korea stood at around 1.03 million units in 2012 .\n"
 }

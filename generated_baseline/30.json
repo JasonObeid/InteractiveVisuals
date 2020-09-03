@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 3 categories for the x axis of Sexual Orientation representing Women, Men.",
+      "This grouped bar chart has 3 categories for the x axis of Sexual Orientation representing Women, and Men.",
       " The highest category is found at Straight with a mean value of 97.75.",
       " The second highest category is found at Lesbian / Gay with a mean value of 1.65.",
       " This represents a difference of 193.4%."
    ],
-   "trends": {
-      "maxIndex": 2,
-      "secondIndex": 2
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "13": [
+            "2",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "2",
+            "0"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Sexual Orientation": "Lesbian / Gay",

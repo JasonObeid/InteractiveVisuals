@@ -4,15 +4,24 @@
    "yAxis": "Number of affected people (in millions)",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 10 categories for the x axis representing Country, and a y axis representing Number of affected people (in millions).",
       " The highest category is found at China where Number of affected people (in millions) is 70.9.",
       " The lowest category is found at Haiti where Number of affected people (in millions) is 3.4."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 9
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "China",

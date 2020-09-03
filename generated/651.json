@@ -1,85 +1,131 @@
 {
-   "title": "Leading motor vehicle manufacturers worldwide - production 2017",
-   "xAxis": "Manufacturer",
-   "yAxis": "Production in thousand units",
-   "columnType": "two",
+   "title": "Online search query market share worldwide 2017 , by search engine",
+   "labels": [
+      "Response",
+      "Google",
+      "Yahoo",
+      "Bing",
+      "AOL",
+      "Ask",
+      "Other"
+   ],
+   "columnType": "multi",
    "graphType": "bar",
    "summary": [
-      "This statistic shows the leading 15 Manufacturer models according to the Auto Express Driver Power 2017 survey responses manufacturers on Manufacturer worldwide production . ",
-      "The survey was carried thousand by the British automotive magazine online between 2014 and 2015 . ",
-      "Toyota dominated this category securing the top three spots with the Toyota , Volkswagen and Hyundai models as well having three other models in the top 15 ."
+      "The statistic shows the Online search query market share worldwide from 2017 to , by search . ",
+      "In 2014 , the Online market ranking score in the Bing was 76.39 . ",
+      "Online industry - additional information The Ask Online search market Survey is a bi-annual report released search hospitality consulting company Horwath HTL ."
    ],
    "trends": [
       {},
-      {},
       {
-         "0": "0",
-         "11": "0",
-         "13": "1",
-         "16": "1",
-         "17": "2"
-      }
+         "12": [
+            "2",
+            "3"
+         ]
+      },
+      {}
    ],
    "data": [
       {
-         "Manufacturer": "Toyota",
-         "Production in thousand units": "10466"
+         "Response": "Total",
+         "Google": "15.77",
+         "Yahoo": "5.24",
+         "Bing": "66.77",
+         "AOL": "0.26",
+         "Ask": "3.4",
+         "Other": "8.57"
       },
       {
-         "Manufacturer": "Volkswagen",
-         "Production in thousand units": "10382"
+         "Response": "One word",
+         "Google": "38.88",
+         "Yahoo": "3.17",
+         "Bing": "25.47",
+         "AOL": "0.22",
+         "Ask": "2.68",
+         "Other": "29.58"
       },
       {
-         "Manufacturer": "Hyundai",
-         "Production in thousand units": "7218"
+         "Response": "Two words",
+         "Google": "11.17",
+         "Yahoo": "7.52",
+         "Bing": "76.39",
+         "AOL": "0.68",
+         "Ask": "2.75",
+         "Other": "1.49"
       },
       {
-         "Manufacturer": "GM",
-         "Production in thousand units": "6857"
+         "Response": "Three words",
+         "Google": "6.75",
+         "Yahoo": "5.22",
+         "Bing": "84.01",
+         "AOL": "0.1",
+         "Ask": "3.25",
+         "Other": "0.66"
       },
       {
-         "Manufacturer": "Ford",
-         "Production in thousand units": "6387"
+         "Response": "Four words",
+         "Google": "5.12",
+         "Yahoo": "5.28",
+         "Bing": "86.59",
+         "AOL": "0.09",
+         "Ask": "2.66",
+         "Other": "0.26"
       },
       {
-         "Manufacturer": "Nissan",
-         "Production in thousand units": "5769"
+         "Response": "Five words",
+         "Google": "4.58",
+         "Yahoo": "5.18",
+         "Bing": "87.04",
+         "AOL": "0.21",
+         "Ask": "2.95",
+         "Other": "0.04"
       },
       {
-         "Manufacturer": "Honda",
-         "Production in thousand units": "5237"
+         "Response": "Six words",
+         "Google": "8.3",
+         "Yahoo": "6.96",
+         "Bing": "79.38",
+         "AOL": "0.36",
+         "Ask": "4.73",
+         "Other": "0.27"
       },
       {
-         "Manufacturer": "Fiat",
-         "Production in thousand units": "4601"
+         "Response": "Seven words",
+         "Google": "7.65",
+         "Yahoo": "9.28",
+         "Bing": "73.29",
+         "AOL": "0.65",
+         "Ask": "8.96",
+         "Other": "0.16"
       },
       {
-         "Manufacturer": "Renault",
-         "Production in thousand units": "4154"
+         "Response": "Eight words",
+         "Google": "7.56",
+         "Yahoo": "7.84",
+         "Bing": "71.99",
+         "AOL": "0.84",
+         "Ask": "11.76",
+         "Other": "0"
       },
       {
-         "Manufacturer": "PSA",
-         "Production in thousand units": "3650"
+         "Response": "Nine words",
+         "Google": "6.4",
+         "Yahoo": "8.37",
+         "Bing": "75.86",
+         "AOL": "0.49",
+         "Ask": "8.87",
+         "Other": "0"
       },
       {
-         "Manufacturer": "Suzuki",
-         "Production in thousand units": "3302"
-      },
-      {
-         "Manufacturer": "SAIC",
-         "Production in thousand units": "2867"
-      },
-      {
-         "Manufacturer": "Daimler",
-         "Production in thousand units": "2549"
-      },
-      {
-         "Manufacturer": "BMW",
-         "Production in thousand units": "2506"
-      },
-      {
-         "Manufacturer": "Geely",
-         "Production in thousand units": "1950"
+         "Response": "Ten or more words",
+         "Google": "5.24",
+         "Yahoo": "9.42",
+         "Bing": "65.97",
+         "AOL": "0",
+         "Ask": "19.37",
+         "Other": "0"
       }
-   ]
+   ],
+   "gold": "This statistic shows the global search engine market share as of August 2017 , by search query size . During the survey period , it was found that Bing accounted for 25.47 percent of single-word search queries worldwide .\n"
 }

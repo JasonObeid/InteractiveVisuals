@@ -4,45 +4,41 @@
    "yAxis": "Share price in Canadian dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Share price in Canadian dollars, with a total of 25 data points. The chart has 4 significant trends.",
-      " The longest trend is extremely negative which exists from 2005 to 2000.",
-      " Contrarily, the next significant trend is extremely negative which exists from 2014 to 2011.",
-      " Conversely, the next significant trend is extremely positive which exists from 2008 to 2005.",
-      " In a similar manner, the next significant trend is extremely negative which exists from 1998 to 1995."
+      "This line chart has an x axis representing Year and a y axis representing Share price in Canadian dollars, with a total of 25 data points. The chart has 6 significant trends.",
+      " The longest trend is extremely positive which exists from 2005 to 2000.",
+      " Also, the next significant trend is extremely positive which exists from 2000 to 1995.",
+      " Also, the next significant trend is extremely positive which exists from 2019 to 2015.",
+      " Correspondingly, the next significant trend is extremely positive which exists from 2015 to 2011.",
+      " Similarly, the next significant trend is extremely positive which exists from 2011 to 2008.",
+      " Additionally, the next significant trend is slightly negative which exists from 2008 to 2005."
    ],
    "trends": [
+      {},
       {
-         "Length": 6,
-         "direction": "negative",
-         "start": 14,
-         "end": 19,
-         "trend": "y=6.89x+-13726.32",
-         "magnitude": "extremely"
+         "1": "14",
+         "12": "19"
       },
       {
-         "Length": 4,
-         "direction": "negative",
-         "start": 5,
-         "end": 8,
-         "trend": "y=9.63x+-19316.51",
-         "magnitude": "extremely"
+         "3": "19",
+         "14": "24"
       },
       {
-         "Length": 4,
-         "direction": "positive",
-         "start": 11,
-         "end": 14,
-         "trend": "y=-16.89x+33946.07",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "4"
       },
       {
-         "Length": 4,
-         "direction": "negative",
-         "start": 21,
-         "end": 24,
-         "trend": "y=16.38x+-32636.84",
-         "magnitude": "extremely"
+         "3": "4",
+         "14": "8"
+      },
+      {
+         "3": "8",
+         "14": "11"
+      },
+      {
+         "3": "11",
+         "14": "14"
       }
    ],
    "data": [

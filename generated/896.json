@@ -1,75 +1,111 @@
 {
-   "title": "Rural population share in France 2006 to 2018",
+   "title": "Youth unemployment rate in Egypt in 2019",
    "xAxis": "Year",
-   "yAxis": "Share of the rural population",
+   "yAxis": "Youth unemployment rate",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Share of rural at France establishments in France from 2006 to 2018 . ",
-      "In 2018 , the Share of rural in travel France ( including both international and domestic tourists ) amounted to approximately 19.5 % ."
+      "The statistic shows the Youth unemployment rate in Egypt from 1999 and 2019 . ",
+      "According to the source , the data are ILO estimates . ",
+      "In 2019 , the estimated Youth unemployment rate in Egypt was at 32.43 % ."
    ],
    "trends": [
       {
-         "14": "12",
-         "16": "0"
+         "10": "20",
+         "12": "0"
       },
+      {},
       {
          "1": "0",
-         "21": "0"
+         "12": "0"
       }
    ],
    "data": [
       {
+         "Year": "2019",
+         "Youth unemployment rate": "32.43"
+      },
+      {
          "Year": "2018",
-         "Share of the rural population": "19.5"
+         "Youth unemployment rate": "32.6"
       },
       {
          "Year": "2017",
-         "Share of the rural population": "19.8"
+         "Youth unemployment rate": "32.95"
       },
       {
          "Year": "2016",
-         "Share of the rural population": "20"
+         "Youth unemployment rate": "34.28"
       },
       {
          "Year": "2015",
-         "Share of the rural population": "20.3"
+         "Youth unemployment rate": "34.68"
       },
       {
          "Year": "2014",
-         "Share of the rural population": "20.6"
+         "Youth unemployment rate": "32.65"
       },
       {
          "Year": "2013",
-         "Share of the rural population": "20.9"
+         "Youth unemployment rate": "34.37"
       },
       {
          "Year": "2012",
-         "Share of the rural population": "21.1"
+         "Youth unemployment rate": "34.54"
       },
       {
          "Year": "2011",
-         "Share of the rural population": "21.4"
+         "Youth unemployment rate": "29.44"
       },
       {
          "Year": "2010",
-         "Share of the rural population": "21.6"
+         "Youth unemployment rate": "24.43"
       },
       {
          "Year": "2009",
-         "Share of the rural population": "21.9"
+         "Youth unemployment rate": "25.44"
       },
       {
          "Year": "2008",
-         "Share of the rural population": "22.1"
+         "Youth unemployment rate": "25.77"
       },
       {
          "Year": "2007",
-         "Share of the rural population": "22.4"
+         "Youth unemployment rate": "25.04"
       },
       {
          "Year": "2006",
-         "Share of the rural population": "22.6"
+         "Youth unemployment rate": "30.23"
+      },
+      {
+         "Year": "2005",
+         "Youth unemployment rate": "31.18"
+      },
+      {
+         "Year": "2004",
+         "Youth unemployment rate": "28.32"
+      },
+      {
+         "Year": "2003",
+         "Youth unemployment rate": "29.15"
+      },
+      {
+         "Year": "2002",
+         "Youth unemployment rate": "26.23"
+      },
+      {
+         "Year": "2001",
+         "Youth unemployment rate": "27.49"
+      },
+      {
+         "Year": "2000",
+         "Youth unemployment rate": "24.38"
+      },
+      {
+         "Year": "1999",
+         "Youth unemployment rate": "20.13"
       }
-   ]
+   ],
+   "gold": "The statistic shows the youth unemployment rate in Egypt from 1999 and 2019 . According to the source , the data are ILO estimates . In 2019 , the estimated youth unemployment rate in Egypt was at 32.43 percent .\n"
 }

@@ -1,192 +1,103 @@
 {
-   "title": "Mobile share of organic search engine traffic 2019 , by platform",
+   "title": "Number of Outback Steakhouse restaurants worldwide from 2011 to 2018 , by location",
    "labels": [
-      "Quarter",
-      "Google",
-      "Yahoo",
-      "Bing",
-      "DuckDuckGo"
+      "Year",
+      "United States",
+      "International"
    ],
    "columnType": "multi",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 24 categories for the x axis of Quarter representing Google, Yahoo, Bing, DuckDuckGo.",
-      " The highest category is found at Q3 '19 with a mean value of 51.75.",
-      " The second highest category is found at Q2 '19 with a mean value of 50.0.",
-      " This represents a difference of 3.4%."
+      "This line chart has 2 lines.",
+      " The line representing United States had the highest values across Year with a mean value of 756.4.",
+      " This peaked at 2011 with a value of 776.0. ",
+      " The line with the second highest values was International with a mean value of 225.6.",
+      " This line peaked at 2018 with a value of 256.0"
    ],
-   "trends": {
-      "maxIndex": 1,
-      "secondIndex": 1
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "7",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "7",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "10": [
+            "0",
+            "1"
+         ]
+      }
+   ],
    "data": [
       {
-         "Quarter": "Q4 '19",
-         "Google": "61",
-         "Yahoo": "49",
-         "Bing": "23",
-         "DuckDuckGo": "58"
+         "Year": "2018",
+         "United States": "733",
+         "International": "256"
       },
       {
-         "Quarter": "Q3 '19",
-         "Google": "64",
-         "Yahoo": "53",
-         "Bing": "25",
-         "DuckDuckGo": "65"
+         "Year": "2017",
+         "United States": "740",
+         "International": "249"
       },
       {
-         "Quarter": "Q2 '19",
-         "Google": "63",
-         "Yahoo": "52",
-         "Bing": "23",
-         "DuckDuckGo": "62"
+         "Year": "2016",
+         "United States": "755",
+         "International": "239"
       },
       {
-         "Quarter": "Q1 '19",
-         "Google": "62",
-         "Yahoo": "50",
-         "Bing": "23",
-         "DuckDuckGo": "62"
+         "Year": "2015",
+         "United States": "755",
+         "International": "224"
       },
       {
-         "Quarter": "Q4 '18",
-         "Google": "61",
-         "Yahoo": "51",
-         "Bing": "22",
-         "DuckDuckGo": "0"
+         "Year": "2014",
+         "United States": "753",
+         "International": "222"
       },
       {
-         "Quarter": "Q3 '18",
-         "Google": "60",
-         "Yahoo": "51",
-         "Bing": "22",
-         "DuckDuckGo": "0"
+         "Year": "2013",
+         "United States": "768",
+         "International": "220"
       },
       {
-         "Quarter": "Q2 '18",
-         "Google": "59",
-         "Yahoo": "50",
-         "Bing": "22",
-         "DuckDuckGo": "0"
+         "Year": "2012",
+         "United States": "771",
+         "International": "204"
       },
       {
-         "Quarter": "Q1 '18",
-         "Google": "57",
-         "Yahoo": "48",
-         "Bing": "19",
-         "DuckDuckGo": "0"
-      },
-      {
-         "Quarter": "Q4 '17",
-         "Google": "56",
-         "Yahoo": "42",
-         "Bing": "18",
-         "DuckDuckGo": "46"
-      },
-      {
-         "Quarter": "Q3 '17",
-         "Google": "57",
-         "Yahoo": "48",
-         "Bing": "18",
-         "DuckDuckGo": "0"
-      },
-      {
-         "Quarter": "Q2 '17",
-         "Google": "54",
-         "Yahoo": "49",
-         "Bing": "18",
-         "DuckDuckGo": "0"
-      },
-      {
-         "Quarter": "Q1 '17",
-         "Google": "56",
-         "Yahoo": "49",
-         "Bing": "18",
-         "DuckDuckGo": "0"
-      },
-      {
-         "Quarter": "Q4 '16",
-         "Google": "54",
-         "Yahoo": "49",
-         "Bing": "18",
-         "DuckDuckGo": "0"
-      },
-      {
-         "Quarter": "Q3 '16",
-         "Google": "51",
-         "Yahoo": "47",
-         "Bing": "19",
-         "DuckDuckGo": "0"
-      },
-      {
-         "Quarter": "Q2 '16",
-         "Google": "49",
-         "Yahoo": "47",
-         "Bing": "20",
-         "DuckDuckGo": "0"
-      },
-      {
-         "Quarter": "Q1 '16",
-         "Google": "48",
-         "Yahoo": "44",
-         "Bing": "22",
-         "DuckDuckGo": "0"
-      },
-      {
-         "Quarter": "Q3 '15",
-         "Google": "47",
-         "Yahoo": "44",
-         "Bing": "29",
-         "DuckDuckGo": "0"
-      },
-      {
-         "Quarter": "Q2 '15",
-         "Google": "47",
-         "Yahoo": "46",
-         "Bing": "30",
-         "DuckDuckGo": "0"
-      },
-      {
-         "Quarter": "Q1 '15",
-         "Google": "47",
-         "Yahoo": "43",
-         "Bing": "31",
-         "DuckDuckGo": "0"
-      },
-      {
-         "Quarter": "Q4 '14",
-         "Google": "44",
-         "Yahoo": "49",
-         "Bing": "29",
-         "DuckDuckGo": "0"
-      },
-      {
-         "Quarter": "Q3 '14",
-         "Google": "41",
-         "Yahoo": "47",
-         "Bing": "28",
-         "DuckDuckGo": "0"
-      },
-      {
-         "Quarter": "Q2 '14",
-         "Google": "38",
-         "Yahoo": "40",
-         "Bing": "19",
-         "DuckDuckGo": "0"
-      },
-      {
-         "Quarter": "Q1 '14",
-         "Google": "36",
-         "Yahoo": "39",
-         "Bing": "16",
-         "DuckDuckGo": "0"
-      },
-      {
-         "Quarter": "Q4 '13",
-         "Google": "34",
-         "Yahoo": "32",
-         "Bing": "15",
-         "DuckDuckGo": "0"
+         "Year": "2011",
+         "United States": "776",
+         "International": "191"
       }
    ]
 }

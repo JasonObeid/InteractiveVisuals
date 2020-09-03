@@ -1,218 +1,190 @@
 {
-   "title": "Metropolitan areas with the highest birth rate in the U.S. in 2018\n",
-   "xAxis": "City",
-   "yAxis": "Birth rate (births per 1,000 population)",
-   "columnType": "two",
-   "graphType": "bar",
-   "summary": [
-      "This bar chart has 50 categories for the x axis representing City, and a y axis representing Birth rate (births per 1,000 population).",
-      " The highest category is found at Hinesville_GA where Birth rate (births per 1,000 population) is 20.36.",
-      " The lowest category is found at Fayetteville-Springdale-Rogers_AR-MO where Birth rate (births per 1,000 population) is 13.73."
+   "title": "Crude oil export destination countries of the United Kingdom ( UK ) 2016 to 2018",
+   "labels": [
+      "Year",
+      "2016",
+      "2017",
+      "2018"
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 49
-   },
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 3 lines.",
+      " The line representing 2018 had the highest values across Year with a mean value of 2161.1.",
+      " This peaked at Netherlands with a value of 16797.0. ",
+      " The line with the second highest values was 2016 with a mean value of 2098.9.",
+      " This line peaked at UK_refineries with a value of 13846.0"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "16": [
+            "20",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "2"
+         ],
+         "9": [
+            "0",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "20",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "10": [
+            "0",
+            "0"
+         ]
+      }
+   ],
    "data": [
       {
-         "City": "Hinesville GA",
-         "Birth rate (births per 1,000 population)": 20.36
+         "Year": "Canada",
+         "2016": "418",
+         "2017": "315",
+         "2018": "570"
       },
       {
-         "City": "Jacksonville NC",
-         "Birth rate (births per 1,000 population)": 19.77
+         "Year": "China",
+         "2016": "4685",
+         "2017": "5675",
+         "2018": "6188"
       },
       {
-         "City": "Provo-Orem UT",
-         "Birth rate (births per 1,000 population)": 19.43
+         "Year": "Denmark",
+         "2016": "114",
+         "2017": "188",
+         "2018": "78"
       },
       {
-         "City": "Laredo TX",
-         "Birth rate (births per 1,000 population)": 18.22
+         "Year": "Finland",
+         "2016": "0",
+         "2017": "0",
+         "2018": "56"
       },
       {
-         "City": "Logan UT-ID",
-         "Birth rate (births per 1,000 population)": 17.42
+         "Year": "France",
+         "2016": "1204",
+         "2017": "1257",
+         "2018": "728"
       },
       {
-         "City": "Clarksville TN-KY",
-         "Birth rate (births per 1,000 population)": 17.05
+         "Year": "Germany",
+         "2016": "5146",
+         "2017": "4345",
+         "2018": "3751"
       },
       {
-         "City": "McAllen-Edinburg-Mission TX",
-         "Birth rate (births per 1,000 population)": 16.82
+         "Year": "Greece",
+         "2016": "0",
+         "2017": "0",
+         "2018": "130"
       },
       {
-         "City": "Odessa TX",
-         "Birth rate (births per 1,000 population)": 16.73
+         "Year": "India",
+         "2016": "80",
+         "2017": "0",
+         "2018": "91"
       },
       {
-         "City": "Watertown-Fort Drum NY",
-         "Birth rate (births per 1,000 population)": 16.63
+         "Year": "Italy",
+         "2016": "482",
+         "2017": "76",
+         "2018": "399"
       },
       {
-         "City": "Midland TX",
-         "Birth rate (births per 1,000 population)": 16.46
+         "Year": "Martinique",
+         "2016": "79",
+         "2017": "129",
+         "2018": "0"
       },
       {
-         "City": "Idaho Falls ID",
-         "Birth rate (births per 1,000 population)": 16.16
+         "Year": "Netherlands",
+         "2016": "12092",
+         "2017": "13980",
+         "2018": "16797"
       },
       {
-         "City": "Fayetteville NC",
-         "Birth rate (births per 1,000 population)": 15.99
+         "Year": "Norway",
+         "2016": "85",
+         "2017": "158",
+         "2018": "1144"
       },
       {
-         "City": "Fairbanks AK",
-         "Birth rate (births per 1,000 population)": 15.96
+         "Year": "Poland",
+         "2016": "78",
+         "2017": "40",
+         "2018": "589"
       },
       {
-         "City": "Killeen-Temple TX",
-         "Birth rate (births per 1,000 population)": 15.92
+         "Year": "Republic of Ireland",
+         "2016": "54",
+         "2017": "545",
+         "2018": "583"
       },
       {
-         "City": "El Centro CA",
-         "Birth rate (births per 1,000 population)": 15.68
+         "Year": "South Korea",
+         "2016": "3055",
+         "2017": "5187",
+         "2018": "3791"
       },
       {
-         "City": "Ogden-Clearfield UT",
-         "Birth rate (births per 1,000 population)": 15.57
+         "Year": "Spain",
+         "2016": "1390",
+         "2017": "764",
+         "2018": "552"
       },
       {
-         "City": "Brownsville-Harlingen TX",
-         "Birth rate (births per 1,000 population)": 15.44
+         "Year": "Sweden",
+         "2016": "323",
+         "2017": "216",
+         "2018": "447"
       },
       {
-         "City": "Yakima WA",
-         "Birth rate (births per 1,000 population)": 15.38
+         "Year": "Turkey",
+         "2016": "157",
+         "2017": "38",
+         "2018": "0"
       },
       {
-         "City": "Visalia-Porterville CA",
-         "Birth rate (births per 1,000 population)": 14.96
+         "Year": "USA",
+         "2016": "709",
+         "2017": "651",
+         "2018": "1821"
       },
       {
-         "City": "Bakersfield CA",
-         "Birth rate (births per 1,000 population)": 14.96
+         "Year": "UK refineries",
+         "2016": "13846",
+         "2017": "8178",
+         "2018": "6761"
       },
       {
-         "City": "Salt Lake City UT",
-         "Birth rate (births per 1,000 population)": 14.96
-      },
-      {
-         "City": "Fresno CA",
-         "Birth rate (births per 1,000 population)": 14.9
-      },
-      {
-         "City": "Elkhart-Goshen IN",
-         "Birth rate (births per 1,000 population)": 14.86
-      },
-      {
-         "City": "Madera CA",
-         "Birth rate (births per 1,000 population)": 14.82
-      },
-      {
-         "City": "Yuba City CA",
-         "Birth rate (births per 1,000 population)": 14.78
-      },
-      {
-         "City": "El Paso TX",
-         "Birth rate (births per 1,000 population)": 14.74
-      },
-      {
-         "City": "Merced CA",
-         "Birth rate (births per 1,000 population)": 14.71
-      },
-      {
-         "City": "Hanford-Corcoran CA",
-         "Birth rate (births per 1,000 population)": 14.7
-      },
-      {
-         "City": "Twin Falls ID",
-         "Birth rate (births per 1,000 population)": 14.68
-      },
-      {
-         "City": "Kennewick-Richland WA",
-         "Birth rate (births per 1,000 population)": 14.66
-      },
-      {
-         "City": "Sioux Falls SD",
-         "Birth rate (births per 1,000 population)": 14.49
-      },
-      {
-         "City": "Enid OK",
-         "Birth rate (births per 1,000 population)": 14.48
-      },
-      {
-         "City": "Hammond LA",
-         "Birth rate (births per 1,000 population)": 14.45
-      },
-      {
-         "City": "Anchorage AK",
-         "Birth rate (births per 1,000 population)": 14.4
-      },
-      {
-         "City": "Lake Charles LA",
-         "Birth rate (births per 1,000 population)": 14.38
-      },
-      {
-         "City": "Fargo ND-MN",
-         "Birth rate (births per 1,000 population)": 14.3
-      },
-      {
-         "City": "Grand Island NE",
-         "Birth rate (births per 1,000 population)": 14.2
-      },
-      {
-         "City": "Houston-The Woodlands-Sugar Land TX",
-         "Birth rate (births per 1,000 population)": 14.15
-      },
-      {
-         "City": "Greeley CO",
-         "Birth rate (births per 1,000 population)": 14.09
-      },
-      {
-         "City": "Yuma AZ",
-         "Birth rate (births per 1,000 population)": 14.05
-      },
-      {
-         "City": "Modesto CA",
-         "Birth rate (births per 1,000 population)": 14.04
-      },
-      {
-         "City": "Omaha-Council Bluffs NE-IA",
-         "Birth rate (births per 1,000 population)": 14.02
-      },
-      {
-         "City": "Lawton OK",
-         "Birth rate (births per 1,000 population)": 14.01
-      },
-      {
-         "City": "Bismarck ND",
-         "Birth rate (births per 1,000 population)": 13.91
-      },
-      {
-         "City": "Abilene TX",
-         "Birth rate (births per 1,000 population)": 13.89
-      },
-      {
-         "City": "Grand Forks ND-MN",
-         "Birth rate (births per 1,000 population)": 13.87
-      },
-      {
-         "City": "Sioux City IA-NE-SD",
-         "Birth rate (births per 1,000 population)": 13.86
-      },
-      {
-         "City": "Salinas CA",
-         "Birth rate (births per 1,000 population)": 13.79
-      },
-      {
-         "City": "Des Moines-West Des Moines IA",
-         "Birth rate (births per 1,000 population)": 13.77
-      },
-      {
-         "City": "Fayetteville-Springdale-Rogers AR-MO",
-         "Birth rate (births per 1,000 population)": 13.73
+         "Year": "Unknown",
+         "2016": "79",
+         "2017": "331",
+         "2018": "908"
       }
    ]
 }

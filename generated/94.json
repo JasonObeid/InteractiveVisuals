@@ -1,105 +1,57 @@
 {
-   "title": "U.S. cotton production 2000 to 2019",
+   "title": "Value of the global eyewear market from 2018 to 2025",
    "xAxis": "Year",
-   "yAxis": "Production in thousand bales",
+   "yAxis": "Market value in billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the year-over-year growth of 2000 bales in the 2019 from 2000 to 2019 . ",
-      "In 2019 , 2000 bales were forecast to grow by approximately 20102.0 thousand compared to the previous Year . ",
-      "2000 Season in the 2019 2000 season is just around the corner and it 's truly the best time of the Year for both consumers and retailers of all shapes and sizes ."
+      "This statistic depicts the Market global eyewear market value in from 2018 to 2025 . ",
+      "In 2025 , the value of global eyewear market was estimated to reach 210.87 billion U.S. dollars ."
    ],
    "trends": [
       {
-         "14": "19",
-         "16": "0"
+         "12": "7",
+         "14": "0"
       },
       {
          "1": "0",
-         "12": "0"
-      },
-      {}
+         "14": "0"
+      }
    ],
    "data": [
       {
+         "Year": "2025",
+         "Market value in billion U.S. dollars": "210.87"
+      },
+      {
+         "Year": "2024",
+         "Market value in billion U.S. dollars": "197.08"
+      },
+      {
+         "Year": "2023",
+         "Market value in billion U.S. dollars": "184.18"
+      },
+      {
+         "Year": "2022",
+         "Market value in billion U.S. dollars": "172.13"
+      },
+      {
+         "Year": "2021",
+         "Market value in billion U.S. dollars": "160.87"
+      },
+      {
+         "Year": "2020",
+         "Market value in billion U.S. dollars": "150.35"
+      },
+      {
          "Year": "2019",
-         "Production in thousand bales": "20102.0"
+         "Market value in billion U.S. dollars": "140.51"
       },
       {
          "Year": "2018",
-         "Production in thousand bales": "18367.0"
-      },
-      {
-         "Year": "2017",
-         "Production in thousand bales": "20922.5"
-      },
-      {
-         "Year": "2016",
-         "Production in thousand bales": "16601.0"
-      },
-      {
-         "Year": "2015",
-         "Production in thousand bales": "12888.0"
-      },
-      {
-         "Year": "2014",
-         "Production in thousand bales": "16319.4"
-      },
-      {
-         "Year": "2013",
-         "Production in thousand bales": "12909.2"
-      },
-      {
-         "Year": "2012",
-         "Production in thousand bales": "17313.8"
-      },
-      {
-         "Year": "2011",
-         "Production in thousand bales": "15573.2"
-      },
-      {
-         "Year": "2010",
-         "Production in thousand bales": "18101.8"
-      },
-      {
-         "Year": "2009",
-         "Production in thousand bales": "12183.0"
-      },
-      {
-         "Year": "2008",
-         "Production in thousand bales": "12825.4"
-      },
-      {
-         "Year": "2007",
-         "Production in thousand bales": "19206.9"
-      },
-      {
-         "Year": "2006",
-         "Production in thousand bales": "21587.8"
-      },
-      {
-         "Year": "2005",
-         "Production in thousand bales": "23890.2"
-      },
-      {
-         "Year": "2004",
-         "Production in thousand bales": "23250.7"
-      },
-      {
-         "Year": "2003",
-         "Production in thousand bales": "18255.2"
-      },
-      {
-         "Year": "2002",
-         "Production in thousand bales": "17208.6"
-      },
-      {
-         "Year": "2001",
-         "Production in thousand bales": "20302.8"
-      },
-      {
-         "Year": "2000",
-         "Production in thousand bales": "17188.3"
+         "Market value in billion U.S. dollars": "131.32"
       }
-   ]
+   ],
+   "gold": "The global eyewear market , which is made up of spectacles , contact lenses , sunglasses , and other eyewear products , was estimated to be worth around 131 billion U.S. dollars in 2018 and was forecast to reach a value of 210.8 billion U.S. dollars by 2025 . What type of products make up the eyewear market ? The eyewear market is typically broken down into four main categories : prescription ( Rx ) eyeglasses , non-prescription ( plano ) sunglasses , over-the-counter ( OTC ) readers , and contact lenses . In the North American eyewear market , sunglasses are the leading product category in terms of unit sales.Eyewear in the United States The United States was the leading eyewear market in the world as of 2018 .\n"
 }

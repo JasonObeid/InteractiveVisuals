@@ -4,15 +4,24 @@
    "yAxis": "Cost in U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 13 categories for the x axis representing Country, and a y axis representing Cost in U.S. dollars.",
       " The highest category is found at United_States where Cost in U.S. dollars is 28200.0.",
       " The lowest category is found at Thailand where Cost in U.S. dollars is 4200.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 12
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 12,
+         "12": 12
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "United States",

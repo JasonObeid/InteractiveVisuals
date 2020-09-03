@@ -1,93 +1,55 @@
 {
-   "title": "Leading pets owned by households in the United Kingdom ( UK ) 2018/19",
-   "xAxis": "Pet Type",
-   "yAxis": "Share of households",
+   "title": "Total workforce of Red Bull worldwide 2011 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of employees",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the results of a survey on the Leading pets owned by in United Kingdom . ",
-      "During the survey , 40 % of households stated that they used Any_pet or ."
+      "Red Bull workforce employment was around 19,500 workers as of 2018 . ",
+      "Red Bull workforce company goals are to create solutions to food safety and access , clean water , clean air and fuel , health care , and sustainable living . ",
+      "Red Bull Company Overview Red Bull is one of the world workforce leading chemicals , plastics and refining companies globally ."
    ],
    "trends": [
-      {},
       {
-         "4": "0",
-         "12": "0",
-         "14": "0"
-      }
+         "9": "0"
+      },
+      {},
+      {}
    ],
    "data": [
       {
-         "Pet Type": "Any pet",
-         "Share of households": "40"
+         "Year": "2018",
+         "Number of employees": "12239"
       },
       {
-         "Pet Type": "Dogs",
-         "Share of households": "25"
+         "Year": "2017",
+         "Number of employees": "11886"
       },
       {
-         "Pet Type": "Cats",
-         "Share of households": "17"
+         "Year": "2016",
+         "Number of employees": "11865"
       },
       {
-         "Pet Type": "Rabbits",
-         "Share of households": "1"
+         "Year": "2015",
+         "Number of employees": "10997"
       },
       {
-         "Pet Type": "Indoor Birds",
-         "Share of households": "1"
+         "Year": "2014",
+         "Number of employees": "10410"
       },
       {
-         "Pet Type": "Guinea pigs",
-         "Share of households": "1"
+         "Year": "2013",
+         "Number of employees": "9694"
       },
       {
-         "Pet Type": "Hamsters",
-         "Share of households": "1"
+         "Year": "2012",
+         "Number of employees": "8966"
       },
       {
-         "Pet Type": "Tortoises and Turtles",
-         "Share of households": "0.7"
-      },
-      {
-         "Pet Type": "Lizards",
-         "Share of households": "0.6"
-      },
-      {
-         "Pet Type": "Domestic fowl",
-         "Share of households": "0.4"
-      },
-      {
-         "Pet Type": "Snakes",
-         "Share of households": "0.4"
-      },
-      {
-         "Pet Type": "Horses and ponies",
-         "Share of households": "0.3"
-      },
-      {
-         "Pet Type": "Rats",
-         "Share of households": "0.1"
-      },
-      {
-         "Pet Type": "Ferrets",
-         "Share of households": "0.1"
-      },
-      {
-         "Pet Type": "Gerbils",
-         "Share of households": "0.2"
-      },
-      {
-         "Pet Type": "People keep insects",
-         "Share of households": "0.1"
-      },
-      {
-         "Pet Type": "Pigeons",
-         "Share of households": "0.1"
-      },
-      {
-         "Pet Type": "Frogs and toads",
-         "Share of households": "0.1"
+         "Year": "2011",
+         "Number of employees": "8294"
       }
-   ]
+   ],
+   "gold": "This statistic depicts the total number of Red Bull employees worldwide from 2011 to 2018 . According to the report , Red Bull had employed approximately 12,239 people in 171 countries at the end of 2018 .\n"
 }

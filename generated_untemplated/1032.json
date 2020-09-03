@@ -1,0 +1,20 @@
+{
+   "title": "Clash of Clans and Clash Royale mobile revenue 2018\n",
+   "xAxis": "Game",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "The forecast illustrates a revenue distribution of the global smart appliance market in 2015 , by type of appliance . The revenue of smart refrigerators is projected to amount to 2.69 billion u.s. dollars in 2015 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Game": "Clash of Clans",
+         "Revenue in million U.S. dollars": 567.0
+      },
+      {
+         "Game": "Clash Royale",
+         "Revenue in million U.S. dollars": 597.0
+      }
+   ]
+}

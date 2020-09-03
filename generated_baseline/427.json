@@ -4,36 +4,31 @@
    "yAxis": "Passenger journeys in millions",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Passenger journeys in millions, with a total of 27 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely negative which exists from 2018/19 to 2010/11.",
-      " Contrarily, the next significant trend is extremely negative which exists from 2005/06 to 1998/99.",
-      " Contrarily, the next significant trend is extremely negative which exists from 1997/98 to 1992/93."
+      "This line chart has an x axis representing Year and a y axis representing Passenger journeys in millions, with a total of 27 data points. The chart has 4 significant trends.",
+      " The longest trend is extremely positive which exists from 2018/19 to 2010/11.",
+      " Additionally, the next significant trend is moderately positive which exists from 2006/07 to 1998/99.",
+      " Likewise, the next significant trend is moderately positive which exists from 1998/99 to 1992/93.",
+      " Similarly, the next significant trend is slightly positive which exists from 2010/11 to 2006/07."
    ],
    "trends": [
+      {},
       {
-         "Length": 9,
-         "direction": "negative",
-         "start": 0,
-         "end": 8,
-         "trend": "y=3.09x+-6191.72",
-         "magnitude": "extremely"
+         "1": "0",
+         "12": "8"
       },
       {
-         "Length": 8,
-         "direction": "negative",
-         "start": 13,
-         "end": 20,
-         "trend": "y=0.95x+-1891.06",
-         "magnitude": "extremely"
+         "3": "12",
+         "14": "20"
       },
       {
-         "Length": 6,
-         "direction": "negative",
-         "start": 21,
-         "end": 26,
-         "trend": "y=1.0x+-1988.28",
-         "magnitude": "extremely"
+         "3": "20",
+         "14": "26"
+      },
+      {
+         "3": "8",
+         "14": "12"
       }
    ],
    "data": [

@@ -1,111 +1,90 @@
 {
-   "title": "Pre-primary school enrollment numbers in the U.S. 1970 to 2018",
+   "title": "Annual net sales of Amazon 2004 to 2019",
    "xAxis": "Year",
-   "yAxis": "Number of children enrolled (in millions)",
+   "yAxis": "Net revenue in billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Pre-primary school of U.S. from 1970 to 2018 . ",
-      "In 2018 , about 8.74 % of the total population in U.S. was unemployed ."
+      "In 2019 , Amazon received gross sales for 280.52 units of its net narrow-body jet airliner series , but net sales after cancellations and changes ( under the ASC 606 revenue recognition standard ) came to a devastating negative 183 units . ",
+      "The slump in net sales came as a result of the jet maker 's net MAX crisis . ",
+      "Amazon delivered some 18 units of its net revenue to Delta Air Lines in 2004 ."
    ],
    "trends": [
       {
-         "9": "21",
-         "11": "0"
-      },
-      {
          "1": "0",
-         "4": "0"
+         "8": "0"
+      },
+      {},
+      {
+         "14": "15"
       }
    ],
    "data": [
       {
+         "Year": "2019",
+         "Net revenue in billion U.S. dollars": "280.52"
+      },
+      {
          "Year": "2018",
-         "Number of children enrolled (in millions)": "8.74"
+         "Net revenue in billion U.S. dollars": "232.89"
       },
       {
          "Year": "2017",
-         "Number of children enrolled (in millions)": "8.64"
+         "Net revenue in billion U.S. dollars": "177.87"
       },
       {
          "Year": "2016",
-         "Number of children enrolled (in millions)": "8.76"
+         "Net revenue in billion U.S. dollars": "135.99"
       },
       {
          "Year": "2015",
-         "Number of children enrolled (in millions)": "8.61"
+         "Net revenue in billion U.S. dollars": "107.01"
       },
       {
          "Year": "2014",
-         "Number of children enrolled (in millions)": "8.76"
+         "Net revenue in billion U.S. dollars": "88.99"
       },
       {
          "Year": "2013",
-         "Number of children enrolled (in millions)": "8.83"
+         "Net revenue in billion U.S. dollars": "74.45"
       },
       {
          "Year": "2012",
-         "Number of children enrolled (in millions)": "8.77"
+         "Net revenue in billion U.S. dollars": "61.09"
       },
       {
          "Year": "2011",
-         "Number of children enrolled (in millions)": "9.16"
+         "Net revenue in billion U.S. dollars": "48.08"
       },
       {
          "Year": "2010",
-         "Number of children enrolled (in millions)": "9.01"
+         "Net revenue in billion U.S. dollars": "34.2"
       },
       {
          "Year": "2009",
-         "Number of children enrolled (in millions)": "8.84"
+         "Net revenue in billion U.S. dollars": "24.51"
       },
       {
          "Year": "2008",
-         "Number of children enrolled (in millions)": "8.66"
+         "Net revenue in billion U.S. dollars": "19.17"
       },
       {
          "Year": "2007",
-         "Number of children enrolled (in millions)": "8.76"
+         "Net revenue in billion U.S. dollars": "14.84"
       },
       {
          "Year": "2006",
-         "Number of children enrolled (in millions)": "8.73"
+         "Net revenue in billion U.S. dollars": "10.71"
       },
       {
          "Year": "2005",
-         "Number of children enrolled (in millions)": "8.52"
+         "Net revenue in billion U.S. dollars": "8.49"
       },
       {
          "Year": "2004",
-         "Number of children enrolled (in millions)": "8.73"
-      },
-      {
-         "Year": "2000",
-         "Number of children enrolled (in millions)": "8.65"
-      },
-      {
-         "Year": "1995",
-         "Number of children enrolled (in millions)": "8.04"
-      },
-      {
-         "Year": "1990",
-         "Number of children enrolled (in millions)": "8.03"
-      },
-      {
-         "Year": "1985",
-         "Number of children enrolled (in millions)": "8.23"
-      },
-      {
-         "Year": "1980",
-         "Number of children enrolled (in millions)": "5.16"
-      },
-      {
-         "Year": "1975",
-         "Number of children enrolled (in millions)": "5.14"
-      },
-      {
-         "Year": "1970",
-         "Number of children enrolled (in millions)": "4.28"
+         "Net revenue in billion U.S. dollars": "6.92"
       }
-   ]
+   ],
+   "gold": "The time series shows the net revenue of Amazon.com 's e-commerce and service sales from 2004 to 2019 , in billion US dollars . In the last reported year , the multinational e-commerce company 's net revenue was 280.5 billion U.S. dollars , up from 177.86 billion US dollars in 2017 . Amazon.com , an American electronic commerce company originally founded in 1994 , is the world 's largest online retailer of books , clothing , electronics , music and many more goods .\n"
 }

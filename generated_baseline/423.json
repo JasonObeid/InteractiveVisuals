@@ -4,15 +4,24 @@
    "yAxis": "Inflation rate compared to previous year",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 20 categories for the x axis representing Country, and a y axis representing Inflation rate compared to previous year.",
       " The highest category is found at Venezuela where Inflation rate compared to previous year is 200000.0.",
       " The lowest category is found at Mongolia where Inflation rate compared to previous year is 9.03."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 19
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "Venezuela",

@@ -1,104 +1,67 @@
 {
-   "title": "Leading companies in Norway 2019 , by number of employees",
-   "xAxis": "Month",
-   "yAxis": "Number of employees",
+   "title": "Most valuable sport athlete brands worldwide 2017",
+   "xAxis": "Player",
+   "yAxis": "Brand value in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Number of employees Norway the 2019 Telenor_ASA number employees in 2019 . ",
-      "The Telenor_ASA Month Helse_S\u00f8r-\u00d8st_RHF employs the most people among the 2019 Telenor_ASA number , with 60368 employees in 2019 ."
+      "The statistic ranks a ranking of the leading athlete of the brands worldwide 2017 of Most as of 2019 , based on Brand value . ",
+      "As of 2019 , the Colombian attacking midfielder Roger_Federer was the valuable sport Player in the brands 2017 , with a Brand value of approximately 37.2 million U.S. dollars . ",
+      "Davidson LeBron_James ranked second , with a value of over 33.4 million dollars ."
    ],
    "trends": [
+      {},
       {
-         "10": "1"
+         "8": "0",
+         "25": "0"
       },
       {
          "1": "1",
-         "3": "0",
-         "11": "1",
-         "15": "0"
+         "10": "1"
       }
    ],
    "data": [
       {
-         "Month": "Helse S\u00f8r-\u00d8st RHF",
-         "Number of employees": "60368"
+         "Player": "Roger Federer",
+         "Brand value in million U.S. dollars": "37.2"
       },
       {
-         "Month": "Telenor ASA",
-         "Number of employees": "31000"
+         "Player": "LeBron James",
+         "Brand value in million U.S. dollars": "33.4"
       },
       {
-         "Month": "Aker ASA",
-         "Number of employees": "20753"
+         "Player": "Usain Bolt",
+         "Brand value in million U.S. dollars": "27.0"
       },
       {
-         "Month": "Equinor ASA / Statoil",
-         "Number of employees": "20245"
+         "Player": "Cristiano Ronaldo",
+         "Brand value in million U.S. dollars": "21.5"
       },
       {
-         "Month": "Posten Norge AS",
-         "Number of employees": "18327"
+         "Player": "Phil Mickelson",
+         "Brand value in million U.S. dollars": "19.6"
       },
       {
-         "Month": "Orkla ASA",
-         "Number of employees": "18154"
+         "Player": "Tiger Woods",
+         "Brand value in million U.S. dollars": "16.6"
       },
       {
-         "Month": "Yara International ASA",
-         "Number of employees": "14736"
+         "Player": "Virat Kohli",
+         "Brand value in million U.S. dollars": "14.5"
       },
       {
-         "Month": "Aker Solutions ASA",
-         "Number of employees": "14300"
+         "Player": "Rory Mcllroy",
+         "Brand value in million U.S. dollars": "13.6"
       },
       {
-         "Month": "Tallyman AS",
-         "Number of employees": "13760"
+         "Player": "Lionel Messi",
+         "Brand value in million U.S. dollars": "13.5"
       },
       {
-         "Month": "Norges Statsbaner AS",
-         "Number of employees": "13006"
-      },
-      {
-         "Month": "Norsk Hydro ASA",
-         "Number of employees": "12911"
-      },
-      {
-         "Month": "Marine Harvest ASA",
-         "Number of employees": "12717"
-      },
-      {
-         "Month": "Strawberry Holding AS",
-         "Number of employees": "10412"
-      },
-      {
-         "Month": "Nordic Choice Hospitality Group AS",
-         "Number of employees": "10320"
-      },
-      {
-         "Month": "Kongsberg Automotive ASA",
-         "Number of employees": "9791"
-      },
-      {
-         "Month": "DNB ASA",
-         "Number of employees": "9561"
-      },
-      {
-         "Month": "Hfn Group AS",
-         "Number of employees": "9172"
-      },
-      {
-         "Month": "Evry ASA",
-         "Number of employees": "9100"
-      },
-      {
-         "Month": "Hospitality Invest AS",
-         "Number of employees": "9001"
-      },
-      {
-         "Month": "Nokas AS",
-         "Number of employees": "8273"
+         "Player": "Stephen Curry",
+         "Brand value in million U.S. dollars": "13.4"
       }
-   ]
+   ],
+   "gold": "The statistic shows a ranking of the most valuable sports athletes brands in the world in 2017 . The most valuable athlete brand in 2017 is Roger Federer .\n"
 }

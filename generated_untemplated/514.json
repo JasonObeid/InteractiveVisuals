@@ -1,0 +1,32 @@
+{
+   "title": "NFL Monday Night Football average viewers 2015 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Viewers in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "An average of 15.4 million viewers tuned in to watch thursday night football in the country during the 2019 nfl season , an increase of half a million on the previous year . Ratings for Monday night football also increased in 2019 , with the average number of viewers rising to 12.6 million . Prime-time packages receive ratings boost thursday night football is part of the prime-time television schedule that also includes Monday night football and Sunday night football \u2013 these nfl games are broadcast across the entire country by one major national network .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2019",
+         "Viewers in millions": 12.6
+      },
+      {
+         "Year": "2018",
+         "Viewers in millions": 11.6
+      },
+      {
+         "Year": "2017",
+         "Viewers in millions": 10.76
+      },
+      {
+         "Year": "2016",
+         "Viewers in millions": 11.36
+      },
+      {
+         "Year": "2015",
+         "Viewers in millions": 12.9
+      }
+   ]
+}

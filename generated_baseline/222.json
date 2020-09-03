@@ -4,54 +4,51 @@
    "yAxis": "Production in thousand tons",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Production in thousand tons, with a total of 20 data points. The chart has 5 significant trends.",
-      " The longest trend is extremely negative which exists from 2009 to 2012.",
-      " On the contrary, the next significant trend is strongly negative which exists from 2016 to 2019.",
-      " Contrarily, the next significant trend is extremely positive which exists from 2002 to 2004.",
-      " Similarly, the next significant trend is extremely negative which exists from 2004 to 2006.",
-      " Differently, the next significant trend is extremely positive which exists from 2012 to 2014."
+      "This line chart has an x axis representing Year and a y axis representing Production in thousand tons, with a total of 20 data points. The chart has 8 significant trends.",
+      " The longest trend is slightly positive which exists from 2008 to 2012.",
+      " Also, the next significant trend is moderately positive which exists from 2016 to 2019.",
+      " Additionally, the next significant trend is moderately positive which exists from 2000 to 2002.",
+      " Similarly, the next significant trend is moderately negative which exists from 2002 to 2004.",
+      " Differently, the next significant trend is slightly positive which exists from 2004 to 2006.",
+      " Correspondingly, the next significant trend is moderately positive which exists from 2006 to 2008.",
+      " Additionally, the next significant trend is extremely negative which exists from 2012 to 2014.",
+      " Conversely, the next significant trend is moderately negative which exists from 2014 to 2016."
    ],
    "trends": [
+      {},
       {
-         "Length": 4,
-         "direction": "negative",
-         "start": 9,
-         "end": 12,
-         "trend": "y=-10700.4x+21648067.2",
-         "magnitude": "extremely"
+         "1": "8",
+         "12": "12"
       },
       {
-         "Length": 4,
-         "direction": "negative",
-         "start": 16,
-         "end": 19,
-         "trend": "y=-2624.8x+5425262.5",
-         "magnitude": "strongly"
+         "3": "16",
+         "14": "19"
       },
       {
-         "Length": 3,
-         "direction": "positive",
-         "start": 2,
-         "end": 4,
-         "trend": "y=4327.5x+-8512989.5",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "2"
       },
       {
-         "Length": 3,
-         "direction": "negative",
-         "start": 4,
-         "end": 6,
-         "trend": "y=-8669.5x+17532136.17",
-         "magnitude": "extremely"
+         "3": "2",
+         "14": "4"
       },
       {
-         "Length": 3,
-         "direction": "positive",
-         "start": 12,
-         "end": 14,
-         "trend": "y=11425.5x+-22868865.83",
-         "magnitude": "extremely"
+         "3": "4",
+         "14": "6"
+      },
+      {
+         "3": "6",
+         "14": "8"
+      },
+      {
+         "3": "12",
+         "14": "14"
+      },
+      {
+         "3": "14",
+         "14": "16"
       }
    ],
    "data": [

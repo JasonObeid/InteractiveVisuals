@@ -1,32 +1,49 @@
 {
-   "title": "Facebook usage reach in the United States 2019 , by gender",
-   "xAxis": "Response",
-   "yAxis": "Share of respondents",
+   "title": "Religious diversity in North America in 2010 , by religion",
+   "xAxis": "Religion",
+   "yAxis": "Percentage of population",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "A 2017 survey of United States adults found that approximately 75 % of American Men and 63 % of American Women currently smoke States . ",
-      "Impact of Legalizing Cannabis in the Facebook . ",
-      "Since Washington and Colorado legalized recreational States in 2012 , several more states have followed suit ."
+      "This statistic shows Religious diversity in the North North America in 2010 , by share of Religious population . ",
+      "In 2010 , around 77 percentage of population , in North countries , identified as Hindu ."
    ],
    "trends": [
-      {
-         "9": "1",
-         "13": "0",
-         "15": "0",
-         "19": "1"
-      },
       {},
-      {}
+      {
+         "4": "0"
+      }
    ],
    "data": [
       {
-         "Response": "Men",
-         "Share of respondents": "63"
+         "Religion": "Christians",
+         "Percentage of population": "77"
       },
       {
-         "Response": "Women",
-         "Share of respondents": "75"
+         "Religion": "Unaffiliated",
+         "Percentage of population": "17"
+      },
+      {
+         "Religion": "Jews",
+         "Percentage of population": "2"
+      },
+      {
+         "Religion": "Muslims",
+         "Percentage of population": "1"
+      },
+      {
+         "Religion": "Other religions",
+         "Percentage of population": "1"
+      },
+      {
+         "Religion": "Hindus",
+         "Percentage of population": "1"
+      },
+      {
+         "Religion": "Buddhists",
+         "Percentage of population": "1"
       }
-   ]
+   ],
+   "gold": "This statistic shows religious diversity in North America in 2010 , by share of religious population . In 2010 , about 77 percent of population were Christians .\n"
 }

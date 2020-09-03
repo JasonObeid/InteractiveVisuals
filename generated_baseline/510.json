@@ -4,15 +4,24 @@
    "yAxis": "Percentage of attack traffic",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 8 categories for the x axis representing Industry, and a y axis representing Percentage of attack traffic.",
       " The highest category is found at Gaming where Percentage of attack traffic is 79.0.",
       " The lowest category is found at Media_and_entertainment where Percentage of attack traffic is 1.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 6
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 6,
+         "12": 6
+      },
+      {}
+   ],
    "data": [
       {
          "Industry": "Gaming",

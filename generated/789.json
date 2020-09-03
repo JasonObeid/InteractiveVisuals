@@ -1,109 +1,71 @@
 {
-   "title": "National health expenditure in the Netherlands 1998 to 2018",
+   "title": "Urbanization in Malaysia 2018",
    "xAxis": "Year",
-   "yAxis": "Total expenditure in million euros",
+   "yAxis": "Share of urban population in total population",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the Total of 1998 health for electricity generation in the National between 1998 and 2018 . ",
-      "In 2018 , Netherlands health Total derived Netherlands 1998 came to approximately 86836 million euros of this fossil fuel . ",
-      "Coal-fueled electricity generation in the National Total of 1998 has risen steadily Netherlands the 1950s to the present ."
+      "This statistic shows the degree of Urbanization in Malaysia from 2008 to 2018 . ",
+      "Urbanization means the Share of urban population in the total population of a country . ",
+      "In 2018 , 76.04 % of Malaysia 's total population lived in urban areas and cities ."
    ],
    "trends": [
       {
-         "15": "20",
-         "17": "0"
-      },
-      {
-         "1": "0",
+         "10": "10",
          "12": "0"
       },
-      {}
+      {},
+      {
+         "1": "0",
+         "3": "0"
+      }
    ],
    "data": [
       {
          "Year": "2018",
-         "Total expenditure in million euros": "86836"
+         "Share of urban population in total population": "76.04"
       },
       {
          "Year": "2017",
-         "Total expenditure in million euros": "84127"
+         "Share of urban population in total population": "75.45"
       },
       {
          "Year": "2016",
-         "Total expenditure in million euros": "82021"
+         "Share of urban population in total population": "74.84"
       },
       {
          "Year": "2015",
-         "Total expenditure in million euros": "80118"
+         "Share of urban population in total population": "74.21"
       },
       {
          "Year": "2014",
-         "Total expenditure in million euros": "80116"
+         "Share of urban population in total population": "73.58"
       },
       {
          "Year": "2013",
-         "Total expenditure in million euros": "78957"
+         "Share of urban population in total population": "72.93"
       },
       {
          "Year": "2012",
-         "Total expenditure in million euros": "78309"
+         "Share of urban population in total population": "72.28"
       },
       {
          "Year": "2011",
-         "Total expenditure in million euros": "75593"
+         "Share of urban population in total population": "71.61"
       },
       {
          "Year": "2010",
-         "Total expenditure in million euros": "73402"
+         "Share of urban population in total population": "70.91"
       },
       {
          "Year": "2009",
-         "Total expenditure in million euros": "70213"
+         "Share of urban population in total population": "70.08"
       },
       {
          "Year": "2008",
-         "Total expenditure in million euros": "66592"
-      },
-      {
-         "Year": "2007",
-         "Total expenditure in million euros": "62404"
-      },
-      {
-         "Year": "2006",
-         "Total expenditure in million euros": "59152"
-      },
-      {
-         "Year": "2005",
-         "Total expenditure in million euros": "56571"
-      },
-      {
-         "Year": "2004",
-         "Total expenditure in million euros": "54700"
-      },
-      {
-         "Year": "2003",
-         "Total expenditure in million euros": "52582"
-      },
-      {
-         "Year": "2002",
-         "Total expenditure in million euros": "48745"
-      },
-      {
-         "Year": "2001",
-         "Total expenditure in million euros": "43225"
-      },
-      {
-         "Year": "2000",
-         "Total expenditure in million euros": "38583"
-      },
-      {
-         "Year": "1999",
-         "Total expenditure in million euros": "36195"
-      },
-      {
-         "Year": "1998",
-         "Total expenditure in million euros": "33875"
+         "Share of urban population in total population": "69.23"
       }
-   ]
+   ],
+   "gold": "This statistic shows the degree of urbanization in Malaysia from 2008 to 2018 . Urbanization means the share of urban population in the total population of a country . In 2018 , 76.04 percent of Malaysia 's total population lived in urban areas and cities .\n"
 }

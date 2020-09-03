@@ -1,0 +1,20 @@
+{
+   "title": "Rocket League sales revenue worldwide 2016\n",
+   "xAxis": "Month",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "The statistic presents a forecast of the global revenue of direct-to-home ( dth ) tv in india in 2023 . The source projects that the revenue would increase from 33.87 to 43.49 billion u.s. dollars in the presented period .\n",
+   "trends": {},
+   "data": [
+      {
+         "Month": "June 2016",
+         "Revenue in million U.S. dollars": 110.0
+      },
+      {
+         "Month": "December 2015",
+         "Revenue in million U.S. dollars": 70.0
+      }
+   ]
+}

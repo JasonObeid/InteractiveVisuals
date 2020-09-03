@@ -4,15 +4,24 @@
    "yAxis": "Acres of parkland per 1,000 residents",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 15 categories for the x axis representing City, and a y axis representing Acres of parkland per 1,000 residents.",
       " The highest category is found at Anchorage where Acres of parkland per 1,000 residents is 3012.8.",
       " The lowest category is found at Phoenix where Acres of parkland per 1,000 residents is 30.7."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 14
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 14,
+         "12": 14
+      },
+      {}
+   ],
    "data": [
       {
          "City": "Anchorage",

@@ -13,16 +13,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 4 categories for the x axis of Quarter representing 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017.",
-      " The highest category is found at Q1 with a mean value of 140.125.",
-      " The second highest category is found at Q2 with a mean value of 138.125.",
+      "This grouped bar chart has 4 categories for the x axis of Quarter representing 2010, 2011, 2012, 2013, 2014, 2015, 2016, and 2017.",
+      " The highest category is found at Q1 with a mean value of 140.12.",
+      " The second highest category is found at Q2 with a mean value of 138.12.",
       " This represents a difference of 1.4%."
    ],
-   "trends": {
-      "maxIndex": 3,
-      "secondIndex": 3
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "13": [
+            "8",
+            "3"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "14": [
+            "8",
+            "2"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Quarter": "Q4",

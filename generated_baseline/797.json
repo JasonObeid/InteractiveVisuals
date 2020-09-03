@@ -4,15 +4,24 @@
    "yAxis": "Unit sales in millions",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 6 categories for the x axis representing Streaming Brand, and a y axis representing Unit sales in millions.",
       " The highest category is found at Apple_TV where Unit sales in millions is 8.8.",
       " The lowest category is found at Tivo where Unit sales in millions is 1.2."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 4
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
    "data": [
       {
          "Streaming Brand": "Apple TV",

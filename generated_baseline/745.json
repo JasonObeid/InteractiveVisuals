@@ -4,15 +4,24 @@
    "yAxis": "Number of professionals",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 25 categories for the x axis representing Accounting firm, and a y axis representing Number of professionals.",
       " The highest category is found at Deloitte where Number of professionals is 73855.0.",
       " The lowest category is found at Mazars_USA where Number of professionals is 601.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 24
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 24,
+         "12": 24
+      },
+      {}
+   ],
    "data": [
       {
          "Accounting firm": "Deloitte",

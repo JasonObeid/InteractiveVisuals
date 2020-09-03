@@ -4,36 +4,31 @@
    "yAxis": "GDP per capita in U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing GDP per capita in U.S. dollars, with a total of 41 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely negative which exists from 2024 to 2009.",
-      " On the contrary, the next significant trend is extremely negative which exists from 1996 to 1986.",
-      " Differently, the next significant trend is extremely negative which exists from 2008 to 2001."
+      "This line chart has an x axis representing Year and a y axis representing GDP per capita in U.S. dollars, with a total of 41 data points. The chart has 4 significant trends.",
+      " The longest trend is extremely positive which exists from 2024 to 2009.",
+      " Likewise, the next significant trend is moderately positive which exists from 1996 to 1986.",
+      " Also, the next significant trend is extremely positive which exists from 2009 to 2001.",
+      " Also, the next significant trend is slightly negative which exists from 2001 to 1996."
    ],
    "trends": [
+      {},
       {
-         "Length": 16,
-         "direction": "negative",
-         "start": 0,
-         "end": 15,
-         "trend": "y=156.7x+-312858.2",
-         "magnitude": "extremely"
+         "1": "0",
+         "12": "15"
       },
       {
-         "Length": 11,
-         "direction": "negative",
-         "start": 28,
-         "end": 38,
-         "trend": "y=63.54x+-125621.64",
-         "magnitude": "extremely"
+         "3": "28",
+         "14": "38"
       },
       {
-         "Length": 8,
-         "direction": "negative",
-         "start": 16,
-         "end": 23,
-         "trend": "y=135.74x+-270805.38",
-         "magnitude": "extremely"
+         "3": "15",
+         "14": "23"
+      },
+      {
+         "3": "23",
+         "14": "28"
       }
    ],
    "data": [

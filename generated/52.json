@@ -1,51 +1,70 @@
 {
-   "title": "Potential reasons to leave Italy for another country 2017",
-   "xAxis": "Response",
-   "yAxis": "Share of respondents",
+   "title": "Ratio of government expenditure to gross domestic product ( GDP ) in Malaysia 2024",
+   "xAxis": "Year",
+   "yAxis": "Ratio of government expenditure to GDP",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the result of a survey question designed to find out what is Potential reasons to for another ( country - 2017 ) in Italy , as of 2013 . ",
-      "The majority of respondents said that their To_go_to_a_place_where_taxes_are_lower is the Potential reasons thing to them ."
+      "The statistic shows the Ratio of government expenditure to gross domestic product ( GDP ) in Malaysia from 2014 to 2018 , with projections up until 2024 . ",
+      "In 2018 , government expenditure in Malaysia amounted to about 22.7 % of the country 's gross domestic product ."
    ],
    "trends": [
-      {},
       {
-         "7": "0"
+         "18": "10",
+         "20": "6",
+         "26": "0"
+      },
+      {
+         "1": "6",
+         "10": "6"
       }
    ],
    "data": [
       {
-         "Response": "To go to a place where taxes are lower",
-         "Share of respondents": "42.9"
+         "Year": "2024",
+         "Ratio of government expenditure to GDP": "20.35"
       },
       {
-         "Response": "To find a job/a better job/ a better paid job",
-         "Share of respondents": "36.8"
+         "Year": "2023",
+         "Ratio of government expenditure to GDP": "20.37"
       },
       {
-         "Response": "To have new experiences",
-         "Share of respondents": "12.4"
+         "Year": "2022",
+         "Ratio of government expenditure to GDP": "20.46"
       },
       {
-         "Response": "To live in a country where services are more efficient",
-         "Share of respondents": "9.4"
+         "Year": "2021",
+         "Ratio of government expenditure to GDP": "20.41"
       },
       {
-         "Response": "To live in a country less oppress by bureaucracy and where there are rules",
-         "Share of respondents": "6.8"
+         "Year": "2020",
+         "Ratio of government expenditure to GDP": "20.54"
       },
       {
-         "Response": "To live in a cleaner and more tidier country",
-         "Share of respondents": "6.2"
+         "Year": "2019",
+         "Ratio of government expenditure to GDP": "22.97"
       },
       {
-         "Response": "Other",
-         "Share of respondents": "3.9"
+         "Year": "2018",
+         "Ratio of government expenditure to GDP": "22.7"
       },
       {
-         "Response": "I don\u00b4t know/No answer",
-         "Share of respondents": "3.6"
+         "Year": "2017",
+         "Ratio of government expenditure to GDP": "21.58"
+      },
+      {
+         "Year": "2016",
+         "Ratio of government expenditure to GDP": "22.7"
+      },
+      {
+         "Year": "2015",
+         "Ratio of government expenditure to GDP": "24.71"
+      },
+      {
+         "Year": "2014",
+         "Ratio of government expenditure to GDP": "25.96"
       }
-   ]
+   ],
+   "gold": "The statistic shows the ratio of government expenditure to gross domestic product ( GDP ) in Malaysia from 2014 to 2018 , with projections up to 2024 . In 2018 , government expenditure in Malaysia amounted to about 22.7 percent of the country 's gross domestic product .\n"
 }

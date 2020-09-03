@@ -9,16 +9,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 15 categories for the x axis of Quarter representing 15 seconds, 30 seconds, 60 seconds, Other.",
+      "This grouped bar chart has 15 categories for the x axis of Quarter representing 15 seconds, 30 seconds, 60 seconds, and Other.",
       " The highest category is found at Q2 2014 with a mean value of 25.0.",
       " The second highest category is found at Q4 2015 with a mean value of 25.0.",
       " This represents a difference of 0.0%."
    ],
-   "trends": {
-      "maxIndex": 14,
-      "secondIndex": 14
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "14"
+         ],
+         "13": [
+            "4",
+            "14"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "9"
+         ],
+         "14": [
+            "4",
+            "9"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Quarter": "Q1 2018",

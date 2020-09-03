@@ -1,57 +1,102 @@
 {
-   "title": "Number of households in Sweden 2011 to 2018",
-   "xAxis": "Year",
-   "yAxis": "Number of households",
+   "title": "Density of the population of Finland in 2018 , by region",
+   "xAxis": "Finnish Region",
+   "yAxis": "Number of inhabitants per square kilometer",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The Number of the Sweden luxury 2011 2018 S.p.A. amounted to 4345582 million households in 2018 . ",
-      "This figure represents a decrease compared to the peak reached by the 2011 in 2015 , when the Number reported amounted to 4536214 million households . ",
-      "The reduction in Number coincided with lower profits for the 2011 during the same period ."
+      "The statistic shows the Number of the population 20 European telecommunication 2018 in based on sales . ",
+      "In 2018 , the Uusimaa generated 183.7 million per in Number and was the population telecommunication operator in Finland . ",
+      "population Kanta-H\u00e4me Region - additional information The telecommunication services market , which includes both wireline and wireless services , is one of the most profitable segments of the IT industry ."
    ],
    "trends": [
+      {},
       {
-         "13": "7",
-         "17": "0"
+         "4": "0",
+         "6": "0"
       },
       {
-         "14": "3",
-         "22": "2"
-      },
-      {}
+         "1": "5"
+      }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Number of households": "4657395"
+         "Finnish Region": "Uusimaa",
+         "Number of inhabitants per square kilometer": "183.7"
       },
       {
-         "Year": "2017",
-         "Number of households": "4593508"
+         "Finnish Region": "Southwest Finland",
+         "Number of inhabitants per square kilometer": "44.9"
       },
       {
-         "Year": "2016",
-         "Number of households": "4536214"
+         "Finnish Region": "Pirkanmaa",
+         "Number of inhabitants per square kilometer": "40.9"
       },
       {
-         "Year": "2015",
-         "Number of households": "4481746"
+         "Finnish Region": "P\u00e4ij\u00e4t-H\u00e4me",
+         "Number of inhabitants per square kilometer": "39.2"
       },
       {
-         "Year": "2014",
-         "Number of households": "4432614"
+         "Finnish Region": "Kymenlaakso",
+         "Number of inhabitants per square kilometer": "33.7"
       },
       {
-         "Year": "2013",
-         "Number of households": "4389007"
+         "Finnish Region": "Kanta-H\u00e4me",
+         "Number of inhabitants per square kilometer": "33.0"
       },
       {
-         "Year": "2012",
-         "Number of households": "4360368"
+         "Finnish Region": "Satakunta",
+         "Number of inhabitants per square kilometer": "28.0"
       },
       {
-         "Year": "2011",
-         "Number of households": "4345582"
+         "Finnish Region": "South Karelia",
+         "Number of inhabitants per square kilometer": "24.2"
+      },
+      {
+         "Finnish Region": "Ostrobothnia",
+         "Number of inhabitants per square kilometer": "23.3"
+      },
+      {
+         "Finnish Region": "\u00c5land",
+         "Number of inhabitants per square kilometer": "19.2"
+      },
+      {
+         "Finnish Region": "Central Finland",
+         "Number of inhabitants per square kilometer": "16.5"
+      },
+      {
+         "Finnish Region": "North Savo",
+         "Number of inhabitants per square kilometer": "14.6"
+      },
+      {
+         "Finnish Region": "South Ostrobothnia",
+         "Number of inhabitants per square kilometer": "14.1"
+      },
+      {
+         "Finnish Region": "Central Ostrobothnia",
+         "Number of inhabitants per square kilometer": "13.6"
+      },
+      {
+         "Finnish Region": "North Ostrobothnia",
+         "Number of inhabitants per square kilometer": "11.2"
+      },
+      {
+         "Finnish Region": "South Savo",
+         "Number of inhabitants per square kilometer": "10.1"
+      },
+      {
+         "Finnish Region": "North Karelia",
+         "Number of inhabitants per square kilometer": "9.1"
+      },
+      {
+         "Finnish Region": "Kainuu",
+         "Number of inhabitants per square kilometer": "3.6"
+      },
+      {
+         "Finnish Region": "Lapland",
+         "Number of inhabitants per square kilometer": "1.9"
       }
-   ]
+   ],
+   "gold": "The statistic shows the population density of Finland in 2018 , by region . The most densely populated region was Uusimaa with a density of approximately 184 inhabitants per square kilometer . Lapland was the most scarcely populated with roughly two inhabitants per square kilometer .\n"
 }

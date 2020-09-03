@@ -4,36 +4,26 @@
    "yAxis": "Average age in years",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Average age in years, with a total of 23 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely negative which exists from 2013\u20132015 to 2000\u20132002.",
-      " Conversely, the next significant trend is extremely positive which exists from 1999\u20132001 to 1996\u20131998.",
-      " Also, the next significant trend is extremely negative which exists from 1996\u20131998 to 1993\u20131995."
+      " The longest trend is extremely positive which exists from 2013\u20132015 to 2000\u20132002.",
+      " Correspondingly, the next significant trend is slightly negative which exists from 2000\u20132002 to 1996\u20131998.",
+      " On the other hand, the next significant trend is extremely positive which exists from 1996\u20131998 to 1993\u20131995."
    ],
    "trends": [
+      {},
       {
-         "Length": 14,
-         "direction": "negative",
-         "start": 0,
-         "end": 13,
-         "trend": "y=0.07x+-121.12",
-         "magnitude": "extremely"
+         "1": "0",
+         "12": "13"
       },
       {
-         "Length": 4,
-         "direction": "positive",
-         "start": 14,
-         "end": 17,
-         "trend": "y=-0.04x+97.78",
-         "magnitude": "extremely"
+         "3": "13",
+         "14": "17"
       },
       {
-         "Length": 4,
-         "direction": "negative",
-         "start": 17,
-         "end": 20,
-         "trend": "y=0.06x+-103.84",
-         "magnitude": "extremely"
+         "3": "17",
+         "14": "20"
       }
    ],
    "data": [

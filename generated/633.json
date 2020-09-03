@@ -1,57 +1,55 @@
 {
-   "title": "Maximum discipline for selected player offenses in the NFL 2011/2012",
-   "xAxis": "Fine Types",
-   "yAxis": "Maximum fine (in U.S. dollars)",
+   "title": "FIFA World Cup 2014 Brazil total costs",
+   "xAxis": "Breakdown of Project",
+   "yAxis": "Costs in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Maximum of Unexcused_late_reporting_foror_absence_from_preseason_training in the discipline in , selected Types . ",
-      "In , about 30000 % Unexcused_late_reporting_foror_absence_from_preseason_training were counted in the discipline ."
+      "The statistic shows the Brazil in the World with the highest Cup gaming revenues in 2014 . ",
+      "The location with the highest 2014 Costs in the U.S. was unsurprisingly the Stadium_construction_&_renovation Strip , Stadium_construction_&_renovation totaling 3600 million U.S. dollars in Cup gaming Costs in 2014 ."
    ],
    "trends": [
+      {},
       {
-         "6": "0"
-      },
-      {
-         "6": "0"
+         "13": "0",
+         "16": "0",
+         "19": "0"
       }
    ],
    "data": [
       {
-         "Fine Types": "Unexcused late reporting foror absence from preseason training",
-         "Maximum fine (in U.S. dollars)": "30000"
+         "Breakdown of Project": "Stadium construction & renovation",
+         "Costs in million U.S. dollars": "3600"
       },
       {
-         "Fine Types": "Ejection from game",
-         "Maximum fine (in U.S. dollars)": "25000"
+         "Breakdown of Project": "Urban mobility projects",
+         "Costs in million U.S. dollars": "3400"
       },
       {
-         "Fine Types": "Unexcused missed team transportation",
-         "Maximum fine (in U.S. dollars)": "9440"
+         "Breakdown of Project": "Upgrades at airports",
+         "Costs in million U.S. dollars": "2600"
       },
       {
-         "Fine Types": "Loss of playbook scouting reportor game plan",
-         "Maximum fine (in U.S. dollars)": "9440"
+         "Breakdown of Project": "Public security & military defence forces",
+         "Costs in million U.S. dollars": "797"
       },
       {
-         "Fine Types": "Throwing football into stands",
-         "Maximum fine (in U.S. dollars)": "1770"
+         "Breakdown of Project": "Port infrastructure",
+         "Costs in million U.S. dollars": "249"
       },
       {
-         "Fine Types": "Losing damaging or alteringClub-provided equipment",
-         "Maximum fine (in U.S. dollars)": "1770"
+         "Breakdown of Project": "Telecommunications networks & services",
+         "Costs in million U.S. dollars": "171"
       },
       {
-         "Fine Types": "Failure to promptly report injury",
-         "Maximum fine (in U.S. dollars)": "1770"
+         "Breakdown of Project": "Complementary work for Confederations Cup",
+         "Costs in million U.S. dollars": "88"
       },
       {
-         "Fine Types": "Unexcused late reportingfor team activity",
-         "Maximum fine (in U.S. dollars)": "1770"
-      },
-      {
-         "Fine Types": "Being overweight (per lb.)",
-         "Maximum fine (in U.S. dollars)": "470"
+         "Breakdown of Project": "Tourism infrastructure projects",
+         "Costs in million U.S. dollars": "76"
       }
-   ]
+   ],
+   "gold": "The statistic shows the estimated total costs of the FIFA World Cup 2014 in Brazil , including the costs for stadium construction and renovation , urban mobility projects , upgrades at airports , public security and military defence forces , port infrastructure , telecommunications networks and services , complementary work for the Confederations Cup and tourism infrastructure projects . The costs for stadium construction and renovation are estimated at around 3.6 billion U.S. dollars . 2014 World Cup costs - additional information The 2014 World Cup in Brazil cost an estimated $ 11.6 billion .\n"
 }

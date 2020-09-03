@@ -1,115 +1,64 @@
 {
-   "title": "Global big data revenue 2016 - 2027 , by type",
-   "labels": [
-      "Year",
-      "Services",
-      "Hardware",
-      "Software"
-   ],
-   "columnType": "multi",
-   "graphType": "line",
+   "title": "Ranking of the most popular blogs in Norway 2019",
+   "xAxis": "Month",
+   "yAxis": "Number of visitors",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Global big data revenue 2016 46 to 24 Year olds in the type 2016 to 2027 , by participation rate . ",
-      "In 2027 , 11 % of 2027 by participated in Services , and Services in the type ."
+      "The statistic illustrates the Norway most popular blogs according to the Number of visitors 2019 in . ",
+      "Sophieelise leads all blogs with a total of 34173 visitors in 50 matches . ",
+      "Most visitors in 2015 - additional information In popular an ace is a legal serve for the most Corporation ."
    ],
    "trends": [
+      {},
       {
-         "9": [
-            "0",
-            "3"
-         ],
-         "18": [
-            "11",
-            "0"
-         ],
-         "20": [
-            "0",
-            "0"
-         ]
+         "0": "0",
+         "8": "0"
       },
-      {
-         "1": [
-            "0",
-            "0"
-         ],
-         "3": [
-            "11",
-            "1"
-         ]
-      }
+      {}
    ],
    "data": [
       {
-         "Year": "2027",
-         "Services": "33",
-         "Hardware": "24",
-         "Software": "46"
+         "Month": "Sophieelise",
+         "Number of visitors": "34173"
       },
       {
-         "Year": "2026",
-         "Services": "32",
-         "Hardware": "23",
-         "Software": "42"
+         "Month": "Annarasmussen",
+         "Number of visitors": "33363"
       },
       {
-         "Year": "2025",
-         "Services": "31",
-         "Hardware": "22",
-         "Software": "38"
+         "Month": "Isabelleeriksen",
+         "Number of visitors": "27246"
       },
       {
-         "Year": "2024",
-         "Services": "29",
-         "Hardware": "20",
-         "Software": "34"
+         "Month": "Straad",
+         "Number of visitors": "23413"
       },
       {
-         "Year": "2023",
-         "Services": "27",
-         "Hardware": "19",
-         "Software": "31"
+         "Month": "Sofienils1",
+         "Number of visitors": "22692"
       },
       {
-         "Year": "2022",
-         "Services": "26",
-         "Hardware": "18",
-         "Software": "27"
+         "Month": "Pilotfrue",
+         "Number of visitors": "21834"
       },
       {
-         "Year": "2021",
-         "Services": "24",
-         "Hardware": "16",
-         "Software": "24"
+         "Month": "Stina",
+         "Number of visitors": "18455"
       },
       {
-         "Year": "2020",
-         "Services": "21",
-         "Hardware": "15",
-         "Software": "20"
+         "Month": "Sofiemk",
+         "Number of visitors": "16394"
       },
       {
-         "Year": "2019",
-         "Services": "19",
-         "Hardware": "14",
-         "Software": "17"
+         "Month": "Andreaasveinsdottir",
+         "Number of visitors": "16346"
       },
       {
-         "Year": "2018",
-         "Services": "16",
-         "Hardware": "12",
-         "Software": "14"
-      },
-      {
-         "Year": "2017",
-         "Services": "14",
-         "Hardware": "10",
-         "Software": "11"
-      },
-      {
-         "Year": "2016",
-         "Services": "11",
-         "Hardware": "9",
-         "Software": "8"
+         "Month": "Martinelunde",
+         "Number of visitors": "11963"
       }
-   ]
+   ],
+   "gold": "Sophie Elise ranked first among popular blogs in Norway , as of August 2019 . Her channel covered a variety of topics , but the 21-year-old described herself as blogger , influencer , DJ and author on her page . She reached over 34 thousand visitors for the evaluated period .\n"
 }

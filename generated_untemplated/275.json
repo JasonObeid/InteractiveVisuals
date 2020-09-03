@@ -1,0 +1,32 @@
+{
+   "title": "PUBG unit sales worldwide 2018\n",
+   "xAxis": "Month",
+   "yAxis": "Unit sales in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "How many people play fortnite ? Having burst onto the scene in 2017 , fortnite has since become a worldwide phenomenon , amassing almost 250 million players across the globe as of 2019 . How did fortnite become so big ? The reasons why fortnite has become such a global hit are clear to see . Not only is the game free , but it is also available on most gaming platforms .\n",
+   "trends": {},
+   "data": [
+      {
+         "Month": "June 2018",
+         "Unit sales in millions": 50.0
+      },
+      {
+         "Month": "September 2017",
+         "Unit sales in millions": 10.0
+      },
+      {
+         "Month": "August 2017",
+         "Unit sales in millions": 8.0
+      },
+      {
+         "Month": "June 2017",
+         "Unit sales in millions": 4.0
+      },
+      {
+         "Month": "May 2017",
+         "Unit sales in millions": 2.0
+      }
+   ]
+}

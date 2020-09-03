@@ -1,61 +1,64 @@
 {
-   "title": "Marathon Oil 's number of employees 2010 to 2018",
-   "xAxis": "Year",
-   "yAxis": "Number of employees",
-   "columnType": "two",
-   "graphType": "line",
+   "title": "Mobile devices used by U.S. students 2015 , by type and frequency",
+   "labels": [
+      "Response",
+      "Never",
+      "A few times a month or less",
+      "2-3 times per week or more"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
    "summary": [
-      "This statistic shows the Number of employees at Marathon Oil from 2010 to 2018 . ",
-      "Marathon Oil Corporation is one of the largest U.S. oil and gas production companies . ",
-      "In 2018 , the company had approximately 2400 ."
+      "This statistic presents the share of online consumers in the Mobile who Smartphone used wallets , sorted by type frequency . ",
+      "During the 2017 survey , 17 % of respondents aged 18 to 29 Never stated that they used wallets and 42 % did not Smartphone used wallets but were Smartphone going to ."
    ],
    "trends": [
       {
-         "10": "8",
-         "12": "0"
+         "12": [
+            "1",
+            "0"
+         ]
       },
-      {},
       {
-         "1": "0",
-         "7": "0"
+         "5": [
+            "0",
+            "1"
+         ],
+         "25": [
+            "1",
+            "0"
+         ],
+         "30": [
+            "1",
+            "0"
+         ]
       }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Number of employees": "2400"
+         "Response": "Laptop notebook or Chromebook",
+         "Never": "17",
+         "A few times a month or less": "22",
+         "2-3 times per week or more": "61"
       },
       {
-         "Year": "2017",
-         "Number of employees": "2300"
+         "Response": "Smartphone",
+         "Never": "42",
+         "A few times a month or less": "16",
+         "2-3 times per week or more": "41"
       },
       {
-         "Year": "2016",
-         "Number of employees": "2117"
+         "Response": "Tablet",
+         "Never": "42",
+         "A few times a month or less": "21",
+         "2-3 times per week or more": "37"
       },
       {
-         "Year": "2015",
-         "Number of employees": "2611"
-      },
-      {
-         "Year": "2014",
-         "Number of employees": "3330"
-      },
-      {
-         "Year": "2013",
-         "Number of employees": "3359"
-      },
-      {
-         "Year": "2012",
-         "Number of employees": "3367"
-      },
-      {
-         "Year": "2011",
-         "Number of employees": "3322"
-      },
-      {
-         "Year": "2010",
-         "Number of employees": "29677"
+         "Response": "Hybrid or 2 in 1 computer",
+         "Never": "84",
+         "A few times a month or less": "5",
+         "2-3 times per week or more": "10"
       }
-   ]
+   ],
+   "gold": "This statistic presents information on the frequency of mobile device usage for school work according to students in the United States as of March 2015 , by type of the mobile device used . During the survey period , it was found that 41 percent of the students used smartphones 2 - 3 times per week or more for school work .\n"
 }

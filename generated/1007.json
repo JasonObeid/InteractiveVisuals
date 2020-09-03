@@ -1,70 +1,53 @@
 {
-   "title": "Gross domestic product ( GDP ) growth rate in Japan 2024",
+   "title": "Games industry M & A transactions cumulative value worldwide 2010 to 2016",
    "xAxis": "Year",
-   "yAxis": "GDP growth rate compared to previous year",
+   "yAxis": "Value in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the growth rate of Japan 's real GDP from 2014 to 2018 , with projections up until 2024 . ",
-      "In 2018 , GDP in Japan grew by about 0.81 % on the previous year.The recession-proof land down under GDP is one of the primary indicators used to gauge the state and health of a country 's economy . ",
-      "It is the total market value of all final goods and services that have been produced within a country in a given period of time , usually a Year ."
+      "The statistic shows the Value of the million economic U.S. of M and & to the gross domestic product ( dollars ) in Games industry M A from 2010 to 2016 . ",
+      "In 2015 , the Value of the million U.S. of M and & was at 7757.4 million ."
    ],
    "trends": [
       {
-         "12": "10",
-         "14": "6",
-         "20": "0"
+         "25": "6",
+         "27": "0"
       },
       {
-         "1": "6",
-         "9": "6"
-      },
-      {}
+         "1": "1",
+         "15": "2"
+      }
    ],
    "data": [
       {
-         "Year": "2024",
-         "GDP growth rate compared to previous year": "0.5"
-      },
-      {
-         "Year": "2023",
-         "GDP growth rate compared to previous year": "0.5"
-      },
-      {
-         "Year": "2022",
-         "GDP growth rate compared to previous year": "0.52"
-      },
-      {
-         "Year": "2021",
-         "GDP growth rate compared to previous year": "0.45"
-      },
-      {
-         "Year": "2020",
-         "GDP growth rate compared to previous year": "0.47"
-      },
-      {
-         "Year": "2019",
-         "GDP growth rate compared to previous year": "0.89"
-      },
-      {
-         "Year": "2018",
-         "GDP growth rate compared to previous year": "0.81"
-      },
-      {
-         "Year": "2017",
-         "GDP growth rate compared to previous year": "1.94"
-      },
-      {
          "Year": "2016",
-         "GDP growth rate compared to previous year": "0.61"
+         "Value in million U.S. dollars": "1146.8"
       },
       {
          "Year": "2015",
-         "GDP growth rate compared to previous year": "1.22"
+         "Value in million U.S. dollars": "4362.5"
       },
       {
          "Year": "2014",
-         "GDP growth rate compared to previous year": "0.38"
+         "Value in million U.S. dollars": "7757.4"
+      },
+      {
+         "Year": "2013",
+         "Value in million U.S. dollars": "4479.6"
+      },
+      {
+         "Year": "2012",
+         "Value in million U.S. dollars": "692.0"
+      },
+      {
+         "Year": "2011",
+         "Value in million U.S. dollars": "1423.5"
+      },
+      {
+         "Year": "2010",
+         "Value in million U.S. dollars": "81.0"
       }
-   ]
+   ],
+   "gold": "This statistic shows the Cumulative value of games market mergers and acquisitions ( M & A ) worldwide from 2010 to 2016 . In 2015 , based on the values of disclosed transactions , the industry 's M & A deals amounted to 4.36 billion U.S. dollars .\n"
 }

@@ -1,100 +1,106 @@
 {
-   "title": "Golden State Warriors number of Facebook fans/twitter followers 2012 to 2019",
-   "labels": [
-      "Month",
-      "Facebook fans",
-      "Twitter followers"
-   ],
-   "columnType": "multi",
+   "title": "Most popular social media apps in the U.S. 2019 , by audience",
+   "xAxis": "Platform",
+   "yAxis": "Million unique visitors",
+   "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the Warriors of Facebook fans/twitter ( social media ) of the NFL franchise Golden State Warriors State from 2012 to 2019 . ",
-      "In 2019 , the Facebook page of the Golden State Warriors State football team had 11.72 million fans ."
+      "The statistic shows the popular social college media teams with the most U.S. Division I apps four unique from 1939 to 2019 . ",
+      "Instagram_(main) was amongst the best four college media teams a total of 169.76 million unique ."
    ],
    "trends": [
       {},
       {
-         "13": [
-            "0",
-            "1"
-         ]
+         "0": "1",
+         "12": "0"
       }
    ],
    "data": [
       {
-         "Month": "September 2019",
-         "Facebook fans": "11.72",
-         "Twitter followers": "6.3"
+         "Platform": "Facebook (main)",
+         "Million unique visitors": "169.76"
       },
       {
-         "Month": "March 2019",
-         "Facebook fans": "11.09",
-         "Twitter followers": "5.63"
+         "Platform": "Instagram (main)",
+         "Million unique visitors": "121.23"
       },
       {
-         "Month": "September 2018",
-         "Facebook fans": "11.09",
-         "Twitter followers": "5.63"
+         "Platform": "Facebook Messenger",
+         "Million unique visitors": "106.4"
       },
       {
-         "Month": "March 2018",
-         "Facebook fans": "11.08",
-         "Twitter followers": "5.6"
+         "Platform": "Twitter (main)",
+         "Million unique visitors": "81.47"
       },
       {
-         "Month": "September 2017",
-         "Facebook fans": "11.22",
-         "Twitter followers": "4.51"
+         "Platform": "Pinterest",
+         "Million unique visitors": "66.88"
       },
       {
-         "Month": "March 2017",
-         "Facebook fans": "10.44",
-         "Twitter followers": "3.24"
+         "Platform": "Reddit",
+         "Million unique visitors": "47.87"
       },
       {
-         "Month": "September 2016",
-         "Facebook fans": "9.12",
-         "Twitter followers": "2.42"
+         "Platform": "Snapchat",
+         "Million unique visitors": "45.98"
       },
       {
-         "Month": "March 2016",
-         "Facebook fans": "6.34",
-         "Twitter followers": "1.48"
+         "Platform": "WhatsApp",
+         "Million unique visitors": "25.58"
       },
       {
-         "Month": "September 2015",
-         "Facebook fans": "4.49",
-         "Twitter followers": "1.09"
+         "Platform": "Messenger by Google",
+         "Million unique visitors": "17.46"
       },
       {
-         "Month": "March 2015",
-         "Facebook fans": "2.78",
-         "Twitter followers": "0.64"
+         "Platform": "Tumblr",
+         "Million unique visitors": "16.74"
       },
       {
-         "Month": "September 2014",
-         "Facebook fans": "2.43",
-         "Twitter followers": "0.47"
+         "Platform": "Discord - Chat for Games",
+         "Million unique visitors": "15.01"
       },
       {
-         "Month": "March 2014",
-         "Facebook fans": "1.47",
-         "Twitter followers": "0.37"
+         "Platform": "Google Hangouts (main)",
+         "Million unique visitors": "14.19"
       },
       {
-         "Month": "September 2013",
-         "Facebook fans": "0.52",
-         "Twitter followers": "0.27"
+         "Platform": "GroupMe",
+         "Million unique visitors": "10.75"
       },
       {
-         "Month": "February 2013",
-         "Facebook fans": "0.4",
-         "Twitter followers": "0.16"
+         "Platform": "Kik",
+         "Million unique visitors": "7.72"
       },
       {
-         "Month": "September 2012",
-         "Facebook fans": "0.36",
-         "Twitter followers": "0.11"
+         "Platform": "TikTok (main)",
+         "Million unique visitors": "6.24"
+      },
+      {
+         "Platform": "Skype (main)",
+         "Million unique visitors": "5.53"
+      },
+      {
+         "Platform": "TikTok",
+         "Million unique visitors": "3.76"
+      },
+      {
+         "Platform": "Telegram",
+         "Million unique visitors": "3.47"
+      },
+      {
+         "Platform": "LINE",
+         "Million unique visitors": "3.15"
+      },
+      {
+         "Platform": "Google+",
+         "Million unique visitors": "2.62"
+      },
+      {
+         "Platform": "WeChat",
+         "Million unique visitors": "1.48"
       }
-   ]
+   ],
+   "gold": "Despite a tumultuous 2018 , Facebook is still the top social network in the United States , with 169.76 million mobile users accessing the Facebook app in September 2019 . The company 's other properties Instagram and Facebook Messenger ranked second and third with 121 and 106 million users respectively . Cambridge Analytica scandal 2018 The biggest social media company in the world had a difficult 2018 .\n"
 }

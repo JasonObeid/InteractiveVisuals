@@ -1,99 +1,106 @@
 {
-   "title": "Minnesota - real GDP 2000 to 2018",
-   "xAxis": "Year",
-   "yAxis": "Real GDP in billion U.S. dollars",
+   "title": "Leading 20 U.S. brands 2018 , by brand value",
+   "xAxis": "Brand",
+   "yAxis": "Brand value in million U.S. dollars",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the development of Minnesota ' GDP from 2000 to 2018 . ",
-      "In 2018 , the GDP of Minnesota was 331.38 billion U.S. dollars ."
+      "With a Brand value of approximately 187905 million U.S. dollars , the Amazon of the world 's Leading 20 Brand in 2018 . ",
+      "The Japanese Brand of Amazon was followed by Apple with 153634 million U.S. dollars ."
    ],
    "trends": [
       {
-         "10": "18",
+         "6": "0",
          "12": "0"
       },
       {
-         "1": "0",
-         "8": "0"
+         "4": "0",
+         "8": "1",
+         "10": "1"
       }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Real GDP in billion U.S. dollars": "331.38"
+         "Brand": "Amazon",
+         "Brand value in million U.S. dollars": "187905"
       },
       {
-         "Year": "2017",
-         "Real GDP in billion U.S. dollars": "324.26"
+         "Brand": "Apple",
+         "Brand value in million U.S. dollars": "153634"
       },
       {
-         "Year": "2016",
-         "Real GDP in billion U.S. dollars": "317.62"
+         "Brand": "Google",
+         "Brand value in million U.S. dollars": "142755"
       },
       {
-         "Year": "2015",
-         "Real GDP in billion U.S. dollars": "311.34"
+         "Brand": "Microsoft",
+         "Brand value in million U.S. dollars": "119595"
       },
       {
-         "Year": "2014",
-         "Real GDP in billion U.S. dollars": "308.2"
+         "Brand": "AT&T",
+         "Brand value in million U.S. dollars": "87005"
       },
       {
-         "Year": "2013",
-         "Real GDP in billion U.S. dollars": "300.63"
+         "Brand": "Facebook",
+         "Brand value in million U.S. dollars": "83202"
       },
       {
-         "Year": "2012",
-         "Real GDP in billion U.S. dollars": "294.3"
+         "Brand": "Verizon",
+         "Brand value in million U.S. dollars": "71154"
       },
       {
-         "Year": "2011",
-         "Real GDP in billion U.S. dollars": "290.63"
+         "Brand": "Walmart",
+         "Brand value in million U.S. dollars": "67867"
       },
       {
-         "Year": "2010",
-         "Real GDP in billion U.S. dollars": "284.86"
+         "Brand": "The Home Depot",
+         "Brand value in million U.S. dollars": "47056"
       },
       {
-         "Year": "2009",
-         "Real GDP in billion U.S. dollars": "275.45"
+         "Brand": "Walt Disney",
+         "Brand value in million U.S. dollars": "45750"
       },
       {
-         "Year": "2008",
-         "Real GDP in billion U.S. dollars": "285.79"
+         "Brand": "Wells Fargo",
+         "Brand value in million U.S. dollars": "39948"
       },
       {
-         "Year": "2007",
-         "Real GDP in billion U.S. dollars": "283.21"
+         "Brand": "Starbucks",
+         "Brand value in million U.S. dollars": "39268"
       },
       {
-         "Year": "2006",
-         "Real GDP in billion U.S. dollars": "281.97"
+         "Brand": "YouTube",
+         "Brand value in million U.S. dollars": "37847"
       },
       {
-         "Year": "2005",
-         "Real GDP in billion U.S. dollars": "282.09"
+         "Brand": "Bank of America",
+         "Brand value in million U.S. dollars": "36687"
       },
       {
-         "Year": "2004",
-         "Real GDP in billion U.S. dollars": "274.71"
+         "Brand": "Citi",
+         "Brand value in million U.S. dollars": "36407"
       },
       {
-         "Year": "2003",
-         "Real GDP in billion U.S. dollars": "263.87"
+         "Brand": "Chase",
+         "Brand value in million U.S. dollars": "36265"
       },
       {
-         "Year": "2002",
-         "Real GDP in billion U.S. dollars": "252.41"
+         "Brand": "Coca-Cola",
+         "Brand value in million U.S. dollars": "36188"
       },
       {
-         "Year": "2001",
-         "Real GDP in billion U.S. dollars": "246.06"
+         "Brand": "Marlboro",
+         "Brand value in million U.S. dollars": "33569"
       },
       {
-         "Year": "2000",
-         "Real GDP in billion U.S. dollars": "245.98"
+         "Brand": "IBM",
+         "Brand value in million U.S. dollars": "32854"
+      },
+      {
+         "Brand": "Nike",
+         "Brand value in million U.S. dollars": "32421"
       }
-   ]
+   ],
+   "gold": "Amazon.com is an international e-commerce company offering online retail , computing services , consumer electronics and digital content , as well as other local services such as daily deals and groceries . As of 2018 , Amazon was ranked as the most valuable U.S. brand , with a brand value of around 188 billion U.S. dollars . Apple , Google , and Microsoft were the next most valuable brands in the United States that year .\n"
 }

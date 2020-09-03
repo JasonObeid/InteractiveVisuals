@@ -1,71 +1,54 @@
 {
-   "title": "Number of Papa John 's restaurants worldwide 2007 to 2018",
-   "xAxis": "Year",
-   "yAxis": "Number of restaurants",
+   "title": "Ownership and personal use of laptop/netbook computers 2012 , by country",
+   "xAxis": "Country",
+   "yAxis": "Percentage of population",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Number of Papa John restaurants in Papa John from 2007 to 2018 . ",
-      "At the end of the 2018 fiscal Year , there were 5303 Papa John restaurants in Papa John ."
+      "This statistic shows the Ownership personal use laptop/netbook computers 2012 in . ",
+      "In 2012 , the Ownership personal use laptop/netbook computers was Italy , accounting laptop/netbook 80 percentage of all population ."
    ],
    "trends": [
+      {},
       {
-         "11": "11",
-         "13": "0"
-      },
-      {
-         "5": "0",
-         "11": "0"
+         "10": "0",
+         "14": "0"
       }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Number of restaurants": "5303"
+         "Country": "Italy",
+         "Percentage of population": "80"
       },
       {
-         "Year": "2017",
-         "Number of restaurants": "5199"
+         "Country": "United Kingdom",
+         "Percentage of population": "75"
       },
       {
-         "Year": "2016",
-         "Number of restaurants": "5097"
+         "Country": "Germany",
+         "Percentage of population": "73"
       },
       {
-         "Year": "2015",
-         "Number of restaurants": "4893"
+         "Country": "Japan",
+         "Percentage of population": "72"
       },
       {
-         "Year": "2014",
-         "Number of restaurants": "4663"
+         "Country": "Australia",
+         "Percentage of population": "71"
       },
       {
-         "Year": "2013",
-         "Number of restaurants": "4428"
+         "Country": "Spain",
+         "Percentage of population": "71"
       },
       {
-         "Year": "2012",
-         "Number of restaurants": "4163"
+         "Country": "France",
+         "Percentage of population": "69"
       },
       {
-         "Year": "2011",
-         "Number of restaurants": "3883"
-      },
-      {
-         "Year": "2010",
-         "Number of restaurants": "3646"
-      },
-      {
-         "Year": "2009",
-         "Number of restaurants": "3469"
-      },
-      {
-         "Year": "2008",
-         "Number of restaurants": "3380"
-      },
-      {
-         "Year": "2007",
-         "Number of restaurants": "3208"
+         "Country": "United States",
+         "Percentage of population": "68"
       }
-   ]
+   ],
+   "gold": "This statistic shows the percentage of laptop/netbook computer ownership and usage among the populations of selected countries as of September 2012 . In the U.S. laptop/netbook ownership and usage was found to be at 68 percent of the population .\n"
 }

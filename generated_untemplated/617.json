@@ -1,0 +1,28 @@
+{
+   "title": "U.S. automobile registrations 1999 to 2017\n",
+   "xAxis": "Year",
+   "yAxis": "Number of passenger cars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the number of immigrants in indonesia in 2005 , 2010 , 2015 and 2017 . In 2010 , there were approximately 305 thousand immigrants living in indonesia .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2017",
+         "Number of passenger cars": 111177029.0
+      },
+      {
+         "Year": "2011",
+         "Number of passenger cars": 126966714.0
+      },
+      {
+         "Year": "2005",
+         "Number of passenger cars": 136568083.0
+      },
+      {
+         "Year": "1999",
+         "Number of passenger cars": 127083019.0
+      }
+   ]
+}

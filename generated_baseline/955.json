@@ -4,15 +4,24 @@
    "yAxis": "Net profit margin",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 10 categories for the x axis representing Company, and a y axis representing Net profit margin.",
       " The highest category is found at Philip_Morris_International_Inc. where Net profit margin is 28.3.",
       " The lowest category is found at Mars_Inc. where Net profit margin is 0.0."
    ],
-   "trends": {
-      "maxIndex": 7,
-      "minIndex": 6
-   },
+   "trends": [
+      {},
+      {
+         "7": 7,
+         "12": 7
+      },
+      {
+         "7": 6,
+         "12": 6
+      },
+      {}
+   ],
    "data": [
       {
          "Company": "Apple Inc.",

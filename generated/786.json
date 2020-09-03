@@ -1,67 +1,114 @@
 {
-   "title": "Homicide rate per 100,000 population in Finland in 2007 to 2017",
-   "xAxis": "Year",
-   "yAxis": "Number of victims per 100,000 inhabitants",
-   "columnType": "two",
+   "title": "Employment by economic sector in Norway 2019",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
    "graphType": "line",
    "summary": [
-      "The statistic shows the Number of victims per to the 100,000 population Finland ( 100,000 ) in the Finland from 2007 to 2017 . ",
-      "In 2017 , the Number of victims per in the Finland was about 1.11 million ."
+      "The statistic shows the distribution of Employment in Norway by economic sector from 2009 to 2019 . ",
+      "In 2019 , 2.02 % of the employees in Norway were active in the agricultural sector , 19.09 % in Industry and 78.89 % in the Services sector ."
    ],
    "trends": [
       {
-         "20": "10",
-         "22": "0"
+         "13": [
+            "10",
+            "0"
+         ],
+         "15": [
+            "0",
+            "0"
+         ]
       },
       {
-         "1": "0",
-         "13": "0"
+         "1": [
+            "0",
+            "0"
+         ],
+         "3": [
+            "0",
+            "1"
+         ],
+         "17": [
+            "0",
+            "2"
+         ],
+         "22": [
+            "0",
+            "3"
+         ]
       }
    ],
    "data": [
       {
+         "Year": "2019",
+         "Agriculture": "2.02",
+         "Industry": "19.09",
+         "Services": "78.89"
+      },
+      {
+         "Year": "2018",
+         "Agriculture": "2.04",
+         "Industry": "19.24",
+         "Services": "78.72"
+      },
+      {
          "Year": "2017",
-         "Number of victims per 100,000 inhabitants": "1.11"
+         "Agriculture": "2.06",
+         "Industry": "19.41",
+         "Services": "78.53"
       },
       {
          "Year": "2016",
-         "Number of victims per 100,000 inhabitants": "1.14"
+         "Agriculture": "2.09",
+         "Industry": "19.47",
+         "Services": "78.44"
       },
       {
          "Year": "2015",
-         "Number of victims per 100,000 inhabitants": "1.28"
+         "Agriculture": "2.01",
+         "Industry": "20.12",
+         "Services": "77.87"
       },
       {
          "Year": "2014",
-         "Number of victims per 100,000 inhabitants": "1.43"
+         "Agriculture": "2.25",
+         "Industry": "20.44",
+         "Services": "77.31"
       },
       {
          "Year": "2013",
-         "Number of victims per 100,000 inhabitants": "1.43"
+         "Agriculture": "2.21",
+         "Industry": "20.32",
+         "Services": "77.48"
       },
       {
          "Year": "2012",
-         "Number of victims per 100,000 inhabitants": "1.35"
+         "Agriculture": "2.23",
+         "Industry": "20.23",
+         "Services": "77.54"
       },
       {
          "Year": "2011",
-         "Number of victims per 100,000 inhabitants": "1.83"
+         "Agriculture": "2.37",
+         "Industry": "20.25",
+         "Services": "77.38"
       },
       {
          "Year": "2010",
-         "Number of victims per 100,000 inhabitants": "1.9"
+         "Agriculture": "2.55",
+         "Industry": "19.7",
+         "Services": "77.76"
       },
       {
          "Year": "2009",
-         "Number of victims per 100,000 inhabitants": "2.06"
-      },
-      {
-         "Year": "2008",
-         "Number of victims per 100,000 inhabitants": "2.23"
-      },
-      {
-         "Year": "2007",
-         "Number of victims per 100,000 inhabitants": "2.19"
+         "Agriculture": "2.7",
+         "Industry": "20.22",
+         "Services": "77.08"
       }
-   ]
+   ],
+   "gold": "The statistic shows the distribution of employment in Norway by economic sector from 2009 to 2019 . In 2019 , 2.02 percent of the employees in Norway were active in the agricultural sector , 19.09 percent in industry and 78.89 percent in the service sector .\n"
 }

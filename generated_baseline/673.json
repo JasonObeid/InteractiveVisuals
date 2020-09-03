@@ -4,27 +4,26 @@
    "yAxis": "Gross domestic product in billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Gross domestic product in billion U.S. dollars, with a total of 41 data points. The chart has 2 significant trends.",
-      " The longest trend is extremely negative which exists from 2024 to 2000.",
-      " Contrarily, the next significant trend is extremely negative which exists from 1998 to 1993."
+      "This line chart has an x axis representing Year and a y axis representing Gross domestic product in billion U.S. dollars, with a total of 41 data points. The chart has 3 significant trends.",
+      " The longest trend is extremely positive which exists from 2024 to 2000.",
+      " Similarly, the next significant trend is slightly positive which exists from 2000 to 1993.",
+      " In a similar manner, the next significant trend is slightly negative which exists from 1993 to 1988."
    ],
    "trends": [
+      {},
       {
-         "Length": 25,
-         "direction": "negative",
-         "start": 0,
-         "end": 24,
-         "trend": "y=5.7x+-11404.22",
-         "magnitude": "extremely"
+         "1": "0",
+         "12": "24"
       },
       {
-         "Length": 6,
-         "direction": "negative",
-         "start": 26,
-         "end": 31,
-         "trend": "y=1.54x+-3063.3",
-         "magnitude": "extremely"
+         "3": "24",
+         "14": "31"
+      },
+      {
+         "3": "31",
+         "14": "36"
       }
    ],
    "data": [

@@ -1,41 +1,79 @@
 {
-   "title": "Most popular mobile payment services in Sweden 2017",
-   "xAxis": "Response",
-   "yAxis": "Share of respondents",
+   "title": "Roche 's expenditure on research and development 2007 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Expenditure in million Swiss francs",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the results of a 2017 survey among Americans aged 16 and older regarding the Most they are looking for in a close mobile . ",
-      "This statistic only shows the top five answers to that question . ",
-      "75 % of the respondents stated a close mobile has to be loyal ."
+      "The statistic shows the Expenditure of pharmaceutical company Roche development from 2007 to 2019 . ",
+      "Roche is one of the largest global pharmaceutical companies . ",
+      "In 2019 , Roche reported approximately 11696 million Swiss worldwide ."
    ],
    "trends": [
-      {},
+      {
+         "11": "12",
+         "13": "0"
+      },
       {},
       {
-         "0": "0"
+         "1": "0",
+         "6": "0"
       }
    ],
    "data": [
       {
-         "Response": "Swish",
-         "Share of respondents": "75"
+         "Year": "2019",
+         "Expenditure in million Swiss francs": "11696"
       },
       {
-         "Response": "PayPal Mobile",
-         "Share of respondents": "14"
+         "Year": "2018",
+         "Expenditure in million Swiss francs": "11047"
       },
       {
-         "Response": "WyWallet",
-         "Share of respondents": "3"
+         "Year": "2017",
+         "Expenditure in million Swiss francs": "10392"
       },
       {
-         "Response": "Other",
-         "Share of respondents": "5"
+         "Year": "2016",
+         "Expenditure in million Swiss francs": "9915"
       },
       {
-         "Response": "None",
-         "Share of respondents": "21"
+         "Year": "2015",
+         "Expenditure in million Swiss francs": "9300"
+      },
+      {
+         "Year": "2014",
+         "Expenditure in million Swiss francs": "8913"
+      },
+      {
+         "Year": "2013",
+         "Expenditure in million Swiss francs": "8700"
+      },
+      {
+         "Year": "2012",
+         "Expenditure in million Swiss francs": "8475"
+      },
+      {
+         "Year": "2011",
+         "Expenditure in million Swiss francs": "8073"
+      },
+      {
+         "Year": "2010",
+         "Expenditure in million Swiss francs": "9050"
+      },
+      {
+         "Year": "2009",
+         "Expenditure in million Swiss francs": "9509"
+      },
+      {
+         "Year": "2008",
+         "Expenditure in million Swiss francs": "8704"
+      },
+      {
+         "Year": "2007",
+         "Expenditure in million Swiss francs": "8385"
       }
-   ]
+   ],
+   "gold": "This statistic shows the expenditure on research and development of pharmaceutical company Roche from 2007 to 2019 . Roche is a Swiss-based pharmaceutical company , and one of the leading pharma companies worldwide . In 2019 , Roche 's expenditure on research and development came to nearly 12 billion Swiss francs .\n"
 }

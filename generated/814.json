@@ -1,56 +1,73 @@
 {
-   "title": "Number of female directors in FTSE 100 companies UK 2012 to 2019",
+   "title": "Number of Papa John 's restaurants worldwide 2007 to 2018",
    "xAxis": "Year",
-   "yAxis": "Number of female directors",
+   "yAxis": "Number of restaurants",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Number of female in UK from 2012 to 2019 . ",
-      "According to the report , around 292 thousand babies were born in UK 2019 , an increase from the previous Year were 264 thousand babies were born ."
+      "This statistic shows the Number of Papa John restaurants in Papa John from 2007 to 2018 . ",
+      "At the end of the 2018 fiscal Year , there were 5303 Papa John restaurants in Papa John ."
    ],
    "trends": [
       {
-         "10": "7",
-         "12": "0"
+         "11": "11",
+         "13": "0"
       },
       {
-         "6": "0",
-         "14": "0",
-         "23": "1"
+         "5": "0",
+         "11": "0"
       }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Number of female directors": "292"
-      },
-      {
          "Year": "2018",
-         "Number of female directors": "264"
+         "Number of restaurants": "5303"
       },
       {
          "Year": "2017",
-         "Number of female directors": "259"
+         "Number of restaurants": "5199"
       },
       {
          "Year": "2016",
-         "Number of female directors": "244"
+         "Number of restaurants": "5097"
       },
       {
          "Year": "2015",
-         "Number of female directors": "233"
+         "Number of restaurants": "4893"
       },
       {
          "Year": "2014",
-         "Number of female directors": "205"
+         "Number of restaurants": "4663"
       },
       {
          "Year": "2013",
-         "Number of female directors": "169"
+         "Number of restaurants": "4428"
       },
       {
          "Year": "2012",
-         "Number of female directors": "141"
+         "Number of restaurants": "4163"
+      },
+      {
+         "Year": "2011",
+         "Number of restaurants": "3883"
+      },
+      {
+         "Year": "2010",
+         "Number of restaurants": "3646"
+      },
+      {
+         "Year": "2009",
+         "Number of restaurants": "3469"
+      },
+      {
+         "Year": "2008",
+         "Number of restaurants": "3380"
+      },
+      {
+         "Year": "2007",
+         "Number of restaurants": "3208"
       }
-   ]
+   ],
+   "gold": "In 2018 , pizza chain Papa John 's had a total of approximately 5,303 restaurants worldwide , up from 5,199 the previous year . This figure has been steadily growing for 12 years . Papa John 's place in the U.S. market Papa John 's ranked in fourth place in terms of U.S. sales when compared to competitors such as Domino 's Pizza , Pizza Hut and Little Caesars .\n"
 }

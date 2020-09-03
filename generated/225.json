@@ -1,23 +1,26 @@
 {
-   "title": "Individuals following a vegetarian diet in the United Kingdom ( UK ) 2008 - 2012 , by age",
+   "title": "OLED panel fabrication : U.S. cost targets 2016 to 2025",
    "labels": [
       "Year",
-      "Neither vegetarian or vegan",
-      "Vegetarian"
+      "Depreciation",
+      "Labor",
+      "Organic materials",
+      "Inorganic materials",
+      "Other fixed costs"
    ],
    "columnType": "multi",
    "graphType": "line",
    "summary": [
-      "The statistic shows the vegetarian of developers diet from 65_years_and_over to 1.5-3_years , broken down UK 2008 . ",
-      "In 1.5-3_years , 99 % of responding vegetarian developers were Neither , while 1 % were Vegetarian ."
+      "This statistic gives information on the fabrication of OLED 's panel from 2025 to 2016 , targets 2016 . ",
+      "In 2016 , 35 % of the internet company 's panel was generated in the country and 100 % in the Labor 2016 ."
    ],
    "trends": [
       {
-         "10": [
-            "4",
+         "12": [
+            "3",
             "0"
          ],
-         "12": [
+         "14": [
             "0",
             "0"
          ]
@@ -28,10 +31,10 @@
             "0"
          ],
          "3": [
-            "0",
+            "3",
             "1"
          ],
-         "13": [
+         "17": [
             "0",
             "2"
          ]
@@ -39,29 +42,37 @@
    ],
    "data": [
       {
-         "Year": "1.5-3 years",
-         "Neither vegetarian or vegan": "99",
-         "Vegetarian": "1"
+         "Year": "2016",
+         "Depreciation": "600",
+         "Labor": "100",
+         "Organic materials": "150",
+         "Inorganic materials": "200",
+         "Other fixed costs": "50"
       },
       {
-         "Year": "4-10 years",
-         "Neither vegetarian or vegan": "98",
-         "Vegetarian": "2"
+         "Year": "2018",
+         "Depreciation": "140",
+         "Labor": "25",
+         "Organic materials": "100",
+         "Inorganic materials": "140",
+         "Other fixed costs": "15"
       },
       {
-         "Year": "11-18 years",
-         "Neither vegetarian or vegan": "98",
-         "Vegetarian": "2"
+         "Year": "2020",
+         "Depreciation": "70",
+         "Labor": "15",
+         "Organic materials": "50",
+         "Inorganic materials": "100",
+         "Other fixed costs": "10"
       },
       {
-         "Year": "19-64 years",
-         "Neither vegetarian or vegan": "97",
-         "Vegetarian": "3"
-      },
-      {
-         "Year": "65 years and over",
-         "Neither vegetarian or vegan": "98",
-         "Vegetarian": "1"
+         "Year": "2025",
+         "Depreciation": "35",
+         "Labor": "5",
+         "Organic materials": "15",
+         "Inorganic materials": "30",
+         "Other fixed costs": "5"
       }
-   ]
+   ],
+   "gold": "This statistic shows the cost targets for organic light-emitting diode ( OLED ) panel fabrication in the United States from 2016 to 2025 , by cost area . The target for labor costs for 2025 is expected to reach decrease to 5 U.S. dollars per square meter of OLED panel produced .\n"
 }

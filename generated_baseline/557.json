@@ -4,15 +4,24 @@
    "yAxis": "Reserves in million metric tons",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 12 categories for the x axis representing Country, and a y axis representing Reserves in million metric tons.",
       " The highest category is found at Australia where Reserves in million metric tons is 36.0.",
       " The lowest category is found at Other_countries where Reserves in million metric tons is 0.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 11
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 11,
+         "12": 11
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "Australia",

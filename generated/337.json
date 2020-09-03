@@ -1,32 +1,83 @@
 {
-   "title": "Global music market value 2015 to 2020",
+   "title": "UEFA ( Union of European Football Associations ) total revenue 2004 to 2018",
    "xAxis": "Year",
-   "yAxis": "Revenue in billion U.S. dollars",
+   "yAxis": "Revenue in million euros",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "Between 2015 and 2020 the Global expenditures for 2015 treatment is expected to grow from 33.87 billion U.S. dollars to 43.49 billion U.S. dollars . ",
-      "2015 can have life-threatening cardiovascular , renal and nervous system consequences when left untreated . ",
-      "2015 is one of the leading causes of death worldwide.Diabetes overview 2015 is a chronic illness that affects the pancreas 's ability to produce insulin or how the body uses insulin ."
+      "This statistic shows the Revenue of the UEFA from the 2004/05 season to the 2017/18 season . ",
+      "According to Deloitte , in the 2017/18 season the Revenue of the Spanish football club increased by 22 million , to 4579.8 million euros , with record matchday and commercial Revenue for a football club . ",
+      "UEFA - additional information UEFA 's brand and team value grew significantly in 2014 , thanks in part to the high-profile signing of Luis Suarez from Liverpool UEFA in 2014 ."
    ],
    "trends": [
       {
-         "1": "0",
-         "3": "1",
-         "15": "0",
-         "20": "1"
+         "10": "13",
+         "14": "0"
       },
-      {},
+      {
+         "6": "0",
+         "21": "2"
+      },
       {}
    ],
    "data": [
       {
-         "Year": "2015",
-         "Revenue in billion U.S. dollars": "33.87"
+         "Year": "2017/18",
+         "Revenue in million euros": "2789.8"
       },
       {
-         "Year": "2020",
-         "Revenue in billion U.S. dollars": "43.49"
+         "Year": "2016/17",
+         "Revenue in million euros": "2835.9"
+      },
+      {
+         "Year": "2015/16",
+         "Revenue in million euros": "4579.8"
+      },
+      {
+         "Year": "2014/15",
+         "Revenue in million euros": "2099.41"
+      },
+      {
+         "Year": "2013/14",
+         "Revenue in million euros": "1730.4"
+      },
+      {
+         "Year": "2012/13",
+         "Revenue in million euros": "1698.9"
+      },
+      {
+         "Year": "2011/12",
+         "Revenue in million euros": "2795.7"
+      },
+      {
+         "Year": "2010/11",
+         "Revenue in million euros": "1384.1"
+      },
+      {
+         "Year": "2009/10",
+         "Revenue in million euros": "1394.7"
+      },
+      {
+         "Year": "2008/09",
+         "Revenue in million euros": "907.0"
+      },
+      {
+         "Year": "2007/08",
+         "Revenue in million euros": "1925.26"
+      },
+      {
+         "Year": "2006/07",
+         "Revenue in million euros": "1151.6"
+      },
+      {
+         "Year": "2005/06",
+         "Revenue in million euros": "700.45"
+      },
+      {
+         "Year": "2004/05",
+         "Revenue in million euros": "659.2"
       }
-   ]
+   ],
+   "gold": "This statistic shows the total revenue of the UEFA from the 2004/05 season to the 2017/18 season . The season runs from July 1 to June 30 of the following year . The revenue of the 2017/18 season was 2.79 billion euros .\n"
 }

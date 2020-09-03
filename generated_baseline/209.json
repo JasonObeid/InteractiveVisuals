@@ -4,36 +4,26 @@
    "yAxis": "Number of visitors in millions",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Number of visitors in millions, with a total of 12 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely negative which exists from 2012 to 2008.",
-      " Conversely, the next significant trend is extremely negative which exists from 2016 to 2013.",
-      " But, the next significant trend is extremely negative which exists from 2019 to 2017."
+      " The longest trend is slightly positive which exists from 2013 to 2008.",
+      " Likewise, the next significant trend is extremely positive which exists from 2017 to 2013.",
+      " In a similar manner, the next significant trend is slightly positive which exists from 2019 to 2017."
    ],
    "trends": [
+      {},
       {
-         "Length": 5,
-         "direction": "negative",
-         "start": 7,
-         "end": 11,
-         "trend": "y=0.13x+-258.31",
-         "magnitude": "extremely"
+         "1": "6",
+         "12": "11"
       },
       {
-         "Length": 4,
-         "direction": "negative",
-         "start": 3,
-         "end": 6,
-         "trend": "y=0.53x+-1067.94",
-         "magnitude": "extremely"
+         "3": "2",
+         "14": "6"
       },
       {
-         "Length": 3,
-         "direction": "negative",
-         "start": 0,
-         "end": 2,
-         "trend": "y=0.11x+-227.5",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "2"
       }
    ],
    "data": [

@@ -1,76 +1,46 @@
 {
-   "title": "Leading 5 purchasing countries of IKEA products 2012 to 2016",
+   "title": "Quarterly average daily rate of hotels in New York 2016 to 2017",
    "labels": [
-      "Country",
-      "2012",
-      "2013",
-      "2014",
-      "2015",
-      "2016"
+      "Quarter",
+      "2016",
+      "2017"
    ],
    "columnType": "multi",
    "graphType": "bar",
    "summary": [
-      "The statistic shows the Leading of 5 purchasing in the IKEA from 2012 to 2016 , . ",
-      "In 2016 , there were 23 5 purchasing in the IKEA ."
+      "This statistic shows the Quarterly average daily rate of hotels in New York 2016 and 2017 . ",
+      "In the first Quarter of 2017 , the average daily rate of hotels in New York the country was 257 U.S. dollars ."
    ],
    "trends": [
       {},
       {
-         "5": [
-            "0",
+         "19": [
+            "3",
             "2"
          ]
       }
    ],
    "data": [
       {
-         "Country": "China",
-         "2012": "22",
-         "2013": "23",
-         "2014": "25",
-         "2015": "25",
-         "2016": "26"
+         "Quarter": "Q4",
+         "2016": "389",
+         "2017": "0"
       },
       {
-         "Country": "Poland",
-         "2012": "18",
-         "2013": "18",
-         "2014": "18",
-         "2015": "19",
-         "2016": "18"
+         "Quarter": "Q3",
+         "2016": "350",
+         "2017": "0"
       },
       {
-         "Country": "Italy",
-         "2012": "8",
-         "2013": "8",
-         "2014": "7",
-         "2015": "8",
-         "2016": "8"
+         "Quarter": "Q2",
+         "2016": "351",
+         "2017": "0"
       },
       {
-         "Country": "Sweden",
-         "2012": "5",
-         "2013": "6",
-         "2014": "5",
-         "2015": "5",
-         "2016": "5"
-      },
-      {
-         "Country": "Lithuania",
-         "2012": "4",
-         "2013": "4",
-         "2014": "4",
-         "2015": "5",
-         "2016": "5"
-      },
-      {
-         "Country": "Others",
-         "2012": "0",
-         "2013": "0",
-         "2014": "0",
-         "2015": "0",
-         "2016": "38"
+         "Quarter": "Q1",
+         "2016": "260",
+         "2017": "257"
       }
-   ]
+   ],
+   "gold": "This statistic shows the quarterly average daily rate of hotels in New York in 2016 and 2017 . In the first quarter of 2017 , the average daily rate of hotels in New York in the United States was 257 U.S. dollars . Accommodation in New York - additional information The average daily rate of hotels in New York appears to be much higher in the fourth quarter of the year , reaching 389 U.S. dollars in 2016 .\n"
 }

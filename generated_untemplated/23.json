@@ -1,0 +1,34 @@
+{
+   "title": "Harley-Davidson - motorcycle sales by region 2017/2018",
+   "labels": [
+      "Year",
+      "U.S.",
+      "Canada",
+      "Europe, Middle East, Africa (EMEA)",
+      "Asia-Pacific",
+      "Latin America"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": "The graph shows the projected wholesale sales of smart home devices and controllers in the united from 2013 to 2017 . In 2014 , 20.7 smart home devices were sold to dealers in the united .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2017",
+         "U.S.": "147972",
+         "Canada": "10081",
+         "Europe, Middle East, Africa (EMEA)": "44935",
+         "Asia-Pacific": "30348",
+         "Latin America": "9452"
+      },
+      {
+         "Year": "2018",
+         "U.S.": "132868",
+         "Canada": "9690",
+         "Europe, Middle East, Africa (EMEA)": "46602",
+         "Asia-Pacific": "28724",
+         "Latin America": "10167"
+      }
+   ]
+}

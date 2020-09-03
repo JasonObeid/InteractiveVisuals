@@ -1,107 +1,54 @@
 {
-   "title": "Unemployment rate in Indonesia 2019",
+   "title": "Government spending for SNAP benefits ( Food Stamps ) in the U.S. 1995 to 2020",
    "xAxis": "Year",
-   "yAxis": "Unemployment rate",
+   "yAxis": "Spending in billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Unemployment rate in Indonesia from 1999 to 2019 . ",
-      "In 2019 , the Unemployment rate in Indonesia was at approximately 4.38 % ."
+      "The timeline depicts an for SNAP benefits for Food Stamps spending worldwide from 1995 to 2020 . ",
+      "In 1995 , about 26 billion cars and light vehicles produced worldwide were equipped with an for SNAP . ",
+      "It is benefits that this number will increase to about 74 billion automobiles produced worldwide in 2015 ."
    ],
    "trends": [
       {
-         "9": "20",
-         "11": "0"
+         "12": "5",
+         "14": "0"
       },
       {
-         "1": "0",
-         "11": "0"
+         "1": "5",
+         "4": "5"
+      },
+      {
+         "10": "0",
+         "16": "1"
       }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Unemployment rate": "4.38"
-      },
-      {
-         "Year": "2018",
-         "Unemployment rate": "4.3"
-      },
-      {
-         "Year": "2017",
-         "Unemployment rate": "4.19"
-      },
-      {
-         "Year": "2016",
-         "Unemployment rate": "4.3"
+         "Year": "2020",
+         "Spending in billion U.S. dollars": "74"
       },
       {
          "Year": "2015",
-         "Unemployment rate": "4.51"
-      },
-      {
-         "Year": "2014",
-         "Unemployment rate": "4.05"
-      },
-      {
-         "Year": "2013",
-         "Unemployment rate": "4.34"
-      },
-      {
-         "Year": "2012",
-         "Unemployment rate": "4.47"
-      },
-      {
-         "Year": "2011",
-         "Unemployment rate": "5.15"
+         "Spending in billion U.S. dollars": "80"
       },
       {
          "Year": "2010",
-         "Unemployment rate": "5.61"
-      },
-      {
-         "Year": "2009",
-         "Unemployment rate": "6.11"
-      },
-      {
-         "Year": "2008",
-         "Unemployment rate": "7.21"
-      },
-      {
-         "Year": "2007",
-         "Unemployment rate": "8.06"
-      },
-      {
-         "Year": "2006",
-         "Unemployment rate": "7.55"
+         "Spending in billion U.S. dollars": "70"
       },
       {
          "Year": "2005",
-         "Unemployment rate": "7.95"
-      },
-      {
-         "Year": "2004",
-         "Unemployment rate": "7.3"
-      },
-      {
-         "Year": "2003",
-         "Unemployment rate": "6.66"
-      },
-      {
-         "Year": "2002",
-         "Unemployment rate": "6.6"
-      },
-      {
-         "Year": "2001",
-         "Unemployment rate": "6.08"
+         "Spending in billion U.S. dollars": "33"
       },
       {
          "Year": "2000",
-         "Unemployment rate": "6.08"
+         "Spending in billion U.S. dollars": "18"
       },
       {
-         "Year": "1999",
-         "Unemployment rate": "6.3"
+         "Year": "1995",
+         "Spending in billion U.S. dollars": "26"
       }
-   ]
+   ],
+   "gold": "The statistic shows total U.S. government spending for the Supplemental Nutrition Assistance Program ( SNAP , formerly called Food Stamps ) from 1995 to 2020 . In 2010 , about 70 billion U.S. dollars were spent for the Supplemental Nutrition Assistance Program .\n"
 }

@@ -4,15 +4,24 @@
    "yAxis": "Share of respondents",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 10 categories for the x axis representing Platform, and a y axis representing Share of respondents.",
       " The highest category is found at Facebook where Share of respondents is 83.0.",
       " The lowest category is found at Tumblr where Share of respondents is 2.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 9
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
    "data": [
       {
          "Platform": "Facebook",

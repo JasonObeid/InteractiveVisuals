@@ -4,15 +4,24 @@
    "yAxis": "Net worth in billion U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 20 categories for the x axis representing Month, and a y axis representing Net worth in billion U.S. dollars.",
       " The highest category is found at Jeff_Bezos_&_family_(Amazon.com) where Net worth in billion U.S. dollars is 131.0.",
       " The lowest category is found at Elon_Musk_(Tesla_Motors_SpaceX) where Net worth in billion U.S. dollars is 22.3."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 19
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
    "data": [
       {
          "Month": "Jeff Bezos & family (Amazon.com)",

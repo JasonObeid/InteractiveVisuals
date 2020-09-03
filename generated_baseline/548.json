@@ -4,36 +4,26 @@
    "yAxis": "Foreign exchange earnings in billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Foreign exchange earnings in billion U.S. dollars, with a total of 19 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely negative which exists from 2018 to 2009.",
-      " On the other hand, the next significant trend is extremely negative which exists from 2008 to 2002.",
-      " On the contrary, the next significant trend is extremely positive which exists from 2002 to 2000."
+      " The longest trend is extremely positive which exists from 2018 to 2009.",
+      " Additionally, the next significant trend is extremely positive which exists from 2009 to 2002.",
+      " Additionally, the next significant trend is slightly negative which exists from 2002 to 2000."
    ],
    "trends": [
+      {},
       {
-         "Length": 10,
-         "direction": "negative",
-         "start": 0,
-         "end": 9,
-         "trend": "y=1.76x+-3517.02",
-         "magnitude": "extremely"
+         "1": "0",
+         "12": "9"
       },
       {
-         "Length": 7,
-         "direction": "negative",
-         "start": 10,
-         "end": 16,
-         "trend": "y=1.47x+-2942.01",
-         "magnitude": "extremely"
+         "3": "9",
+         "14": "16"
       },
       {
-         "Length": 3,
-         "direction": "positive",
-         "start": 16,
-         "end": 18,
-         "trend": "y=-0.18x+363.43",
-         "magnitude": "extremely"
+         "3": "16",
+         "14": "18"
       }
    ],
    "data": [

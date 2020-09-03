@@ -9,16 +9,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 8 categories for the x axis of Country representing 2014, 2016, 2018, 2019.",
+      "This grouped bar chart has 8 categories for the x axis of Country representing 2014, 2016, 2018, and 2019.",
       " The highest category is found at Australia with a mean value of 32100.0.",
       " The second highest category is found at Chile with a mean value of 14625.0.",
       " This represents a difference of 74.8%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "4",
+            "1"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "Australia",

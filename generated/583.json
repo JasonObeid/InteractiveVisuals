@@ -1,69 +1,41 @@
 {
-   "title": "Per capita consumption of alcohol in Norway 2008 to 2018",
-   "xAxis": "Year",
-   "yAxis": "Per capita consumption in liters",
+   "title": "Facebook : monthly brand profile follower growth 2017",
+   "xAxis": "Month",
+   "yAxis": "Growth rate",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The Per capita of Per capita manufactured in the Norway was approximately 40 thousand tons in 2018 , an increase of over eight thousand tons from 2017 . ",
-      "This constitutes a recovery of the production capita , which collapsed between 2008 and 2011 falling by just under eighty percent , before it stagnated in the early 2010s . ",
-      "A stagnating market ? The corresponding developments in Per values give the same picture as above ."
+      "This statistic presents the monthly brand follower Growth of Facebook profiles from to 2017 . ",
+      "In the last measured Month , Facebook brand profiles gained an average of 0.82 million more followers than in the previous Month ."
    ],
    "trends": [
+      {},
       {
-         "16": "0",
-         "26": "1"
-      },
-      {
-         "12": "10",
-         "14": "7"
-      },
-      {}
+         "13": "4"
+      }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Per capita consumption in liters": "82.79"
+         "Month": "Dec '17",
+         "Growth rate": "0.61"
       },
       {
-         "Year": "2017",
-         "Per capita consumption in liters": "81.91"
+         "Month": "Nov '17",
+         "Growth rate": "0.1"
       },
       {
-         "Year": "2016",
-         "Per capita consumption in liters": "82.33"
+         "Month": "Oct '17",
+         "Growth rate": "-0.1"
       },
       {
-         "Year": "2015",
-         "Per capita consumption in liters": "80.71"
+         "Month": "Sep '17",
+         "Growth rate": "-3.28"
       },
       {
-         "Year": "2014",
-         "Per capita consumption in liters": "81.94"
-      },
-      {
-         "Year": "2013",
-         "Per capita consumption in liters": "83.94"
-      },
-      {
-         "Year": "2012",
-         "Per capita consumption in liters": "83.93"
-      },
-      {
-         "Year": "2011",
-         "Per capita consumption in liters": "87.87"
-      },
-      {
-         "Year": "2010",
-         "Per capita consumption in liters": "89.58"
-      },
-      {
-         "Year": "2009",
-         "Per capita consumption in liters": "90.96"
-      },
-      {
-         "Year": "2008",
-         "Per capita consumption in liters": "92.91"
+         "Month": "Aug '17",
+         "Growth rate": "0.82"
       }
-   ]
+   ],
+   "gold": "This statistic presents the monthly brand fan growth of Facebook profiles from August to December 2017 . In the last measured month , Facebook brand pages gained an average of 0.6 percent more followers than in the previous month .\n"
 }

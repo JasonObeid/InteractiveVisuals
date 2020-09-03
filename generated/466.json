@@ -1,100 +1,44 @@
 {
-   "title": "GDP growth in Canada 2000 to 2017",
-   "xAxis": "Year",
-   "yAxis": "Annual gross domestic product growth",
+   "title": "Vehicle sales in the United States 2019",
+   "xAxis": "Vehicles",
+   "yAxis": "Vehicle retail sales in thousands",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "5.18 % of the population of the Canada ( ) used the product in 2017 2000 according to figures from Eurostat and the International Telecommunications Union . ",
-      "The figure is unchanged from 2016 , marking the first Year without growth since 2007 . ",
-      "product users in Great Britain44.1 million people used the product daily in Great Britain during 2018 according to the Canada 's ( Canada ) Office for National Statistics ( ONS ) , breaking the record set in 2016 ."
+      "The statistic presents the sales Peruvians in 2019 , broken down 2019 Vehicle . ",
+      "In 2019 , the Vehicles businessman Light_vehicles_(total) had a fortune worth more than 17494.6 thousands sales and was thus the sales person in the country , followed 2019 Thereof_light_trucks , with a fortune of 12237.8 thousands sales ."
    ],
    "trends": [
+      {},
       {
-         "0": "17",
-         "15": "0",
-         "16": "17"
-      },
-      {
-         "5": "1",
-         "14": "10"
-      },
-      {
-         "37": "1"
+         "6": "0",
+         "13": "4",
+         "29": "1",
+         "35": "1"
       }
    ],
    "data": [
       {
-         "Year": "2017",
-         "Annual gross domestic product growth": "3.05"
+         "Vehicles": "Light vehicles (total)",
+         "Vehicle retail sales in thousands": "16965.2"
       },
       {
-         "Year": "2016",
-         "Annual gross domestic product growth": "1.41"
+         "Vehicles": "Thereof light trucks",
+         "Vehicle retail sales in thousands": "12237.8"
       },
       {
-         "Year": "2015",
-         "Annual gross domestic product growth": "1"
+         "Vehicles": "Thereof autos",
+         "Vehicle retail sales in thousands": "4727.3"
       },
       {
-         "Year": "2014",
-         "Annual gross domestic product growth": "2.86"
+         "Vehicles": "Heavy trucks",
+         "Vehicle retail sales in thousands": "529.5"
       },
       {
-         "Year": "2013",
-         "Annual gross domestic product growth": "2.48"
-      },
-      {
-         "Year": "2012",
-         "Annual gross domestic product growth": "1.75"
-      },
-      {
-         "Year": "2011",
-         "Annual gross domestic product growth": "3.14"
-      },
-      {
-         "Year": "2010",
-         "Annual gross domestic product growth": "3.08"
-      },
-      {
-         "Year": "2009",
-         "Annual gross domestic product growth": "-2.95"
-      },
-      {
-         "Year": "2008",
-         "Annual gross domestic product growth": "1"
-      },
-      {
-         "Year": "2007",
-         "Annual gross domestic product growth": "2.06"
-      },
-      {
-         "Year": "2006",
-         "Annual gross domestic product growth": "2.62"
-      },
-      {
-         "Year": "2005",
-         "Annual gross domestic product growth": "3.2"
-      },
-      {
-         "Year": "2004",
-         "Annual gross domestic product growth": "3.09"
-      },
-      {
-         "Year": "2003",
-         "Annual gross domestic product growth": "1.8"
-      },
-      {
-         "Year": "2002",
-         "Annual gross domestic product growth": "3.01"
-      },
-      {
-         "Year": "2001",
-         "Annual gross domestic product growth": "1.77"
-      },
-      {
-         "Year": "2000",
-         "Annual gross domestic product growth": "5.18"
+         "Vehicles": "Motor vehicles (total)",
+         "Vehicle retail sales in thousands": "17494.6"
       }
-   ]
+   ],
+   "gold": "In 2019 , a little under 17.5 million heavy trucks , light trucks , and cars were sold to customers in the United States . Light trucks accounted for about 70 percent of U.S. motor vehicle sales that year .\n"
 }

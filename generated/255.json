@@ -1,78 +1,96 @@
 {
-   "title": "Real GDP of New York , by industry 2018",
-   "xAxis": "Industry",
-   "yAxis": "Real value added in billion chained (2012) U.S. dollars",
-   "columnType": "two",
-   "graphType": "bar",
+   "title": "Population in China 2008 - 2018 , by gender",
+   "labels": [
+      "Year",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
    "summary": [
-      "This graph shows the Finance_insurance_real_estate_rental_and_leasing value added to the Gross Domestic Product ( GDP ) of New York in 2018 , York Industry . ",
-      "In 2018 , the Arts_entertainment_recreation_accommodation_and_food_services Industry added 61.7 billion chained 2012 U.S. dollars of value to the state GDP ."
+      "The Population China at 2008 was 713.51 years old for men in China 2018 , and 681.87 years old for women . ",
+      "Within the considered time frame , men were about three years older then women on Population when marrying , and all in the Population China seems to increase . ",
+      "In 2018 , the Population China in was about the same as in Denmark and the Netherlands ."
    ],
    "trends": [
       {
-         "4": "0"
+         "6": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "0",
+            "0"
+         ],
+         "17": [
+            "0",
+            "2"
+         ]
       },
+      {},
       {
-         "4": "8",
-         "7": "8"
+         "1": [
+            "0",
+            "0"
+         ]
       }
    ],
    "data": [
       {
-         "Industry": "Finance insurance real estate rental and leasing",
-         "Real value added in billion chained (2012) U.S. dollars": "418.87"
+         "Year": "2018",
+         "Male": "713.51",
+         "Female": "681.87"
       },
       {
-         "Industry": "Professional and business services",
-         "Real value added in billion chained (2012) U.S. dollars": "200.09"
+         "Year": "2017",
+         "Male": "711.37",
+         "Female": "678.71"
       },
       {
-         "Industry": "Government and government enterprises",
-         "Real value added in billion chained (2012) U.S. dollars": "151.94"
+         "Year": "2016",
+         "Male": "708.15",
+         "Female": "674.56"
       },
       {
-         "Industry": "Information",
-         "Real value added in billion chained (2012) U.S. dollars": "143.64"
+         "Year": "2015",
+         "Male": "704.14",
+         "Female": "670.48"
       },
       {
-         "Industry": "Educational services health care and social assistance",
-         "Real value added in billion chained (2012) U.S. dollars": "141.49"
+         "Year": "2014",
+         "Male": "700.79",
+         "Female": "667.03"
       },
       {
-         "Industry": "Wholesale trade",
-         "Real value added in billion chained (2012) U.S. dollars": "70.45"
+         "Year": "2013",
+         "Male": "697.28",
+         "Female": "663.44"
       },
       {
-         "Industry": "Retail trade",
-         "Real value added in billion chained (2012) U.S. dollars": "69.22"
+         "Year": "2012",
+         "Male": "693.95",
+         "Female": "660.09"
       },
       {
-         "Industry": "Manufacturing",
-         "Real value added in billion chained (2012) U.S. dollars": "65.79"
+         "Year": "2011",
+         "Male": "690.68",
+         "Female": "656.67"
       },
       {
-         "Industry": "Arts entertainment recreation accommodation and food services",
-         "Real value added in billion chained (2012) U.S. dollars": "61.7"
+         "Year": "2010",
+         "Male": "687.48",
+         "Female": "653.43"
       },
       {
-         "Industry": "Construction",
-         "Real value added in billion chained (2012) U.S. dollars": "39.87"
+         "Year": "2009",
+         "Male": "686.47",
+         "Female": "648.03"
       },
       {
-         "Industry": "Transportation and warehousing",
-         "Real value added in billion chained (2012) U.S. dollars": "28.29"
-      },
-      {
-         "Industry": "Utilities",
-         "Real value added in billion chained (2012) U.S. dollars": "20.17"
-      },
-      {
-         "Industry": "Agriculture forestry fishing and hunting",
-         "Real value added in billion chained (2012) U.S. dollars": "3.3"
-      },
-      {
-         "Industry": "Mining quarrying and oil and gas extraction",
-         "Real value added in billion chained (2012) U.S. dollars": "1.2"
+         "Year": "2008",
+         "Male": "683.57",
+         "Female": "644.45"
       }
-   ]
+   ],
+   "gold": "In 2018 , there were around 713 million male inhabitants and 682 million female inhabitants living in China , amounting to nearly 1.4 billion people in total . The population of the world 's most populous country remains growing , but growth has been slowing down and the total population size is forecast to peak around the end of the 2020s . Birth control in China From the beginning of the 1970s on , having many children was no longer encouraged in mainland China .\n"
 }

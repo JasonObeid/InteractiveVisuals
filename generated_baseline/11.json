@@ -8,16 +8,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 7 categories for the x axis of Platform representing 18-24, 25-29, 30-34.",
-      " The highest category is found at Facebook with a mean value of 42.333333333333336.",
+      "This grouped bar chart has 7 categories for the x axis of Platform representing 18-24, 25-29, and 30-34.",
+      " The highest category is found at Facebook with a mean value of 42.33.",
       " The second highest category is found at Instagram with a mean value of 18.0.",
       " This represents a difference of 80.7%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "3",
+            "1"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Platform": "Facebook",

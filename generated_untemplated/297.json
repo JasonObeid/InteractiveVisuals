@@ -1,0 +1,20 @@
+{
+   "title": "Facebook user share in the United States 2019 , by gender\n",
+   "xAxis": "Sex",
+   "yAxis": "Percentage of users",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic gives information on the distribution of twitter users worldwide as of 2020 , sorted by gender . During the survey period , 43 percent of twitter audiences were female and 57 percent were male .\n",
+   "trends": {},
+   "data": [
+      {
+         "Sex": "Female",
+         "Percentage of users": 53.7
+      },
+      {
+         "Sex": "Male",
+         "Percentage of users": 46.3
+      }
+   ]
+}

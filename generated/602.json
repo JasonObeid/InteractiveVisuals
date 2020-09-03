@@ -1,107 +1,94 @@
 {
-   "title": "Global CO2 emissions related to energy 1975 to 2019",
-   "xAxis": "Year",
-   "yAxis": "CO2 emissions in billion metric tons",
-   "columnType": "two",
+   "title": "GSK : revenue of Seretide/Advair globally by region 2012 to 2018",
+   "labels": [
+      "Year",
+      "Total",
+      "United States",
+      "Europe",
+      "Emerging markets",
+      "Rest of world"
+   ],
+   "columnType": "multi",
    "graphType": "line",
    "summary": [
-      "The statistic shows the CO2 of emissions in the CO2 from 1975 to 2019 . ",
-      "In 2019 , there were a total 33.3 emissions reported in the CO2 ."
+      "The statistic shows the GSK revenue of GSK from 2012 to 2018 , by region . ",
+      "In 2018 , GSK 's revenue of GSK amounted to approximately 599 million metric tons of GSK 's United ."
    ],
    "trends": [
       {
-         "11": "20",
-         "13": "0"
+         "9": [
+            "6",
+            "0"
+         ],
+         "11": [
+            "0",
+            "0"
+         ]
       },
       {
-         "1": "0",
-         "7": "0"
+         "1": [
+            "0",
+            "0"
+         ]
       }
    ],
    "data": [
       {
-         "Year": "2019",
-         "CO2 emissions in billion metric tons": "33.3"
-      },
-      {
          "Year": "2018",
-         "CO2 emissions in billion metric tons": "33.3"
+         "Total": "2422",
+         "United States": "1097",
+         "Europe": "599",
+         "Emerging markets": "0",
+         "Rest of world": "726"
       },
       {
          "Year": "2017",
-         "CO2 emissions in billion metric tons": "32.7"
+         "Total": "3130",
+         "United States": "1610",
+         "Europe": "736",
+         "Emerging markets": "0",
+         "Rest of world": "784"
       },
       {
          "Year": "2016",
-         "CO2 emissions in billion metric tons": "32.2"
+         "Total": "3485",
+         "United States": "1829",
+         "Europe": "835",
+         "Emerging markets": "0",
+         "Rest of world": "821"
       },
       {
          "Year": "2015",
-         "CO2 emissions in billion metric tons": "32.2"
+         "Total": "3681",
+         "United States": "1865",
+         "Europe": "1014",
+         "Emerging markets": "0",
+         "Rest of world": "802"
       },
       {
          "Year": "2014",
-         "CO2 emissions in billion metric tons": "32.3"
+         "Total": "4229",
+         "United States": "1972",
+         "Europe": "1330",
+         "Emerging markets": "400",
+         "Rest of world": "527"
       },
       {
          "Year": "2013",
-         "CO2 emissions in billion metric tons": "32.2"
+         "Total": "5274",
+         "United States": "2769",
+         "Europe": "1458",
+         "Emerging markets": "429",
+         "Rest of world": "618"
       },
       {
          "Year": "2012",
-         "CO2 emissions in billion metric tons": "31.6"
-      },
-      {
-         "Year": "2011",
-         "CO2 emissions in billion metric tons": "31.3"
-      },
-      {
-         "Year": "2010",
-         "CO2 emissions in billion metric tons": "30.4"
-      },
-      {
-         "Year": "2009",
-         "CO2 emissions in billion metric tons": "28.7"
-      },
-      {
-         "Year": "2008",
-         "CO2 emissions in billion metric tons": "29.1"
-      },
-      {
-         "Year": "2007",
-         "CO2 emissions in billion metric tons": "28.9"
-      },
-      {
-         "Year": "2006",
-         "CO2 emissions in billion metric tons": "27.9"
-      },
-      {
-         "Year": "2005",
-         "CO2 emissions in billion metric tons": "26.9"
-      },
-      {
-         "Year": "2000",
-         "CO2 emissions in billion metric tons": "23.01"
-      },
-      {
-         "Year": "1995",
-         "CO2 emissions in billion metric tons": "21.48"
-      },
-      {
-         "Year": "1990",
-         "CO2 emissions in billion metric tons": "20.62"
-      },
-      {
-         "Year": "1985",
-         "CO2 emissions in billion metric tons": "18.32"
-      },
-      {
-         "Year": "1980",
-         "CO2 emissions in billion metric tons": "17.78"
-      },
-      {
-         "Year": "1975",
-         "CO2 emissions in billion metric tons": "15.54"
+         "Total": "5046",
+         "United States": "2533",
+         "Europe": "1447",
+         "Emerging markets": "417",
+         "Rest of world": "649"
       }
-   ]
+   ],
+   "gold": "This statistic depicts the global revenue of Seretide/Advair around the world from 2012 to 2018 , by region . Seretide/Advair generated a revenue of 1.83 billion British pounds in 2016 in the United States alone . Advair is the brand name marketed in the U.S. and Canada but is known as Seretide in many other countries .\n"
 }

@@ -4,15 +4,24 @@
    "yAxis": "Compound annual growth rate 2015-2020",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 5 categories for the x axis representing Name, and a y axis representing Compound annual growth rate 2015-2020.",
       " The highest category is found at Mobile_health where Compound annual growth rate 2015-2020 is 41.0.",
       " The lowest category is found at EHR/EMR where Compound annual growth rate 2015-2020 is 4.0."
    ],
-   "trends": {
-      "maxIndex": 4,
-      "minIndex": 1
-   },
+   "trends": [
+      {},
+      {
+         "7": 4,
+         "12": 4
+      },
+      {
+         "7": 1,
+         "12": 1
+      },
+      {}
+   ],
    "data": [
       {
          "Name": "Average",

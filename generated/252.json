@@ -1,99 +1,63 @@
 {
-   "title": "Per capita consumption of tree nuts in the U.S. 2000 to 2018",
-   "xAxis": "Year",
-   "yAxis": "Per capita consumption in pounds",
+   "title": "Tin - leading companies worldwide based on production output 2017",
+   "xAxis": "Largest Tin Producers",
+   "yAxis": "Production output in thousand metric tons",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The timeline shows the Per capita consumption of nuts U.S. 2000 in the Per from 2000 to 2018 . ",
-      "According to the report , the U.S. Per capita consumption of nuts U.S. 2000 amounted to about 5.1 pounds in 2018 ."
+      "This statistic represents a ranking of the Tin leading Largest worldwide based on Production output thousand in 2017 . ",
+      "In that year , the Yunnan_Tin_(China) Hospital in Yunnan_Tin_(China) , Ohio was ranked first in the companies , generating approximately 74.5 thousand tons of Production output thousand ."
    ],
    "trends": [
+      {},
       {
-         "15": "18",
-         "17": "0"
-      },
-      {
-         "17": "0",
-         "20": "0"
+         "5": "0",
+         "8": "0",
+         "21": "0"
       }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Per capita consumption in pounds": "5.1"
+         "Largest Tin Producers": "Yunnan Tin (China)",
+         "Production output in thousand metric tons": "74.5"
       },
       {
-         "Year": "2017",
-         "Per capita consumption in pounds": "5.0"
+         "Largest Tin Producers": "PT Timah (Indonesia)",
+         "Production output in thousand metric tons": "30.2"
       },
       {
-         "Year": "2016",
-         "Per capita consumption in pounds": "4.8"
+         "Largest Tin Producers": "Malaysia Smelting Corporation (Malaysia)",
+         "Production output in thousand metric tons": "27.2"
       },
       {
-         "Year": "2015",
-         "Per capita consumption in pounds": "4.1"
+         "Largest Tin Producers": "Yunnan Chengfeng (China)",
+         "Production output in thousand metric tons": "26.8"
       },
       {
-         "Year": "2014",
-         "Per capita consumption in pounds": "4.1"
+         "Largest Tin Producers": "Minsur (Peru)",
+         "Production output in thousand metric tons": "18.0"
       },
       {
-         "Year": "2013",
-         "Per capita consumption in pounds": "4.0"
+         "Largest Tin Producers": "EM Vinto (Bolivia)",
+         "Production output in thousand metric tons": "12.6"
       },
       {
-         "Year": "2012",
-         "Per capita consumption in pounds": "4.2"
+         "Largest Tin Producers": "Guangxi China Tin (China)",
+         "Production output in thousand metric tons": "11.5"
       },
       {
-         "Year": "2011",
-         "Per capita consumption in pounds": "3.8"
+         "Largest Tin Producers": "Thaisarco (Thailand)",
+         "Production output in thousand metric tons": "10.6"
       },
       {
-         "Year": "2010",
-         "Per capita consumption in pounds": "3.8"
+         "Largest Tin Producers": "Metallo Chimique (Belgium)",
+         "Production output in thousand metric tons": "9.7"
       },
       {
-         "Year": "2009",
-         "Per capita consumption in pounds": "3.7"
-      },
-      {
-         "Year": "2008",
-         "Per capita consumption in pounds": "3.6"
-      },
-      {
-         "Year": "2007",
-         "Per capita consumption in pounds": "3.6"
-      },
-      {
-         "Year": "2006",
-         "Per capita consumption in pounds": "3.3"
-      },
-      {
-         "Year": "2005",
-         "Per capita consumption in pounds": "2.69"
-      },
-      {
-         "Year": "2004",
-         "Per capita consumption in pounds": "3.53"
-      },
-      {
-         "Year": "2003",
-         "Per capita consumption in pounds": "3.52"
-      },
-      {
-         "Year": "2002",
-         "Per capita consumption in pounds": "3.35"
-      },
-      {
-         "Year": "2001",
-         "Per capita consumption in pounds": "2.88"
-      },
-      {
-         "Year": "2000",
-         "Per capita consumption in pounds": "2.61"
+         "Largest Tin Producers": "Gejiu Zi-Li (China)",
+         "Production output in thousand metric tons": "8.7"
       }
-   ]
+   ],
+   "gold": "This statistic illustrates the leading tin producing companies worldwide in 2017 , ranked by production output . With a production output of around 12,600 metric tons , Bolivia 's state-owned Vinto smelter was ranked sixth . Tin producers Tin has replaced lead in a lot of soldering , and is now used in a variety of electronics products from televisions and tablets to smartphones .\n"
 }

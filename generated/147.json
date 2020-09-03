@@ -1,103 +1,68 @@
 {
-   "title": "Countries with the lowest infant mortality rate 2017",
-   "xAxis": "Country",
-   "yAxis": "Child deaths in the first year of life per 1,000 live births",
+   "title": "Polo Ralph Lauren 's workforce worldwide 2009 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of employees",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Countries Education Monaco ranking for 2017 , sorted mortality Child deaths . ",
-      "Monaco was placed first as the Monaco with the highest Child deaths worldwide , at 3.4 ."
+      "Ralph Lauren , one of the world Ralph largest oil service providers , employed 24300 people in 2019 . ",
+      "Background on Ralph Lauren is an American multinational corporation founded in 1919 . ",
+      "Headquarted in both Houston , Texas and Dubai , it is now one of the largest oil field service companies in the world ."
    ],
    "trends": [
       {
-         "7": "0"
+         "13": "0",
+         "16": "0"
       },
-      {
-         "0": "0",
-         "6": "0",
-         "15": "16"
-      }
+      {},
+      {}
    ],
    "data": [
       {
-         "Country": "Monaco",
-         "Child deaths in the first year of life per 1,000 live births": "1.8"
+         "Year": "2019",
+         "Number of employees": "24300"
       },
       {
-         "Country": "Japan",
-         "Child deaths in the first year of life per 1,000 live births": "2.0"
+         "Year": "2018",
+         "Number of employees": "23500"
       },
       {
-         "Country": "Iceland",
-         "Child deaths in the first year of life per 1,000 live births": "2.1"
+         "Year": "2017",
+         "Number of employees": "23300"
       },
       {
-         "Country": "Singapore",
-         "Child deaths in the first year of life per 1,000 live births": "2.4"
+         "Year": "2016",
+         "Number of employees": "26000"
       },
       {
-         "Country": "Norway",
-         "Child deaths in the first year of life per 1,000 live births": "2.5"
+         "Year": "2015",
+         "Number of employees": "25000"
       },
       {
-         "Country": "Finland",
-         "Child deaths in the first year of life per 1,000 live births": "2.5"
+         "Year": "2014",
+         "Number of employees": "23000"
       },
       {
-         "Country": "Bermuda",
-         "Child deaths in the first year of life per 1,000 live births": "2.5"
+         "Year": "2013",
+         "Number of employees": "23000"
       },
       {
-         "Country": "Sweden",
-         "Child deaths in the first year of life per 1,000 live births": "2.6"
+         "Year": "2012",
+         "Number of employees": "25000"
       },
       {
-         "Country": "Czech Republic",
-         "Child deaths in the first year of life per 1,000 live births": "2.6"
+         "Year": "2011",
+         "Number of employees": "24000"
       },
       {
-         "Country": "Hong Kong",
-         "Child deaths in the first year of life per 1,000 live births": "2.7"
+         "Year": "2010",
+         "Number of employees": "19000"
       },
       {
-         "Country": "South Korea",
-         "Child deaths in the first year of life per 1,000 live births": "3.0"
-      },
-      {
-         "Country": "Macau",
-         "Child deaths in the first year of life per 1,000 live births": "3.1"
-      },
-      {
-         "Country": "France",
-         "Child deaths in the first year of life per 1,000 live births": "3.2"
-      },
-      {
-         "Country": "Spain",
-         "Child deaths in the first year of life per 1,000 live births": "3.3"
-      },
-      {
-         "Country": "Anguilla",
-         "Child deaths in the first year of life per 1,000 live births": "3.3"
-      },
-      {
-         "Country": "Italy",
-         "Child deaths in the first year of life per 1,000 live births": "3.3"
-      },
-      {
-         "Country": "Luxembourg",
-         "Child deaths in the first year of life per 1,000 live births": "3.4"
-      },
-      {
-         "Country": "Austria",
-         "Child deaths in the first year of life per 1,000 live births": "3.4"
-      },
-      {
-         "Country": "Belgium",
-         "Child deaths in the first year of life per 1,000 live births": "3.4"
-      },
-      {
-         "Country": "Germany",
-         "Child deaths in the first year of life per 1,000 live births": "3.4"
+         "Year": "2009",
+         "Number of employees": "17000"
       }
-   ]
+   ],
+   "gold": "This statistic shows the number of employees of Polo Ralph Lauren worldwide from 2009 to 2019 . The New York-based fashion company Polo Ralph Lauren had approximately 24,300 employees worldwide as of 2019.Ralph Lauren CorporationThe company began in 1967 and is an internationally renowned brand . The company got its start by selling creatively designed neckties .\n"
 }

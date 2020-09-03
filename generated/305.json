@@ -1,66 +1,70 @@
 {
-   "title": "Number of paying virtual reality users worldwide 2015 to 2018",
-   "labels": [
-      "Year",
-      "Early Majority/KT&T",
-      "Early Adopters/Light Gamers",
-      "Innovators/Hardcore Gamers"
-   ],
-   "columnType": "multi",
+   "title": "Gross domestic product ( GDP ) growth rate in Singapore 2024",
+   "xAxis": "Year",
+   "yAxis": "GDP growth compared to previous year",
+   "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the forecast Number paying from virtual reality from 2015 to 2018 . ",
-      "For 2017 , the source projects the virtual reality Number paying to reach a total amount of around 2.57 billion U.S. dollars . ",
-      "virtual reality - additional information A 2015 Statista survey conducted in the country has asked the question `` Have you ever heard of the term 'virtual reality ' _ ? '' A total of 92 % of respondents have answered positively , awareness being strongest among 30 to 39 year-olds ."
+      "The statistic shows the growth in real GDP in Singapore from 2014 to 2018 , with projections up until 2024 . ",
+      "In 2018 , Singapore 's real Gross domestic product increased by around 3.14 % compared to the previous Year ."
    ],
    "trends": [
       {
-         "11": [
-            "3",
-            "0"
-         ],
-         "13": [
-            "0",
-            "0"
-         ]
+         "11": "10",
+         "13": "6",
+         "19": "0"
       },
       {
-         "1": [
-            "1",
-            "0"
-         ]
-      },
-      {
-         "6": [
-            "3",
-            "0"
-         ]
+         "1": "6",
+         "12": "6"
       }
    ],
    "data": [
       {
+         "Year": "2024",
+         "GDP growth compared to previous year": "2.5"
+      },
+      {
+         "Year": "2023",
+         "GDP growth compared to previous year": "2.35"
+      },
+      {
+         "Year": "2022",
+         "GDP growth compared to previous year": "2.22"
+      },
+      {
+         "Year": "2021",
+         "GDP growth compared to previous year": "1.57"
+      },
+      {
+         "Year": "2020",
+         "GDP growth compared to previous year": "0.99"
+      },
+      {
+         "Year": "2019",
+         "GDP growth compared to previous year": "0.55"
+      },
+      {
          "Year": "2018",
-         "Early Majority/KT&T": "14.0",
-         "Early Adopters/Light Gamers": "7.0",
-         "Innovators/Hardcore Gamers": "7.0"
+         "GDP growth compared to previous year": "3.14"
       },
       {
          "Year": "2017",
-         "Early Majority/KT&T": "6.0",
-         "Early Adopters/Light Gamers": "3.0",
-         "Innovators/Hardcore Gamers": "3.0"
+         "GDP growth compared to previous year": "3.7"
       },
       {
          "Year": "2016",
-         "Early Majority/KT&T": "2.0",
-         "Early Adopters/Light Gamers": "1.6",
-         "Innovators/Hardcore Gamers": "1.2"
+         "GDP growth compared to previous year": "2.96"
       },
       {
          "Year": "2015",
-         "Early Majority/KT&T": "0.2",
-         "Early Adopters/Light Gamers": "0.16",
-         "Innovators/Hardcore Gamers": "0.21"
+         "GDP growth compared to previous year": "2.89"
+      },
+      {
+         "Year": "2014",
+         "GDP growth compared to previous year": "3.9"
       }
-   ]
+   ],
+   "gold": "Singapore posted a gross domestic product ( GDP ) growth rate of 3.7 percent in 2017 , after adjusting for inflation . While up from the previous two years , this number is expected to decline in 2018 , settling around 3.14 percent . What is GDP ? GDP is a measure of a country 's income , and most economists agree that slow but steady GDP growth is best for a developed economy .\n"
 }

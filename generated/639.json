@@ -1,71 +1,64 @@
 {
-   "title": "Number of unemployed people in urban China 2018",
-   "xAxis": "Year",
-   "yAxis": "Unemployed people in millions",
+   "title": "Brazil : most valuable soccer players at the 2018 FIFA World Cup",
+   "xAxis": "Month",
+   "yAxis": "Market value in million euros",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Unemployed of people 2018 in the people from 2007 to 2018 . ",
-      "In 2018 , about 9.74 people in the China were 2018 to be adopted ."
+      "The statistic depicts the Brazil most valuable soccer according to the Market of value Cup in . ",
+      "Neymar leads all soccer with a total of 180 value in 50 matches . ",
+      "Most value in 2015 - additional information In valuable an ace is a legal serve that is not touched 2018 the receiver , thus winning the point for the server ."
    ],
    "trends": [
+      {},
       {
-         "14": "11",
-         "16": "0"
+         "0": "0",
+         "8": "0"
       },
-      {
-         "1": "0",
-         "4": "0"
-      }
+      {}
    ],
    "data": [
       {
-         "Year": "2018",
-         "Unemployed people in millions": "9.74"
+         "Month": "Neymar",
+         "Market value in million euros": "180"
       },
       {
-         "Year": "2017",
-         "Unemployed people in millions": "9.72"
+         "Month": "Philippe Coutinho",
+         "Market value in million euros": "100"
       },
       {
-         "Year": "2016",
-         "Unemployed people in millions": "9.82"
+         "Month": "Roberto Firmino",
+         "Market value in million euros": "80"
       },
       {
-         "Year": "2015",
-         "Unemployed people in millions": "9.66"
+         "Month": "Gabriel Jesus",
+         "Market value in million euros": "80"
       },
       {
-         "Year": "2014",
-         "Unemployed people in millions": "9.52"
+         "Month": "Casemiro",
+         "Market value in million euros": "60"
       },
       {
-         "Year": "2013",
-         "Unemployed people in millions": "9.26"
+         "Month": "Marcelo",
+         "Market value in million euros": "60"
       },
       {
-         "Year": "2012",
-         "Unemployed people in millions": "9.17"
+         "Month": "Alisson",
+         "Market value in million euros": "60"
       },
       {
-         "Year": "2011",
-         "Unemployed people in millions": "9.22"
+         "Month": "Douglas Costa",
+         "Market value in million euros": "55"
       },
       {
-         "Year": "2010",
-         "Unemployed people in millions": "9.08"
+         "Month": "Marquinhos",
+         "Market value in million euros": "55"
       },
       {
-         "Year": "2009",
-         "Unemployed people in millions": "9.21"
-      },
-      {
-         "Year": "2008",
-         "Unemployed people in millions": "8.86"
-      },
-      {
-         "Year": "2007",
-         "Unemployed people in millions": "8.3"
+         "Month": "Ederson",
+         "Market value in million euros": "50"
       }
-   ]
+   ],
+   "gold": "The statistic presents a ranking of Brazilian soccer players participating in the 2018 FIFA World Cup in Russia , based on market value . As of June 2018 , Neymar was the most valuable player , with a market value of 180 million euros . Philippe Coutinho ranked second , with a value of 100 million euros .\n"
 }

@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 13 categories for the x axis of Country representing Winner, Runner-up.",
+      "This grouped bar chart has 13 categories for the x axis of Country representing Winner, and Runner-up.",
       " The highest category is found at Germany with a mean value of 3.0.",
       " The second highest category is found at USSR with a mean value of 2.0.",
       " This represents a difference of 40.0%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "14": [
+            "2",
+            "3"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "Germany",

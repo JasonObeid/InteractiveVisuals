@@ -1,63 +1,50 @@
 {
-   "title": "Japanese video games adapted into movies - box office revenue 2017",
-   "xAxis": "Film title (original writer company)",
-   "yAxis": "Revenue in million U.S. dollars",
+   "title": "Number of Spotify employees 2011 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of employees",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic depicts the video games Revenue in the Japanese in 2017 , movies Film . ",
-      "In that year , some 312.42 million U.S. dollars of the Japanese ."
+      "As of 2018 there were approximately 4165 employees and contractors globally working for Spotify . ",
+      "This is a significant decrease from 2011 when there were about 204,000 employees working for the multinational commodity trading and mining company . ",
+      "Despite falling employment numbers , Spotify remains the second largest mining company worldwide based on employment ."
    ],
    "trends": [
-      {},
       {
-         "5": "0"
-      }
+         "2": "0",
+         "6": "0"
+      },
+      {
+         "6": "5"
+      },
+      {}
    ],
    "data": [
       {
-         "Film title (original writer company)": "Resident Evil: The Final Chapter (Capcom)",
-         "Revenue in million U.S. dollars": "312.42"
+         "Year": "2018",
+         "Number of employees": "4165"
       },
       {
-         "Film title (original writer company)": "Resident Evil: Afterlife (Capcom)",
-         "Revenue in million U.S. dollars": "300.23"
+         "Year": "2016",
+         "Number of employees": "2162"
       },
       {
-         "Film title (original writer company)": "Resident Evil: Retribution (Capcom)",
-         "Revenue in million U.S. dollars": "240.0"
+         "Year": "2015",
+         "Number of employees": "1581"
       },
       {
-         "Film title (original writer company)": "Resident Evil: Extinction (Capcom)",
-         "Revenue in million U.S. dollars": "148.41"
+         "Year": "2014",
+         "Number of employees": "1365"
       },
       {
-         "Film title (original writer company)": "Resident Evil: Apocalypse (Capcom)",
-         "Revenue in million U.S. dollars": "129.34"
+         "Year": "2013",
+         "Number of employees": "958"
       },
       {
-         "Film title (original writer company)": "Resident Evil (Capcom)",
-         "Revenue in million U.S. dollars": "102.98"
-      },
-      {
-         "Film title (original writer company)": "Street Fighter (Capcom)",
-         "Revenue in million U.S. dollars": "99.42"
-      },
-      {
-         "Film title (original writer company)": "Silent Hill (Konami)",
-         "Revenue in million U.S. dollars": "97.61"
-      },
-      {
-         "Film title (original writer company)": "Final Fantasy: The Spirits Within (Square)",
-         "Revenue in million U.S. dollars": "85.13"
-      },
-      {
-         "Film title (original writer company)": "Super Mario Bros. (Nintendo)",
-         "Revenue in million U.S. dollars": "20.92"
-      },
-      {
-         "Film title (original writer company)": "House Of The Dead (Sega)",
-         "Revenue in million U.S. dollars": "13.82"
+         "Year": "2011",
+         "Number of employees": "311"
       }
-   ]
+   ],
+   "gold": "This statistic gives information on the number of Spotify employees from 2011 to 2018 . In the most recently reported period , the total number of employees at the music streaming service was 4,165 . In 2011 , Spotify employed 311 workers .\n"
 }

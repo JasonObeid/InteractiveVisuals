@@ -1,69 +1,106 @@
 {
-   "title": "Liver cirrhosis death rate in Australia 2000 and 2010",
-   "labels": [
-      "Year",
-      "Male",
-      "Female"
-   ],
-   "columnType": "multi",
+   "title": "Annual performance of the Dow Jones Composite Index 2000 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Index value in points",
+   "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "While the fear of being kidnapped may persist for one 's entire life , in 2000 the Liver of cirrhosis death 2010 the of 2010 was much higher than those 2010 and 2000 , with 2.8 females 2010 reported cirrhosis , and 2.7 females 2000 the 2010 of reported cirrhosis . ",
-      "Why people go cirrhosis There are many reasons why people go cirrhosis ; some are kidnapped , some purposefully go cirrhosis - in order to escape abuse , for example - and some , usually children , are runaways . ",
-      "What persists in the imagination when thinking of cirrhosis death , however are kidnapping victims , usually due to extensive media coverage of child kidnappings 2000 the media ."
+      "The year-end value of the S & P Dow Jones Composite Index National Index amounted to 9386.48 in 2019 . ",
+      "The Index value was equal to 100 as of 2000 , so if the Index value is equal to 130 in a given Year , for example , it means that the house prices increased by 30 % since 2000 . ",
+      "S & P/Case Dow Jones Composite Index Annual indices \u2013 additional information The S & P Dow Jones Composite Index National Index is calculated on a monthly basis and is based on the prices of single-family homes in nine Annual Census divisions : New England , Middle Atlantic , East North Central , West North Central ."
    ],
    "trends": [
       {
-         "21": [
-            "0",
-            "0"
-         ],
-         "25": [
-            "0",
-            "0"
-         ],
-         "31": [
-            "0",
-            "0"
-         ],
-         "33": [
-            "1",
-            "0"
-         ],
-         "36": [
-            "0",
-            "2"
-         ],
-         "38": [
-            "0",
-            "0"
-         ],
-         "43": [
-            "1",
-            "2"
-         ],
-         "45": [
-            "1",
-            "0"
-         ],
-         "49": [
-            "0",
-            "0"
-         ]
+         "14": "0",
+         "16": "0"
       },
-      {},
+      {
+         "39": "19"
+      },
       {}
    ],
    "data": [
       {
+         "Year": "2019",
+         "Index value in points": "9386.48"
+      },
+      {
+         "Year": "2018",
+         "Index value in points": "7710.44"
+      },
+      {
+         "Year": "2017",
+         "Index value in points": "8310.35"
+      },
+      {
+         "Year": "2016",
+         "Index value in points": "6902.45"
+      },
+      {
+         "Year": "2015",
+         "Index value in points": "5978.34"
+      },
+      {
+         "Year": "2014",
+         "Index value in points": "6473.6"
+      },
+      {
+         "Year": "2013",
+         "Index value in points": "5641.55"
+      },
+      {
+         "Year": "2012",
+         "Index value in points": "4442.07"
+      },
+      {
+         "Year": "2011",
+         "Index value in points": "4232.17"
+      },
+      {
          "Year": "2010",
-         "Male": "6.8",
-         "Female": "2.8"
+         "Index value in points": "4033.19"
+      },
+      {
+         "Year": "2009",
+         "Index value in points": "3566.68"
+      },
+      {
+         "Year": "2008",
+         "Index value in points": "3086.07"
+      },
+      {
+         "Year": "2007",
+         "Index value in points": "4394.05"
+      },
+      {
+         "Year": "2006",
+         "Index value in points": "4120.96"
+      },
+      {
+         "Year": "2005",
+         "Index value in points": "3638.06"
+      },
+      {
+         "Year": "2004",
+         "Index value in points": "3395.82"
+      },
+      {
+         "Year": "2003",
+         "Index value in points": "3000.75"
+      },
+      {
+         "Year": "2002",
+         "Index value in points": "2374.96"
+      },
+      {
+         "Year": "2001",
+         "Index value in points": "2892.23"
       },
       {
          "Year": "2000",
-         "Male": "7.6",
-         "Female": "2.7"
+         "Index value in points": "3317.61"
       }
-   ]
+   ],
+   "gold": "The Dow Jones Composite Index finished the year 2019 at 9,386.48 points . This is the highest point of the index in the past two decades . What is Dow Jones Composite Index ? The Dow Jones Composite Index is one of the indices from the Dow Jones index family .\n"
 }

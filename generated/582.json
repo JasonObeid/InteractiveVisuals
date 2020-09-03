@@ -1,123 +1,80 @@
 {
-   "title": "Perceived sources of fake news in the U.S. 2017",
-   "xAxis": "Platform",
-   "yAxis": "Share of respondents who thought they'd encounter fake news stories",
+   "title": "Activision Blizzard 's net income/loss from 2005 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Net income in million U.S. dollars",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic presents the Share of respondents who at least one Perceived in the U.S. by Platform in 2017 . ",
-      "Facebook and Internet_News_Sites ranked highest with 58 % of respondents who thought in 2017 , followed 2017 the Twitter with 49 % ."
+      "In 2018 , Activision Blizzard 's Net income figure amounted to approximately 1813 U.S. dollars , up from 273 million U.S. dollars in the previous Year . ",
+      "Net income store is the company 's Net loss of 322.56 million U.S. dollars ."
    ],
    "trends": [
-      {},
       {
-         "0": "0",
-         "2": "1",
-         "6": "0",
-         "18": "2",
-         "20": "2"
-      }
+         "1": "0",
+         "11": "0",
+         "12": "0",
+         "18": "1"
+      },
+      {}
    ],
    "data": [
       {
-         "Platform": "Facebook",
-         "Share of respondents who thought they'd encounter fake news stories": "58"
+         "Year": "2018",
+         "Net income in million U.S. dollars": "1813"
       },
       {
-         "Platform": "Internet News Sites",
-         "Share of respondents who thought they'd encounter fake news stories": "51"
+         "Year": "2017",
+         "Net income in million U.S. dollars": "273"
       },
       {
-         "Platform": "Twitter",
-         "Share of respondents who thought they'd encounter fake news stories": "49"
+         "Year": "2016",
+         "Net income in million U.S. dollars": "966"
       },
       {
-         "Platform": "Saturday Night Live",
-         "Share of respondents who thought they'd encounter fake news stories": "39"
+         "Year": "2015",
+         "Net income in million U.S. dollars": "892"
       },
       {
-         "Platform": "Fox News",
-         "Share of respondents who thought they'd encounter fake news stories": "24"
+         "Year": "2014",
+         "Net income in million U.S. dollars": "835"
       },
       {
-         "Platform": "Radio Talk Shows",
-         "Share of respondents who thought they'd encounter fake news stories": "24"
+         "Year": "2013",
+         "Net income in million U.S. dollars": "1010"
       },
       {
-         "Platform": "The Daily Show",
-         "Share of respondents who thought they'd encounter fake news stories": "24"
+         "Year": "2012",
+         "Net income in million U.S. dollars": "1149"
       },
       {
-         "Platform": "CNN",
-         "Share of respondents who thought they'd encounter fake news stories": "24"
+         "Year": "2011",
+         "Net income in million U.S. dollars": "1085"
       },
       {
-         "Platform": "MSNBC",
-         "Share of respondents who thought they'd encounter fake news stories": "17"
+         "Year": "2010",
+         "Net income in million U.S. dollars": "418"
       },
       {
-         "Platform": "The New York Times",
-         "Share of respondents who thought they'd encounter fake news stories": "17"
+         "Year": "2009",
+         "Net income in million U.S. dollars": "113"
       },
       {
-         "Platform": "Good Morning America (ABC)",
-         "Share of respondents who thought they'd encounter fake news stories": "15"
+         "Year": "2008",
+         "Net income in million U.S. dollars": "-107"
       },
       {
-         "Platform": "CBS This Morning (CBS)",
-         "Share of respondents who thought they'd encounter fake news stories": "14"
+         "Year": "2007",
+         "Net income in million U.S. dollars": "227"
       },
       {
-         "Platform": "The Today Show (NBC)",
-         "Share of respondents who thought they'd encounter fake news stories": "14"
+         "Year": "2006",
+         "Net income in million U.S. dollars": "139"
       },
       {
-         "Platform": "USA Today",
-         "Share of respondents who thought they'd encounter fake news stories": "13"
-      },
-      {
-         "Platform": "ABC World News Tonight",
-         "Share of respondents who thought they'd encounter fake news stories": "13"
-      },
-      {
-         "Platform": "Local Radio News Stations",
-         "Share of respondents who thought they'd encounter fake news stories": "12"
-      },
-      {
-         "Platform": "Meet the Press (NBC)",
-         "Share of respondents who thought they'd encounter fake news stories": "12"
-      },
-      {
-         "Platform": "CBS Evening News",
-         "Share of respondents who thought they'd encounter fake news stories": "12"
-      },
-      {
-         "Platform": "NBC Nightly News",
-         "Share of respondents who thought they'd encounter fake news stories": "12"
-      },
-      {
-         "Platform": "Local Newspapers",
-         "Share of respondents who thought they'd encounter fake news stories": "11"
-      },
-      {
-         "Platform": "60 Minutes (CBS)",
-         "Share of respondents who thought they'd encounter fake news stories": "11"
-      },
-      {
-         "Platform": "NPR (National Public Radio)",
-         "Share of respondents who thought they'd encounter fake news stories": "11"
-      },
-      {
-         "Platform": "Face the Nation (CBS)",
-         "Share of respondents who thought they'd encounter fake news stories": "11"
-      },
-      {
-         "Platform": "PBS News Hour",
-         "Share of respondents who thought they'd encounter fake news stories": "9"
-      },
-      {
-         "Platform": "Local TV News",
-         "Share of respondents who thought they'd encounter fake news stories": "8"
+         "Year": "2005",
+         "Net income in million U.S. dollars": "45"
       }
-   ]
+   ],
+   "gold": "This statistic shows the annual net income/loss of Activision Blizzard worldwide from 2005 to 2018 . In 2018 , Activision Blizzard 's net income amounted to 1.8 billion U.S. dollars .\n"
 }

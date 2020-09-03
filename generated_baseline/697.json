@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 7 categories for the x axis of Race representing 2017, 2018.",
+      "This grouped bar chart has 7 categories for the x axis of Race representing 2017, and 2018.",
       " The highest category is found at Samsung with a mean value of 39.5.",
       " The second highest category is found at Apple with a mean value of 33.0.",
       " This represents a difference of 17.9%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Race": "Samsung",

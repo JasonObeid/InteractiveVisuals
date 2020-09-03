@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 17 categories for the x axis of Response representing Tablet, Smartphone.",
+      "This grouped bar chart has 17 categories for the x axis of Response representing Tablet, and Smartphone.",
       " The highest category is found at E-mail with a mean value of 40.5.",
       " The second highest category is found at Watching movies/videos online with a mean value of 37.5.",
       " This represents a difference of 7.7%."
    ],
-   "trends": {
-      "maxIndex": 1,
-      "secondIndex": 1
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "2",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "2",
+            "0"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Response": "Watching movies/videos online",

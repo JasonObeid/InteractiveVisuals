@@ -1,81 +1,61 @@
 {
-   "title": "AFC-NFC Pro Bowl - monetary compensation for players playing in the game 2011 to 2020",
-   "labels": [
-      "Year",
-      "Winning team",
-      "Losing team"
-   ],
-   "columnType": "multi",
+   "title": "Domestic travel spending in France 2012 to 2028",
+   "xAxis": "Year",
+   "yAxis": "Spending in billion euros",
+   "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the AFC-NFC of Pro at AFC Bowl geography from 2011 to 2020 , playing game . ",
-      "AFC Bowl AFC is a multi-national company , specialized on pharmaceuticals , medical devices and Corporate . ",
-      "The company is headquartered in New Brunswick , New Jersey ."
+      "The Domestic and travel industry contributed to the French Gross Domestic Product ( 2028 ) in France with approximately 112.3 billion euros in 2017 . ",
+      "The source predicted that this 2012 will increase in the coming ten years , reaching an expected France of around 131.4 billion euros in 2028 . ",
+      "In 2017 , France welcomed almost 87 billion international tourists , making it the most visited country in the world in that Year ."
    ],
    "trends": [
       {
-         "12": [
-            "9",
-            "0"
-         ],
-         "14": [
-            "0",
-            "0"
-         ]
+         "19": "2",
+         "23": "2"
       },
-      {},
-      {}
+      {
+         "20": "0",
+         "24": "0"
+      },
+      {
+         "1": "2"
+      }
    ],
    "data": [
       {
-         "Year": "2020",
-         "Winning team": "74",
-         "Losing team": "37"
-      },
-      {
-         "Year": "2019",
-         "Winning team": "70",
-         "Losing team": "35"
+         "Year": "2028",
+         "Spending in billion euros": "131.4"
       },
       {
          "Year": "2018",
-         "Winning team": "67",
-         "Losing team": "34"
+         "Spending in billion euros": "114.9"
       },
       {
          "Year": "2017",
-         "Winning team": "64",
-         "Losing team": "32"
+         "Spending in billion euros": "112.3"
       },
       {
          "Year": "2016",
-         "Winning team": "61",
-         "Losing team": "30"
+         "Spending in billion euros": "110.9"
       },
       {
          "Year": "2015",
-         "Winning team": "58",
-         "Losing team": "29"
+         "Spending in billion euros": "108.1"
       },
       {
          "Year": "2014",
-         "Winning team": "55",
-         "Losing team": "28"
+         "Spending in billion euros": "108.3"
       },
       {
          "Year": "2013",
-         "Winning team": "53",
-         "Losing team": "26"
+         "Spending in billion euros": "107.5"
       },
       {
          "Year": "2012",
-         "Winning team": "50",
-         "Losing team": "25"
-      },
-      {
-         "Year": "2011",
-         "Winning team": "50",
-         "Losing team": "25"
+         "Spending in billion euros": "107.2"
       }
-   ]
+   ],
+   "gold": "Domestic tourism expenditure is expected to reach 131.4 billion euros in 2028 . The spending of French tourists in their country has increased since the beginning of the 2010s and has already reached nearly 115 billion euros in 2018 . Similarly , the spending of international tourists in France is estimated to grow in the coming years .\n"
 }

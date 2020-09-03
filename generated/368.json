@@ -1,85 +1,66 @@
 {
-   "title": "Thanksgiving holiday travelers in the U.S. from 2005 to 2019",
+   "title": "Under Armour 's total workforce worldwide from 2009 to 2019",
    "xAxis": "Year",
-   "yAxis": "Number of travelers in millions",
+   "yAxis": "Number of employees",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the development of Thanksgiving travelers to millions ( Thanksgiving penetration ) on the European domestic Thanksgiving market between 2005 and 2019 . ",
-      "The millions is used as an indicator of Thanksgiving sector development . ",
-      "In 2019 , the travelers millions to was 55.3 millions ."
+      "As of 2019 , the Chinese internet company , headquartered in Shenzhen , had 16400 employees , most of whom were based in the Special Economic Zone of Shenzhen . ",
+      "The tech giant earned over 50 billion yuan from its value-added services ."
    ],
    "trends": [
       {
-         "21": "14",
-         "23": "0"
+         "2": "0",
+         "14": "0"
       },
-      {},
-      {
-         "1": "0",
-         "9": "0"
-      }
+      {}
    ],
    "data": [
       {
          "Year": "2019",
-         "Number of travelers in millions": "55.3"
+         "Number of employees": "16400"
       },
       {
          "Year": "2018",
-         "Number of travelers in millions": "54.3"
+         "Number of employees": "15000"
       },
       {
          "Year": "2017",
-         "Number of travelers in millions": "51.71"
+         "Number of employees": "15800"
       },
       {
          "Year": "2016",
-         "Number of travelers in millions": "49.29"
+         "Number of employees": "15200"
       },
       {
          "Year": "2015",
-         "Number of travelers in millions": "47.7"
+         "Number of employees": "13400"
       },
       {
          "Year": "2014",
-         "Number of travelers in millions": "46.6"
+         "Number of employees": "10700"
       },
       {
          "Year": "2013",
-         "Number of travelers in millions": "44.4"
+         "Number of employees": "7800"
       },
       {
          "Year": "2012",
-         "Number of travelers in millions": "44.0"
+         "Number of employees": "5900"
       },
       {
          "Year": "2011",
-         "Number of travelers in millions": "43.3"
+         "Number of employees": "5400"
       },
       {
          "Year": "2010",
-         "Number of travelers in millions": "40.9"
+         "Number of employees": "3900"
       },
       {
          "Year": "2009",
-         "Number of travelers in millions": "37.9"
-      },
-      {
-         "Year": "2008",
-         "Number of travelers in millions": "37.8"
-      },
-      {
-         "Year": "2007",
-         "Number of travelers in millions": "50.6"
-      },
-      {
-         "Year": "2006",
-         "Number of travelers in millions": "47.6"
-      },
-      {
-         "Year": "2005",
-         "Number of travelers in millions": "58.6"
+         "Number of employees": "3000"
       }
-   ]
+   ],
+   "gold": "Under Armour is an American sporting goods manufacturer , based in Baltimore , Maryland . In 2019 , Under Armour employed about 16,400 people around the world . Under Armour is one of the largest sportswear and sporting goods manufacturers in the world , however it is still far behind Nike and adidas who are the dominating companies within this industry .\n"
 }

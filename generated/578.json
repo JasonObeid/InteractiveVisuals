@@ -1,84 +1,73 @@
 {
-   "title": "Military expenditure - percentage of GDP in highest spending countries 2018",
-   "xAxis": "Country",
-   "yAxis": "Percentage of GDP",
+   "title": "Maple syrup production in Canada 2008 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Production in million gallons",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the GDP rate of the GDP expenditure percentage GDP highest in 2018 . ",
-      "In that year , United_States accounted for 3.2 percentage of the GDP ."
+      "This statistic shows the syrup production in the Maple from 2008 to 2019 . ",
+      "In 2019 , about 13.2 million gallons of syrup were produced ."
    ],
    "trends": [
-      {},
       {
-         "4": "2",
-         "7": "2"
+         "11": "11",
+         "13": "0"
+      },
+      {
+         "1": "0",
+         "4": "0"
       }
    ],
    "data": [
       {
-         "Country": "Saudi Arabia",
-         "Percentage of GDP": "8.8"
+         "Year": "2019",
+         "Production in million gallons": "13.2"
       },
       {
-         "Country": "Russia",
-         "Percentage of GDP": "3.9"
+         "Year": "2018",
+         "Production in million gallons": "9.8"
       },
       {
-         "Country": "United States",
-         "Percentage of GDP": "3.2"
+         "Year": "2017",
+         "Production in million gallons": "12.51"
       },
       {
-         "Country": "South Korea",
-         "Percentage of GDP": "2.6"
+         "Year": "2016",
+         "Production in million gallons": "12.16"
       },
       {
-         "Country": "Turkey",
-         "Percentage of GDP": "2.5"
+         "Year": "2015",
+         "Production in million gallons": "8.91"
       },
       {
-         "Country": "India",
-         "Percentage of GDP": "2.4"
+         "Year": "2014",
+         "Production in million gallons": "9.49"
       },
       {
-         "Country": "France",
-         "Percentage of GDP": "2.3"
+         "Year": "2013",
+         "Production in million gallons": "10.05"
       },
       {
-         "Country": "Worldwide",
-         "Percentage of GDP": "2.1"
+         "Year": "2012",
+         "Production in million gallons": "7.86"
       },
       {
-         "Country": "Australia",
-         "Percentage of GDP": "1.9"
+         "Year": "2011",
+         "Production in million gallons": "8.55"
       },
       {
-         "Country": "China",
-         "Percentage of GDP": "1.9"
+         "Year": "2010",
+         "Production in million gallons": "7.27"
       },
       {
-         "Country": "United Kingdom",
-         "Percentage of GDP": "1.8"
+         "Year": "2009",
+         "Production in million gallons": "9.08"
       },
       {
-         "Country": "Brazil",
-         "Percentage of GDP": "1.5"
-      },
-      {
-         "Country": "Italy",
-         "Percentage of GDP": "1.3"
-      },
-      {
-         "Country": "Canada",
-         "Percentage of GDP": "1.3"
-      },
-      {
-         "Country": "Germany",
-         "Percentage of GDP": "1.2"
-      },
-      {
-         "Country": "Japan",
-         "Percentage of GDP": "0.9"
+         "Year": "2008",
+         "Production in million gallons": "5.13"
       }
-   ]
+   ],
+   "gold": "This statistic shows the maple syrup production in Canada from 2008 to 2019 . Approximately 13.2 million gallons of maple syrup was produced in Canada in 2019 , up from 9.8 million gallons the previous year . Maple syrup in Canada - additional information Maple syrup is most commonly associated with Canada , the product 's largest producer .\n"
 }

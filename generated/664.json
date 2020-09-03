@@ -1,51 +1,45 @@
 {
-   "title": "First sexual intercourse in Italy 2017 , by age",
-   "xAxis": "Response",
-   "yAxis": "Share of respondents",
+   "title": "Deaths per day in West African countries with 2014 Ebola outbreak by disease",
+   "xAxis": "Diseases",
+   "yAxis": "Number of deaths per day",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the result of a survey question designed to find out what is First sexual to 2017 by ( age - ) in Italy , as of 2013 . ",
-      "The majority of respondents said that their Under_14_years_old is the First sexual thing to them ."
+      "The statistic shows the Number of deaths per in the Olympic West African in 2014 , Diseases . ",
+      "In 2014 , there were 685 deaths per operating within the West African ."
    ],
    "trends": [
       {},
       {
-         "7": "0"
+         "5": "5"
       }
    ],
    "data": [
       {
-         "Response": "Under 14 years old",
-         "Share of respondents": "2"
+         "Diseases": "Ebola",
+         "Number of deaths per day": "4"
       },
       {
-         "Response": "Between 14 and 16 years old",
-         "Share of respondents": "13.1"
+         "Diseases": "Lassa fever",
+         "Number of deaths per day": "14"
       },
       {
-         "Response": "Between 17 and 20 years old",
-         "Share of respondents": "40.1"
+         "Diseases": "Tuberculosis",
+         "Number of deaths per day": "110"
       },
       {
-         "Response": "Between 20 and 25 years old",
-         "Share of respondents": "22.7"
+         "Diseases": "Diarrhoea",
+         "Number of deaths per day": "404"
       },
       {
-         "Response": "Between 25 and 30 years old",
-         "Share of respondents": "6.8"
+         "Diseases": "Malaria",
+         "Number of deaths per day": "552"
       },
       {
-         "Response": "Over 30 years old",
-         "Share of respondents": "1.5"
-      },
-      {
-         "Response": "I have never had sex",
-         "Share of respondents": "3.3"
-      },
-      {
-         "Response": "Doesn't answer",
-         "Share of respondents": "10.5"
+         "Diseases": "HIV/AIDS",
+         "Number of deaths per day": "685"
       }
-   ]
+   ],
+   "gold": "This statistic shows the number of deaths per day by selected diseases in West African countries that are suffering from the Ebola outbreak in 2014 . Malaria causes some 552 deaths per day in these countries , while Ebola causes around four deaths per day ( as of August 2014 ) . Ebola compared to other diseases Ebola first emerged in 1976 in Sudan and the Democratic Republic of Congo .\n"
 }

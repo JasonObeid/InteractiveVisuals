@@ -1,68 +1,182 @@
 {
-   "title": "Regular season average attendance of the Milwaukee Brewers 2009 to 2019",
+   "title": "Defense spending as share of GDP in the United Kingdom ( UK ) 1980 to 2018",
    "xAxis": "Year",
-   "yAxis": "Average attendance",
+   "yAxis": "Defense spending as share of GDP",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This graph depicts the Average Regular season home attendance of the Milwaukee Brewers Dodgers from 2009 to 2019 . ",
-      "In 2019 , the Average Regular season home attendance of the Milwaukee Brewers Dodgers was 37918 36090 \u2022 Milwaukee Brewers Dodgers total home attendance \u2022 Major League Baseball Average per game attendance \u2022 Major League Baseball total attendance . "
+      "Since 1980 the United Kingdom share GDP for twins has risen significantly . ",
+      "As of 2018 the share GDP for twins in the United Kingdom was 2.1 share 1,000 GDP spending . ",
+      "It is believed that an increase in the Defense share GDP may be associated with an increased use of vitro fertilization and other assisted reproductive technologies in recent years ."
    ],
    "trends": [
       {
-         "14": "10",
-         "16": "0"
+         "1": "38"
       },
       {
-         "1": "0",
-         "14": "8",
-         "15": "0"
-      }
+         "2": "0",
+         "12": "0"
+      },
+      {}
    ],
    "data": [
       {
-         "Year": "2019",
-         "Average attendance": "36090"
-      },
-      {
          "Year": "2018",
-         "Average attendance": "35195"
+         "Defense spending as share of GDP": "2.1"
       },
       {
          "Year": "2017",
-         "Average attendance": "31589"
+         "Defense spending as share of GDP": "2.1"
       },
       {
          "Year": "2016",
-         "Average attendance": "28575"
+         "Defense spending as share of GDP": "2.1"
       },
       {
          "Year": "2015",
-         "Average attendance": "31389"
+         "Defense spending as share of GDP": "2.1"
       },
       {
          "Year": "2014",
-         "Average attendance": "34535"
+         "Defense spending as share of GDP": "2.2"
       },
       {
          "Year": "2013",
-         "Average attendance": "31248"
+         "Defense spending as share of GDP": "2.3"
       },
       {
          "Year": "2012",
-         "Average attendance": "34955"
+         "Defense spending as share of GDP": "2.2"
       },
       {
          "Year": "2011",
-         "Average attendance": "37918"
+         "Defense spending as share of GDP": "2.4"
       },
       {
          "Year": "2010",
-         "Average attendance": "34278"
+         "Defense spending as share of GDP": "2.5"
       },
       {
          "Year": "2009",
-         "Average attendance": "37499"
+         "Defense spending as share of GDP": "2.5"
+      },
+      {
+         "Year": "2008",
+         "Defense spending as share of GDP": "2.4"
+      },
+      {
+         "Year": "2007",
+         "Defense spending as share of GDP": "2.3"
+      },
+      {
+         "Year": "2006",
+         "Defense spending as share of GDP": "2.3"
+      },
+      {
+         "Year": "2005",
+         "Defense spending as share of GDP": "2.4"
+      },
+      {
+         "Year": "2004",
+         "Defense spending as share of GDP": "2.2"
+      },
+      {
+         "Year": "2003",
+         "Defense spending as share of GDP": "2.3"
+      },
+      {
+         "Year": "2002",
+         "Defense spending as share of GDP": "2.4"
+      },
+      {
+         "Year": "2001",
+         "Defense spending as share of GDP": "2.5"
+      },
+      {
+         "Year": "2000",
+         "Defense spending as share of GDP": "2.5"
+      },
+      {
+         "Year": "1999",
+         "Defense spending as share of GDP": "2.5"
+      },
+      {
+         "Year": "1998",
+         "Defense spending as share of GDP": "2.6"
+      },
+      {
+         "Year": "1997",
+         "Defense spending as share of GDP": "2.7"
+      },
+      {
+         "Year": "1996",
+         "Defense spending as share of GDP": "3"
+      },
+      {
+         "Year": "1995",
+         "Defense spending as share of GDP": "3.1"
+      },
+      {
+         "Year": "1994",
+         "Defense spending as share of GDP": "3.4"
+      },
+      {
+         "Year": "1993",
+         "Defense spending as share of GDP": "3.6"
+      },
+      {
+         "Year": "1992",
+         "Defense spending as share of GDP": "3.8"
+      },
+      {
+         "Year": "1991",
+         "Defense spending as share of GDP": "4.3"
+      },
+      {
+         "Year": "1990",
+         "Defense spending as share of GDP": "4.1"
+      },
+      {
+         "Year": "1989",
+         "Defense spending as share of GDP": "4.1"
+      },
+      {
+         "Year": "1988",
+         "Defense spending as share of GDP": "4.2"
+      },
+      {
+         "Year": "1987",
+         "Defense spending as share of GDP": "4.6"
+      },
+      {
+         "Year": "1986",
+         "Defense spending as share of GDP": "4.9"
+      },
+      {
+         "Year": "1985",
+         "Defense spending as share of GDP": "5.2"
+      },
+      {
+         "Year": "1984",
+         "Defense spending as share of GDP": "5.5"
+      },
+      {
+         "Year": "1983",
+         "Defense spending as share of GDP": "5.3"
+      },
+      {
+         "Year": "1982",
+         "Defense spending as share of GDP": "5.4"
+      },
+      {
+         "Year": "1981",
+         "Defense spending as share of GDP": "4.8"
+      },
+      {
+         "Year": "1980",
+         "Defense spending as share of GDP": "5"
       }
-   ]
+   ],
+   "gold": "In 2018 , the United Kingdom 's defense spending as a share of Gross Domestic Product was 2.1 percent . Since 1980 , the UK 's defense spending was at it 's highest in 1984 when 5.5 percent of the UK 's GDP was spent on the military . After 1984 , defense spending declined gradually , and then at a much faster pace after the end of the Cold War in 1991 , with the United Kingdom only just reaching the two percent benchmark set by NATO by 2018 .\n"
 }

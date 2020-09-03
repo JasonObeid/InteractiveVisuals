@@ -1,79 +1,99 @@
 {
-   "title": "Arizona Coyotes ' revenue 2005 to 2019",
+   "title": "Canada : average family size 2000 to 2017",
    "xAxis": "Year",
-   "yAxis": "Revenue in million U.S. dollars",
+   "yAxis": "Average number of people",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the Revenue of the Arizona Coyotes from the 2005/06 season to the 2018/19 season . ",
-      "The Revenue of the Arizona Coyotes amounted to 102 million U.S. dollars in the 2018/19 season ."
+      "Over 3.0 % of the Indian population accessed the people in 2003 . ",
+      "This was a drastic increase from 2.9 % in 2010 . ",
+      "Despite the huge , yet-to-be utilized potential , Canada is already the second-largest online market worldwide ."
    ],
    "trends": [
       {
-         "10": "13",
-         "14": "0"
+         "1": "14",
+         "11": "14"
       },
       {
-         "7": "0",
-         "13": "0"
-      }
+         "6": "7",
+         "9": "7"
+      },
+      {}
    ],
    "data": [
       {
-         "Year": "2018/19",
-         "Revenue in million U.S. dollars": "102"
+         "Year": "2017",
+         "Average number of people": "2.9"
       },
       {
-         "Year": "2017/18",
-         "Revenue in million U.S. dollars": "96"
+         "Year": "2016",
+         "Average number of people": "2.9"
       },
       {
-         "Year": "2016/17",
-         "Revenue in million U.S. dollars": "98"
+         "Year": "2015",
+         "Average number of people": "2.9"
       },
       {
-         "Year": "2015/16",
-         "Revenue in million U.S. dollars": "101"
+         "Year": "2014",
+         "Average number of people": "2.9"
       },
       {
-         "Year": "2014/15",
-         "Revenue in million U.S. dollars": "92"
+         "Year": "2013",
+         "Average number of people": "2.9"
       },
       {
-         "Year": "2013/14",
-         "Revenue in million U.S. dollars": "80"
+         "Year": "2012",
+         "Average number of people": "2.9"
       },
       {
-         "Year": "2012/13",
-         "Revenue in million U.S. dollars": "67"
+         "Year": "2011",
+         "Average number of people": "2.9"
       },
       {
-         "Year": "2011/12",
-         "Revenue in million U.S. dollars": "83"
+         "Year": "2010",
+         "Average number of people": "2.9"
       },
       {
-         "Year": "2010/11",
-         "Revenue in million U.S. dollars": "70"
+         "Year": "2009",
+         "Average number of people": "2.9"
       },
       {
-         "Year": "2009/10",
-         "Revenue in million U.S. dollars": "67"
+         "Year": "2008",
+         "Average number of people": "2.9"
       },
       {
-         "Year": "2008/09",
-         "Revenue in million U.S. dollars": "66"
+         "Year": "2007",
+         "Average number of people": "2.9"
       },
       {
-         "Year": "2007/08",
-         "Revenue in million U.S. dollars": "68"
+         "Year": "2006",
+         "Average number of people": "2.9"
       },
       {
-         "Year": "2006/07",
-         "Revenue in million U.S. dollars": "67"
+         "Year": "2005",
+         "Average number of people": "2.9"
       },
       {
-         "Year": "2005/06",
-         "Revenue in million U.S. dollars": "63"
+         "Year": "2004",
+         "Average number of people": "2.9"
+      },
+      {
+         "Year": "2003",
+         "Average number of people": "3.0"
+      },
+      {
+         "Year": "2002",
+         "Average number of people": "3.0"
+      },
+      {
+         "Year": "2001",
+         "Average number of people": "3.0"
+      },
+      {
+         "Year": "2000",
+         "Average number of people": "3.0"
       }
-   ]
+   ],
+   "gold": "This statistic shows the average number of people per family in Canada from 2000 to 2017 . The average Canadian household in 2017 consisted of 2.9 people , compared to 3.0 people in 2000 .\n"
 }

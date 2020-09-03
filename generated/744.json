@@ -1,95 +1,44 @@
 {
-   "title": "Franchise value of the Dallas Mavericks ( NBA ) 2003 to 2020",
-   "xAxis": "Year",
-   "yAxis": "Franchise value in million U.S. dollars",
+   "title": "Reasons for eating fast food in the U.S. as of August 2014",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This graph depicts the Franchise value of the Dallas Mavericks of the National Basketball Association from 2003 to 2020 . ",
-      "In 2020 , the Dallas Mavericks franchise had an estimated value of 2400 million U.S. dollars ."
+      "This statistic shows the Reasons five for in eating fast on food U.S. in the August as forecasted by professional chefs for 2014 . ",
+      "During the survey , 67.2 % of the respondents stated that Convenient items ( e.g",
+      "Asian-flavored syrups , Chorizo scrambled eggs , coconut milk pancakes ) would be a `` hot trend '' for food U.S. in 2014 ."
    ],
    "trends": [
+      {},
       {
-         "15": "17",
-         "17": "0"
-      },
-      {
-         "1": "0",
+         "4": "0",
          "11": "0"
-      }
+      },
+      {}
    ],
    "data": [
       {
-         "Year": "2020",
-         "Franchise value in million U.S. dollars": "2400"
+         "Response": "Convenient",
+         "Share of respondents": "67.2"
       },
       {
-         "Year": "2019",
-         "Franchise value in million U.S. dollars": "2250"
+         "Response": "Cheap",
+         "Share of respondents": "31.7"
       },
       {
-         "Year": "2018",
-         "Franchise value in million U.S. dollars": "1900"
+         "Response": "I just like it",
+         "Share of respondents": "30.6"
       },
       {
-         "Year": "2017",
-         "Franchise value in million U.S. dollars": "1450"
+         "Response": "Lack of other options",
+         "Share of respondents": "13.2"
       },
       {
-         "Year": "2016",
-         "Franchise value in million U.S. dollars": "1400"
-      },
-      {
-         "Year": "2015",
-         "Franchise value in million U.S. dollars": "1150"
-      },
-      {
-         "Year": "2014",
-         "Franchise value in million U.S. dollars": "765"
-      },
-      {
-         "Year": "2013",
-         "Franchise value in million U.S. dollars": "685"
-      },
-      {
-         "Year": "2012",
-         "Franchise value in million U.S. dollars": "497"
-      },
-      {
-         "Year": "2011",
-         "Franchise value in million U.S. dollars": "438"
-      },
-      {
-         "Year": "2010",
-         "Franchise value in million U.S. dollars": "446"
-      },
-      {
-         "Year": "2009",
-         "Franchise value in million U.S. dollars": "466"
-      },
-      {
-         "Year": "2008",
-         "Franchise value in million U.S. dollars": "461"
-      },
-      {
-         "Year": "2007",
-         "Franchise value in million U.S. dollars": "463"
-      },
-      {
-         "Year": "2006",
-         "Franchise value in million U.S. dollars": "403"
-      },
-      {
-         "Year": "2005",
-         "Franchise value in million U.S. dollars": "374"
-      },
-      {
-         "Year": "2004",
-         "Franchise value in million U.S. dollars": "338"
-      },
-      {
-         "Year": "2003",
-         "Franchise value in million U.S. dollars": "304"
+         "Response": "Other",
+         "Share of respondents": "5.6"
       }
-   ]
+   ],
+   "gold": "This statistic shows the reasons for eating fast food in the United States as of August 2014 . During the survey , 13.2 percent of respondents said that they ate fast food because they lacked other options .\n"
 }

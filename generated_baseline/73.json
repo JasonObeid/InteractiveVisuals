@@ -4,15 +4,24 @@
    "yAxis": "Number of ranking points",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 20 categories for the x axis representing Table Tennis Players, and a y axis representing Number of ranking points.",
       " The highest category is found at Yuling_Zhu_(China) where Number of ranking points is 16524.0.",
       " The lowest category is found at Elizabeta_Samara_(Romania) where Number of ranking points is 10063.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 19
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
    "data": [
       {
          "Table Tennis Players": "Yuling Zhu (China)",

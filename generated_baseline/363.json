@@ -4,15 +4,24 @@
    "yAxis": "Number of households in millions",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 8 categories for the x axis representing Age of householder, and a y axis representing Number of households in millions.",
       " The highest category is found at 45_to_54_years_old where Number of households in millions is 23.57.",
       " The lowest category is found at 15_to_24_years_old where Number of households in millions is 6.37."
    ],
-   "trends": {
-      "maxIndex": 4,
-      "minIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "7": 4,
+         "12": 4
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
    "data": [
       {
          "Age of householder": "15 to 24 years old",

@@ -1,33 +1,75 @@
 {
-   "title": "Number of commercial 3D-printing machines worldwide 2008 to 2013",
-   "xAxis": "Year",
-   "yAxis": "Number of commercial 3D-printing machines",
+   "title": "Denso - global revenue 2008 to 2019",
+   "xAxis": "Fiscal year",
+   "yAxis": "Net sales in million Japanese yen",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Number commercial 3D-printing Number commercial in 2008 , and a forecast for 2013 . ",
-      "In 2008 , the commercial 3D-printing Number was valued at 355 million machines . ",
-      "commercial 3D-printing is a type of inflammatory bowel disease ( IBD ) which is characterized by the formation of ulcers in the colon ."
+      "Denso Lines 2008 sales million of 5362772 million in 2019 represents a slight increase from last Fiscal 's 5108291 million . ",
+      "The Net sales million of U.S. airlines was 83.72 million in 2018 , making Denso above the average . ",
+      "Denso 's sales million Net sales million is a measure of utilized available seating capacity calculated by dividing revenue Net miles by available seat miles for a reporting period ."
    ],
    "trends": [
       {
-         "10": "1",
-         "16": "0"
+         "6": "0",
+         "9": "0",
+         "18": "1"
       },
       {
-         "1": "1",
-         "10": "1"
+         "11": "1"
       },
       {}
    ],
    "data": [
       {
-         "Year": "2013",
-         "Number of commercial 3D-printing machines": "23000"
+         "Fiscal year": "2019",
+         "Net sales in million Japanese yen": "5362772"
       },
       {
-         "Year": "2008",
-         "Number of commercial 3D-printing machines": "355"
+         "Fiscal year": "2018",
+         "Net sales in million Japanese yen": "5108291"
+      },
+      {
+         "Fiscal year": "2017",
+         "Net sales in million Japanese yen": "4527148"
+      },
+      {
+         "Fiscal year": "2016",
+         "Net sales in million Japanese yen": "4524522"
+      },
+      {
+         "Fiscal year": "2015",
+         "Net sales in million Japanese yen": "4309787"
+      },
+      {
+         "Fiscal year": "2014",
+         "Net sales in million Japanese yen": "4094960"
+      },
+      {
+         "Fiscal year": "2013",
+         "Net sales in million Japanese yen": "3580923"
+      },
+      {
+         "Fiscal year": "2012",
+         "Net sales in million Japanese yen": "3154630"
+      },
+      {
+         "Fiscal year": "2011",
+         "Net sales in million Japanese yen": "3131460"
+      },
+      {
+         "Fiscal year": "2010",
+         "Net sales in million Japanese yen": "2976709"
+      },
+      {
+         "Fiscal year": "2009",
+         "Net sales in million Japanese yen": "3142665"
+      },
+      {
+         "Fiscal year": "2008",
+         "Net sales in million Japanese yen": "4025076"
       }
-   ]
+   ],
+   "gold": "This statistic illustrates Denso 's global revenue from the fiscal year of 2008 to the fiscal year of 2019 . In the fiscal year of 2019 , Denso had global net sales of around 5.36 trillion yen ( or about 48 billion U.S. dollars ) .\n"
 }

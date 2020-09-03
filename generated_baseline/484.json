@@ -4,15 +4,24 @@
    "yAxis": "Share of total IT budget",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 13 categories for the x axis representing Fiscal Year, and a y axis representing Share of total IT budget.",
       " The highest category is found at FY2017 where Share of total IT budget is 10.6.",
       " The lowest category is found at FY2006 where Share of total IT budget is 7.2."
    ],
-   "trends": {
-      "maxIndex": 12,
-      "minIndex": 1
-   },
+   "trends": [
+      {},
+      {
+         "7": 12,
+         "12": 12
+      },
+      {
+         "7": 1,
+         "12": 1
+      },
+      {}
+   ],
    "data": [
       {
          "Fiscal Year": "FY2005",

@@ -1,121 +1,132 @@
 {
-   "title": "Mid-size luxury vehicles : sales by model in the United States 2019",
+   "title": "Population of Spain in 2019 by gender and autonomous community",
    "labels": [
-      "unknown",
-      "2019",
-      "2018"
+      "Community",
+      "Male",
+      "Female"
    ],
    "columnType": "multi",
    "graphType": "bar",
    "summary": [
-      "Tesla_Model_3 cars were the most expensive automobiles sold in the United States in 2019 . ",
-      "With an sales price tag of 140317 euros , the luxury maker ranked ahead of fellow German manufacturer Lexus_ES . ",
-      "The only luxury 2019 which had seen its by falling since 2019 was Citroen ."
+      "In 2019 , Andalusia was the Italian community where both Female and Male were predicted to live the longest lives in the whole Italian peninsula . ",
+      "As can be seen , the Population Spain at 2019 of Male was 4168901 years , whereas Female were expected to be 4277660 years . ",
+      "When compared to the country 's average , both male and female inhabitants of the community were expected to live roughly one year longer than the average ."
    ],
    "trends": [
       {
-         "0": [
+         "3": [
             "0",
             "0"
          ]
       },
       {
-         "6": [
+         "13": [
+            "0",
+            "1"
+         ],
+         "22": [
             "0",
             "2"
-         ],
-         "18": [
-            "1",
-            "0"
          ]
       },
       {}
    ],
    "data": [
       {
-         "unknown": "Tesla Model 3",
-         "2019": "161100",
-         "2018": "140317"
+         "Community": "Andalusia",
+         "Male": "4168901",
+         "Female": "4277660"
       },
       {
-         "unknown": "Lexus ES",
-         "2019": "51336",
-         "2018": "48482"
+         "Community": "Catalonia",
+         "Male": "3721783",
+         "Female": "3887716"
       },
       {
-         "unknown": "Mercedes-Benz E / CLS-Class",
-         "2019": "39858",
-         "2018": "46424"
+         "Community": "Community of Madrid",
+         "Male": "3205259",
+         "Female": "3480212"
       },
       {
-         "unknown": "BMW 5-Series",
-         "2019": "38709",
-         "2018": "43937"
+         "Community": "Region of Valencia",
+         "Male": "2462321",
+         "Female": "2536390"
       },
       {
-         "unknown": "Audi A6",
-         "2019": "17807",
-         "2018": "10561"
+         "Community": "Galicia",
+         "Male": "1302611",
+         "Female": "1396153"
       },
       {
-         "unknown": "Lincoln MKZ",
-         "2019": "17726",
-         "2018": "19852"
+         "Community": "Castile and Leon",
+         "Male": "1186138",
+         "Female": "1216739"
       },
       {
-         "unknown": "Cadillac XTS",
-         "2019": "11306",
-         "2018": "17729"
+         "Community": "Basque Country",
+         "Male": "1055722",
+         "Female": "1126196"
       },
       {
-         "unknown": "Cadillac CT6",
-         "2019": "7952",
-         "2018": "9669"
+         "Community": "Canary Islands",
+         "Male": "1100985",
+         "Female": "1119285"
       },
       {
-         "unknown": "Genesis G80",
-         "2019": "7095",
-         "2018": "7446"
+         "Community": "Castile-La Mancha",
+         "Male": "1023105",
+         "Female": "1015335"
       },
       {
-         "unknown": "Cadillac CTS",
-         "2019": "6966",
-         "2018": "11220"
+         "Community": "Murcia",
+         "Male": "747648",
+         "Female": "746793"
       },
       {
-         "unknown": "Lincoln Continental",
-         "2019": "6587",
-         "2018": "8758"
+         "Community": "Aragon",
+         "Male": "653825",
+         "Female": "670571"
       },
       {
-         "unknown": "Audi A7",
-         "2019": "4955",
-         "2018": "3852"
+         "Community": "Balearic Islands",
+         "Male": "599693",
+         "Female": "598883"
       },
       {
-         "unknown": "Volvo 90-Series",
-         "2019": "4052",
-         "2018": "9892"
+         "Community": "Extremadura",
+         "Male": "527492",
+         "Female": "535306"
       },
       {
-         "unknown": "Lexus GS",
-         "2019": "3378",
-         "2018": "6604"
+         "Community": "Asturias",
+         "Male": "487643",
+         "Female": "532350"
       },
       {
-         "unknown": "Infiniti Q70",
-         "2019": "2552",
-         "2018": "4479"
+         "Community": "Navarre",
+         "Male": "322403",
+         "Female": "330124"
       },
       {
-         "unknown": "Jaguar XF",
-         "2019": "1236",
-         "2018": "2208"
+         "Community": "Cantabria",
+         "Male": "283599",
+         "Female": "298350"
       },
       {
-         "unknown": "Acura RLX",
-         "2019": "1019",
-         "2018": "1931"
+         "Community": "La Rioja",
+         "Male": "154979",
+         "Female": "159508"
+      },
+      {
+         "Community": "Ceuta",
+         "Male": "42785",
+         "Female": "41649"
+      },
+      {
+         "Community": "Melilla",
+         "Male": "42498",
+         "Female": "41788"
       }
-   ]
+   ],
+   "gold": "Andalusia , with a total number of 8.44 million inhabitants , ranked first on the list of most populous autonomous communities in Spain as of 1st July 2019 . The least populated regions of Spain were the two autonomous cities of Ceuta and Melilla , both with a population of approximately 84 thousand inhabitants that year . The population of Spain has been in decline for many years and was projected to decrease by nearly one million by 2023 .\n"
 }

@@ -1,89 +1,66 @@
 {
-   "title": "Mercedes : market share of new car registrations in the EU 2019",
-   "xAxis": "Month",
-   "yAxis": "Market share",
-   "columnType": "two",
+   "title": "The Jurassic Park franchise : domestic and global box office revenue 2018",
+   "labels": [
+      "Movie",
+      "North America",
+      "Worldwide"
+   ],
+   "columnType": "multi",
    "graphType": "bar",
    "summary": [
-      "The statistic shows Mercedes market share of car registrations EU in the EU between 2018 and 2019 . ",
-      "In 2019 , Mercedes market share of car registrations EU in the EU stood at 5.9 % . ",
-      "The Mercedes Motor Company , a South Korean registrations manufacturer belonging to the Mercedes Kia Automotive Group , was founded in 1967 by Chung Ju-Yung ."
+      "The statistic presents the global box office of the Jurassic_World of the Jurassic Park Movie series in North America and Worldwide . ",
+      "As of , `` Jurassic_World of the Jurassic Park : On Jurassic_Park_III '' , the fourth installment in the series , reached a gross of 181.17 million U.S. dollars in 4,164 cinemas across North America . ",
+      "Johnny Depp , the actor who plays Captain Jack Sparrow , ranked fifth on the list of the best-paid actors Worldwide in 2016 , with an annual income of 48 million U.S. dollars ."
    ],
    "trends": [
-      {},
       {
-         "15": "0"
+         "9": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "4": [
+            "0",
+            "0"
+         ],
+         "10": [
+            "3",
+            "0"
+         ],
+         "24": [
+            "3",
+            "1"
+         ]
       },
       {}
    ],
    "data": [
       {
-         "Month": "Dec 19",
-         "Market share": "5.9"
+         "Movie": "Jurassic World",
+         "North America": "652.27",
+         "Worldwide": "1671.7"
       },
       {
-         "Month": "Nov 19",
-         "Market share": "6.2"
+         "Movie": "Jurassic Park",
+         "North America": "357.07",
+         "Worldwide": "983.8"
       },
       {
-         "Month": "Oct 19",
-         "Market share": "6.4"
+         "Movie": "The Lost World: Jurassic Park",
+         "North America": "229.09",
+         "Worldwide": "618.6"
       },
       {
-         "Month": "Sep 19",
-         "Market share": "6.9"
+         "Movie": "Jurassic Park III",
+         "North America": "181.17",
+         "Worldwide": "368.8"
       },
       {
-         "Month": "Aug 19",
-         "Market share": "5.7"
-      },
-      {
-         "Month": "Jul 19",
-         "Market share": "5.6"
-      },
-      {
-         "Month": "Jun 19",
-         "Market share": "4.9"
-      },
-      {
-         "Month": "May 19",
-         "Market share": "5.3"
-      },
-      {
-         "Month": "Apr 19",
-         "Market share": "5.5"
-      },
-      {
-         "Month": "Mar 19",
-         "Market share": "4.9"
-      },
-      {
-         "Month": "Feb 19",
-         "Market share": "5.3"
-      },
-      {
-         "Month": "Jan 19",
-         "Market share": "5.3"
-      },
-      {
-         "Month": "Dec 18",
-         "Market share": "6.6"
-      },
-      {
-         "Month": "Nov 18",
-         "Market share": "6.4"
-      },
-      {
-         "Month": "Oct 18",
-         "Market share": "6.8"
-      },
-      {
-         "Month": "Sep 18",
-         "Market share": "7.2"
-      },
-      {
-         "Month": "Aug 18",
-         "Market share": "4.6"
+         "Movie": "Jurassic World: Fallen Kingdom",
+         "North America": "416.77",
+         "Worldwide": "1304.8"
       }
-   ]
+   ],
+   "gold": "The statistic presents the box office revenue of the Jurassic Park movie series in North America and worldwide . As of October 2018 , `` Jurassic World '' , the fourth installment in the series released in 2015 , reached a gross of 652.27 million U.S. dollars in 4,291 cinemas across North America . It is currently the fifth most successful movie of all time based on global box office revenue .\n"
 }

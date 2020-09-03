@@ -1,75 +1,112 @@
 {
-   "title": "France : number of public primary schools 2005 to 2018",
-   "xAxis": "Year",
-   "yAxis": "Number of public schools",
+   "title": "Most hashtagged cities on Instagram worldwide 2017",
+   "xAxis": "State",
+   "yAxis": "Number of hashtagged posts in millions",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Number of public at primary establishments in France from 2005 to 2018 . ",
-      "In 2018 , the Number of public in travel primary ( including both international and domestic tourists ) amounted to approximately 44902 million ."
+      "The State with the highest cost-per-click on Instagram in the measured period was the London , where Number reached over 88.78 New_York posts , whereas the lowest Number on the platform was recorded in Bangkok , at three quarters of a dollar . ",
+      "The average for the studied Instagram amounted to 0.95 New_York posts . ",
+      "The Chicago placed slightly above the global average , with Number valued at 44.27 New_York posts ."
    ],
    "trends": [
       {
-         "14": "12",
-         "16": "0"
+         "14": "0",
+         "20": "0",
+         "21": "1",
+         "34": "19"
       },
       {
-         "1": "0",
-         "21": "0"
+         "9": "1"
+      },
+      {
+         "1": "9",
+         "13": "5",
+         "14": "1"
       }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Number of public schools": "44902"
+         "State": "London",
+         "Number of hashtagged posts in millions": "88.78"
       },
       {
-         "Year": "2017",
-         "Number of public schools": "45401"
+         "State": "New York",
+         "Number of hashtagged posts in millions": "88.51"
       },
       {
-         "Year": "2016",
-         "Number of public schools": "45877"
+         "State": "Paris",
+         "Number of hashtagged posts in millions": "75.01"
       },
       {
-         "Year": "2015",
-         "Number of public schools": "46435"
+         "State": "Dubai",
+         "Number of hashtagged posts in millions": "59.64"
       },
       {
-         "Year": "2014",
-         "Number of public schools": "46962"
+         "State": "Istanbul",
+         "Number of hashtagged posts in millions": "50.15"
       },
       {
-         "Year": "2013",
-         "Number of public schools": "47306"
+         "State": "Miami",
+         "Number of hashtagged posts in millions": "44.27"
       },
       {
-         "Year": "2012",
-         "Number of public schools": "47672"
+         "State": "Los Angeles",
+         "Number of hashtagged posts in millions": "36.37"
       },
       {
-         "Year": "2011",
-         "Number of public schools": "48139"
+         "State": "Barcelona",
+         "Number of hashtagged posts in millions": "34.11"
       },
       {
-         "Year": "2010",
-         "Number of public schools": "48522"
+         "State": "Moscow",
+         "Number of hashtagged posts in millions": "32.44"
       },
       {
-         "Year": "2009",
-         "Number of public schools": "48975"
+         "State": "Chicago",
+         "Number of hashtagged posts in millions": "31.37"
       },
       {
-         "Year": "2008",
-         "Number of public schools": "49498"
+         "State": "Tokyo",
+         "Number of hashtagged posts in millions": "29.02"
       },
       {
-         "Year": "2007",
-         "Number of public schools": "49928"
+         "State": "Toronto",
+         "Number of hashtagged posts in millions": "26.31"
       },
       {
-         "Year": "2005",
-         "Number of public schools": "50668"
+         "State": "Berlin",
+         "Number of hashtagged posts in millions": "26.0"
+      },
+      {
+         "State": "Las Vegas",
+         "Number of hashtagged posts in millions": "24.63"
+      },
+      {
+         "State": "Madrid",
+         "Number of hashtagged posts in millions": "23.02"
+      },
+      {
+         "State": "Hong Kong",
+         "Number of hashtagged posts in millions": "21.74"
+      },
+      {
+         "State": "Amsterdam",
+         "Number of hashtagged posts in millions": "20.36"
+      },
+      {
+         "State": "Sydney",
+         "Number of hashtagged posts in millions": "20.27"
+      },
+      {
+         "State": "San Fancisco",
+         "Number of hashtagged posts in millions": "18.79"
+      },
+      {
+         "State": "Bangkok",
+         "Number of hashtagged posts in millions": "17.66"
       }
-   ]
+   ],
+   "gold": "This statistic presents the most popular cities worldwide on Instagram as of December 2017 , sorted by number of hashtagged posts . As of the measured period , London was the most popular city on Instagram with over 88.78 million mentions in hashtags .\n"
 }

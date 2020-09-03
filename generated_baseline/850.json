@@ -4,54 +4,41 @@
    "yAxis": "Surplus/deficit in trillion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Surplus/deficit in trillion U.S. dollars, with a total of 26 data points. The chart has 5 significant trends.",
-      " The longest trend is extremely positive which exists from '25 to '20.",
-      " Correspondingly, the next significant trend is extremely negative which exists from '20 to '15.",
-      " But, the next significant trend is extremely positive which exists from '15 to '11.",
-      " Additionally, the next significant trend is extremely negative which exists from '04 to '00.",
-      " Differently, the next significant trend is extremely positive which exists from '07 to '04."
+      "This line chart has an x axis representing Year and a y axis representing Surplus/deficit in trillion U.S. dollars, with a total of 26 data points. The chart has 6 significant trends.",
+      " The longest trend is slightly negative which exists from '25 to '20.",
+      " But, the next significant trend is moderately positive which exists from '20 to '15.",
+      " Correspondingly, the next significant trend is slightly negative which exists from '15 to '11.",
+      " On the contrary, the next significant trend is extremely positive which exists from '11 to '07.",
+      " Correspondingly, the next significant trend is moderately positive which exists from '04 to '00.",
+      " Additionally, the next significant trend is moderately negative which exists from '07 to '04."
    ],
    "trends": [
+      {},
       {
-         "Length": 6,
-         "direction": "positive",
-         "start": 0,
-         "end": 5,
-         "trend": "y=-0.12x+3.49",
-         "magnitude": "extremely"
+         "1": "0",
+         "12": "5"
       },
       {
-         "Length": 6,
-         "direction": "negative",
-         "start": 5,
-         "end": 10,
-         "trend": "y=0.13x+-1.5",
-         "magnitude": "extremely"
+         "3": "5",
+         "14": "10"
       },
       {
-         "Length": 5,
-         "direction": "positive",
-         "start": 10,
-         "end": 14,
-         "trend": "y=-0.23x+3.81",
-         "magnitude": "extremely"
+         "3": "10",
+         "14": "14"
       },
       {
-         "Length": 5,
-         "direction": "negative",
-         "start": 21,
-         "end": 25,
-         "trend": "y=0.06x+0.15",
-         "magnitude": "extremely"
+         "3": "14",
+         "14": "18"
       },
       {
-         "Length": 4,
-         "direction": "positive",
-         "start": 18,
-         "end": 21,
-         "trend": "y=-0.08x+0.74",
-         "magnitude": "extremely"
+         "3": "21",
+         "14": "25"
+      },
+      {
+         "3": "18",
+         "14": "21"
       }
    ],
    "data": [

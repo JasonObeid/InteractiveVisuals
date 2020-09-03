@@ -1,75 +1,60 @@
 {
-   "title": "Est\u00e9e Lauder 's share of the skin care products market worldwide 2012 to 2024",
+   "title": "Qdoba company-owned restaurant sales from 2011 to 2018",
    "xAxis": "Year",
-   "yAxis": "Market share",
+   "yAxis": "Sales in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows Est\u00e9e Lauder 's share of the skin care Market from 2012 to 2024 . ",
-      "In 2018 , Est\u00e9e Lauder 's share of the global skin care Market is estimated to be 8.1 % ."
+      "The Sales of the Qdoba luxury brand from 2011 has increased twofold over the period surveyed , increasing from roughly 168.8 million U.S. in 2011 to 436.56 million U.S. in the Year 2017 . ",
+      "Despite the steady increase in Sales during the period considered , the sales reported a net loss of approximately 25 million U.S. in 2018 . ",
+      "Worldwide recognition Founded in 1978 Milan , from 2011 is one of the leading international restaurant design houses ."
    ],
    "trends": [
       {
-         "14": "12",
-         "16": "0"
+         "20": "7",
+         "24": "7",
+         "26": "1",
+         "32": "1"
       },
       {
-         "1": "6",
-         "17": "6"
-      }
+         "23": "0"
+      },
+      {}
    ],
    "data": [
       {
-         "Year": "2024",
-         "Market share": "10.7"
-      },
-      {
-         "Year": "2023",
-         "Market share": "10.5"
-      },
-      {
-         "Year": "2022",
-         "Market share": "10.4"
-      },
-      {
-         "Year": "2021",
-         "Market share": "10.2"
-      },
-      {
-         "Year": "2020",
-         "Market share": "10.1"
-      },
-      {
-         "Year": "2019",
-         "Market share": "9.1"
-      },
-      {
          "Year": "2018",
-         "Market share": "8.1"
+         "Sales in million U.S. dollars": "192.62"
       },
       {
          "Year": "2017",
-         "Market share": "7.8"
+         "Sales in million U.S. dollars": "436.56"
       },
       {
          "Year": "2016",
-         "Market share": "7.3"
+         "Sales in million U.S. dollars": "415.5"
       },
       {
          "Year": "2015",
-         "Market share": "6.6"
+         "Sales in million U.S. dollars": "374.34"
       },
       {
          "Year": "2014",
-         "Market share": "8.1"
+         "Sales in million U.S. dollars": "338.45"
       },
       {
          "Year": "2013",
-         "Market share": "8.6"
+         "Sales in million U.S. dollars": "293.27"
       },
       {
          "Year": "2012",
-         "Market share": "7.6"
+         "Sales in million U.S. dollars": "239.49"
+      },
+      {
+         "Year": "2011",
+         "Sales in million U.S. dollars": "168.8"
       }
-   ]
+   ],
+   "gold": "This statistic shows the sales made by Qdoba company-owned restaurants from 2011 to 2018 . Qdoba , owned by Jack in the Box Inc. , generated restaurant sales of approximately 192.62 million U.S. dollars in 2018 .\n"
 }

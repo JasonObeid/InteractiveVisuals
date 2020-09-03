@@ -1,0 +1,56 @@
+{
+   "title": "Facebook : annual revenue 2009 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the revenues of eastman chemical from 2009 to 2019 . United States-based eastman chemical Company is engaged in the manufacture and sale of chemicals , fibers , and plastics . In 2019 , the company generated approximately 10.15 billion u.s. dollars of sales revenues .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2019",
+         "Revenue in million U.S. dollars": 70697.0
+      },
+      {
+         "Year": "2018",
+         "Revenue in million U.S. dollars": 55838.0
+      },
+      {
+         "Year": "2017",
+         "Revenue in million U.S. dollars": 40653.0
+      },
+      {
+         "Year": "2016",
+         "Revenue in million U.S. dollars": 27638.0
+      },
+      {
+         "Year": "2015",
+         "Revenue in million U.S. dollars": 17928.0
+      },
+      {
+         "Year": "2014",
+         "Revenue in million U.S. dollars": 12466.0
+      },
+      {
+         "Year": "2013",
+         "Revenue in million U.S. dollars": 7872.0
+      },
+      {
+         "Year": "2012",
+         "Revenue in million U.S. dollars": 5089.0
+      },
+      {
+         "Year": "2011",
+         "Revenue in million U.S. dollars": 3711.0
+      },
+      {
+         "Year": "2010",
+         "Revenue in million U.S. dollars": 1974.0
+      },
+      {
+         "Year": "2009",
+         "Revenue in million U.S. dollars": 777.0
+      }
+   ]
+}

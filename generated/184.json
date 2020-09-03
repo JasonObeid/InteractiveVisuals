@@ -1,56 +1,71 @@
 {
-   "title": "AbbVie 's R & D expenditures 2012 to 2019",
+   "title": "Urbanization in the United Arab Emirates 2018",
    "xAxis": "Year",
-   "yAxis": "R&D spending in million U.S. dollars",
+   "yAxis": "Share of urban population in total population",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the R&D of spending in AbbVie from 2012 to 2019 . ",
-      "According to the report , around 10329 thousand babies were born in AbbVie 2018 , an increase from the previous Year were 10329 thousand babies were born ."
+      "This statistic shows the degree of Urbanization in United Arab Emirates from 2008 to 2018 . ",
+      "Urbanization means the Share of urban population in the total population of a country . ",
+      "In 2018 , 86.52 % of United Arab Emirates 's total population lived in urban areas and cities ."
    ],
    "trends": [
       {
-         "10": "7",
+         "10": "10",
          "12": "0"
       },
+      {},
       {
-         "6": "1",
-         "14": "1",
-         "23": "1"
+         "1": "0",
+         "3": "0"
       }
    ],
    "data": [
       {
-         "Year": "2019",
-         "R&D spending in million U.S. dollars": "6407"
-      },
-      {
          "Year": "2018",
-         "R&D spending in million U.S. dollars": "10329"
+         "Share of urban population in total population": "86.52"
       },
       {
          "Year": "2017",
-         "R&D spending in million U.S. dollars": "5007"
+         "Share of urban population in total population": "86.25"
       },
       {
          "Year": "2016",
-         "R&D spending in million U.S. dollars": "4385"
+         "Share of urban population in total population": "85.97"
       },
       {
          "Year": "2015",
-         "R&D spending in million U.S. dollars": "4285"
+         "Share of urban population in total population": "85.67"
       },
       {
          "Year": "2014",
-         "R&D spending in million U.S. dollars": "3297"
+         "Share of urban population in total population": "85.38"
       },
       {
          "Year": "2013",
-         "R&D spending in million U.S. dollars": "2855"
+         "Share of urban population in total population": "85.07"
       },
       {
          "Year": "2012",
-         "R&D spending in million U.S. dollars": "2778"
+         "Share of urban population in total population": "84.75"
+      },
+      {
+         "Year": "2011",
+         "Share of urban population in total population": "84.42"
+      },
+      {
+         "Year": "2010",
+         "Share of urban population in total population": "84.09"
+      },
+      {
+         "Year": "2009",
+         "Share of urban population in total population": "83.74"
+      },
+      {
+         "Year": "2008",
+         "Share of urban population in total population": "83.38"
       }
-   ]
+   ],
+   "gold": "This statistic shows the degree of urbanization in the United Arab Emirates from 2008 to 2018 . Urbanization means the share of urban population in the total population of a country . In 2018 , 86.52 percent of United Arab Emirates ' total population lived in urban areas and cities .\n"
 }

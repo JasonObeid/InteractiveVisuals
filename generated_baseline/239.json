@@ -8,16 +8,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 30 categories for the x axis of Country representing Gold, Silver, Bronze.",
+      "This grouped bar chart has 30 categories for the x axis of Country representing Gold, Silver, and Bronze.",
       " The highest category is found at Norway with a mean value of 13.0.",
-      " The second highest category is found at Germany with a mean value of 10.333333333333334.",
+      " The second highest category is found at Germany with a mean value of 10.33.",
       " This represents a difference of 22.9%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "3",
+            "1"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "Norway",

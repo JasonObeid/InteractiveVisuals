@@ -1,51 +1,61 @@
 {
-   "title": "Number of asylum applications in Sweden 2015 to 2020",
+   "title": "Migration balance in Belgium 2010 to 2018",
    "xAxis": "Year",
-   "yAxis": "Number of asylum applications",
+   "yAxis": "Migration balance",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Sweden asylum applications Sweden asylum 2020 from 2015 to 2020 . ",
-      "Sweden asylum applications Sweden was forecasted to increase by 40000 % in 2016 and a further 40000 % in 2018 asylum applications - additional information asylum in the 21st century is no longer limited to a small geographical area , as internet communication and almost universal access to applications and accommodation allow for easy national and transnational movement between companies , their partners , customers suppliers or distributors . ",
-      "Although multinational corporations and asylum applications have a long history , they have reached unprecedented levels in the modern era and seem to be increasing every Year ."
+      "The Migration balance of Belgium 2010 2018 photovoltaics has seen an overall increase since 2010 , amounting to 50180 million in 2018 . ",
+      "However , this was a minor decrease 2010 the previous Year and significantly lower when compared to the Migration factors of other renewable sources . ",
+      "This can be explained by the lack of consistency in the number of sunny days recorded ."
    ],
    "trends": [
       {
-         "11": "5",
-         "13": "0"
+         "14": "8",
+         "18": "0",
+         "21": "0"
       },
-      {
-         "9": "2",
-         "12": "4",
-         "16": "2",
-         "19": "2"
-      },
+      {},
       {}
    ],
    "data": [
       {
-         "Year": "2020",
-         "Number of asylum applications": "46000"
-      },
-      {
-         "Year": "2019",
-         "Number of asylum applications": "46000"
-      },
-      {
          "Year": "2018",
-         "Number of asylum applications": "40000"
+         "Migration balance": "50180"
       },
       {
          "Year": "2017",
-         "Number of asylum applications": "36700"
+         "Migration balance": "44536"
       },
       {
          "Year": "2016",
-         "Number of asylum applications": "29000"
+         "Migration balance": "42239"
       },
       {
          "Year": "2015",
-         "Number of asylum applications": "162915"
+         "Migration balance": "47682"
+      },
+      {
+         "Year": "2014",
+         "Migration balance": "39954"
+      },
+      {
+         "Year": "2013",
+         "Migration balance": "34843"
+      },
+      {
+         "Year": "2012",
+         "Migration balance": "44365"
+      },
+      {
+         "Year": "2011",
+         "Migration balance": "62157"
+      },
+      {
+         "Year": "2010",
+         "Migration balance": "79446"
       }
-   ]
+   ],
+   "gold": "In 2018 , the migration balance in Belgium was roughly 50,000 , meaning that the number of immigrants moving to Belgium outnumbered the number of people leaving the country by about 50,000 . This was an increase in comparison to the previous year , but significantly lower than for example in 2010 and 2011 , when the migration balance was 79,446 and 62,157 respectively . It was also considerably lower than in neighboring country the Netherlands , which in 2018 had a positive migration balance of over 86,000 .\n"
 }

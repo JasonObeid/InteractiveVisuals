@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 15 categories for the x axis of Month representing Men, Women.",
+      "This grouped bar chart has 15 categories for the x axis of Month representing Men, and Women.",
       " The highest category is found at 70-74 with a mean value of 704.5.",
       " The second highest category is found at 65-69 with a mean value of 583.5.",
       " This represents a difference of 18.8%."
    ],
-   "trends": {
-      "maxIndex": 10,
-      "secondIndex": 10
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "10"
+         ],
+         "13": [
+            "2",
+            "10"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "9"
+         ],
+         "14": [
+            "2",
+            "9"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Month": "20-24",

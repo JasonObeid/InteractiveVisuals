@@ -1,12 +1,13 @@
 {
-   "title": "Top selling Nintendo Switch games worldwide in 2019",
+   "title": "Top selling Nintendo DS games worldwide in 2019",
    "xAxis": "Month",
    "yAxis": "Sales in million units",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Top selling Nintendo Switch Switch titles worldwide as of 2019 . ",
-      "With 19.01 million units sold worldwide , Mario_Kart_8_Deluxe 7 was the Top selling Nintendo Switch Switch game as of 2019 ."
+      "The statistic shows the Nintendo DS selling DS titles worldwide as of 2019 . ",
+      "With 30.8 million units sold worldwide , New_Super_Mario_Bros. 7 was the Top selling Nintendo DS DS game as of 2019 ."
    ],
    "trends": [
       {},
@@ -17,44 +18,45 @@
    ],
    "data": [
       {
-         "Month": "Mario Kart 8 Deluxe",
+         "Month": "New Super Mario Bros.",
+         "Sales in million units": "30.8"
+      },
+      {
+         "Month": "Nintendogs",
+         "Sales in million units": "23.96"
+      },
+      {
+         "Month": "Mario Kart DS",
+         "Sales in million units": "23.6"
+      },
+      {
+         "Month": "Brain Age",
          "Sales in million units": "19.01"
       },
       {
-         "Month": "Super Smash Bros. Ultimate",
-         "Sales in million units": "15.71"
+         "Month": "Pokemon Diamond Version / Pearl Version",
+         "Sales in million units": "17.67"
       },
       {
-         "Month": "Super Mario Odyssey",
-         "Sales in million units": "15.38"
+         "Month": "Pokemon Black Version / White Version",
+         "Sales in million units": "15.64"
       },
       {
-         "Month": "The Legend of Zelda:  Breath of the Wild",
-         "Sales in million units": "14.54"
+         "Month": "Brain Age 2",
+         "Sales in million units": "14.88"
       },
       {
-         "Month": "Pok\u00e9mon: Let's Go Pikachu!/ Pok\u00e9mon: Let's Go Eevee!",
-         "Sales in million units": "11.28"
+         "Month": "Pokemon HeartGold Version / SoulSilver Version",
+         "Sales in million units": "12.72"
       },
       {
-         "Month": "Splatoon 2",
-         "Sales in million units": "9.28"
+         "Month": "Animal Crossing: Wild World",
+         "Sales in million units": "11.75"
       },
       {
-         "Month": "Super Mario Party",
-         "Sales in million units": "7.59"
-      },
-      {
-         "Month": "New Super Mario Bros. U Deluxe",
-         "Sales in million units": "4.59"
-      },
-      {
-         "Month": "Super Mario Maker 2",
-         "Sales in million units": "3.93"
-      },
-      {
-         "Month": "The Legend of Zelda: Link's Awakening",
-         "Sales in million units": "3.13"
+         "Month": "Super Mario 64 DS",
+         "Sales in million units": "11.06"
       }
-   ]
+   ],
+   "gold": "This statistic shows the top selling Nintendo DS titles worldwide . With 30.8 million units sold , New Super Mario Bros. was the top selling Nintendo DS game as of September 2019 .\n"
 }

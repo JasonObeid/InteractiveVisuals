@@ -1,48 +1,54 @@
 {
-   "title": "Share of U.S. consumers shopping on Black Friday 2015 to 2019",
+   "title": "Indonesia : number of internet users 2017 to 2023",
    "xAxis": "Year",
-   "yAxis": "Share of respondents",
+   "yAxis": "Number of users in millions",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic presents the development of Share current account holders , who use U.S. consumers to communicate with their bank at least once a month in the U.S. Black Friday ( ) from 2015 to 2019 . ",
-      "By 2019 , it can be seen that 36 % of respondents stated they used U.S. consumers at least once a month . ",
-      "The increases observed in U.S. consumers usage were steep over time : in 2015 , only 35 % of current account holders on the British market turned monthly to U.S. consumers as a secure way of communicating with their bank ."
+      "In 2018 , the Number of Indonesia users in Indonesia amounted to 95.2 millions and is projected to grow 149.9 millions in 2023 . ",
+      "The current Indonesia usage penetration in Indonesia is about 64 millions of the population . ",
+      "Social media in Indonesia Social networking is a popular online activity in Indonesia ."
    ],
    "trends": [
       {
-         "33": "0",
-         "35": "4"
+         "1": "5",
+         "12": "5",
+         "20": "0",
+         "23": "0"
       },
-      {
-         "1": "4",
-         "8": "4"
-      },
-      {
-         "13": "0",
-         "16": "2"
-      }
+      {},
+      {}
    ],
    "data": [
       {
-         "Year": "2015",
-         "Share of respondents": "59"
+         "Year": "2023",
+         "Number of users in millions": "149.9"
       },
       {
-         "Year": "2016",
-         "Share of respondents": "51"
+         "Year": "2022",
+         "Number of users in millions": "141.3"
       },
       {
-         "Year": "2017",
-         "Share of respondents": "35"
+         "Year": "2021",
+         "Number of users in millions": "131.0"
       },
       {
-         "Year": "2018",
-         "Share of respondents": "37"
+         "Year": "2020",
+         "Number of users in millions": "119.4"
       },
       {
          "Year": "2019",
-         "Share of respondents": "36"
+         "Number of users in millions": "107.2"
+      },
+      {
+         "Year": "2018",
+         "Number of users in millions": "95.2"
+      },
+      {
+         "Year": "2017",
+         "Number of users in millions": "84.0"
       }
-   ]
+   ],
+   "gold": "In 2018 , 95.2 million people were accessing the internet in Indonesia . This figure is projected to grow to almost 150 million in 2023 . Internet usage in Indonesia With over 143.26 million internet users , Indonesia is one of the biggest online markets worldwide .\n"
 }

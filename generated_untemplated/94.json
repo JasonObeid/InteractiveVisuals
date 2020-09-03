@@ -1,0 +1,44 @@
+{
+   "title": "Value of the global eyewear market from 2018 to 2025\n",
+   "xAxis": "Year",
+   "yAxis": "Market value in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "The statistic shows the global consumption value of the match state market worldwide from 2015 to 2022 . In 2018 , the global market risk of the otc state is forecast to be worth 118 billion u.s. dollars .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2025",
+         "Market value in billion U.S. dollars": 210.87
+      },
+      {
+         "Year": "2024",
+         "Market value in billion U.S. dollars": 197.08
+      },
+      {
+         "Year": "2023",
+         "Market value in billion U.S. dollars": 184.18
+      },
+      {
+         "Year": "2022",
+         "Market value in billion U.S. dollars": 172.13
+      },
+      {
+         "Year": "2021",
+         "Market value in billion U.S. dollars": 160.87
+      },
+      {
+         "Year": "2020",
+         "Market value in billion U.S. dollars": 150.35
+      },
+      {
+         "Year": "2019",
+         "Market value in billion U.S. dollars": 140.51
+      },
+      {
+         "Year": "2018",
+         "Market value in billion U.S. dollars": 131.32
+      }
+   ]
+}

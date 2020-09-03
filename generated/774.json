@@ -1,70 +1,79 @@
 {
-   "title": "Most popular social media platforms for Millennials in the Netherlands 2020",
-   "xAxis": "Platform",
-   "yAxis": "Share of respondents",
-   "columnType": "two",
-   "graphType": "bar",
+   "title": "Percentage of U.S. population who are veterans in 2018 , by age and gender",
+   "labels": [
+      "Year",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
    "summary": [
-      "This statistic presents the popular social media in Millennials as of the third and fourth quarter 2020 . ",
-      "During the survey period , it was found that Facebook had a 82 media rate . ",
-      "Overall , 45 % of the respondents had an active account with any popular media website ."
+      "In 2018 , there were about 13.73 million males and 1.75 million females between the ages of 55_to_64_years and living in U.S. , which was the most out of any veterans 2018 . ",
+      "The next largest veterans 2018 was between the ages of 65_to_74_years and , with 31.89 % males and 1.22 % females . ",
+      "Canadian demographics The average veterans of the Canadian U.S. population was about 40.8 18_to_34_years in 2018 , with Newfoundland and Labrador having the oldest average population , and Nunavut having the youngest average population ."
    ],
    "trends": [
-      {},
       {
-         "9": "1",
-         "12": "1"
+         "6": [
+            "2",
+            "1"
+         ],
+         "10": [
+            "2",
+            "2"
+         ],
+         "17": [
+            "2",
+            "0"
+         ],
+         "19": [
+            "2",
+            "0"
+         ]
       },
-      {}
+      {
+         "10": [
+            "3",
+            "0"
+         ],
+         "12": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "13": [
+            "0",
+            "0"
+         ]
+      }
    ],
    "data": [
       {
-         "Platform": "WhatsApp",
-         "Share of respondents": "89"
+         "Year": "18 to 34 years",
+         "Male": "3.53",
+         "Female": "0.77"
       },
       {
-         "Platform": "Facebook",
-         "Share of respondents": "82"
+         "Year": "35 to 54 years",
+         "Male": "8.57",
+         "Female": "1.54"
       },
       {
-         "Platform": "YouTube",
-         "Share of respondents": "79"
+         "Year": "55 to 64 years",
+         "Male": "13.73",
+         "Female": "1.75"
       },
       {
-         "Platform": "Instagram",
-         "Share of respondents": "57"
+         "Year": "65 to 74 years",
+         "Male": "31.89",
+         "Female": "1.22"
       },
       {
-         "Platform": "LinkedIn",
-         "Share of respondents": "47"
-      },
-      {
-         "Platform": "Snapchat",
-         "Share of respondents": "35"
-      },
-      {
-         "Platform": "Pinterest",
-         "Share of respondents": "32"
-      },
-      {
-         "Platform": "Twitter",
-         "Share of respondents": "26"
-      },
-      {
-         "Platform": "TikTok",
-         "Share of respondents": "9"
-      },
-      {
-         "Platform": "Tumblr",
-         "Share of respondents": "6"
-      },
-      {
-         "Platform": "WeChat",
-         "Share of respondents": "5"
-      },
-      {
-         "Platform": "Foursquare",
-         "Share of respondents": "4"
+         "Year": "75 years and over",
+         "Male": "45.51",
+         "Female": "1.06"
       }
-   ]
+   ],
+   "gold": "This graph displays the percentage of Americans who were veterans in 2018 , distinguished by age and gender . In 2018 , 47.51 percent of the male Americans , aged 75 years and over , were veterans .\n"
 }

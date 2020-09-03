@@ -1,107 +1,143 @@
 {
-   "title": "Number of immigrants in Denmark 2020 , by country of origin",
-   "xAxis": "Country",
-   "yAxis": "Number of immigrants",
+   "title": "U.S. - Infant mortality rate 1990 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Infant mortality rate per thousand live births",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the Number of immigrants to Denmark in 2020 , by top 20 countries of origin . ",
-      "Most of the immigrants came to Denmark from Poland , amounting to 41529 people . ",
-      "The second and third most popular countries of origin were the neighbouring countries , Syria with 35536 people , and Turkey with nearly 33111 thousand people ."
+      "This statistic shows the thousand of mortality , rate per a thousand live in the 2018 who live below the Infant level from 1990 to 2018 . ",
+      "In 2018 , 5.6 thousand of mortality , rate per a thousand live were living below the Infant level in the 2018 . ",
+      "Infant is the state of one who lacks a certain amount of material possessions or money ."
    ],
    "trends": [
-      {},
       {
-         "8": "0",
-         "12": "0"
+         "24": "28",
+         "26": "0"
       },
       {
-         "14": "1",
-         "16": "1",
-         "20": "2",
-         "23": "2"
-      }
+         "1": "0",
+         "3": "0"
+      },
+      {}
    ],
    "data": [
       {
-         "Country": "Poland",
-         "Number of immigrants": "41529"
+         "Year": "2018",
+         "Infant mortality rate per thousand live births": "5.6"
       },
       {
-         "Country": "Syria",
-         "Number of immigrants": "35536"
+         "Year": "2017",
+         "Infant mortality rate per thousand live births": "5.7"
       },
       {
-         "Country": "Turkey",
-         "Number of immigrants": "33111"
+         "Year": "2016",
+         "Infant mortality rate per thousand live births": "5.7"
       },
       {
-         "Country": "Germany",
-         "Number of immigrants": "30639"
+         "Year": "2015",
+         "Infant mortality rate per thousand live births": "5.8"
       },
       {
-         "Country": "Romania",
-         "Number of immigrants": "29443"
+         "Year": "2014",
+         "Infant mortality rate per thousand live births": "5.9"
       },
       {
-         "Country": "Iraq",
-         "Number of immigrants": "21840"
+         "Year": "2013",
+         "Infant mortality rate per thousand live births": "6.0"
       },
       {
-         "Country": "Iran",
-         "Number of immigrants": "17195"
+         "Year": "2012",
+         "Infant mortality rate per thousand live births": "6.1"
       },
       {
-         "Country": "Bosnia and Herzegovina",
-         "Number of immigrants": "16755"
+         "Year": "2011",
+         "Infant mortality rate per thousand live births": "6.1"
       },
       {
-         "Country": "Norway",
-         "Number of immigrants": "15670"
+         "Year": "2010",
+         "Infant mortality rate per thousand live births": "6.2"
       },
       {
-         "Country": "United Kingdom",
-         "Number of immigrants": "15510"
+         "Year": "2009",
+         "Infant mortality rate per thousand live births": "6.4"
       },
       {
-         "Country": "Pakistan",
-         "Number of immigrants": "14471"
+         "Year": "2008",
+         "Infant mortality rate per thousand live births": "6.5"
       },
       {
-         "Country": "Sweden",
-         "Number of immigrants": "14387"
+         "Year": "2007",
+         "Infant mortality rate per thousand live births": "6.6"
       },
       {
-         "Country": "Afghanistan",
-         "Number of immigrants": "13864"
+         "Year": "2006",
+         "Infant mortality rate per thousand live births": "6.7"
       },
       {
-         "Country": "Lithuania",
-         "Number of immigrants": "13233"
+         "Year": "2005",
+         "Infant mortality rate per thousand live births": "6.8"
       },
       {
-         "Country": "Lebanon",
-         "Number of immigrants": "12990"
+         "Year": "2004",
+         "Infant mortality rate per thousand live births": "6.9"
       },
       {
-         "Country": "India",
-         "Number of immigrants": "12764"
+         "Year": "2003",
+         "Infant mortality rate per thousand live births": "6.9"
       },
       {
-         "Country": "China",
-         "Number of immigrants": "12452"
+         "Year": "2002",
+         "Infant mortality rate per thousand live births": "6.9"
       },
       {
-         "Country": "Ukraine",
-         "Number of immigrants": "12054"
+         "Year": "2001",
+         "Infant mortality rate per thousand live births": "7.0"
       },
       {
-         "Country": "Thailand",
-         "Number of immigrants": "11915"
+         "Year": "2000",
+         "Infant mortality rate per thousand live births": "7.1"
       },
       {
-         "Country": "Somalia",
-         "Number of immigrants": "11282"
+         "Year": "1999",
+         "Infant mortality rate per thousand live births": "7.2"
+      },
+      {
+         "Year": "1998",
+         "Infant mortality rate per thousand live births": "7.3"
+      },
+      {
+         "Year": "1997",
+         "Infant mortality rate per thousand live births": "7.5"
+      },
+      {
+         "Year": "1996",
+         "Infant mortality rate per thousand live births": "7.7"
+      },
+      {
+         "Year": "1995",
+         "Infant mortality rate per thousand live births": "8.0"
+      },
+      {
+         "Year": "1994",
+         "Infant mortality rate per thousand live births": "8.2"
+      },
+      {
+         "Year": "1993",
+         "Infant mortality rate per thousand live births": "8.5"
+      },
+      {
+         "Year": "1992",
+         "Infant mortality rate per thousand live births": "8.8"
+      },
+      {
+         "Year": "1991",
+         "Infant mortality rate per thousand live births": "9.1"
+      },
+      {
+         "Year": "1990",
+         "Infant mortality rate per thousand live births": "9.4"
       }
-   ]
+   ],
+   "gold": "In 2018 , the infant mortality rate in the United States was 5.6 out of every 1,000 births . This is a significant decrease from 1990 , when infant mortality was at 9.4 deaths out of every 1,000s births . What is Infant Mortality ? The infant mortality rate is the number of deaths of babies under the age of one per 1,000 live births .\n"
 }

@@ -1,112 +1,115 @@
 {
-   "title": "Development of the world population until 2050",
+   "title": "Unemployment rate in Scotland 2000 to 2019",
    "xAxis": "Year",
-   "yAxis": "World population in billions",
+   "yAxis": "Unemployment rate",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic presents a population until the 2050 of the World population from 1950 to 2050 . ",
-      "The World population in 2050 is estimated to be until 9.74 billions people . ",
-      "This would be an increase from 3.34 billions people in 1965 ."
+      "The Unemployment rate of the Scotland in 2019 was 3.6 % , the lowest it has been since the mid-1970s . ",
+      "From 2000 until the 2011 financial crash the Unemployment rate in the UK fluctuated between 6 and 8.1 percent , before it increased suddenly in 2010 to 5.3 % . ",
+      "After peaking at 8.2 % in 2010 , the Unemployment rate gradually declined before returning to the levels seen in the early 2000s by 2004 ."
    ],
    "trends": [
       {
-         "13": "20",
-         "15": "0"
+         "7": "19",
+         "9": "19"
       },
       {
-         "4": "0",
-         "10": "0"
+         "1": "0",
+         "4": "11",
+         "15": "14",
+         "17": "11",
+         "25": "10",
+         "27": "6"
       },
       {
-         "6": "17",
-         "10": "17"
+         "3": "10",
+         "6": "10",
+         "24": "4"
       }
    ],
    "data": [
       {
-         "Year": "2050",
-         "World population in billions": "9.74"
+         "Year": "2000",
+         "Unemployment rate": "6.8"
       },
       {
-         "Year": "2045",
-         "World population in billions": "9.48"
+         "Year": "2001",
+         "Unemployment rate": "6.4"
       },
       {
-         "Year": "2040",
-         "World population in billions": "9.2"
+         "Year": "2002",
+         "Unemployment rate": "6.3"
       },
       {
-         "Year": "2035",
-         "World population in billions": "8.89"
+         "Year": "2003",
+         "Unemployment rate": "5.7"
       },
       {
-         "Year": "2030",
-         "World population in billions": "8.55"
-      },
-      {
-         "Year": "2025",
-         "World population in billions": "8.18"
-      },
-      {
-         "Year": "2020",
-         "World population in billions": "7.79"
-      },
-      {
-         "Year": "2015",
-         "World population in billions": "7.38"
-      },
-      {
-         "Year": "2010",
-         "World population in billions": "6.96"
+         "Year": "2004",
+         "Unemployment rate": "5.7"
       },
       {
          "Year": "2005",
-         "World population in billions": "6.54"
+         "Unemployment rate": "5.4"
       },
       {
-         "Year": "2000",
-         "World population in billions": "6.14"
+         "Year": "2006",
+         "Unemployment rate": "5.3"
       },
       {
-         "Year": "1995",
-         "World population in billions": "5.74"
+         "Year": "2007",
+         "Unemployment rate": "4.8"
       },
       {
-         "Year": "1990",
-         "World population in billions": "5.33"
+         "Year": "2008",
+         "Unemployment rate": "4.7"
       },
       {
-         "Year": "1985",
-         "World population in billions": "4.87"
+         "Year": "2009",
+         "Unemployment rate": "7"
       },
       {
-         "Year": "1980",
-         "World population in billions": "4.46"
+         "Year": "2010",
+         "Unemployment rate": "8.2"
       },
       {
-         "Year": "1975",
-         "World population in billions": "4.08"
+         "Year": "2011",
+         "Unemployment rate": "8.1"
       },
       {
-         "Year": "1970",
-         "World population in billions": "3.7"
+         "Year": "2012",
+         "Unemployment rate": "8"
       },
       {
-         "Year": "1965",
-         "World population in billions": "3.34"
+         "Year": "2013",
+         "Unemployment rate": "7.3"
       },
       {
-         "Year": "1960",
-         "World population in billions": "3.03"
+         "Year": "2014",
+         "Unemployment rate": "6"
       },
       {
-         "Year": "1955",
-         "World population in billions": "2.77"
+         "Year": "2015",
+         "Unemployment rate": "5.8"
       },
       {
-         "Year": "1950",
-         "World population in billions": "2.54"
+         "Year": "2016",
+         "Unemployment rate": "5.2"
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": "4.2"
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": "3.9"
+      },
+      {
+         "Year": "2019",
+         "Unemployment rate": "3.6"
       }
-   ]
+   ],
+   "gold": "This statistic shows the unemployment rate in Scotland between 2000 and 2019 . The unemployment rate was at its lowest in the most recent period , in 2019 , having fallen to 3.6 percentage points since the peak of 8.2 percent in 2010 .\n"
 }

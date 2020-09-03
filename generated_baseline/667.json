@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 30 categories for the x axis of Month representing Situation A, Situation B.",
+      "This grouped bar chart has 30 categories for the x axis of Month representing Situation A, and Situation B.",
       " The highest category is found at Luiz In\u00e1cio Lula da Silva (PT) with a mean value of 19.5.",
       " The second highest category is found at Blank or voided ballots/No vote with a mean value of 11.0.",
       " This represents a difference of 55.7%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "28"
+         ],
+         "14": [
+            "2",
+            "28"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Month": "Luiz In\u00e1cio Lula da Silva (PT)",

@@ -4,18 +4,16 @@
    "yAxis": "Market value in billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Market value in billion U.S. dollars with a total of 6 data points. The chart has one significant trend.",
-      " This trend is extremely negative which exists from 2016 to 2011."
+      " This trend is positive which exists from 2016 to 2011."
    ],
    "trends": [
+      {},
       {
-         "Length": 6,
-         "direction": "negative",
-         "start": 0,
-         "end": 5,
-         "trend": "y=0.69x+-1383.69",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "5"
       }
    ],
    "data": [

@@ -1,71 +1,102 @@
 {
-   "title": "Average regular season home attendance of the Oakland Raiders 2008 to 2019",
-   "xAxis": "Year",
-   "yAxis": "Average attendance",
+   "title": "Number of U.S. patents held by tech companies in 2012",
+   "xAxis": "Company",
+   "yAxis": "Number of U.S. patents",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This graph depicts the Average regular season home attendance of the Oakland Raiders Raiders from 2008 to 2019 . ",
-      "In 2019 , the Average attendance at home games of the Oakland Raiders Raiders was 52549 ."
+      "The statistic shows the U.S. patents held according to the Number of U.S. patents in 2012 . ",
+      "Samsung had 47855 U.S. patents in 2012 ."
    ],
    "trends": [
+      {},
       {
-         "14": "11",
-         "16": "0"
-      },
-      {
-         "1": "0",
-         "14": "0"
+         "0": "0",
+         "2": "0"
       }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Average attendance": "52549"
+         "Company": "Samsung",
+         "Number of U.S. patents": "47855"
       },
       {
-         "Year": "2018",
-         "Average attendance": "57919"
+         "Company": "Canon",
+         "Number of U.S. patents": "46322"
       },
       {
-         "Year": "2017",
-         "Average attendance": "57775"
+         "Company": "Sony",
+         "Number of U.S. patents": "36508"
       },
       {
-         "Year": "2016",
-         "Average attendance": "57320"
+         "Company": "Hewlett-Packard",
+         "Number of U.S. patents": "23904"
       },
       {
-         "Year": "2015",
-         "Average attendance": "54613"
+         "Company": "Xerox",
+         "Number of U.S. patents": "23603"
       },
       {
-         "Year": "2014",
-         "Average attendance": "53699"
+         "Company": "Intel",
+         "Number of U.S. patents": "21153"
       },
       {
-         "Year": "2013",
-         "Average attendance": "50444"
+         "Company": "Motorola",
+         "Number of U.S. patents": "21027"
       },
       {
-         "Year": "2012",
-         "Average attendance": "54216"
+         "Company": "Microsoft",
+         "Number of U.S. patents": "19800"
       },
       {
-         "Year": "2011",
-         "Average attendance": "59242"
+         "Company": "Ricoh",
+         "Number of U.S. patents": "14363"
       },
       {
-         "Year": "2010",
-         "Average attendance": "46431"
+         "Company": "Lucent",
+         "Number of U.S. patents": "11713"
       },
       {
-         "Year": "2009",
-         "Average attendance": "44284"
+         "Company": "Nokia",
+         "Number of U.S. patents": "9615"
       },
       {
-         "Year": "2008",
-         "Average attendance": "57850"
+         "Company": "Cisco",
+         "Number of U.S. patents": "7208"
+      },
+      {
+         "Company": "Apple",
+         "Number of U.S. patents": "4649"
+      },
+      {
+         "Company": "Oracle",
+         "Number of U.S. patents": "3371"
+      },
+      {
+         "Company": "Dell",
+         "Number of U.S. patents": "2489"
+      },
+      {
+         "Company": "Google",
+         "Number of U.S. patents": "1124"
+      },
+      {
+         "Company": "Verizon",
+         "Number of U.S. patents": "1110"
+      },
+      {
+         "Company": "Yahoo",
+         "Number of U.S. patents": "1029"
+      },
+      {
+         "Company": "AOL",
+         "Number of U.S. patents": "533"
+      },
+      {
+         "Company": "Amazon",
+         "Number of U.S. patents": "448"
       }
-   ]
+   ],
+   "gold": "This statistic shows the number of U.S. patents held by selected tech companies . As of March 2012 , Samsung held 47,855 U.S. patents . Apple , one of Samsung 's main competitors , held 4,649 patents .\n"
 }

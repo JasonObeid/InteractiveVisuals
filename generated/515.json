@@ -1,151 +1,102 @@
 {
-   "title": "Latin America & the Caribbean : corruption perception index in 2019 , by country",
-   "xAxis": "Country",
-   "yAxis": "Corruption perception index score",
+   "title": "Mexico : internet penetration 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Percentage of individuals using internet",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Uruguay perception Caribbean Corruption of Latin America Caribbean as of 2017 in leading online markets . ",
-      "During the measured period , Latin America Caribbean accounted for 62 % of perception index in Barbados . ",
-      "The Microsoft-owned platform accounted for 71 % of perception index Uruguay ."
+      "This statistic gives information on the internet penetration in Mexico from 2000 to 2018 . ",
+      "In 2018 , about 65.8 percentage of the Peruvian population accessed the internet , up from nearly 63.9 percentage a Year earlier ."
    ],
    "trends": [
       {
-         "4": "0"
+         "11": "18",
+         "13": "0"
       },
       {
-         "8": "3",
-         "14": "3"
-      },
-      {
-         "5": "0",
-         "10": "0"
+         "1": "0",
+         "4": "0",
+         "17": "1"
       }
    ],
    "data": [
       {
-         "Country": "Uruguay",
-         "Corruption perception index score": "71"
+         "Year": "2018",
+         "Percentage of individuals using internet": "65.8"
       },
       {
-         "Country": "Chile",
-         "Corruption perception index score": "67"
+         "Year": "2017",
+         "Percentage of individuals using internet": "63.9"
       },
       {
-         "Country": "Bahamas",
-         "Corruption perception index score": "64"
+         "Year": "2016",
+         "Percentage of individuals using internet": "59.54"
       },
       {
-         "Country": "Barbados",
-         "Corruption perception index score": "62"
+         "Year": "2015",
+         "Percentage of individuals using internet": "57.43"
       },
       {
-         "Country": "Saint Vincent & the Grenadines",
-         "Corruption perception index score": "59"
+         "Year": "2014",
+         "Percentage of individuals using internet": "44.39"
       },
       {
-         "Country": "Costa Rica",
-         "Corruption perception index score": "56"
+         "Year": "2013",
+         "Percentage of individuals using internet": "43.46"
       },
       {
-         "Country": "Dominica",
-         "Corruption perception index score": "55"
+         "Year": "2012",
+         "Percentage of individuals using internet": "39.75"
       },
       {
-         "Country": "Saint Lucia",
-         "Corruption perception index score": "55"
+         "Year": "2011",
+         "Percentage of individuals using internet": "37.18"
       },
       {
-         "Country": "Grenada",
-         "Corruption perception index score": "53"
+         "Year": "2010",
+         "Percentage of individuals using internet": "31.05"
       },
       {
-         "Country": "Cuba",
-         "Corruption perception index score": "48"
+         "Year": "2009",
+         "Percentage of individuals using internet": "26.34"
       },
       {
-         "Country": "Argentina",
-         "Corruption perception index score": "45"
+         "Year": "2008",
+         "Percentage of individuals using internet": "21.71"
       },
       {
-         "Country": "Suriname",
-         "Corruption perception index score": "44"
+         "Year": "2007",
+         "Percentage of individuals using internet": "20.81"
       },
       {
-         "Country": "Jamaica",
-         "Corruption perception index score": "43"
+         "Year": "2006",
+         "Percentage of individuals using internet": "19.52"
       },
       {
-         "Country": "Guyana",
-         "Corruption perception index score": "40"
+         "Year": "2005",
+         "Percentage of individuals using internet": "17.21"
       },
       {
-         "Country": "Trinidad & Tobago",
-         "Corruption perception index score": "40"
+         "Year": "2004",
+         "Percentage of individuals using internet": "14.1"
       },
       {
-         "Country": "Regional Median",
-         "Corruption perception index score": "39"
+         "Year": "2003",
+         "Percentage of individuals using internet": "12.9"
       },
       {
-         "Country": "Ecuador",
-         "Corruption perception index score": "38"
+         "Year": "2002",
+         "Percentage of individuals using internet": "11.9"
       },
       {
-         "Country": "Colombia",
-         "Corruption perception index score": "37"
+         "Year": "2001",
+         "Percentage of individuals using internet": "7.04"
       },
       {
-         "Country": "Panama",
-         "Corruption perception index score": "36"
-      },
-      {
-         "Country": "Peru",
-         "Corruption perception index score": "36"
-      },
-      {
-         "Country": "Brazil",
-         "Corruption perception index score": "35"
-      },
-      {
-         "Country": "El Salvador",
-         "Corruption perception index score": "34"
-      },
-      {
-         "Country": "Bolivia",
-         "Corruption perception index score": "31"
-      },
-      {
-         "Country": "Mexico",
-         "Corruption perception index score": "29"
-      },
-      {
-         "Country": "Dominican Republic",
-         "Corruption perception index score": "28"
-      },
-      {
-         "Country": "Paraguay",
-         "Corruption perception index score": "28"
-      },
-      {
-         "Country": "Guatemala",
-         "Corruption perception index score": "26"
-      },
-      {
-         "Country": "Honduras",
-         "Corruption perception index score": "26"
-      },
-      {
-         "Country": "Nicaragua",
-         "Corruption perception index score": "22"
-      },
-      {
-         "Country": "Haiti",
-         "Corruption perception index score": "18"
-      },
-      {
-         "Country": "Venezuela",
-         "Corruption perception index score": "16"
+         "Year": "2000",
+         "Percentage of individuals using internet": "5.08"
       }
-   ]
+   ],
+   "gold": "This statistic presents a timeline of the internet penetration in Mexico from 2000 to 2018 . In 2018 , 65.8 percent of the Mexican population used the internet , up from 7.04 percent in 2001 .\n"
 }

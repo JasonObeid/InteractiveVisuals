@@ -4,45 +4,31 @@
    "yAxis": "Sales in thousand units",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Sales in thousand units, with a total of 15 data points. The chart has 4 significant trends.",
-      " The longest trend is extremely negative which exists from 2018 to 2012.",
-      " On the contrary, the next significant trend is extremely negative which exists from 2011 to 2009.",
-      " But, the next significant trend is extremely positive which exists from 2009 to 2007.",
-      " Correspondingly, the next significant trend is strongly positive which exists from 2006 to 2004."
+      " The longest trend is extremely positive which exists from 2018 to 2012.",
+      " Also, the next significant trend is extremely positive which exists from 2012 to 2009.",
+      " Similarly, the next significant trend is moderately negative which exists from 2007 to 2004.",
+      " Contrarily, the next significant trend is slightly negative which exists from 2009 to 2007."
    ],
    "trends": [
+      {},
       {
-         "Length": 7,
-         "direction": "negative",
-         "start": 0,
-         "end": 6,
-         "trend": "y=41.29x+-82923.29",
-         "magnitude": "extremely"
+         "1": "0",
+         "12": "6"
       },
       {
-         "Length": 3,
-         "direction": "negative",
-         "start": 7,
-         "end": 9,
-         "trend": "y=53.0x+-106414.33",
-         "magnitude": "extremely"
+         "3": "6",
+         "14": "9"
       },
       {
-         "Length": 3,
-         "direction": "positive",
-         "start": 9,
-         "end": 11,
-         "trend": "y=-27.0x+54311.67",
-         "magnitude": "extremely"
+         "3": "11",
+         "14": "14"
       },
       {
-         "Length": 3,
-         "direction": "positive",
-         "start": 12,
-         "end": 14,
-         "trend": "y=7.5x+-14927.83",
-         "magnitude": "strongly"
+         "3": "9",
+         "14": "11"
       }
    ],
    "data": [

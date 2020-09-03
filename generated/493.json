@@ -1,60 +1,55 @@
 {
-   "title": "Largest cities in Ukraine 2016",
-   "xAxis": "Month",
-   "yAxis": "Residents in millions",
+   "title": "Racing teams of NASCAR ranked by revenue 2017",
+   "xAxis": "Teams",
+   "yAxis": "Revenue in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Largest cities Ukraine 2016 titles as of 2019 . ",
-      "With 2.91 millions sold 2016 , Ky\u00efv_(Kiev) 7 was the Largest cities Ukraine 2016 game as of 2019 ."
+      "The statistic depicts the by in the teams with the highest NASCAR gaming revenues in 2017 . ",
+      "The location with the highest ranked Revenue in the U.S. was unsurprisingly the Hendrick_Motorsports Strip , Hendrick_Motorsports totaling 180 million U.S. dollars in NASCAR gaming Revenue in 2017 ."
    ],
    "trends": [
       {},
       {
-         "1": "0",
-         "7": "0"
+         "13": "0",
+         "16": "0",
+         "19": "0"
       }
    ],
    "data": [
       {
-         "Month": "Ky\u00efv (Kiev)",
-         "Residents in millions": "2.91"
+         "Teams": "Hendrick Motorsports",
+         "Revenue in million U.S. dollars": "180"
       },
       {
-         "Month": "Charkiv",
-         "Residents in millions": "1.45"
+         "Teams": "Richard Childress Racing",
+         "Revenue in million U.S. dollars": "145"
       },
       {
-         "Month": "Od\u0117sa",
-         "Residents in millions": "1.01"
+         "Teams": "Joe Gibbs Racing",
+         "Revenue in million U.S. dollars": "131"
       },
       {
-         "Month": "Dniprop\u0117trovs'k",
-         "Residents in millions": "0.98"
+         "Teams": "Stewart-Haas Racing",
+         "Revenue in million U.S. dollars": "109"
       },
       {
-         "Month": "Don\u0117c'k",
-         "Residents in millions": "0.93"
+         "Teams": "Roush Fenway Racing",
+         "Revenue in million U.S. dollars": "97"
       },
       {
-         "Month": "Zapori\u017e\u017eija",
-         "Residents in millions": "0.76"
+         "Teams": "Team Penske",
+         "Revenue in million U.S. dollars": "63"
       },
       {
-         "Month": "L'viv",
-         "Residents in millions": "0.73"
+         "Teams": "Chip Ganassi Racing",
+         "Revenue in million U.S. dollars": "49"
       },
       {
-         "Month": "Kryvyj Rih",
-         "Residents in millions": "0.64"
-      },
-      {
-         "Month": "Mykola\u00efv",
-         "Residents in millions": "0.49"
-      },
-      {
-         "Month": "Mariupol'",
-         "Residents in millions": "0.45"
+         "Teams": "Front Row Motorsports",
+         "Revenue in million U.S. dollars": "19"
       }
-   ]
+   ],
+   "gold": "The statistic ranks the racing teams of NASCAR according to revenue in 2017 . Hendrick Motorsports generated 180 million U.S. dollars in revenue in 2017 .\n"
 }

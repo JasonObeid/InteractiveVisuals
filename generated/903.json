@@ -1,285 +1,52 @@
 {
-   "title": "Share of people worldwide who believed vaccines can cause autism as of 2017",
-   "labels": [
-      "Country",
-      "True",
-      "Don't know",
-      "False"
-   ],
-   "columnType": "multi",
+   "title": "Cost of a liver transplant on the National Health Service in the United Kingdom 2015",
+   "xAxis": "Cost in British pounds",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows Share people on worldwide who in 2017 . ",
-      "In Argentina , 62 % of residents believe that worldwide who among adults is morally False . ",
-      "who before marriage 20 out of 18 people in Argentina , Australia Belgium , and Canada believed that engaging in who before marriage was True Don't ."
+      "More than 21 % of Mexican internet users surveyed in 2015 claimed they used Less_than_760 for finding dates . ",
+      "Meanwhile , one out of four respondents cited 760-2300 and 9 % of people surveyed mentioned 2300-5000 . ",
+      "Sex and solitude Approximately 42.7 % of Mexicans who used Health Service stated in 2017 that they did so in order to find friends ."
    ],
    "trends": [
-      {},
       {
-         "1": [
-            "0",
-            "0"
-         ],
-         "3": [
-            "0",
-            "3"
-         ]
+         "2": "3",
+         "14": "0"
       },
       {
-         "3": [
-            "11",
-            "1"
-         ],
-         "6": [
-            "24",
-            "1"
-         ],
-         "9": [
-            "0",
-            "0"
-         ],
-         "11": [
-            "1",
-            "0"
-         ],
-         "13": [
-            "2",
-            "0"
-         ],
-         "16": [
-            "4",
-            "0"
-         ]
-      }
+         "8": "1",
+         "10": "2",
+         "16": "2"
+      },
+      {}
    ],
    "data": [
       {
-         "Country": "Argentina",
-         "True": "10",
-         "Don't know": "28",
-         "False": "62"
+         "Cost in British pounds": "Less than 760",
+         "Share of respondents": "17"
       },
       {
-         "Country": "Australia",
-         "True": "14",
-         "Don't know": "27",
-         "False": "59"
+         "Cost in British pounds": "760-2300",
+         "Share of respondents": "17"
       },
       {
-         "Country": "Belgium",
-         "True": "9",
-         "Don't know": "51",
-         "False": "40"
+         "Cost in British pounds": "2300-5000",
+         "Share of respondents": "9"
       },
       {
-         "Country": "Brazil",
-         "True": "10",
-         "Don't know": "35",
-         "False": "54"
+         "Cost in British pounds": "5000-10000",
+         "Share of respondents": "21"
       },
       {
-         "Country": "Canada",
-         "True": "16",
-         "Don't know": "32",
-         "False": "52"
+         "Cost in British pounds": "10000-20000",
+         "Share of respondents": "19"
       },
       {
-         "Country": "Chile",
-         "True": "16",
-         "Don't know": "31",
-         "False": "53"
-      },
-      {
-         "Country": "China",
-         "True": "19",
-         "Don't know": "50",
-         "False": "31"
-      },
-      {
-         "Country": "Colombia",
-         "True": "14",
-         "Don't know": "44",
-         "False": "42"
-      },
-      {
-         "Country": "Denmark",
-         "True": "22",
-         "Don't know": "36",
-         "False": "42"
-      },
-      {
-         "Country": "France",
-         "True": "17",
-         "Don't know": "48",
-         "False": "35"
-      },
-      {
-         "Country": "Germany",
-         "True": "12",
-         "Don't know": "36",
-         "False": "52"
-      },
-      {
-         "Country": "Great Britain",
-         "True": "20",
-         "Don't know": "35",
-         "False": "45"
-      },
-      {
-         "Country": "Hong Kong",
-         "True": "22",
-         "Don't know": "50",
-         "False": "28"
-      },
-      {
-         "Country": "Hungary",
-         "True": "10",
-         "Don't know": "42",
-         "False": "48"
-      },
-      {
-         "Country": "India",
-         "True": "44",
-         "Don't know": "36",
-         "False": "20"
-      },
-      {
-         "Country": "Indonesia",
-         "True": "23",
-         "Don't know": "32",
-         "False": "45"
-      },
-      {
-         "Country": "Israel",
-         "True": "29",
-         "Don't know": "35",
-         "False": "36"
-      },
-      {
-         "Country": "Italy",
-         "True": "14",
-         "Don't know": "38",
-         "False": "48"
-      },
-      {
-         "Country": "Japan",
-         "True": "12",
-         "Don't know": "63",
-         "False": "25"
-      },
-      {
-         "Country": "Malaysia",
-         "True": "30",
-         "Don't know": "35",
-         "False": "34"
-      },
-      {
-         "Country": "Mexico",
-         "True": "14",
-         "Don't know": "28",
-         "False": "58"
-      },
-      {
-         "Country": "Montenegro",
-         "True": "44",
-         "Don't know": "30",
-         "False": "26"
-      },
-      {
-         "Country": "Netherlands",
-         "True": "11",
-         "Don't know": "40",
-         "False": "49"
-      },
-      {
-         "Country": "New Zealand",
-         "True": "16",
-         "Don't know": "31",
-         "False": "53"
-      },
-      {
-         "Country": "Norway",
-         "True": "18",
-         "Don't know": "23",
-         "False": "59"
-      },
-      {
-         "Country": "Peru",
-         "True": "17",
-         "Don't know": "39",
-         "False": "45"
-      },
-      {
-         "Country": "Philippines",
-         "True": "28",
-         "Don't know": "33",
-         "False": "39"
-      },
-      {
-         "Country": "Poland",
-         "True": "17",
-         "Don't know": "38",
-         "False": "45"
-      },
-      {
-         "Country": "Russia",
-         "True": "14",
-         "Don't know": "47",
-         "False": "39"
-      },
-      {
-         "Country": "Saudi Arabia",
-         "True": "24",
-         "Don't know": "51",
-         "False": "25"
-      },
-      {
-         "Country": "Serbia",
-         "True": "27",
-         "Don't know": "40",
-         "False": "34"
-      },
-      {
-         "Country": "Singapore",
-         "True": "20",
-         "Don't know": "48",
-         "False": "32"
-      },
-      {
-         "Country": "South Africa",
-         "True": "30",
-         "Don't know": "35",
-         "False": "34"
-      },
-      {
-         "Country": "South Korea",
-         "True": "19",
-         "Don't know": "52",
-         "False": "30"
-      },
-      {
-         "Country": "Spain",
-         "True": "8",
-         "Don't know": "39",
-         "False": "53"
-      },
-      {
-         "Country": "Sweden",
-         "True": "25",
-         "Don't know": "24",
-         "False": "52"
-      },
-      {
-         "Country": "Turkey",
-         "True": "31",
-         "Don't know": "47",
-         "False": "22"
-      },
-      {
-         "Country": "USA",
-         "True": "19",
-         "Don't know": "29",
-         "False": "52"
+         "Cost in British pounds": "More than 20000",
+         "Share of respondents": "18"
       }
-   ]
+   ],
+   "gold": "This statistic shows the results of a survey asking individuals in the United Kingdom how much they think the unit cost is to have a liver transplant on the NHS in 2015 . The average cost of a liver transplant is estimated to be 12,279 British pounds . The majority of respondents , 64 percent , predicted the cost to be less than ten thousand British pounds .\n"
 }

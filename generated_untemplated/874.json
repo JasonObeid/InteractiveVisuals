@@ -1,0 +1,28 @@
+{
+   "title": "Uber users in the United States 2017 , by device\n",
+   "xAxis": "Device",
+   "yAxis": "Number of visits",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic presents the average brand value of the most popular user-generated line in the united in 2013 , according to the source . A total of approximately 67 percent of the population volume in the united were between 13 and 4 years .\n",
+   "trends": {},
+   "data": [
+      {
+         "Device": "Smartphone",
+         "Number of visits": 17.7
+      },
+      {
+         "Device": "Tablet",
+         "Number of visits": 1.2
+      },
+      {
+         "Device": "Desktop",
+         "Number of visits": 6.8
+      },
+      {
+         "Device": "Mobile-only",
+         "Number of visits": 16.6
+      }
+   ]
+}

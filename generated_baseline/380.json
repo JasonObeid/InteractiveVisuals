@@ -4,36 +4,36 @@
    "yAxis": "Euro cents per kilowatt-hour",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Euro cents per kilowatt-hour, with a total of 17 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely positive which exists from 2018_S1 to 2015_S2.",
-      " Additionally, the next significant trend is strongly negative which exists from 2013_S2 to 2012_S1.",
-      " But, the next significant trend is strongly negative which exists from 2011_S2 to 2010_S1."
+      "This line chart has an x axis representing Year and a y axis representing Euro cents per kilowatt-hour, with a total of 17 data points. The chart has 5 significant trends.",
+      " The longest trend is slightly negative which exists from 2018_S1 to 2015_S2.",
+      " On the contrary, the next significant trend is extremely positive which exists from 2012_S1 to 2010_S1.",
+      " Similarly, the next significant trend is extremely positive which exists from 2013_S2 to 2012_S1.",
+      " Also, the next significant trend is moderately negative which exists from 2015_S2 to 2014_S2.",
+      " Conversely, the next significant trend is moderately negative which exists from 2014_S2 to 2013_S2."
    ],
    "trends": [
+      {},
       {
-         "Length": 6,
-         "direction": "positive",
-         "start": 0,
-         "end": 5,
-         "trend": "y=-0.27x+559.97",
-         "magnitude": "extremely"
+         "1": "0",
+         "12": "5"
       },
       {
-         "Length": 4,
-         "direction": "negative",
-         "start": 9,
-         "end": 12,
-         "trend": "y=0.32x+-647.47",
-         "magnitude": "strongly"
+         "3": "12",
+         "14": "16"
       },
       {
-         "Length": 4,
-         "direction": "negative",
-         "start": 13,
-         "end": 16,
-         "trend": "y=0.46x+-918.92",
-         "magnitude": "strongly"
+         "3": "9",
+         "14": "12"
+      },
+      {
+         "3": "5",
+         "14": "7"
+      },
+      {
+         "3": "7",
+         "14": "9"
       }
    ],
    "data": [

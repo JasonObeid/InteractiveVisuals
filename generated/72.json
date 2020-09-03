@@ -1,70 +1,62 @@
 {
-   "title": "Fertility rate in Malaysia",
-   "xAxis": "Year",
-   "yAxis": "Number of born children per woman",
+   "title": "Leading banks by market capitalization in Italy 2019",
+   "xAxis": "Company Name",
+   "yAxis": "Market capitalization in million euros",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the total Number of born children Malaysia plc in the United Kingdom ( UK ) between 2007 and 2017 . ",
-      "Passenger numbers for the UK based airline have been increasing since 2009 and reached 2.22 % Malaysia 2007 . ",
-      "This figure excludes the company 's subsidiary BA CityFlyer ."
+      "The statistic depicts the capitalization market with the Italy banks Market in 2019 . ",
+      "In that year , Intesa_Sanpaolo was the Italy banks Company with a Market capitalization of 38043.87 million euros ."
    ],
    "trends": [
+      {},
       {
-         "20": "10",
-         "22": "0"
-      },
-      {
-         "11": "8",
-         "14": "10",
-         "17": "10"
-      },
-      {}
+         "4": "0",
+         "15": "0"
+      }
    ],
    "data": [
       {
-         "Year": "2017",
-         "Number of born children per woman": "2.02"
+         "Company Name": "Intesa Sanpaolo",
+         "Market capitalization in million euros": "38043.87"
       },
       {
-         "Year": "2016",
-         "Number of born children per woman": "2.04"
+         "Company Name": "UniCredit",
+         "Market capitalization in million euros": "24228.42"
       },
       {
-         "Year": "2015",
-         "Number of born children per woman": "2.06"
+         "Company Name": "Mediobanca",
+         "Market capitalization in million euros": "8863.88"
       },
       {
-         "Year": "2014",
-         "Number of born children per woman": "2.07"
+         "Company Name": "Fineco Bank",
+         "Market capitalization in million euros": "5902.19"
       },
       {
-         "Year": "2013",
-         "Number of born children per woman": "2.09"
+         "Company Name": "UBI Banca",
+         "Market capitalization in million euros": "2947.23"
       },
       {
-         "Year": "2012",
-         "Number of born children per woman": "2.11"
+         "Company Name": "Banco BPM",
+         "Market capitalization in million euros": "2842.07"
       },
       {
-         "Year": "2011",
-         "Number of born children per woman": "2.13"
+         "Company Name": "BPER Banca",
+         "Market capitalization in million euros": "1935.76"
       },
       {
-         "Year": "2010",
-         "Number of born children per woman": "2.15"
+         "Company Name": "Banca Monte dei Paschi di Siena",
+         "Market capitalization in million euros": "1737.76"
       },
       {
-         "Year": "2009",
-         "Number of born children per woman": "2.17"
+         "Company Name": "Credito Emiliano",
+         "Market capitalization in million euros": "1640.93"
       },
       {
-         "Year": "2008",
-         "Number of born children per woman": "2.19"
-      },
-      {
-         "Year": "2007",
-         "Number of born children per woman": "2.22"
+         "Company Name": "Banca Popolare di Sondrio",
+         "Market capitalization in million euros": "761.8"
       }
-   ]
+   ],
+   "gold": "With a market capitalization of over 38 billion euros , Intesa Sanpaolo was the leading bank in Italy listed on the Milan Stock Exchange as of September 2019 . Intesa Sanpaolo , together with its fierce competitor UniCredit , dominates the banking sector in the country . The two banking groups are not only the leaders in the domestic market , but also ranked among the 20 leading banks in Europe in terms of market capitalization in 2019 .\n"
 }

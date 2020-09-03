@@ -4,36 +4,31 @@
    "yAxis": "Median income in 2018 CPI-U-RS adjusted U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Median income in 2018 CPI-U-RS adjusted U.S. dollars, with a total of 29 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely negative which exists from 1999 to 1990.",
-      " On the contrary, the next significant trend is extremely negative which exists from 2018 to 2014.",
-      " Contrarily, the next significant trend is extremely positive which exists from 2011 to 2007."
+      "This line chart has an x axis representing Year and a y axis representing Median income in 2018 CPI-U-RS adjusted U.S. dollars, with a total of 29 data points. The chart has 4 significant trends.",
+      " The longest trend is moderately positive which exists from 2002 to 1990.",
+      " Also, the next significant trend is slightly negative which exists from 2014 to 2007.",
+      " On the other hand, the next significant trend is slightly negative which exists from 2007 to 2002.",
+      " Contrarily, the next significant trend is extremely positive which exists from 2018 to 2014."
    ],
    "trends": [
+      {},
       {
-         "Length": 10,
-         "direction": "negative",
-         "start": 19,
-         "end": 28,
-         "trend": "y=873.19x+-1683120.02",
-         "magnitude": "extremely"
+         "1": "16",
+         "12": "28"
       },
       {
-         "Length": 5,
-         "direction": "negative",
-         "start": 0,
-         "end": 4,
-         "trend": "y=2109.6x+-4186049.8",
-         "magnitude": "extremely"
+         "3": "4",
+         "14": "11"
       },
       {
-         "Length": 5,
-         "direction": "positive",
-         "start": 7,
-         "end": 11,
-         "trend": "y=-1114.3x+2301174.3",
-         "magnitude": "extremely"
+         "3": "11",
+         "14": "16"
+      },
+      {
+         "3": "0",
+         "14": "4"
       }
    ],
    "data": [

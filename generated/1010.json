@@ -1,99 +1,62 @@
 {
-   "title": "U.S. per capita consumption of fresh mangoes 2000 to 2018",
-   "xAxis": "Year",
-   "yAxis": "Per capita consumption in pounds",
+   "title": "Leading brands on Facebook from Indonesia 2017 , by number of fans",
+   "xAxis": "Month",
+   "yAxis": "Number of fans on Facebook in millions",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The timeline shows the Per capita consumption of fresh mangoes 2000 in the U.S. from 2000 to 2018 . ",
-      "According to the report , the U.S. Per capita consumption of fresh mangoes 2000 amounted to about 3.22 pounds in 2017 ."
+      "This statistic gives information on the most-followed Leading brands on Facebook as of 2018 . ",
+      "As of that Month , Spanish player Mario_Teguh was ranked first Facebook almost 19.99 millions Facebook fans ."
    ],
    "trends": [
+      {},
       {
-         "15": "18",
-         "17": "0"
-      },
-      {
-         "17": "1",
-         "20": "1"
+         "7": "0",
+         "13": "0"
       }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Per capita consumption in pounds": "3.17"
+         "Month": "Mario Teguh",
+         "Number of fans on Facebook in millions": "19.99"
       },
       {
-         "Year": "2017",
-         "Per capita consumption in pounds": "3.22"
+         "Month": "DRAWING PENCIL",
+         "Number of fans on Facebook in millions": "12.91"
       },
       {
-         "Year": "2016",
-         "Per capita consumption in pounds": "2.96"
+         "Month": "Kompas.com",
+         "Number of fans on Facebook in millions": "11.05"
       },
       {
-         "Year": "2015",
-         "Per capita consumption in pounds": "2.6"
+         "Month": "PERSIB Bandung",
+         "Number of fans on Facebook in millions": "9.63"
       },
       {
-         "Year": "2014",
-         "Per capita consumption in pounds": "2.52"
+         "Month": "Prabowo Subianto",
+         "Number of fans on Facebook in millions": "9.62"
       },
       {
-         "Year": "2013",
-         "Per capita consumption in pounds": "2.87"
+         "Month": "Kang Dedi Mulyadi",
+         "Number of fans on Facebook in millions": "9.14"
       },
       {
-         "Year": "2012",
-         "Per capita consumption in pounds": "2.49"
+         "Month": "Facebook Indonesia",
+         "Number of fans on Facebook in millions": "9.03"
       },
       {
-         "Year": "2011",
-         "Per capita consumption in pounds": "2.53"
+         "Month": "Iwan Fals",
+         "Number of fans on Facebook in millions": "8.51"
       },
       {
-         "Year": "2010",
-         "Per capita consumption in pounds": "2.24"
+         "Month": "Tribunnews.com",
+         "Number of fans on Facebook in millions": "8.42"
       },
       {
-         "Year": "2009",
-         "Per capita consumption in pounds": "2.02"
-      },
-      {
-         "Year": "2008",
-         "Per capita consumption in pounds": "2.1"
-      },
-      {
-         "Year": "2007",
-         "Per capita consumption in pounds": "2.1"
-      },
-      {
-         "Year": "2006",
-         "Per capita consumption in pounds": "2.1"
-      },
-      {
-         "Year": "2005",
-         "Per capita consumption in pounds": "1.88"
-      },
-      {
-         "Year": "2004",
-         "Per capita consumption in pounds": "2.02"
-      },
-      {
-         "Year": "2003",
-         "Per capita consumption in pounds": "2.06"
-      },
-      {
-         "Year": "2002",
-         "Per capita consumption in pounds": "1.97"
-      },
-      {
-         "Year": "2001",
-         "Per capita consumption in pounds": "1.79"
-      },
-      {
-         "Year": "2000",
-         "Per capita consumption in pounds": "1.75"
+         "Month": "Liputan6",
+         "Number of fans on Facebook in millions": "8.19"
       }
-   ]
+   ],
+   "gold": "This statistic provides information on the most popular Facebook brands from Indonesia as of November 2017 . As of that month , motivational speaker Mario Teguh had 19.99 million global fans on the social network .\n"
 }

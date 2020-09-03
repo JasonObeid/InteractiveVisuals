@@ -1,68 +1,129 @@
 {
-   "title": "Gross domestic product ( GDP ) growth rate in Pakistan 2024",
+   "title": "New York - Unemployment rate 1992 to 2018",
    "xAxis": "Year",
-   "yAxis": "GDP growth compared to previous year",
+   "yAxis": "Unemployment rate",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the growth in real GDP in Pakistan from between 2014 to 2018 , with projections up until 2024 . ",
-      "In 2018 , Pakistan 's real Gross domestic product increased by around 5.53 % compared to the previous Year ."
+      "This statistic displays the Unemployment rate in New York Unemployment from 1992 to 2018 . ",
+      "In 2018 , Unemployment in New York Unemployment was 4.1 % ."
    ],
    "trends": [
+      {},
       {
-         "12": "10",
-         "14": "6",
-         "20": "0"
-      },
-      {
-         "1": "6",
-         "12": "6"
+         "7": "0"
       }
    ],
    "data": [
       {
-         "Year": "2024",
-         "GDP growth compared to previous year": "5.02"
+         "Year": "'18",
+         "Unemployment rate": "4.1"
       },
       {
-         "Year": "2023",
-         "GDP growth compared to previous year": "5.02"
+         "Year": "'17",
+         "Unemployment rate": "4.7"
       },
       {
-         "Year": "2022",
-         "GDP growth compared to previous year": "4.53"
+         "Year": "'16",
+         "Unemployment rate": "4.9"
       },
       {
-         "Year": "2021",
-         "GDP growth compared to previous year": "3"
+         "Year": "'15",
+         "Unemployment rate": "5.3"
       },
       {
-         "Year": "2020",
-         "GDP growth compared to previous year": "2.35"
+         "Year": "'14",
+         "Unemployment rate": "6.3"
       },
       {
-         "Year": "2019",
-         "GDP growth compared to previous year": "3.29"
+         "Year": "'13",
+         "Unemployment rate": "7.7"
       },
       {
-         "Year": "2018",
-         "GDP growth compared to previous year": "5.53"
+         "Year": "'12",
+         "Unemployment rate": "8.5"
       },
       {
-         "Year": "2017",
-         "GDP growth compared to previous year": "5.22"
+         "Year": "'11",
+         "Unemployment rate": "8.3"
       },
       {
-         "Year": "2016",
-         "GDP growth compared to previous year": "4.56"
+         "Year": "'10",
+         "Unemployment rate": "8.6"
       },
       {
-         "Year": "2015",
-         "GDP growth compared to previous year": "4.06"
+         "Year": "'09",
+         "Unemployment rate": "8.3"
       },
       {
-         "Year": "2014",
-         "GDP growth compared to previous year": "4.05"
+         "Year": "'08",
+         "Unemployment rate": "5.4"
+      },
+      {
+         "Year": "'07",
+         "Unemployment rate": "4.6"
+      },
+      {
+         "Year": "'06",
+         "Unemployment rate": "4.5"
+      },
+      {
+         "Year": "'05",
+         "Unemployment rate": "5"
+      },
+      {
+         "Year": "'04",
+         "Unemployment rate": "5.8"
+      },
+      {
+         "Year": "'03",
+         "Unemployment rate": "6.4"
+      },
+      {
+         "Year": "'02",
+         "Unemployment rate": "6.1"
+      },
+      {
+         "Year": "'01",
+         "Unemployment rate": "4.8"
+      },
+      {
+         "Year": "'00",
+         "Unemployment rate": "4.5"
+      },
+      {
+         "Year": "'99",
+         "Unemployment rate": "5.2"
+      },
+      {
+         "Year": "'98",
+         "Unemployment rate": "5.6"
+      },
+      {
+         "Year": "'97",
+         "Unemployment rate": "6.4"
+      },
+      {
+         "Year": "'96",
+         "Unemployment rate": "6.2"
+      },
+      {
+         "Year": "'95",
+         "Unemployment rate": "6.3"
+      },
+      {
+         "Year": "'94",
+         "Unemployment rate": "6.9"
+      },
+      {
+         "Year": "'93",
+         "Unemployment rate": "7.9"
+      },
+      {
+         "Year": "'92",
+         "Unemployment rate": "8.6"
       }
-   ]
+   ],
+   "gold": "This statistic displays the unemployment rate in the state of New York from 1992 to 2018 . In 2018 , unemployment in New York was 4.1 percent .\n"
 }

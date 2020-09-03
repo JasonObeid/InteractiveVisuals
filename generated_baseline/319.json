@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 6 categories for the x axis of State representing Dispensary price, Street price.",
+      "This grouped bar chart has 6 categories for the x axis of State representing Dispensary price, and Street price.",
       " The highest category is found at Michigan with a mean value of 287.5.",
       " The second highest category is found at Arizona with a mean value of 272.0.",
       " This represents a difference of 5.5%."
    ],
-   "trends": {
-      "maxIndex": 3,
-      "secondIndex": 3
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "13": [
+            "2",
+            "3"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "2",
+            "0"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "State": "Arizona",

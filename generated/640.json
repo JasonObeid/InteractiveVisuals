@@ -1,77 +1,101 @@
 {
-   "title": "Revenue of Hays worldwide 2007 to 2019",
+   "title": "Estimated U.S. retail per capita sales from 2000 to 2017",
    "xAxis": "Year",
-   "yAxis": "Revenue in million GBP",
+   "yAxis": "Per capita sales in U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic illustrates the annual Revenue of Hays traffic million in Hays between 2007 and 2019 . ",
-      "In the period of consideration , Hays million presented a trend of decline in Hays despite some oscillation . ",
-      "The peak was recorded in 2009 , with 1129.7 million on Romanian roads ."
+      "The statistic depicts the total Per capita retail in the per from 2000 to 2017 . ",
+      "The total Per capita retail in the U.S. amounted to approximately 15522 million U.S. dollars in 2017 . ",
+      "Per capita retail \u2013 additional information The amount of retail Per capita in the per has decreased since 2007 making it appear that Americans are trying to reduce their capita and stock up on savings as a result of the economic crisis ."
    ],
    "trends": [
       {
-         "13": "12",
-         "15": "0"
+         "12": "17",
+         "14": "0"
       },
-      {},
       {
-         "5": "10",
-         "8": "0"
+         "11": "0",
+         "16": "0"
+      },
+      {
+         "18": "10"
       }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Revenue in million GBP": "1129.7"
-      },
-      {
-         "Year": "2018",
-         "Revenue in million GBP": "1072.8"
-      },
-      {
          "Year": "2017",
-         "Revenue in million GBP": "954.6"
+         "Per capita sales in U.S. dollars": "15522"
       },
       {
          "Year": "2016",
-         "Revenue in million GBP": "810.3"
+         "Per capita sales in U.S. dollars": "15018"
       },
       {
          "Year": "2015",
-         "Revenue in million GBP": "764.2"
+         "Per capita sales in U.S. dollars": "14721"
       },
       {
          "Year": "2014",
-         "Revenue in million GBP": "724.9"
+         "Per capita sales in U.S. dollars": "14561"
       },
       {
          "Year": "2013",
-         "Revenue in million GBP": "719.0"
+         "Per capita sales in U.S. dollars": "14099"
       },
       {
          "Year": "2012",
-         "Revenue in million GBP": "734.0"
+         "Per capita sales in U.S. dollars": "13702"
       },
       {
          "Year": "2011",
-         "Revenue in million GBP": "672.1"
+         "Per capita sales in U.S. dollars": "13166"
       },
       {
          "Year": "2010",
-         "Revenue in million GBP": "557.7"
+         "Per capita sales in U.S. dollars": "12343"
       },
       {
          "Year": "2009",
-         "Revenue in million GBP": "670.8"
+         "Per capita sales in U.S. dollars": "11776"
       },
       {
          "Year": "2008",
-         "Revenue in million GBP": "786.8"
+         "Per capita sales in U.S. dollars": "12941"
       },
       {
          "Year": "2007",
-         "Revenue in million GBP": "633.6"
+         "Per capita sales in U.S. dollars": "13263"
+      },
+      {
+         "Year": "2006",
+         "Per capita sales in U.S. dollars": "12975"
+      },
+      {
+         "Year": "2005",
+         "Per capita sales in U.S. dollars": "12484"
+      },
+      {
+         "Year": "2004",
+         "Per capita sales in U.S. dollars": "11861"
+      },
+      {
+         "Year": "2003",
+         "Per capita sales in U.S. dollars": "11247"
+      },
+      {
+         "Year": "2002",
+         "Per capita sales in U.S. dollars": "10877"
+      },
+      {
+         "Year": "2001",
+         "Per capita sales in U.S. dollars": "10746"
+      },
+      {
+         "Year": "2000",
+         "Per capita sales in U.S. dollars": "10573"
       }
-   ]
+   ],
+   "gold": "The timeline shows the estimated retail per capita sales in the United States from 2000 to 2017 . In 2017 , retail sales amounted to about 15,522 U.S. dollars per capita .\n"
 }

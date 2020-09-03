@@ -4,15 +4,24 @@
    "yAxis": "Number of inhabitants per square kilometer",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 19 categories for the x axis representing Finnish Region, and a y axis representing Number of inhabitants per square kilometer.",
       " The highest category is found at Uusimaa where Number of inhabitants per square kilometer is 183.7.",
       " The lowest category is found at Lapland where Number of inhabitants per square kilometer is 1.9."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 18
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 18,
+         "12": 18
+      },
+      {}
+   ],
    "data": [
       {
          "Finnish Region": "Uusimaa",

@@ -1,68 +1,67 @@
 {
-   "title": "Gross domestic product ( GDP ) growth rate in Serbia 2024",
+   "title": "Average per game attendance English Premier League 2018/19",
    "xAxis": "Year",
-   "yAxis": "GDP growth compared to previous year",
+   "yAxis": "Average attendance",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the growth in real GDP in Serbia from between 2014 to 2018 , with projections up until 2024 . ",
-      "In 2018 , Serbia 's real Gross domestic product increased by around 4.3 % compared to the previous Year ."
+      "English had an Average attendance of 38484 for their home games in the 2018/19 season , their lowest since 2009/10 . ",
+      "Despite the fall in numbers , English had the highest Average attendance of all 20 English Premier League clubs in 2018/19 . ",
+      "The Theatre of Dreams English play their homes games at the largest stadium in the English Premier League : Old Trafford ."
    ],
    "trends": [
       {
-         "12": "10",
-         "14": "6",
-         "20": "0"
+         "6": "0",
+         "13": "0",
+         "19": "9"
       },
       {
-         "1": "6",
-         "12": "6"
-      }
+         "20": "0"
+      },
+      {}
    ],
    "data": [
       {
-         "Year": "2024",
-         "GDP growth compared to previous year": "4"
+         "Year": "2018/19",
+         "Average attendance": "38484"
       },
       {
-         "Year": "2023",
-         "GDP growth compared to previous year": "4"
+         "Year": "2017/18",
+         "Average attendance": "38495"
       },
       {
-         "Year": "2022",
-         "GDP growth compared to previous year": "4"
+         "Year": "2016/17",
+         "Average attendance": "35838"
       },
       {
-         "Year": "2021",
-         "GDP growth compared to previous year": "4"
+         "Year": "2015/16",
+         "Average attendance": "36490"
       },
       {
-         "Year": "2020",
-         "GDP growth compared to previous year": "3.99"
+         "Year": "2014/15",
+         "Average attendance": "36163"
       },
       {
-         "Year": "2019",
-         "GDP growth compared to previous year": "3.5"
+         "Year": "2013/14",
+         "Average attendance": "36691"
       },
       {
-         "Year": "2018",
-         "GDP growth compared to previous year": "4.3"
+         "Year": "2012/13",
+         "Average attendance": "35903"
       },
       {
-         "Year": "2017",
-         "GDP growth compared to previous year": "2.05"
+         "Year": "2011/12",
+         "Average attendance": "34646"
       },
       {
-         "Year": "2016",
-         "GDP growth compared to previous year": "3.34"
+         "Year": "2010/11",
+         "Average attendance": "35356"
       },
       {
-         "Year": "2015",
-         "GDP growth compared to previous year": "1.78"
-      },
-      {
-         "Year": "2014",
-         "GDP growth compared to previous year": "-1.59"
+         "Year": "2009/10",
+         "Average attendance": "34215"
       }
-   ]
+   ],
+   "gold": "The statistic shows the average per game attendance at games of the English Premier League from the 2009/10 season to the 2018/19 season . In 2018/19 , the average attendance at the games was at 38,484 .\n"
 }

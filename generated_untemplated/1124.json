@@ -1,0 +1,28 @@
+{
+   "title": "Frequency of internet use in Spain 2017\n",
+   "xAxis": "Duration",
+   "yAxis": "Share of individuals",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "The statistic depicts the boat ownership rate by household income in the u.s. in 2013 . 9.4 percent of the respondents with an annual household income of greater than 100,000 u.s. dollars own a boat .\n",
+   "trends": {},
+   "data": [
+      {
+         "Duration": "Once a week (including every day)",
+         "Share of individuals": 80.0
+      },
+      {
+         "Duration": "Daily",
+         "Share of individuals": 69.0
+      },
+      {
+         "Duration": "At least once a week (but not every day)",
+         "Share of individuals": 11.0
+      },
+      {
+         "Duration": "Less than once a week",
+         "Share of individuals": 5.0
+      }
+   ]
+}

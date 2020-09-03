@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 3 categories for the x axis of Country representing Males, Females.",
+      "This grouped bar chart has 3 categories for the x axis of Country representing Males, and Females.",
       " The highest category is found at Canada with a mean value of 82.0.",
       " The second highest category is found at USA with a mean value of 78.5.",
       " This represents a difference of 4.4%."
    ],
-   "trends": {
-      "maxIndex": 1,
-      "secondIndex": 1
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "2",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "14": [
+            "2",
+            "2"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "North America",

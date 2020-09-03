@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 4 categories for the x axis of Response representing Male, Female.",
-      " The highest category is found at I have been cyber bullied (lifetime) with a mean value of 36.400000000000006.",
+      "This grouped bar chart has 4 categories for the x axis of Response representing Male, and Female.",
+      " The highest category is found at I have been cyber bullied (lifetime) with a mean value of 36.4.",
       " The second highest category is found at I have been cyber bullied (previous 30 days) with a mean value of 17.4.",
       " This represents a difference of 70.6%."
    ],
-   "trends": {
-      "maxIndex": 1,
-      "secondIndex": 1
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "2",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "2",
+            "0"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Response": "I have been cyber bullied (previous 30 days)",

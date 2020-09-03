@@ -1,139 +1,70 @@
 {
-   "title": "Civilian labor force participation rate in the U.S. 1990 to 2019",
+   "title": "Number of divorces in Sweden 2008 to 2018",
    "xAxis": "Year",
-   "yAxis": "Labor force participation rate",
+   "yAxis": "Number of divorces",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Labor of refugees admitted to the U.S. from the fiscal Year of 1990 to the fiscal Year of 2019 . ",
-      "During the fiscal Year of 2019 , 63.1 refugees were admitted to the force ."
+      "In the fall semester 2018 , 24958 divorces were reported in universities and other higher education institutions in Sweden . ",
+      "Since 2000 , the Number of individuals in Sweden with an upper secondary education increased , while the individuals without decreased . ",
+      "In 2018 , 21.7 % of the female population had an upper secondary education degree of three years and 24.9 % of the male population ."
    ],
    "trends": [
+      {
+         "4": "0",
+         "6": "0"
+      },
       {},
       {
-         "7": "0"
+         "1": "0"
       }
    ],
    "data": [
       {
-         "Year": "'19",
-         "Labor force participation rate": "63.1"
+         "Year": "2018",
+         "Number of divorces": "24958"
       },
       {
-         "Year": "'18",
-         "Labor force participation rate": "62.9"
+         "Year": "2017",
+         "Number of divorces": "24210"
       },
       {
-         "Year": "'17",
-         "Labor force participation rate": "62.9"
+         "Year": "2016",
+         "Number of divorces": "24258"
       },
       {
-         "Year": "'16",
-         "Labor force participation rate": "62.8"
+         "Year": "2015",
+         "Number of divorces": "24876"
       },
       {
-         "Year": "'15",
-         "Labor force participation rate": "62.7"
+         "Year": "2014",
+         "Number of divorces": "26143"
       },
       {
-         "Year": "'14",
-         "Labor force participation rate": "62.9"
+         "Year": "2013",
+         "Number of divorces": "26933"
       },
       {
-         "Year": "'13",
-         "Labor force participation rate": "63.2"
+         "Year": "2012",
+         "Number of divorces": "25005"
       },
       {
-         "Year": "'12",
-         "Labor force participation rate": "63.7"
+         "Year": "2011",
+         "Number of divorces": "24884"
       },
       {
-         "Year": "'11",
-         "Labor force participation rate": "64.1"
+         "Year": "2010",
+         "Number of divorces": "25151"
       },
       {
-         "Year": "'10",
-         "Labor force participation rate": "64.7"
+         "Year": "2009",
+         "Number of divorces": "23534"
       },
       {
-         "Year": "'09",
-         "Labor force participation rate": "65.4"
-      },
-      {
-         "Year": "'08",
-         "Labor force participation rate": "66"
-      },
-      {
-         "Year": "'07",
-         "Labor force participation rate": "66"
-      },
-      {
-         "Year": "'06",
-         "Labor force participation rate": "66.2"
-      },
-      {
-         "Year": "'05",
-         "Labor force participation rate": "66"
-      },
-      {
-         "Year": "'04",
-         "Labor force participation rate": "66"
-      },
-      {
-         "Year": "'03",
-         "Labor force participation rate": "66.2"
-      },
-      {
-         "Year": "'02",
-         "Labor force participation rate": "66.6"
-      },
-      {
-         "Year": "'01",
-         "Labor force participation rate": "66.8"
-      },
-      {
-         "Year": "'00",
-         "Labor force participation rate": "67.1"
-      },
-      {
-         "Year": "'99",
-         "Labor force participation rate": "67.1"
-      },
-      {
-         "Year": "'98",
-         "Labor force participation rate": "67.1"
-      },
-      {
-         "Year": "'97",
-         "Labor force participation rate": "67.1"
-      },
-      {
-         "Year": "'96",
-         "Labor force participation rate": "66.8"
-      },
-      {
-         "Year": "'95",
-         "Labor force participation rate": "66.6"
-      },
-      {
-         "Year": "'94",
-         "Labor force participation rate": "66.6"
-      },
-      {
-         "Year": "'93",
-         "Labor force participation rate": "66.3"
-      },
-      {
-         "Year": "'92",
-         "Labor force participation rate": "66.4"
-      },
-      {
-         "Year": "'91",
-         "Labor force participation rate": "66.2"
-      },
-      {
-         "Year": "'90",
-         "Labor force participation rate": "66.5"
+         "Year": "2008",
+         "Number of divorces": "22580"
       }
-   ]
+   ],
+   "gold": "The number of divorces in Sweden peaked in 2013 , when almost 27 thousand couples got divorced . Since then the divorce number decreased until 2018 , when it again increased and amounted to almost 25 thousand divorces . A similar trend can be seen in the neighbor country Norway , where the number of divorces decreased for several years but increased again in 2017 .\n"
 }

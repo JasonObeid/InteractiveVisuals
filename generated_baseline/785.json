@@ -4,15 +4,24 @@
    "yAxis": "Gross merchandise volume in billion U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 23 categories for the x axis representing Quarter, and a y axis representing Gross merchandise volume in billion U.S. dollars.",
       " The highest category is found at Q4_'18 where Gross merchandise volume in billion U.S. dollars is 24.64.",
       " The lowest category is found at Q3_'15 where Gross merchandise volume in billion U.S. dollars is 19.6."
    ],
-   "trends": {
-      "maxIndex": 4,
-      "minIndex": 17
-   },
+   "trends": [
+      {},
+      {
+         "7": 4,
+         "12": 4
+      },
+      {
+         "7": 17,
+         "12": 17
+      },
+      {}
+   ],
    "data": [
       {
          "Quarter": "Q4 '19",

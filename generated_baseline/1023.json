@@ -9,16 +9,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 18 categories for the x axis of Insurance Company representing 2015, 2016, 2017, 2018.",
-      " The highest category is found at AG Insurance with a mean value of 21.475.",
-      " The second highest category is found at AXA with a mean value of 12.825.",
+      "This grouped bar chart has 18 categories for the x axis of Insurance Company representing 2015, 2016, 2017, and 2018.",
+      " The highest category is found at AG Insurance with a mean value of 21.48.",
+      " The second highest category is found at AXA with a mean value of 12.82.",
       " This represents a difference of 50.4%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "4",
+            "1"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Insurance Company": "AG Insurance",

@@ -4,36 +4,36 @@
    "yAxis": "Revenues in billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Revenues in billion U.S. dollars, with a total of 31 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely negative which exists from '25 to '18.",
-      " On the other hand, the next significant trend is extremely negative which exists from '15 to '11.",
-      " Conversely, the next significant trend is extremely negative which exists from '07 to '03."
+      "This line chart has an x axis representing Year and a y axis representing Revenues in billion U.S. dollars, with a total of 31 data points. The chart has 5 significant trends.",
+      " The longest trend is moderately positive which exists from '25 to '18.",
+      " Also, the next significant trend is moderately positive which exists from '18 to '11.",
+      " In a similar manner, the next significant trend is moderately negative which exists from '30 to '25.",
+      " Differently, the next significant trend is slightly negative which exists from '11 to '07.",
+      " Contrarily, the next significant trend is extremely positive which exists from '07 to '03."
    ],
    "trends": [
+      {},
       {
-         "Length": 8,
-         "direction": "negative",
-         "start": 5,
-         "end": 12,
-         "trend": "y=26.95x+-292.04",
-         "magnitude": "extremely"
+         "1": "5",
+         "12": "12"
       },
       {
-         "Length": 5,
-         "direction": "negative",
-         "start": 15,
-         "end": 19,
-         "trend": "y=40.38x+-252.66",
-         "magnitude": "extremely"
+         "3": "12",
+         "14": "19"
       },
       {
-         "Length": 5,
-         "direction": "negative",
-         "start": 23,
-         "end": 27,
-         "trend": "y=64.13x+-55.93",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "5"
+      },
+      {
+         "3": "19",
+         "14": "23"
+      },
+      {
+         "3": "23",
+         "14": "27"
       }
    ],
    "data": [

@@ -1,148 +1,101 @@
 {
-   "title": "Inflation rate in Estonia 2024",
+   "title": "Per capita consumption of tree nuts in the U.S. 2000 to 2018",
    "xAxis": "Year",
-   "yAxis": "Inflation rate compared to previous year",
+   "yAxis": "Per capita consumption in pounds",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the average Inflation rate in Estonia from 1994 to 2018 , with projections up until 2024 . ",
-      "In 2018 , the average Inflation rate in Estonia amounted to about 3.41 % compared to the previous Year ."
+      "The timeline shows the Per capita consumption of nuts U.S. 2000 in the Per from 2000 to 2018 . ",
+      "According to the report , the U.S. Per capita consumption of nuts U.S. 2000 amounted to about 5.1 pounds in 2018 ."
    ],
    "trends": [
       {
-         "10": "30",
-         "12": "6",
-         "18": "0"
+         "15": "18",
+         "17": "0"
       },
       {
-         "1": "6",
-         "12": "6"
+         "17": "0",
+         "20": "0"
       }
    ],
    "data": [
       {
-         "Year": "2024",
-         "Inflation rate compared to previous year": "2.1"
-      },
-      {
-         "Year": "2023",
-         "Inflation rate compared to previous year": "2.1"
-      },
-      {
-         "Year": "2022",
-         "Inflation rate compared to previous year": "2.2"
-      },
-      {
-         "Year": "2021",
-         "Inflation rate compared to previous year": "2.3"
-      },
-      {
-         "Year": "2020",
-         "Inflation rate compared to previous year": "2.4"
-      },
-      {
-         "Year": "2019",
-         "Inflation rate compared to previous year": "2.5"
-      },
-      {
          "Year": "2018",
-         "Inflation rate compared to previous year": "3.41"
+         "Per capita consumption in pounds": "5.1"
       },
       {
          "Year": "2017",
-         "Inflation rate compared to previous year": "3.65"
+         "Per capita consumption in pounds": "5.0"
       },
       {
          "Year": "2016",
-         "Inflation rate compared to previous year": "0.8"
+         "Per capita consumption in pounds": "4.8"
       },
       {
          "Year": "2015",
-         "Inflation rate compared to previous year": "0.07"
+         "Per capita consumption in pounds": "4.1"
       },
       {
          "Year": "2014",
-         "Inflation rate compared to previous year": "0.48"
+         "Per capita consumption in pounds": "4.1"
       },
       {
          "Year": "2013",
-         "Inflation rate compared to previous year": "3.25"
+         "Per capita consumption in pounds": "4.0"
       },
       {
          "Year": "2012",
-         "Inflation rate compared to previous year": "4.22"
+         "Per capita consumption in pounds": "4.2"
       },
       {
          "Year": "2011",
-         "Inflation rate compared to previous year": "5.08"
+         "Per capita consumption in pounds": "3.8"
       },
       {
          "Year": "2010",
-         "Inflation rate compared to previous year": "2.74"
+         "Per capita consumption in pounds": "3.8"
       },
       {
          "Year": "2009",
-         "Inflation rate compared to previous year": "0.2"
+         "Per capita consumption in pounds": "3.7"
       },
       {
          "Year": "2008",
-         "Inflation rate compared to previous year": "10.61"
+         "Per capita consumption in pounds": "3.6"
       },
       {
          "Year": "2007",
-         "Inflation rate compared to previous year": "6.75"
+         "Per capita consumption in pounds": "3.6"
       },
       {
          "Year": "2006",
-         "Inflation rate compared to previous year": "4.44"
+         "Per capita consumption in pounds": "3.3"
       },
       {
          "Year": "2005",
-         "Inflation rate compared to previous year": "4.12"
+         "Per capita consumption in pounds": "2.69"
       },
       {
          "Year": "2004",
-         "Inflation rate compared to previous year": "3.04"
+         "Per capita consumption in pounds": "3.53"
       },
       {
          "Year": "2003",
-         "Inflation rate compared to previous year": "1.39"
+         "Per capita consumption in pounds": "3.52"
       },
       {
          "Year": "2002",
-         "Inflation rate compared to previous year": "3.59"
+         "Per capita consumption in pounds": "3.35"
       },
       {
          "Year": "2001",
-         "Inflation rate compared to previous year": "5.63"
+         "Per capita consumption in pounds": "2.88"
       },
       {
          "Year": "2000",
-         "Inflation rate compared to previous year": "3.93"
-      },
-      {
-         "Year": "1999",
-         "Inflation rate compared to previous year": "3.1"
-      },
-      {
-         "Year": "1998",
-         "Inflation rate compared to previous year": "8.78"
-      },
-      {
-         "Year": "1997",
-         "Inflation rate compared to previous year": "9.31"
-      },
-      {
-         "Year": "1996",
-         "Inflation rate compared to previous year": "19.74"
-      },
-      {
-         "Year": "1995",
-         "Inflation rate compared to previous year": "29"
-      },
-      {
-         "Year": "1994",
-         "Inflation rate compared to previous year": "47.66"
+         "Per capita consumption in pounds": "2.61"
       }
-   ]
+   ],
+   "gold": "The timeline shows the per capita consumption of tree nuts ( shelled ) in the United States from 2000 to 2018 . The U.S. per capita consumption of tree nuts amounted to five pounds in 2017 .\n"
 }

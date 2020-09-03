@@ -1,52 +1,102 @@
 {
-   "title": "Number of Starwood Hotels and Resorts hotels worldwide 2009 to 2015",
+   "title": "Per capita consumption of high fructose corn syrup in the U.S. 2000 to 2018",
    "xAxis": "Year",
-   "yAxis": "Number of hotels",
+   "yAxis": "Per capita consumption in pounds",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Number of Starwood Hotels hotels from 2009 to 2015 . ",
-      "There were 1207 Starwood Hotels hotels as of 1 , 2014 up from 1121 at the same time the previous Year ."
+      "The timeline shows the U.S. Per capita consumption of fructose corn syrup from 2000 to 2018 . ",
+      "According to the report , the Per capita consumption of fructose corn syrup in the Per amounted to 37.6 in 2018 ."
    ],
    "trends": [
       {
-         "10": "0",
-         "12": "6"
+         "13": "18",
+         "15": "0"
       },
       {
-         "2": "6",
-         "10": "5",
-         "14": "4"
+         "18": "0",
+         "19": "0",
+         "21": "0"
       }
    ],
    "data": [
       {
-         "Year": "2009",
-         "Number of hotels": "942"
+         "Year": "2018",
+         "Per capita consumption in pounds": "37.6"
       },
       {
-         "Year": "2010",
-         "Number of hotels": "979"
+         "Year": "2017",
+         "Per capita consumption in pounds": "40.5"
       },
       {
-         "Year": "2011",
-         "Number of hotels": "1041"
-      },
-      {
-         "Year": "2012",
-         "Number of hotels": "1077"
-      },
-      {
-         "Year": "2013",
-         "Number of hotels": "1121"
-      },
-      {
-         "Year": "2014",
-         "Number of hotels": "1161"
+         "Year": "2016",
+         "Per capita consumption in pounds": "41.4"
       },
       {
          "Year": "2015",
-         "Number of hotels": "1207"
+         "Per capita consumption in pounds": "42.5"
+      },
+      {
+         "Year": "2014",
+         "Per capita consumption in pounds": "43.4"
+      },
+      {
+         "Year": "2013",
+         "Per capita consumption in pounds": "43.7"
+      },
+      {
+         "Year": "2012",
+         "Per capita consumption in pounds": "45.8"
+      },
+      {
+         "Year": "2011",
+         "Per capita consumption in pounds": "46.7"
+      },
+      {
+         "Year": "2010",
+         "Per capita consumption in pounds": "48.4"
+      },
+      {
+         "Year": "2009",
+         "Per capita consumption in pounds": "49.7"
+      },
+      {
+         "Year": "2008",
+         "Per capita consumption in pounds": "52.7"
+      },
+      {
+         "Year": "2007",
+         "Per capita consumption in pounds": "55.9"
+      },
+      {
+         "Year": "2006",
+         "Per capita consumption in pounds": "57.8"
+      },
+      {
+         "Year": "2005",
+         "Per capita consumption in pounds": "58.9"
+      },
+      {
+         "Year": "2004",
+         "Per capita consumption in pounds": "59.6"
+      },
+      {
+         "Year": "2003",
+         "Per capita consumption in pounds": "60.6"
+      },
+      {
+         "Year": "2002",
+         "Per capita consumption in pounds": "62.5"
+      },
+      {
+         "Year": "2001",
+         "Per capita consumption in pounds": "62.2"
+      },
+      {
+         "Year": "2000",
+         "Per capita consumption in pounds": "62.5"
       }
-   ]
+   ],
+   "gold": "The timeline shows the per capita consumption of high fructose corn syrup ( HFCS ) in the United States from 2000 to 2018 . The U.S. per capita consumption of high fructose corn syrup amounted to 37.6 pounds in 2018 .\n"
 }

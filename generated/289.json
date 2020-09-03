@@ -1,63 +1,64 @@
 {
-   "title": "Leading countries ranked by mobile app store downloads 2016 to 2018",
-   "labels": [
-      "Country",
-      "2016",
-      "2017",
-      "2018"
-   ],
-   "columnType": "multi",
+   "title": "Leading games on Twitch as of July 2019 , by hours viewed",
+   "xAxis": "Video Game",
+   "yAxis": "Number of hours in millions",
+   "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "In 2018 , China was the biggest by brand in the Leading with a Leading countries of close to 40 % . ",
-      "This is a decrease compared to the previous year . ",
-      "Second in the Leading was India ."
+      "This statistic shows a ranking of the Leading games Twitch July July 2019 by on the Number of hours millions in 2019 . ",
+      "In that year , the League_of_Legends Fortnite was ranked first among such 2019 in the Twitch , with a total of 24.8 hours millions ."
    ],
    "trends": [
-      {
-         "3": [
-            "0",
-            "0"
-         ]
-      },
       {},
       {
-         "5": [
-            "1",
-            "0"
-         ]
+         "5": "1",
+         "6": "0",
+         "7": "1",
+         "22": "0"
       }
    ],
    "data": [
       {
-         "Country": "China",
-         "2016": "53.1",
-         "2017": "79.3",
-         "2018": "89.7"
+         "Video Game": "Fortnite",
+         "Number of hours in millions": "24.8"
       },
       {
-         "Country": "India",
-         "2016": "6.5",
-         "2017": "12.1",
-         "2018": "17.2"
+         "Video Game": "League of Legends",
+         "Number of hours in millions": "13.7"
       },
       {
-         "Country": "United States",
-         "2016": "11.7",
-         "2017": "11.3",
-         "2018": "11.9"
+         "Video Game": "GTA V",
+         "Number of hours in millions": "13.1"
       },
       {
-         "Country": "Brazil",
-         "2016": "5.7",
-         "2017": "6.3",
-         "2018": "7.3"
+         "Video Game": "Teamfight Tactics",
+         "Number of hours in millions": "12.2"
       },
       {
-         "Country": "Indonesia",
-         "2016": "3.3",
-         "2017": "4.0",
-         "2018": "5.1"
+         "Video Game": "World of Warcraft",
+         "Number of hours in millions": "10.8"
+      },
+      {
+         "Video Game": "Overwatch",
+         "Number of hours in millions": "7.3"
+      },
+      {
+         "Video Game": "DOTA 2",
+         "Number of hours in millions": "6.7"
+      },
+      {
+         "Video Game": "Counter-Strike: Global Offensive",
+         "Number of hours in millions": "5.2"
+      },
+      {
+         "Video Game": "PUBG",
+         "Number of hours in millions": "5.1"
+      },
+      {
+         "Video Game": "Apex Legends",
+         "Number of hours in millions": "4.0"
       }
-   ]
+   ],
+   "gold": "This statistic presents the leading gaming content from July 22 to July 28 , 2019 , ranked by number of hours viewed . Fortnite had the longest viewing time that week , with 24.8 million hours viewed across the Twitch network .\n"
 }

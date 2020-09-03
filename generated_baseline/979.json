@@ -4,54 +4,36 @@
    "yAxis": "Share of non-performing loans in total loans",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Share of non-performing loans in total loans, with a total of 25 data points. The chart has 5 significant trends.",
-      " The longest trend is extremely positive which exists from '19 to '10.",
-      " Similarly, the next significant trend is extremely negative which exists from '10 to '06.",
-      " Conversely, the next significant trend is extremely positive which exists from '06 to '02.",
-      " Similarly, the next significant trend is strongly negative which exists from '02 to '98.",
-      " But, the next significant trend is extremely positive which exists from '98 to '95."
+      " The longest trend is slightly negative which exists from '19 to '10.",
+      " Conversely, the next significant trend is extremely positive which exists from '10 to '06.",
+      " Additionally, the next significant trend is slightly negative which exists from '06 to '02.",
+      " Conversely, the next significant trend is moderately positive which exists from '02 to '98.",
+      " Likewise, the next significant trend is slightly negative which exists from '98 to '95."
    ],
    "trends": [
+      {},
       {
-         "Length": 10,
-         "direction": "positive",
-         "start": 0,
-         "end": 9,
-         "trend": "y=-0.5x+9.82",
-         "magnitude": "extremely"
+         "1": "0",
+         "12": "9"
       },
       {
-         "Length": 5,
-         "direction": "negative",
-         "start": 9,
-         "end": 13,
-         "trend": "y=1.28x+-7.47",
-         "magnitude": "extremely"
+         "3": "9",
+         "14": "13"
       },
       {
-         "Length": 5,
-         "direction": "positive",
-         "start": 13,
-         "end": 17,
-         "trend": "y=-0.2x+1.85",
-         "magnitude": "extremely"
+         "3": "13",
+         "14": "17"
       },
       {
-         "Length": 5,
-         "direction": "negative",
-         "start": 17,
-         "end": 21,
-         "trend": "y=-0.0x+1.26",
-         "magnitude": "strongly"
+         "3": "17",
+         "14": "21"
       },
       {
-         "Length": 4,
-         "direction": "positive",
-         "start": 21,
-         "end": 24,
-         "trend": "y=-0.1x+10.92",
-         "magnitude": "extremely"
+         "3": "21",
+         "14": "24"
       }
    ],
    "data": [

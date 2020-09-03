@@ -1,0 +1,35 @@
+{
+   "title": "Cyber bullying : common types of bullying 2019 , by gender",
+   "labels": [
+      "Response",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": "This statistic shows the number of sick leave days u.s. adults took last year as of 2017 , by gender . It was found that 27 percent of male respondents and 26 percent of female respondents did not take any sick leave days .\n",
+   "trends": {},
+   "data": [
+      {
+         "Response": "I have been cyber bullied (previous 30 days)",
+         "Male": "17.7",
+         "Female": "17.1"
+      },
+      {
+         "Response": "I have been cyber bullied (lifetime)",
+         "Male": "34.1",
+         "Female": "38.7"
+      },
+      {
+         "Response": "I have cyber bullied others (previous 30 days)",
+         "Male": "8.1",
+         "Female": "4.6"
+      },
+      {
+         "Response": "I have cyber bullied others (lifetime)",
+         "Male": "16.1",
+         "Female": "13.4"
+      }
+   ]
+}

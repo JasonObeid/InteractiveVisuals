@@ -1,69 +1,65 @@
 {
-   "title": "Life expectancy in industrial and developing countries in 2018",
-   "labels": [
-      "unknown",
-      "Males",
-      "Females"
-   ],
-   "columnType": "multi",
+   "title": "Mobile operators : carrier market shares in the United Kingdom ( UK ) 2018",
+   "xAxis": "Mobile Carrier",
+   "yAxis": "Market share",
+   "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the average Life expectancy in More_Developed_Countries for those born in 2018 , by gender and region . ",
-      "The average Life expectancy in Global More_Developed_Countries was 70 years for Males and 74 years for Females in 2018 . ",
-      "Additional information on European Life expectancy The difference in Life expectancy seen between men and women across all European regions is in line with the global trends of women outliving men , on average ."
+      "BT_(including_EE) was the 2018 Market leader among Carrier Virgin_Mobile in United fast lubes , with a Market share of 28 % , up from second place with a Market share of 18 % the year previous . ",
+      "In second place was O2 , with a 26 % share of the Market . ",
+      "Fast lubes in the United Fast lubes refer to the automobile fuel and fluid maintenance shops that provide quick services such as Virgin_Mobile changes to customers ."
    ],
    "trends": [
       {
-         "8": [
-            "0",
-            "0"
-         ]
+         "0": "0",
+         "8": "5"
       },
       {
-         "5": [
-            "1",
-            "0"
-         ],
-         "6": [
-            "0",
-            "0"
-         ],
-         "8": [
-            "1",
-            "1"
-         ],
-         "13": [
-            "1",
-            "2"
-         ]
+         "4": "1",
+         "8": "1"
       },
-      {}
+      {
+         "22": "5"
+      }
    ],
    "data": [
       {
-         "unknown": "More Developed Countries",
-         "Males": "76",
-         "Females": "82"
+         "Mobile Carrier": "BT (including EE)",
+         "Market share": "28"
       },
       {
-         "unknown": "Global",
-         "Males": "70",
-         "Females": "74"
+         "Mobile Carrier": "O2",
+         "Market share": "26"
       },
       {
-         "unknown": "Less Developed Countries",
-         "Males": "69",
-         "Females": "73"
+         "Mobile Carrier": "Vodafone",
+         "Market share": "21"
       },
       {
-         "unknown": "Less Developed Countries (Excl. China)",
-         "Males": "67",
-         "Females": "71"
+         "Mobile Carrier": "Three",
+         "Market share": "12"
       },
       {
-         "unknown": "Least Developed Countries",
-         "Males": "63",
-         "Females": "66"
+         "Mobile Carrier": "Tesco Mobile",
+         "Market share": "6"
+      },
+      {
+         "Mobile Carrier": "Virgin Mobile",
+         "Market share": "4"
+      },
+      {
+         "Mobile Carrier": "Talk Talk",
+         "Market share": "1"
+      },
+      {
+         "Mobile Carrier": "iD Mobile",
+         "Market share": "1"
+      },
+      {
+         "Mobile Carrier": "Sky",
+         "Market share": "1"
       }
-   ]
+   ],
+   "gold": "This statistic shows the market shares held by mobile operators in the United Kingdom ( UK ) as at 31 December 2017 . BT , including Everything Everywhere ( EE ) held the greatest share of the market with 28 percent followed by O2 who held 26 percent . The four main mobile network operators ( MNO ) in the UK are Vodafone , Three ( 3 ) , EE and O2 .\n"
 }

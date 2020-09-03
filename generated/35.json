@@ -1,81 +1,81 @@
 {
-   "title": "Revenue of Manpower Group worldwide 2006 to 2019",
+   "title": "Bayer CropScience 's revenue 2005 to 2018",
    "xAxis": "Year",
-   "yAxis": "Revenue in billion U.S. dollars",
+   "yAxis": "Revenues in million euros",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Revenue Manpower Group of PricewaterhouseCoopers from 2006 to 2019 . ",
-      "In the fiscal Year of 2019 , Manpower Group generated approximately 20.86 billion U.S. dollars in Revenue Manpower Group . ",
-      "Manpower Group - additional information Manpower Group is one of the four largest accounting and audit firms in the world ."
+      "This statistic depicts the Revenues million of the euros 's revenue CropScience worldwide from 2005 to 2018 . ",
+      "In 2018 , their Revenues million came to around 14266 million euros ."
    ],
    "trends": [
       {
-         "10": "13",
-         "12": "0"
+         "14": "13",
+         "16": "0"
       },
       {
-         "5": "0",
-         "10": "0"
-      },
-      {}
+         "1": "0",
+         "9": "0"
+      }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Revenue in billion U.S. dollars": "20.86"
-      },
-      {
          "Year": "2018",
-         "Revenue in billion U.S. dollars": "21.99"
+         "Revenues in million euros": "14266"
       },
       {
          "Year": "2017",
-         "Revenue in billion U.S. dollars": "21.03"
+         "Revenues in million euros": "9577"
       },
       {
          "Year": "2016",
-         "Revenue in billion U.S. dollars": "19.65"
+         "Revenues in million euros": "9915"
       },
       {
          "Year": "2015",
-         "Revenue in billion U.S. dollars": "19.33"
+         "Revenues in million euros": "10367"
       },
       {
          "Year": "2014",
-         "Revenue in billion U.S. dollars": "20.76"
+         "Revenues in million euros": "9494"
       },
       {
          "Year": "2013",
-         "Revenue in billion U.S. dollars": "20.25"
+         "Revenues in million euros": "8819"
       },
       {
          "Year": "2012",
-         "Revenue in billion U.S. dollars": "20.68"
+         "Revenues in million euros": "8383"
       },
       {
          "Year": "2011",
-         "Revenue in billion U.S. dollars": "22.01"
+         "Revenues in million euros": "7255"
       },
       {
          "Year": "2010",
-         "Revenue in billion U.S. dollars": "18.87"
+         "Revenues in million euros": "6830"
       },
       {
          "Year": "2009",
-         "Revenue in billion U.S. dollars": "16.04"
+         "Revenues in million euros": "6510"
       },
       {
          "Year": "2008",
-         "Revenue in billion U.S. dollars": "21.54"
+         "Revenues in million euros": "6382"
       },
       {
          "Year": "2007",
-         "Revenue in billion U.S. dollars": "20.49"
+         "Revenues in million euros": "5826"
       },
       {
          "Year": "2006",
-         "Revenue in billion U.S. dollars": "17.56"
+         "Revenues in million euros": "5700"
+      },
+      {
+         "Year": "2005",
+         "Revenues in million euros": "5896"
       }
-   ]
+   ],
+   "gold": "This statistic shows the revenue of Bayer CropScience from 2005 to 2018 . Bayer CropScience is a subgroup of the Bayer AG and produces products for crop protection and nonagricultural pest control . It is also active in seeds and plant traits .\n"
 }

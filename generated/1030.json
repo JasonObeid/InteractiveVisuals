@@ -1,62 +1,44 @@
 {
-   "title": "Manufacturing costs in pharmaceutical industry by country 2016",
-   "xAxis": "Country",
-   "yAxis": "Manufacturing costs index (U.S. = 100)",
+   "title": "U.S. states with state cyber bullying laws as of November 2018",
+   "xAxis": "Category Of Cyber Bullying Law",
+   "yAxis": "State totals",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Manufacturing costs pharmaceutical the industry index in costs 2016 as of 2016 . ",
-      "Manufacturing costs to Mexico increased by 100 % in 2016 compared pharmaceutical the previous year . ",
-      "In 2017 , the Caribbean was the leading international destination for a spring vacation according to U.S. respondents ."
+      "The statistic shows the share of members different etnicities or races within the totals in the laws . ",
+      "The term totals refers to the age group cyber to bullying here . ",
+      "In 2018 , 49 % of the totals in the laws were Includes_cyber_bullying_or_online_harassment Whites ."
    ],
    "trends": [
       {},
+      {},
       {
-         "3": "0",
-         "6": "9"
-      },
-      {}
+         "3": "3",
+         "12": "0"
+      }
    ],
    "data": [
       {
-         "Country": "Mexico",
-         "Manufacturing costs index (U.S. = 100)": "82.9"
+         "Category Of Cyber Bullying Law": "Includes cyber bullying or online harassment",
+         "State totals": "48"
       },
       {
-         "Country": "Canada",
-         "Manufacturing costs index (U.S. = 100)": "88.8"
+         "Category Of Cyber Bullying Law": "Criminal Sanction for cyber bullying or electronic harassment",
+         "State totals": "44"
       },
       {
-         "Country": "Netherlands",
-         "Manufacturing costs index (U.S. = 100)": "89.9"
+         "Category Of Cyber Bullying Law": "School sanction for cyber bullying",
+         "State totals": "45"
       },
       {
-         "Country": "Italy",
-         "Manufacturing costs index (U.S. = 100)": "90.3"
+         "Category Of Cyber Bullying Law": "School policy",
+         "State totals": "49"
       },
       {
-         "Country": "United Kingdom",
-         "Manufacturing costs index (U.S. = 100)": "90.8"
-      },
-      {
-         "Country": "Australia",
-         "Manufacturing costs index (U.S. = 100)": "91.3"
-      },
-      {
-         "Country": "France",
-         "Manufacturing costs index (U.S. = 100)": "91.8"
-      },
-      {
-         "Country": "Germany",
-         "Manufacturing costs index (U.S. = 100)": "93.4"
-      },
-      {
-         "Country": "Japan",
-         "Manufacturing costs index (U.S. = 100)": "93.6"
-      },
-      {
-         "Country": "United States",
-         "Manufacturing costs index (U.S. = 100)": "100"
+         "Category Of Cyber Bullying Law": "Includes off-campus",
+         "State totals": "17"
       }
-   ]
+   ],
+   "gold": "This statistic presents the number of US states with state cyber bullying laws , by policy implementation . As of November 2018 , 48 states had electronic harassment laws which explicitly included cyber bullying . A total of 44 states included criminal sanctions in their cyber bullying laws .\n"
 }

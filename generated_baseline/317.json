@@ -4,15 +4,24 @@
    "yAxis": "Inflation rate forecast",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 19 categories for the x axis representing Quarter, and a y axis representing Inflation rate forecast.",
       " The highest category is found at Q3_2019 where Inflation rate forecast is 2.1.",
       " The lowest category is found at Q2_2020 where Inflation rate forecast is 1.82."
    ],
-   "trends": {
-      "maxIndex": 18,
-      "minIndex": 15
-   },
+   "trends": [
+      {},
+      {
+         "7": 18,
+         "12": 18
+      },
+      {
+         "7": 15,
+         "12": 15
+      },
+      {}
+   ],
    "data": [
       {
          "Quarter": "Q1 2024",

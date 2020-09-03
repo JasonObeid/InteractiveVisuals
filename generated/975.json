@@ -1,113 +1,71 @@
 {
-   "title": "Employment by economic sector in Norway 2019",
-   "labels": [
-      "Year",
-      "Agriculture",
-      "Industry",
-      "Services"
-   ],
-   "columnType": "multi",
+   "title": "Revenue earned from sports merchandise worldwide 2006 to 2015",
+   "xAxis": "Year",
+   "yAxis": "Merchandising revenue in billion U.S. dollars",
+   "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the distribution of Employment in Norway by economic sector from 2009 to 2019 . ",
-      "In 2019 , 2.02 % of the employees in Norway were active in the agricultural sector , 19.09 % in Industry and 78.89 % in the service sector ."
+      "This statistic shows the Revenue earned from ( Merchandising ) in current prices in Revenue from 2006 to 2015 . ",
+      "Spanish Merchandising initiated a downward trend in 2006 , with its highest point in 2011 , period of time in which Revenue 's Merchandising was down to 17.57 billion . ",
+      "The Spanish Revenue earned from was steadily recovering since that Year and was projected to reach 20.07 billion in 2008 ."
    ],
    "trends": [
       {
-         "13": [
-            "10",
-            "0"
-         ],
-         "15": [
-            "0",
-            "0"
-         ]
+         "16": "9",
+         "18": "0"
       },
       {
-         "1": [
-            "0",
-            "0"
-         ],
-         "3": [
-            "0",
-            "1"
-         ],
-         "17": [
-            "0",
-            "2"
-         ],
-         "22": [
-            "0",
-            "3"
-         ]
+         "7": "9",
+         "14": "4",
+         "27": "4"
+      },
+      {
+         "16": "0",
+         "20": "7"
       }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Agriculture": "2.02",
-         "Industry": "19.09",
-         "Services": "78.89"
-      },
-      {
-         "Year": "2018",
-         "Agriculture": "2.04",
-         "Industry": "19.24",
-         "Services": "78.72"
-      },
-      {
-         "Year": "2017",
-         "Agriculture": "2.06",
-         "Industry": "19.41",
-         "Services": "78.53"
-      },
-      {
-         "Year": "2016",
-         "Agriculture": "2.09",
-         "Industry": "19.47",
-         "Services": "78.44"
-      },
-      {
          "Year": "2015",
-         "Agriculture": "2.01",
-         "Industry": "20.12",
-         "Services": "77.87"
+         "Merchandising revenue in billion U.S. dollars": "20.07"
       },
       {
          "Year": "2014",
-         "Agriculture": "2.25",
-         "Industry": "20.44",
-         "Services": "77.31"
+         "Merchandising revenue in billion U.S. dollars": "19.57"
       },
       {
          "Year": "2013",
-         "Agriculture": "2.21",
-         "Industry": "20.32",
-         "Services": "77.48"
+         "Merchandising revenue in billion U.S. dollars": "18.55"
       },
       {
          "Year": "2012",
-         "Agriculture": "2.23",
-         "Industry": "20.23",
-         "Services": "77.54"
+         "Merchandising revenue in billion U.S. dollars": "18.0"
       },
       {
          "Year": "2011",
-         "Agriculture": "2.37",
-         "Industry": "20.25",
-         "Services": "77.38"
+         "Merchandising revenue in billion U.S. dollars": "17.57"
       },
       {
          "Year": "2010",
-         "Agriculture": "2.55",
-         "Industry": "19.7",
-         "Services": "77.76"
+         "Merchandising revenue in billion U.S. dollars": "17.62"
       },
       {
          "Year": "2009",
-         "Agriculture": "2.7",
-         "Industry": "20.22",
-         "Services": "77.08"
+         "Merchandising revenue in billion U.S. dollars": "17.59"
+      },
+      {
+         "Year": "2008",
+         "Merchandising revenue in billion U.S. dollars": "21.26"
+      },
+      {
+         "Year": "2007",
+         "Merchandising revenue in billion U.S. dollars": "20.41"
+      },
+      {
+         "Year": "2006",
+         "Merchandising revenue in billion U.S. dollars": "19.43"
       }
-   ]
+   ],
+   "gold": "This graph depicts the total revenue generated worldwide from sports merchandising rights from 2006 to 2010 and corresponding revenue forecasts for the years 2011 to 2015 . In 2006 , total revenues from merchandising were 19.43 billion U.S. dollars .\n"
 }

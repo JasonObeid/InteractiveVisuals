@@ -1,124 +1,145 @@
 {
-   "title": "Prices of season tickets of the Bundesliga clubs in 2019/2020",
-   "labels": [
-      "Year",
-      "Standing places",
-      "Most expensive seats"
-   ],
-   "columnType": "multi",
-   "graphType": "line",
+   "title": "Average age of players in Major League Baseball by club 2019",
+   "xAxis": "Major League Baseball Player",
+   "yAxis": "Average player age in years",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Standing Bundesliga ( UK ) tickets 2019/2020 Bundesliga clubs from fiscal Year VFL_Wolfsburg to fiscal Year FSV_Mainz_05 . ",
-      "Most clubs peaked in SC_Paderborn_07 with revenue of 9.8 million British pounds ( GBP ) ."
+      "The statistic shows the Major age from 2019 to 2018 with an additional Major from 2019 to , as a percentage of the Gross Domestic Product . ",
+      "League players amounted to 622 million Major dollars in 2018 , which was about 28.4 % of the Major player . ",
+      "The Major predicts an increase in League players up to 771 million Major dollars in 2019 , which would be about 25.7 % of the Major player ."
    ],
    "trends": [
+      {},
       {
-         "16": [
-            "17",
-            "0"
-         ],
-         "20": [
-            "0",
-            "0"
-         ]
+         "14": "10"
       },
       {
-         "4": [
-            "10",
-            "0"
-         ]
+         "21": "29"
       }
    ],
    "data": [
       {
-         "Year": "FSV Mainz 05",
-         "Standing places": "179\u20ac",
-         "Most expensive seats": "950\u20ac"
+         "Major League Baseball Player": "Washington Nationals",
+         "Average player age in years": "30.1"
       },
       {
-         "Year": "SC Freiburg",
-         "Standing places": "195\u20ac",
-         "Most expensive seats": "865\u20ac"
+         "Major League Baseball Player": "Oakland Athletics",
+         "Average player age in years": "29.9"
       },
       {
-         "Year": "Eintracht Frankfurt",
-         "Standing places": "184\u20ac",
-         "Most expensive seats": "827\u20ac"
+         "Major League Baseball Player": "Houston Astros",
+         "Average player age in years": "29.8"
       },
       {
-         "Year": "1. FC K\u00f6ln",
-         "Standing places": "165\u20ac",
-         "Most expensive seats": "785\u20ac"
+         "Major League Baseball Player": "Chicago Cubs",
+         "Average player age in years": "29.5"
       },
       {
-         "Year": "Schalke 04",
-         "Standing places": "1905\u20ac",
-         "Most expensive seats": "776\u20ac"
+         "Major League Baseball Player": "Atlanta Braves",
+         "Average player age in years": "29.5"
       },
       {
-         "Year": "Bayern M\u00fcnchen",
-         "Standing places": "145\u20ac",
-         "Most expensive seats": "765\u20ac"
+         "Major League Baseball Player": "New York Yankees",
+         "Average player age in years": "29.5"
       },
       {
-         "Year": "Borussia Dortmund",
-         "Standing places": "219\u20ac",
-         "Most expensive seats": "759\u20ac"
+         "Major League Baseball Player": "Milwaukee Brewers",
+         "Average player age in years": "29.3"
       },
       {
-         "Year": "Fortuna D\u00fcsseldorf",
-         "Standing places": "195\u20ac",
-         "Most expensive seats": "759\u20ac"
+         "Major League Baseball Player": "San Francisco Giants",
+         "Average player age in years": "29.0"
       },
       {
-         "Year": "Hertha BSC",
-         "Standing places": "199\u20ac",
-         "Most expensive seats": "749\u20ac"
+         "Major League Baseball Player": "New York Mets",
+         "Average player age in years": "29.0"
       },
       {
-         "Year": "RB Leipzig",
-         "Standing places": "180\u20ac",
-         "Most expensive seats": "740\u20ac"
+         "Major League Baseball Player": "St. Louis Cardinals",
+         "Average player age in years": "28.6"
       },
       {
-         "Year": "SC Paderborn 07",
-         "Standing places": "225\u20ac",
-         "Most expensive seats": "735\u20ac"
+         "Major League Baseball Player": "Minnesota Twins",
+         "Average player age in years": "28.4"
       },
       {
-         "Year": "Werder Bremen",
-         "Standing places": "195\u20ac",
-         "Most expensive seats": "730\u20ac"
+         "Major League Baseball Player": "Tampa Bay Rays",
+         "Average player age in years": "28.3"
       },
       {
-         "Year": "1. FC Union Berlin",
-         "Standing places": "187\u20ac",
-         "Most expensive seats": "680\u20ac"
+         "Major League Baseball Player": "Boston Red Sox",
+         "Average player age in years": "28.3"
       },
       {
-         "Year": "Borussia M\u00f6nchengladbach",
-         "Standing places": "190\u20ac",
-         "Most expensive seats": "675\u20ac"
+         "Major League Baseball Player": "Chicago White Sox",
+         "Average player age in years": "28.3"
       },
       {
-         "Year": "FC Augsburg",
-         "Standing places": "199\u20ac",
-         "Most expensive seats": "629\u20ac"
+         "Major League Baseball Player": "Los Angeles Dodgers",
+         "Average player age in years": "28.2"
       },
       {
-         "Year": "Bayer Leverkusen",
-         "Standing places": "190\u20ac",
-         "Most expensive seats": "595\u20ac"
+         "Major League Baseball Player": "Seattle Mariners",
+         "Average player age in years": "27.8"
       },
       {
-         "Year": "1899 Hoffenheim",
-         "Standing places": "150\u20ac",
-         "Most expensive seats": "584\u20ac"
+         "Major League Baseball Player": "Miami Marlins",
+         "Average player age in years": "27.8"
       },
       {
-         "Year": "VFL Wolfsburg",
-         "Standing places": "145\u20ac",
-         "Most expensive seats": "440\u20ac"
+         "Major League Baseball Player": "Cleveland Indians",
+         "Average player age in years": "27.7"
+      },
+      {
+         "Major League Baseball Player": "Texas Rangers",
+         "Average player age in years": "27.7"
+      },
+      {
+         "Major League Baseball Player": "Los Angeles Angels",
+         "Average player age in years": "27.7"
+      },
+      {
+         "Major League Baseball Player": "Colorado Rockies",
+         "Average player age in years": "27.5"
+      },
+      {
+         "Major League Baseball Player": "Pittsburgh Pirates",
+         "Average player age in years": "27.4"
+      },
+      {
+         "Major League Baseball Player": "Cincinnati Reds",
+         "Average player age in years": "27.3"
+      },
+      {
+         "Major League Baseball Player": "Philadelphia Phillies",
+         "Average player age in years": "27.3"
+      },
+      {
+         "Major League Baseball Player": "Kansas City Royals",
+         "Average player age in years": "27.1"
+      },
+      {
+         "Major League Baseball Player": "Arizona Diamondbacks",
+         "Average player age in years": "27.0"
+      },
+      {
+         "Major League Baseball Player": "Toronto Blue Jays",
+         "Average player age in years": "26.8"
+      },
+      {
+         "Major League Baseball Player": "Detroit Tigers",
+         "Average player age in years": "26.5"
+      },
+      {
+         "Major League Baseball Player": "San Diego Padres",
+         "Average player age in years": "26.0"
+      },
+      {
+         "Major League Baseball Player": "Baltimore Orioles",
+         "Average player age in years": "25.7"
       }
-   ]
+   ],
+   "gold": "This graph depicts Major League Baseball clubs by average player age in 2019 . Players on the New York Yankees ' roster had an average age of 29.5 years . Major League Baseball players - additional information Amongst all teams in Major League Baseball , the Washington Nationals have the roster with the highest average player age in 2019 .\n"
 }

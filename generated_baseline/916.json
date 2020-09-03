@@ -4,15 +4,24 @@
    "yAxis": "Number of earthquakes",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 5 categories for the x axis representing Magnitude, and a y axis representing Number of earthquakes.",
       " The highest category is found at Magnitude_0+ where Number of earthquakes is 21869.0.",
       " The lowest category is found at Magnitude_5.5+ where Number of earthquakes is 0.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 4
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
    "data": [
       {
          "Magnitude": "Magnitude 0+",

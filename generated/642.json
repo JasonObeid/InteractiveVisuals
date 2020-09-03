@@ -1,107 +1,67 @@
 {
-   "title": "Unemployment rate in Oman 2019",
-   "xAxis": "Year",
-   "yAxis": "Unemployment rate",
+   "title": "Death toll in great earthquakes as of 2016",
+   "xAxis": "Earthquake",
+   "yAxis": "Death toll",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Unemployment rate in Oman from 1999 to 2019 . ",
-      "In 2019 , the Unemployment rate in Oman was at approximately 3.08 % ."
+      "The statistic shows a ranking of the Death toll great in Death 2016 . ",
+      "Tangshan_(China_1976) ranked first on the list - his Death recent movies generated on average 73338 dollars of Death toll for every toll of his toll . ",
+      "Haiti_(2010) ranked second with 222570 dollars toll a of his toll ."
    ],
    "trends": [
+      {},
       {
-         "9": "20",
-         "11": "0"
+         "0": "0",
+         "14": "9"
       },
       {
-         "1": "0",
-         "11": "0"
+         "0": "1",
+         "4": "1"
       }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Unemployment rate": "3.08"
+         "Earthquake": "Tangshan (China 1976)",
+         "Death toll": "242000"
       },
       {
-         "Year": "2018",
-         "Unemployment rate": "3.11"
+         "Earthquake": "Haiti (2010)",
+         "Death toll": "222570"
       },
       {
-         "Year": "2017",
-         "Unemployment rate": "3.14"
+         "Earthquake": "Nanchang (China 1927)",
+         "Death toll": "200000"
       },
       {
-         "Year": "2016",
-         "Unemployment rate": "3.27"
+         "Earthquake": "Haiyuan (China 1920)",
+         "Death toll": "180000"
       },
       {
-         "Year": "2015",
-         "Unemployment rate": "3.54"
+         "Earthquake": "Sumatra (Indonesia 2004)",
+         "Death toll": "165708"
       },
       {
-         "Year": "2014",
-         "Unemployment rate": "3.85"
+         "Earthquake": "Kanto (Japan 1923)",
+         "Death toll": "143000"
       },
       {
-         "Year": "2013",
-         "Unemployment rate": "4.16"
+         "Earthquake": "Ashgabat (Turkmenistan 1948)",
+         "Death toll": "110000"
       },
       {
-         "Year": "2012",
-         "Unemployment rate": "4.32"
+         "Earthquake": "Szechuan (China 2008)",
+         "Death toll": "87476"
       },
       {
-         "Year": "2011",
-         "Unemployment rate": "4.43"
+         "Earthquake": "Messina (Italy 1908)",
+         "Death toll": "75000"
       },
       {
-         "Year": "2010",
-         "Unemployment rate": "4.66"
-      },
-      {
-         "Year": "2009",
-         "Unemployment rate": "4.7"
-      },
-      {
-         "Year": "2008",
-         "Unemployment rate": "4.14"
-      },
-      {
-         "Year": "2007",
-         "Unemployment rate": "4.15"
-      },
-      {
-         "Year": "2006",
-         "Unemployment rate": "4.39"
-      },
-      {
-         "Year": "2005",
-         "Unemployment rate": "4.65"
-      },
-      {
-         "Year": "2004",
-         "Unemployment rate": "4.81"
-      },
-      {
-         "Year": "2003",
-         "Unemployment rate": "4.88"
-      },
-      {
-         "Year": "2002",
-         "Unemployment rate": "4.85"
-      },
-      {
-         "Year": "2001",
-         "Unemployment rate": "4.78"
-      },
-      {
-         "Year": "2000",
-         "Unemployment rate": "4.85"
-      },
-      {
-         "Year": "1999",
-         "Unemployment rate": "4.92"
+         "Earthquake": "Muzaffarabad (Pakistan 2005)",
+         "Death toll": "73338"
       }
-   ]
+   ],
+   "gold": "The statistic shows the earthquakes with the highest death toll worldwide from 1900 to 2016 . Total 242,000 people were killed in the earthquake in Tangshan / China in 1976 .\n"
 }

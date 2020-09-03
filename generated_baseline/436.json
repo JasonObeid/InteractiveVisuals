@@ -4,15 +4,24 @@
    "yAxis": "Share of online shoppers",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 9 categories for the x axis representing Payment Method, and a y axis representing Share of online shoppers.",
       " The highest category is found at Credit_cards where Share of online shoppers is 42.0.",
       " The lowest category is found at Cryptocurrencies_(Bitcoin) where Share of online shoppers is 3.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 7
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
    "data": [
       {
          "Payment Method": "Credit cards",

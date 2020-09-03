@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 7 categories for the x axis of Race representing I mostly agree, I totally agree.",
+      "This grouped bar chart has 7 categories for the x axis of Race representing I mostly agree, and I totally agree.",
       " The highest category is found at Maximal safety with a mean value of 46.3.",
-      " The second highest category is found at Economic mobility with a mean value of 44.400000000000006.",
+      " The second highest category is found at Economic mobility with a mean value of 44.4.",
       " This represents a difference of 4.2%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Race": "Maximal safety",

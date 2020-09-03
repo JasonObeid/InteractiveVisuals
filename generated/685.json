@@ -1,48 +1,49 @@
 {
-   "title": "Canadian women on having sex on vacation while sharing a room 2012",
-   "xAxis": "Response",
-   "yAxis": "Share of respondents",
+   "title": "Canada retail e-commerce sales growth 2018 to 2023",
+   "xAxis": "Year",
+   "yAxis": "Year-over-year change",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the Canadian of women people in the Canadian would be willing to spend on their vacation while in 2012 according to a Statista survey . ",
-      "46 % of respondents said that they would be willing to spend Have_sex_when_nobody_else_is_in_the_room to 25 room dollars on vacation while ."
+      "This statistic shows the change of Canada Year-over-year installed retail power change from 2018 through 2023 . ",
+      "In 2023 , Year-over-year retail power change installations are expected to grow by around 3.1 % ."
    ],
    "trends": [
-      {},
       {
-         "0": "0",
-         "12": "0"
+         "14": "5",
+         "16": "0"
+      },
+      {
+         "1": "0",
+         "14": "0"
       }
    ],
    "data": [
       {
-         "Response": "Have sex when nobody else is in the room",
-         "Share of respondents": "46"
+         "Year": "2023",
+         "Year-over-year change": "3.1"
       },
       {
-         "Response": "Work the schedule so that you have some 'alone time'",
-         "Share of respondents": "35"
+         "Year": "2022",
+         "Year-over-year change": "4.7"
       },
       {
-         "Response": "Wait until you get back home",
-         "Share of respondents": "35"
+         "Year": "2021",
+         "Year-over-year change": "6.9"
       },
       {
-         "Response": "Have sex in the bathroom or shower",
-         "Share of respondents": "20"
+         "Year": "2020",
+         "Year-over-year change": "9.1"
       },
       {
-         "Response": "Find somewhere else to have sex",
-         "Share of respondents": "12"
+         "Year": "2019",
+         "Year-over-year change": "10.1"
       },
       {
-         "Response": "Get your own room for a night",
-         "Share of respondents": "9"
-      },
-      {
-         "Response": "None of the above",
-         "Share of respondents": "10"
+         "Year": "2018",
+         "Year-over-year change": "9.1"
       }
-   ]
+   ],
+   "gold": "This statistic gives information on retail e-commerce sales growth in Canada from 2018 to 2023 . In 2018 , retail e-commerce sales grew by 9.1 percent compared to the previous year . In 2022 , retail e-commerce sales are expected to grow 4.7 percent from the previous year .\n"
 }

@@ -4,15 +4,24 @@
    "yAxis": "Death toll",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 10 categories for the x axis representing Earthquake, and a y axis representing Death toll.",
       " The highest category is found at Tangshan_(China_1976) where Death toll is 242000.0.",
       " The lowest category is found at Muzaffarabad_(Pakistan_2005) where Death toll is 73338.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 9
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
    "data": [
       {
          "Earthquake": "Tangshan (China 1976)",

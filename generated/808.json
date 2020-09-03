@@ -1,35 +1,62 @@
 {
-   "title": "Lung transplant list in the United Kingdom ( UK ) 2019",
-   "xAxis": "Country of residence",
-   "yAxis": "Number of individuals on the waiting list",
+   "title": "Global leading fishing nations 2017",
+   "xAxis": "Country",
+   "yAxis": "Capture in million metric tons",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Number of transplant individuals in the United in 2019 , Kingdom Country . ",
-      "In that year , 283 % of transplant individuals in the United ."
+      "The statistic shows the countries worldwide with the most Capture of Global leading million in 2017 . ",
+      "China was the Country with the most Global leading worldwide with a total of 15.37 million Global , a share of 10 million of the global leading ."
    ],
    "trends": [
       {},
       {
-         "4": "0"
+         "0": "0",
+         "14": "0"
       }
    ],
    "data": [
       {
-         "Country of residence": "England",
-         "Number of individuals on the waiting list": "283"
+         "Country": "China",
+         "Capture in million metric tons": "15.37"
       },
       {
-         "Country of residence": "Wales",
-         "Number of individuals on the waiting list": "22"
+         "Country": "Indonesia",
+         "Capture in million metric tons": "6.69"
       },
       {
-         "Country of residence": "Scotland",
-         "Number of individuals on the waiting list": "28"
+         "Country": "India",
+         "Capture in million metric tons": "5.43"
       },
       {
-         "Country of residence": "Northern Ireland",
-         "Number of individuals on the waiting list": "14"
+         "Country": "United States",
+         "Capture in million metric tons": "5.04"
+      },
+      {
+         "Country": "Russia",
+         "Capture in million metric tons": "4.87"
+      },
+      {
+         "Country": "Peru",
+         "Capture in million metric tons": "4.16"
+      },
+      {
+         "Country": "Vietnam",
+         "Capture in million metric tons": "3.28"
+      },
+      {
+         "Country": "Japan",
+         "Capture in million metric tons": "3.2"
+      },
+      {
+         "Country": "Norway",
+         "Capture in million metric tons": "2.37"
+      },
+      {
+         "Country": "Myanmar",
+         "Capture in million metric tons": "2.15"
       }
-   ]
+   ],
+   "gold": "This statistic shows the world 's leading fishing nations in 2017 , based on capture production . China caught about 15.37 million metric tons of fish in that year . Worldwide fishing The act of fishing dates back to thousands of years before the Common Era .\n"
 }

@@ -4,27 +4,26 @@
    "yAxis": "Percentage of GDP",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Percentage of GDP, with a total of 19 data points. The chart has 2 significant trends.",
-      " The longest trend is extremely negative which exists from 2018 to 2004.",
-      " Conversely, the next significant trend is strongly positive which exists from 2002 to 2000."
+      "This line chart has an x axis representing Year and a y axis representing Percentage of GDP, with a total of 19 data points. The chart has 3 significant trends.",
+      " The longest trend is extremely positive which exists from 2018 to 2004.",
+      " Also, the next significant trend is slightly positive which exists from 2004 to 2002.",
+      " Likewise, the next significant trend is moderately negative which exists from 2002 to 2000."
    ],
    "trends": [
+      {},
       {
-         "Length": 15,
-         "direction": "negative",
-         "start": 0,
-         "end": 14,
-         "trend": "y=0.23x+-447.78",
-         "magnitude": "extremely"
+         "1": "0",
+         "12": "14"
       },
       {
-         "Length": 3,
-         "direction": "positive",
-         "start": 16,
-         "end": 18,
-         "trend": "y=0.16x+-315.86",
-         "magnitude": "strongly"
+         "3": "14",
+         "14": "16"
+      },
+      {
+         "3": "16",
+         "14": "18"
       }
    ],
    "data": [

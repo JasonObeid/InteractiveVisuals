@@ -4,36 +4,26 @@
    "yAxis": "Number of hospitals",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Number of hospitals, with a total of 11 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely positive which exists from 2014 to 2007.",
-      " Similarly, the next significant trend is extremely positive which exists from 2017 to 2015.",
-      " Similarly, the next significant trend is extremely negative which exists from 2015 to 2014."
+      " The longest trend is slightly negative which exists from 2014 to 2007.",
+      " But, the next significant trend is slightly negative which exists from 2017 to 2015.",
+      " On the other hand, the next significant trend is extremely positive which exists from 2015 to 2014."
    ],
    "trends": [
+      {},
       {
-         "Length": 8,
-         "direction": "positive",
-         "start": 3,
-         "end": 10,
-         "trend": "y=-10.52x+21442.87",
-         "magnitude": "extremely"
+         "1": "3",
+         "12": "10"
       },
       {
-         "Length": 3,
-         "direction": "positive",
-         "start": 0,
-         "end": 2,
-         "trend": "y=-10.5x+21427.0",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "2"
       },
       {
-         "Length": 2,
-         "direction": "negative",
-         "start": 2,
-         "end": 3,
-         "trend": "y=10.0x+-19882.0",
-         "magnitude": "extremely"
+         "3": "2",
+         "14": "3"
       }
    ],
    "data": [

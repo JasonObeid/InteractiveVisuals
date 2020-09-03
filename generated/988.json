@@ -1,54 +1,60 @@
 {
-   "title": "Global railway technology market - CAGR by region 2010 to 2015",
-   "xAxis": "Region",
-   "yAxis": "Compound annual growth rate",
+   "title": "Branch numbers of Banco Santander globally 2012 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of branches",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Compound of South/Central_America in the railway in 2010 , market Region . ",
-      "In 2010 , about 6.8 million South/Central_America were counted in the railway ."
+      "The Number of the Banco Santander luxury brand globally 2012 has increased twofold over the period surveyed , rising from roughly 11952 million branches in 2019 to 14392 million branches in the Year 2012 . ",
+      "Despite the steady increase in Number during the period considered , the Santander reported a net loss of approximately 25 million branches in 2019 . ",
+      "Worldwide recognition Founded in 1978 Milan , globally 2012 is one of the leading international Banco design houses ."
    ],
    "trends": [
       {
-         "6": "0"
+         "20": "0",
+         "24": "0",
+         "26": "7",
+         "32": "7"
       },
       {
-         "4": "0",
-         "6": "0"
-      }
+         "23": "0"
+      },
+      {}
    ],
    "data": [
       {
-         "Region": "South/Central America",
-         "Compound annual growth rate": "6.8"
+         "Year": "2019",
+         "Number of branches": "11952"
       },
       {
-         "Region": "North America",
-         "Compound annual growth rate": "5"
+         "Year": "2018",
+         "Number of branches": "13217"
       },
       {
-         "Region": "CIS",
-         "Compound annual growth rate": "4.9"
+         "Year": "2017",
+         "Number of branches": "13697"
       },
       {
-         "Region": "Asia",
-         "Compound annual growth rate": "4.3"
+         "Year": "2016",
+         "Number of branches": "12235"
       },
       {
-         "Region": "Africa/Middle East",
-         "Compound annual growth rate": "4"
+         "Year": "2015",
+         "Number of branches": "13030"
       },
       {
-         "Region": "Western Europe",
-         "Compound annual growth rate": "3.3"
+         "Year": "2014",
+         "Number of branches": "12951"
       },
       {
-         "Region": "Eastern Europe",
-         "Compound annual growth rate": "2.9"
+         "Year": "2013",
+         "Number of branches": "13781"
       },
       {
-         "Region": "Australia/Pacific",
-         "Compound annual growth rate": "2.3"
+         "Year": "2012",
+         "Number of branches": "14392"
       }
-   ]
+   ],
+   "gold": "The number of bank branches for the Banco Santander Group decreased with some fluctuation globally between 2012 and 2019 . The Spanish bank employs approximately 196 thousand staff and has a customer base that grew by one million between 2018 and 2019 . As of the end of 2019 , the number of Banco Santander branches in Spain fell by more than one thousand .\n"
 }

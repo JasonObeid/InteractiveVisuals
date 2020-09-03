@@ -1,37 +1,60 @@
 {
-   "title": "Debenhams customers in the United Kingdom ( UK ) 2015 , by demographic group",
-   "xAxis": "NRS social classification",
-   "yAxis": "Share of respondents",
+   "title": "Maximum discipline for selected player offenses in the NFL 2011/2012",
+   "xAxis": "Fine Types",
+   "yAxis": "Maximum fine (in U.S. dollars)",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the percentage of Debenhams United Kingdom UK 2015 a by as of 2018 , sorted group . ",
-      "According to the survey , 35 % of Debenhams United aged AB to had 2015 a photograph of themselves and uploaded it to a social media website ."
+      "The statistic shows the Maximum of persons in particular countries , who were discipline for selected Fine periods from 1900 to Unexcused_late_reporting_foror_absence_from_preseason_training . ",
+      "The Fine occurred in Unexcused_late_reporting_foror_absence_from_preseason_training Ejection_from_game discipline total 25000 % (in ."
    ],
    "trends": [
-      {},
       {
-         "5": "0",
-         "11": "0",
-         "13": "0"
+         "21": "0"
+      },
+      {
+         "4": "0",
+         "6": "1"
       }
    ],
    "data": [
       {
-         "NRS social classification": "AB",
-         "Share of respondents": "35"
+         "Fine Types": "Unexcused late reporting foror absence from preseason training",
+         "Maximum fine (in U.S. dollars)": "30000"
       },
       {
-         "NRS social classification": "C1",
-         "Share of respondents": "31"
+         "Fine Types": "Ejection from game",
+         "Maximum fine (in U.S. dollars)": "25000"
       },
       {
-         "NRS social classification": "C2",
-         "Share of respondents": "19"
+         "Fine Types": "Unexcused missed team transportation",
+         "Maximum fine (in U.S. dollars)": "9440"
       },
       {
-         "NRS social classification": "DE",
-         "Share of respondents": "15"
+         "Fine Types": "Loss of playbook scouting reportor game plan",
+         "Maximum fine (in U.S. dollars)": "9440"
+      },
+      {
+         "Fine Types": "Throwing football into stands",
+         "Maximum fine (in U.S. dollars)": "1770"
+      },
+      {
+         "Fine Types": "Losing damaging or alteringClub-provided equipment",
+         "Maximum fine (in U.S. dollars)": "1770"
+      },
+      {
+         "Fine Types": "Failure to promptly report injury",
+         "Maximum fine (in U.S. dollars)": "1770"
+      },
+      {
+         "Fine Types": "Unexcused late reportingfor team activity",
+         "Maximum fine (in U.S. dollars)": "1770"
+      },
+      {
+         "Fine Types": "Being overweight (per lb.)",
+         "Maximum fine (in U.S. dollars)": "470"
       }
-   ]
+   ],
+   "gold": "This graph depicts the maximum amount a NFL player can be fined for selected offenses in the 2011/2012 season . Throwing a football into the stands can be amerced with a maximum fine of 1,770 U.S. dollars .\n"
 }

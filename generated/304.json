@@ -1,70 +1,102 @@
 {
-   "title": "National debt of Portugal 2024",
-   "xAxis": "Year",
-   "yAxis": "National debt in billion U.S. dollars",
-   "columnType": "two",
-   "graphType": "line",
+   "title": "Leading car brand sales in Italy 2016 to 2019",
+   "labels": [
+      "Response",
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
    "summary": [
-      "The statistic shows the National debt of the Portugal from 2014 to 2018 , with projections up until 2024 . ",
-      "The amount of the debt of the Portugal amounted to around 269.53 billion U.S. dollars in 2018 . ",
-      "National debt of the Portugal National debt in the Portugal is a topic of much debate and controversy , primarily due to large amounts of unnecessary spending ."
+      "The statistic shows level of use for various applications of car brand , between 2016 and 2019 . ",
+      "According to this latest survey , conducted in 2019 , 134124 % 2017 who use car brand said they did so to create proofs of Ford ."
    ],
    "trends": [
+      {},
       {
-         "10": "10",
-         "12": "6",
-         "18": "0"
-      },
-      {
-         "11": "6",
-         "16": "6"
-      },
-      {}
+         "10": [
+            "2",
+            "2"
+         ],
+         "25": [
+            "2",
+            "0"
+         ]
+      }
    ],
    "data": [
       {
-         "Year": "2024",
-         "National debt in billion U.S. dollars": "268.43"
+         "Response": "Fiat",
+         "2016": "385798",
+         "2017": "402430",
+         "2018": "323342",
+         "2019": "285888"
       },
       {
-         "Year": "2023",
-         "National debt in billion U.S. dollars": "270.33"
+         "Response": "Volkswagen",
+         "2016": "139168",
+         "2017": "144885",
+         "2018": "162850",
+         "2019": "176813"
       },
       {
-         "Year": "2022",
-         "National debt in billion U.S. dollars": "266.42"
+         "Response": "Ford",
+         "2016": "124328",
+         "2017": "134124",
+         "2018": "129615",
+         "2019": "122527"
       },
       {
-         "Year": "2021",
-         "National debt in billion U.S. dollars": "268.98"
+         "Response": "Renault",
+         "2016": "118303",
+         "2017": "133715",
+         "2018": "125143",
+         "2019": "113924"
       },
       {
-         "Year": "2020",
-         "National debt in billion U.S. dollars": "274.23"
+         "Response": "Peugeot",
+         "2016": "94132",
+         "2017": "104274",
+         "2018": "108502",
+         "2019": "110034"
       },
       {
-         "Year": "2019",
-         "National debt in billion U.S. dollars": "272.3"
+         "Response": "Opel",
+         "2016": "95056",
+         "2017": "98979",
+         "2018": "95317",
+         "2019": "96559"
       },
       {
-         "Year": "2018",
-         "National debt in billion U.S. dollars": "269.53"
+         "Response": "Toyota",
+         "2016": "71934",
+         "2017": "85245",
+         "2018": "87956",
+         "2019": "90052"
       },
       {
-         "Year": "2017",
-         "National debt in billion U.S. dollars": "267.19"
+         "Response": "Citroen",
+         "2016": "60511",
+         "2017": "78225",
+         "2018": "82850",
+         "2019": "86468"
       },
       {
-         "Year": "2016",
-         "National debt in billion U.S. dollars": "265.16"
+         "Response": "Dacia",
+         "2016": "47979",
+         "2017": "58011",
+         "2018": "61628",
+         "2019": "84087"
       },
       {
-         "Year": "2015",
-         "National debt in billion U.S. dollars": "254.79"
-      },
-      {
-         "Year": "2014",
-         "National debt in billion U.S. dollars": "248.73"
+         "Response": "Jeep/Dodge",
+         "2016": "40456",
+         "2017": "49503",
+         "2018": "84551",
+         "2019": "81510"
       }
-   ]
+   ],
+   "gold": "Which brand sold the most cars in Italy in 2019 ? Perhaps unsurprisingly , Fiat topped the country 's sales ranking with sales of nearly 286 thousand cars that year . The Italian car brand was followed by Volkswagen ( roughly 177 thousand passenger cars sold ) and Ford ( approximately 123 thousand units ) . Small cars drive passenger car sales in Italy ... Overall car sales in Italy showed a positive trend in recent years until 2018 , when a decrease of about three percent on the previous year was observed .\n"
 }

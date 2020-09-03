@@ -1,0 +1,30 @@
+{
+   "title": "Sexual orientation of Americans in 2013",
+   "labels": [
+      "Sexual Orientation",
+      "Women",
+      "Men"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": "This statistic displays the breakdown of body weight class among men and women in the united kingdom ( uk ) in 2015 . Of respondents , 39 percent of men and 46 percent of women had a healthy body weight .\n",
+   "trends": {},
+   "data": [
+      {
+         "Sexual Orientation": "Lesbian / Gay",
+         "Women": "1.5",
+         "Men": "1.8"
+      },
+      {
+         "Sexual Orientation": "Bisexual",
+         "Women": "0.9",
+         "Men": "0.4"
+      },
+      {
+         "Sexual Orientation": "Straight",
+         "Women": "97.7",
+         "Men": "97.8"
+      }
+   ]
+}

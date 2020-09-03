@@ -4,15 +4,24 @@
    "yAxis": "Share of apps",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 14 categories for the x axis representing Number of downloads, and a y axis representing Share of apps.",
       " The highest category is found at 100-500 where Share of apps is 21.12.",
       " The lowest category is found at 5000000+ where Share of apps is 0.1."
    ],
-   "trends": {
-      "maxIndex": 4,
-      "minIndex": 13
-   },
+   "trends": [
+      {},
+      {
+         "7": 4,
+         "12": 4
+      },
+      {
+         "7": 13,
+         "12": 13
+      },
+      {}
+   ],
    "data": [
       {
          "Number of downloads": "1-5",

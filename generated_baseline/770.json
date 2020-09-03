@@ -4,18 +4,16 @@
    "yAxis": "Number of employees",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Number of employees with a total of 6 data points. The chart has one significant trend.",
-      " This trend is extremely negative which exists from 2018 to 2011."
+      " This trend is positive which exists from 2018 to 2011."
    ],
    "trends": [
+      {},
       {
-         "Length": 6,
-         "direction": "negative",
-         "start": 0,
-         "end": 5,
-         "trend": "y=522.14x+-1050085.15",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "5"
       }
    ],
    "data": [

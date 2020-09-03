@@ -4,15 +4,24 @@
    "yAxis": "State totals",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 5 categories for the x axis representing Category Of Cyber Bullying Law, and a y axis representing State totals.",
       " The highest category is found at School_policy where State totals is 49.0.",
       " The lowest category is found at Includes_off-campus where State totals is 17.0."
    ],
-   "trends": {
-      "maxIndex": 3,
-      "minIndex": 4
-   },
+   "trends": [
+      {},
+      {
+         "7": 3,
+         "12": 3
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
    "data": [
       {
          "Category Of Cyber Bullying Law": "Includes cyber bullying or online harassment",

@@ -1,0 +1,24 @@
+{
+   "title": "Global distribution systems : company revenues 2017\n",
+   "xAxis": "Company",
+   "yAxis": "Revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic represents data on the global revenue of the walt disney company in the fiscal year 2019 , broken down by operating segments . That year , the walt disney company generated a total revenue of 26.7 billion u.s. dollars with its parks and resorts segment . The company 's second biggest segment was its media networks , which generated revenue of 24.8 billion u.s. dollars in 2019 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Company": "Amadeus",
+         "Revenue in billion U.S. dollars": 5.81
+      },
+      {
+         "Company": "Sabre",
+         "Revenue in billion U.S. dollars": 3.6
+      },
+      {
+         "Company": "Travelport",
+         "Revenue in billion U.S. dollars": 2.45
+      }
+   ]
+}

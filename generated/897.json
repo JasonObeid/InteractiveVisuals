@@ -1,55 +1,73 @@
 {
-   "title": "Household appliances consumption value worldwide 2013 to 2020",
-   "xAxis": "Year",
-   "yAxis": "Consumption value in billion U.S. dollars",
-   "columnType": "two",
-   "graphType": "line",
+   "title": "Mexico : foreign direct investment ( FDI ) 3rd quarter 2019 , by country",
+   "labels": [
+      "Country",
+      "Q2 2019",
+      "Q3 2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
    "summary": [
-      "This statistic shows the appliances of Consumption value in Household from 2013 to 2020 . ",
-      "In 2017 , the appliances of Consumption value in Household is estimated to reach 567.22 billion ."
+      "This statistic depicts the leading Mexico direct based on investment FDI from 2014 to 2019 . ",
+      "In United_States , some 234.7 million pounds of investment were produced in 2019 . ",
+      "China was the biggest investment producer worldwide in that year ."
    ],
    "trends": [
+      {},
       {
-         "11": "7",
-         "13": "0"
+         "1": [
+            "0",
+            "0"
+         ]
       },
-      {
-         "1": "3",
-         "14": "1"
-      }
+      {}
    ],
    "data": [
       {
-         "Year": "2020",
-         "Consumption value in billion U.S. dollars": "588.83"
+         "Country": "United States",
+         "Q2 2019": "36.07",
+         "Q3 2019": "24.93"
       },
       {
-         "Year": "2019",
-         "Consumption value in billion U.S. dollars": "567.22"
+         "Country": "Canada",
+         "Q2 2019": "34.97",
+         "Q3 2019": "1.46"
       },
       {
-         "Year": "2018",
-         "Consumption value in billion U.S. dollars": "546.39"
+         "Country": "Germany",
+         "Q2 2019": "9.81",
+         "Q3 2019": "19.38"
       },
       {
-         "Year": "2017",
-         "Consumption value in billion U.S. dollars": "526.08"
+         "Country": "Spain",
+         "Q2 2019": "6.32",
+         "Q3 2019": "26.79"
       },
       {
-         "Year": "2016",
-         "Consumption value in billion U.S. dollars": "506.16"
+         "Country": "Belgium",
+         "Q2 2019": "0",
+         "Q3 2019": "0.01"
       },
       {
-         "Year": "2015",
-         "Consumption value in billion U.S. dollars": "482.37"
+         "Country": "Netherlands",
+         "Q2 2019": "0",
+         "Q3 2019": "0.71"
       },
       {
-         "Year": "2014",
-         "Consumption value in billion U.S. dollars": "458.02"
+         "Country": "Australia",
+         "Q2 2019": "0",
+         "Q3 2019": "1.42"
       },
       {
-         "Year": "2013",
-         "Consumption value in billion U.S. dollars": "428.17"
+         "Country": "Japan",
+         "Q2 2019": "0",
+         "Q3 2019": "7.64"
+      },
+      {
+         "Country": "Italy",
+         "Q2 2019": "3.18",
+         "Q3 2019": "6.94"
       }
-   ]
+   ],
+   "gold": "In the third quarter of 2019 , less than one third of foreign direct investments ( FDI ) in Mexico came from the United States . During that same period , nearly 27 percent of Mexican FDI originated from Spain . Moreover , FDI in Mexico throughout the second quarter of each year has decreased lately .\n"
 }

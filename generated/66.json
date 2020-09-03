@@ -1,57 +1,73 @@
 {
-   "title": "Japan : number of social media users 2017 to 2023",
+   "title": "Number of homicides by firearm in the U.S. 2006 to 2018",
    "xAxis": "Year",
-   "yAxis": "Number of users in millions",
+   "yAxis": "Number of homicides",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the Number of Japan social users in Japan 2017 and 2018 , with forecasts up to 2023 . ",
-      "In 2018 , around 51.3 millions people accessed the social through their Japan number . ",
-      "In 2023 , the figure was projected to amount 61.8 millions Japan number social users ."
+      "This statistic shows the Number of by homicides at firearm establishments in U.S. from 2006 to 2017 . ",
+      "There were over 11006 million homicides at firearm establishments in U.S. 2017 , a rise since the previous Year ."
    ],
    "trends": [
       {
-         "12": "6",
-         "14": "5",
-         "20": "0"
+         "14": "11",
+         "16": "0"
       },
       {
-         "1": "5",
-         "4": "5"
-      },
-      {
-         "1": "0",
-         "10": "0"
+         "3": "0",
+         "12": "0"
       }
    ],
    "data": [
       {
-         "Year": "2023",
-         "Number of users in millions": "61.8"
-      },
-      {
-         "Year": "2022",
-         "Number of users in millions": "59.9"
-      },
-      {
-         "Year": "2021",
-         "Number of users in millions": "58.1"
-      },
-      {
-         "Year": "2020",
-         "Number of users in millions": "55.9"
-      },
-      {
-         "Year": "2019",
-         "Number of users in millions": "53.5"
-      },
-      {
-         "Year": "2018",
-         "Number of users in millions": "51.3"
-      },
-      {
          "Year": "2017",
-         "Number of users in millions": "48.9"
+         "Number of homicides": "11006"
+      },
+      {
+         "Year": "2016",
+         "Number of homicides": "10372"
+      },
+      {
+         "Year": "2015",
+         "Number of homicides": "9103"
+      },
+      {
+         "Year": "2014",
+         "Number of homicides": "7803"
+      },
+      {
+         "Year": "2013",
+         "Number of homicides": "8454"
+      },
+      {
+         "Year": "2012",
+         "Number of homicides": "8897"
+      },
+      {
+         "Year": "2011",
+         "Number of homicides": "8653"
+      },
+      {
+         "Year": "2010",
+         "Number of homicides": "8874"
+      },
+      {
+         "Year": "2009",
+         "Number of homicides": "9199"
+      },
+      {
+         "Year": "2008",
+         "Number of homicides": "9528"
+      },
+      {
+         "Year": "2007",
+         "Number of homicides": "10129"
+      },
+      {
+         "Year": "2006",
+         "Number of homicides": "10225"
       }
-   ]
+   ],
+   "gold": "The statistic shows the number of homicides by firearm in the United States from 2006 to 2018 . In 2018 , about 11,006 homicides in the United States were committed by firearm .\n"
 }

@@ -1,69 +1,79 @@
 {
-   "title": "Urbanization in Canada 2018",
+   "title": "BMW Group - shipments 2006 to 2018",
    "xAxis": "Year",
-   "yAxis": "Share of urban population",
+   "yAxis": "Automobile sales in units",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the degree of Urbanization in Canada from 2008 to 2018 . ",
-      "Urbanization is measured as the proportion of urban population in the total population . ",
-      "In 2018 , around 81.41 % of the Mexican population lived in urban areas ."
+      "The statistic shows the total Automobile sales of kitchen and laundry shipments in the 2018 from 2006 to 2018 . ",
+      "In 2018 , BMW Group shipments global Automobile sales amounted to approximately 2490664 million units . ",
+      "BMW Group shipments - additional information BMW Group is a Japanese food chain headquartered in the world ."
    ],
    "trends": [
       {
-         "10": "10",
-         "12": "0"
+         "16": "12",
+         "18": "0"
       },
-      {},
       {
          "1": "0",
-         "4": "0"
-      }
+         "11": "0"
+      },
+      {}
    ],
    "data": [
       {
          "Year": "2018",
-         "Share of urban population": "81.41"
+         "Automobile sales in units": "2490664"
       },
       {
          "Year": "2017",
-         "Share of urban population": "81.35"
+         "Automobile sales in units": "2463526"
       },
       {
          "Year": "2016",
-         "Share of urban population": "81.3"
+         "Automobile sales in units": "2367603"
       },
       {
          "Year": "2015",
-         "Share of urban population": "81.26"
+         "Automobile sales in units": "2247485"
       },
       {
          "Year": "2014",
-         "Share of urban population": "81.22"
+         "Automobile sales in units": "2117965"
       },
       {
          "Year": "2013",
-         "Share of urban population": "81.18"
+         "Automobile sales in units": "1963798"
       },
       {
          "Year": "2012",
-         "Share of urban population": "81.14"
+         "Automobile sales in units": "1845186"
       },
       {
          "Year": "2011",
-         "Share of urban population": "81.1"
+         "Automobile sales in units": "1668982"
       },
       {
          "Year": "2010",
-         "Share of urban population": "80.94"
+         "Automobile sales in units": "1461166"
       },
       {
          "Year": "2009",
-         "Share of urban population": "80.76"
+         "Automobile sales in units": "1286310"
       },
       {
          "Year": "2008",
-         "Share of urban population": "80.58"
+         "Automobile sales in units": "1435876"
+      },
+      {
+         "Year": "2007",
+         "Automobile sales in units": "1500678"
+      },
+      {
+         "Year": "2006",
+         "Automobile sales in units": "1373970"
       }
-   ]
+   ],
+   "gold": "This statistic shows BMW Group 's global vehicle sales between 2006 and 2018 . In 2018 , the Munich-based company shipped about 2.49 million vehicles worldwide . BMW 's major brands include BMW ( automobiles and motorcycles ) , MINI and Rolls Royce .\n"
 }

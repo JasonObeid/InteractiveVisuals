@@ -1,71 +1,49 @@
 {
-   "title": "London : occupancy rate of hotels by quarter up to 2013",
-   "xAxis": "Quarter",
-   "yAxis": "Occupancy rate",
+   "title": "Number of assaults by weapon U.S. 2018",
+   "xAxis": "Weapon used",
+   "yAxis": "Number of assaults",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic displays a forecast of the London of occupancy rate in the London from third Quarter Q2_\u00b411 to second Quarter Q4_\u00b413 . ",
-      "It is forecast that there will be 91.9 % occupancy rate as of Quarter two Q4_\u00b413 ."
+      "In 2018 , Other_weapon assaults accounted for the largest assaults of Number U.S. by 2018 Knife_or_cutting_instrument , with a 223997 % assaults . ",
+      "185437 % of the company by Number Knife_or_cutting_instrument was made through Firearm assaults that year . ",
+      "Firearm assaults setting the pace strong growth of Number U.S. by Firearm segment \u2013 increase seven percent since 2012 \u2013 has contributed towards the decreased assaults of its Other_weapon used ."
    ],
    "trends": [
       {
-         "18": "10",
-         "22": "0"
+         "3": "0",
+         "15": "3",
+         "19": "0"
       },
       {
-         "7": "5",
-         "16": "0"
+         "0": "1",
+         "7": "3",
+         "11": "1"
+      },
+      {
+         "0": "1",
+         "12": "1",
+         "30": "0"
       }
    ],
    "data": [
       {
-         "Quarter": "Q4 \u00b413",
-         "Occupancy rate": "81.1"
+         "Weapon used": "Other weapon",
+         "Number of assaults": "223997"
       },
       {
-         "Quarter": "Q3 \u00b413",
-         "Occupancy rate": "85.6"
+         "Weapon used": "Firearm",
+         "Number of assaults": "185437"
       },
       {
-         "Quarter": "Q2 \u00b413",
-         "Occupancy rate": "82.4"
+         "Weapon used": "Personal weapons",
+         "Number of assaults": "179008"
       },
       {
-         "Quarter": "Q1 \u00b413",
-         "Occupancy rate": "75.2"
-      },
-      {
-         "Quarter": "Q4 \u00b412",
-         "Occupancy rate": "81"
-      },
-      {
-         "Quarter": "Q3 \u00b412",
-         "Occupancy rate": "91.9"
-      },
-      {
-         "Quarter": "Q2 \u00b412",
-         "Occupancy rate": "84.2"
-      },
-      {
-         "Quarter": "Q1 \u00b412",
-         "Occupancy rate": "77"
-      },
-      {
-         "Quarter": "Q4 \u00b411",
-         "Occupancy rate": "81.9"
-      },
-      {
-         "Quarter": "Q3 \u00b411",
-         "Occupancy rate": "87.4"
-      },
-      {
-         "Quarter": "Q2 \u00b411",
-         "Occupancy rate": "85.2"
-      },
-      {
-         "Quarter": "Q1 \u00b411",
-         "Occupancy rate": "75.8"
+         "Weapon used": "Knife or cutting instrument",
+         "Number of assaults": "123253"
       }
-   ]
+   ],
+   "gold": "In 2018 , there were 185,437 aggravated assaults where firearms were used . In comparison , there were 123,253 aggravated assaults where knives or other cutting instruments were used . What are firearms ? Firearms are portable weapons used to shoot bullets .\n"
 }

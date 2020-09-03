@@ -1,0 +1,52 @@
+{
+   "title": "UFC : most knockdowns landed by fighters worldwide as of March 2020\n",
+   "xAxis": "Month",
+   "yAxis": "Number of knockdowns landed",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "The graph shows data on most viewed trailers on youtube in 2014 . The trailer for the upcoming movie 50 shades Of grey was ranked first with 67 million views . The only non-movie trailer in this ranking was the call of Duty : advanced warfare reveal trailer with 26 million views .\n",
+   "trends": {},
+   "data": [
+      {
+         "Month": "Donald Cerrone",
+         "Number of knockdowns landed": 20.0
+      },
+      {
+         "Month": "Anderson Silva",
+         "Number of knockdowns landed": 18.0
+      },
+      {
+         "Month": "Jeremy Stephens",
+         "Number of knockdowns landed": 18.0
+      },
+      {
+         "Month": "Junior Dos Santos",
+         "Number of knockdowns landed": 14.0
+      },
+      {
+         "Month": "Chuck Liddell",
+         "Number of knockdowns landed": 14.0
+      },
+      {
+         "Month": "Lyoto Machida",
+         "Number of knockdowns landed": 14.0
+      },
+      {
+         "Month": "Mauricio Rua",
+         "Number of knockdowns landed": 14.0
+      },
+      {
+         "Month": "Thiago Alves",
+         "Number of knockdowns landed": 13.0
+      },
+      {
+         "Month": "Melvin Guillard",
+         "Number of knockdowns landed": 13.0
+      },
+      {
+         "Month": "Anthony Johnson",
+         "Number of knockdowns landed": 13.0
+      }
+   ]
+}

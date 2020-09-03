@@ -1,62 +1,71 @@
 {
-   "title": "Top U.S. hospital operators based on number of hospitals 2019",
-   "xAxis": "Operator (City, State)",
-   "yAxis": "Number of hospitals",
+   "title": "Degree of urbanization in Australia 2018",
+   "xAxis": "Year",
+   "yAxis": "Share of urban population in total population",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Number of hospitals in U.S. 2019 , operators Operator . ",
-      "In 2019 , the Top Number of hospitals in U.S. was Hospital_Corporation_of_America_(Nashville_Tenn.) , making it Atrium_Health_(Charlotte_N.C.) and in Hospital_Corporation_of_America_(Nashville_Tenn.) ."
+      "This statistic shows the degree of in Australia from 2008 to 2018 . ",
+      "Degree means the Share of urban population in the total population of a country . ",
+      "In 2018 , 86.01 % of Australia 's total population lived in urban areas and cities ."
    ],
    "trends": [
+      {
+         "10": "10",
+         "12": "0"
+      },
       {},
       {
-         "11": "0",
-         "15": "9",
-         "17": "9",
-         "19": "0"
+         "1": "0",
+         "3": "0"
       }
    ],
    "data": [
       {
-         "Operator (City, State)": "Hospital Corporation of America (Nashville Tenn.)",
-         "Number of hospitals": "185"
+         "Year": "2018",
+         "Share of urban population in total population": "86.01"
       },
       {
-         "Operator (City, State)": "Ascension Health (St. Louis)",
-         "Number of hospitals": "151"
+         "Year": "2017",
+         "Share of urban population in total population": "85.9"
       },
       {
-         "Operator (City, State)": "CommonSpirit Health (Chicago Ill.)",
-         "Number of hospitals": "142"
+         "Year": "2016",
+         "Share of urban population in total population": "85.8"
       },
       {
-         "Operator (City, State)": "Community Health Systems (Franklin Tenn.)",
-         "Number of hospitals": "105"
+         "Year": "2015",
+         "Share of urban population in total population": "85.7"
       },
       {
-         "Operator (City, State)": "Trinity Health (Livonia Mich.)",
-         "Number of hospitals": "92"
+         "Year": "2014",
+         "Share of urban population in total population": "85.6"
       },
       {
-         "Operator (City, State)": "LifePoint Hospitals (Brentwood Tenn.)",
-         "Number of hospitals": "86"
+         "Year": "2013",
+         "Share of urban population in total population": "85.5"
       },
       {
-         "Operator (City, State)": "Tenet Healthcare Corp. (Dallas Tex.)",
-         "Number of hospitals": "65"
+         "Year": "2012",
+         "Share of urban population in total population": "85.4"
       },
       {
-         "Operator (City, State)": "Vibra Healthcare (Mechanicsburg Pa.)",
-         "Number of hospitals": "65"
+         "Year": "2011",
+         "Share of urban population in total population": "85.3"
       },
       {
-         "Operator (City, State)": "Providence Health & Services (Renton Wash.)",
-         "Number of hospitals": "51"
+         "Year": "2010",
+         "Share of urban population in total population": "85.18"
       },
       {
-         "Operator (City, State)": "Atrium Health (Charlotte N.C.)",
-         "Number of hospitals": "50"
+         "Year": "2009",
+         "Share of urban population in total population": "85.06"
+      },
+      {
+         "Year": "2008",
+         "Share of urban population in total population": "84.94"
       }
-   ]
+   ],
+   "gold": "This statistic shows the degree of urbanization in Australia from 2008 to 2018 . In 2018 , 86.01 percent of Australia 's population lived in cities .\n"
 }

@@ -1,108 +1,228 @@
 {
-   "title": "National Hockey League - Toronto Maple Leafs home attendance 2005 to 2019",
-   "labels": [
-      "Year",
-      "Total attendance",
-      "Average attendance"
-   ],
-   "columnType": "multi",
-   "graphType": "line",
+   "title": "U.S. and state legislatures : Black elected officials 2012 , by state",
+   "xAxis": "State",
+   "yAxis": "Black elected officials",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This graph depicts the total/average regular season home attendance of the Toronto Maple Leafs franchise of the National Hockey League Toronto Maple Leafs League from the 2005/06 season to the 2018/19 season . ",
-      "In 2018/19 , the Total regular season home attendance of the franchise was 790316 ."
+      "This statistic shows the percentage of U.S. that involved legislatures in the Black in 2012 , officials State . ",
+      "In 2012 , about 49 % of elected were committed with use of legislatures in Minnesota . ",
+      "A ranking of the total number of U.S. officials Black State can be found here ."
    ],
    "trends": [
+      {},
       {
-         "21": [
-            "13",
-            "0"
-         ],
-         "25": [
-            "0",
-            "0"
-         ]
+         "4": "1",
+         "15": "1"
       },
-      {
-         "1": [
-            "0",
-            "0"
-         ],
-         "13": [
-            "0",
-            "1"
-         ]
-      }
+      {}
    ],
    "data": [
       {
-         "Year": "2018/19",
-         "Total attendance": "790316",
-         "Average attendance": "19276"
+         "State": "Florida",
+         "Black elected officials": "56"
       },
       {
-         "Year": "2017/18",
-         "Total attendance": "786677",
-         "Average attendance": "19187"
+         "State": "Minnesota",
+         "Black elected officials": "49"
       },
       {
-         "Year": "2016/17",
-         "Total attendance": "809519",
-         "Average attendance": "19744"
+         "State": "Maine",
+         "Black elected officials": "44"
       },
       {
-         "Year": "2015/16",
-         "Total attendance": "785485",
-         "Average attendance": "19158"
+         "State": "Rhode Island",
+         "Black elected officials": "37"
       },
       {
-         "Year": "2014/15",
-         "Total attendance": "781576",
-         "Average attendance": "19062"
+         "State": "Alabama",
+         "Black elected officials": "33"
       },
       {
-         "Year": "2013/14",
-         "Total attendance": "797310",
-         "Average attendance": "19446"
+         "State": "New Mexico",
+         "Black elected officials": "30"
       },
       {
-         "Year": "2012/13",
-         "Total attendance": "466229",
-         "Average attendance": "19426"
+         "State": "Idaho",
+         "Black elected officials": "30"
       },
       {
-         "Year": "2011/12",
-         "Total attendance": "799786",
-         "Average attendance": "19506"
+         "State": "Kentucky",
+         "Black elected officials": "27"
       },
       {
-         "Year": "2010/11",
-         "Total attendance": "793522",
-         "Average attendance": "19354"
+         "State": "New York",
+         "Black elected officials": "25"
       },
       {
-         "Year": "2009/10",
-         "Total attendance": "789681",
-         "Average attendance": "19260"
+         "State": "District of Columbia",
+         "Black elected officials": "25"
       },
       {
-         "Year": "2008/09",
-         "Total attendance": "791795",
-         "Average attendance": "19312"
+         "State": "Massachusetts",
+         "Black elected officials": "21"
       },
       {
-         "Year": "2007/08",
-         "Total attendance": "796803",
-         "Average attendance": "19434"
+         "State": "Oregon",
+         "Black elected officials": "20"
       },
       {
-         "Year": "2006/07",
-         "Total attendance": "798981",
-         "Average attendance": "19487"
+         "State": "Tennessee",
+         "Black elected officials": "19"
       },
       {
-         "Year": "2005/06",
-         "Total attendance": "795747",
-         "Average attendance": "19408"
+         "State": "South Dakota",
+         "Black elected officials": "18"
+      },
+      {
+         "State": "Vermont",
+         "Black elected officials": "18"
+      },
+      {
+         "State": "Mississippi",
+         "Black elected officials": "18"
+      },
+      {
+         "State": "New Hampshire",
+         "Black elected officials": "17"
+      },
+      {
+         "State": "North Dakota",
+         "Black elected officials": "17"
+      },
+      {
+         "State": "Connecticut",
+         "Black elected officials": "13"
+      },
+      {
+         "State": "Arkansas",
+         "Black elected officials": "13"
+      },
+      {
+         "State": "Illinois",
+         "Black elected officials": "12"
+      },
+      {
+         "State": "California",
+         "Black elected officials": "9"
+      },
+      {
+         "State": "West Virginia",
+         "Black elected officials": "8"
+      },
+      {
+         "State": "Kansas",
+         "Black elected officials": "8"
+      },
+      {
+         "State": "Maryland",
+         "Black elected officials": "7"
+      },
+      {
+         "State": "Iowa",
+         "Black elected officials": "7"
+      },
+      {
+         "State": "Nebraska",
+         "Black elected officials": "7"
+      },
+      {
+         "State": "Ohio",
+         "Black elected officials": "6"
+      },
+      {
+         "State": "Delaware",
+         "Black elected officials": "6"
+      },
+      {
+         "State": "Indiana",
+         "Black elected officials": "5"
+      },
+      {
+         "State": "New Jersey",
+         "Black elected officials": "3"
+      },
+      {
+         "State": "Washington",
+         "Black elected officials": "3"
+      },
+      {
+         "State": "Pennsylvania",
+         "Black elected officials": "3"
+      },
+      {
+         "State": "Oklahoma",
+         "Black elected officials": "2"
+      },
+      {
+         "State": "Michigan",
+         "Black elected officials": "2"
+      },
+      {
+         "State": "Nevada",
+         "Black elected officials": "2"
+      },
+      {
+         "State": "Colorado",
+         "Black elected officials": "2"
+      },
+      {
+         "State": "Montana",
+         "Black elected officials": "2"
+      },
+      {
+         "State": "Alaska",
+         "Black elected officials": "1"
+      },
+      {
+         "State": "Hawaii",
+         "Black elected officials": "1"
+      },
+      {
+         "State": "Arizona",
+         "Black elected officials": "1"
+      },
+      {
+         "State": "Virginia",
+         "Black elected officials": "1"
+      },
+      {
+         "State": "Wisconsin",
+         "Black elected officials": "1"
+      },
+      {
+         "State": "Utah",
+         "Black elected officials": "1"
+      },
+      {
+         "State": "Texas",
+         "Black elected officials": "0"
+      },
+      {
+         "State": "Georgia",
+         "Black elected officials": "0"
+      },
+      {
+         "State": "North Carolina",
+         "Black elected officials": "0"
+      },
+      {
+         "State": "Louisiana",
+         "Black elected officials": "0"
+      },
+      {
+         "State": "South Carolina",
+         "Black elected officials": "0"
+      },
+      {
+         "State": "Wyoming",
+         "Black elected officials": "0"
+      },
+      {
+         "State": "Missouri",
+         "Black elected officials": "0"
       }
-   ]
+   ],
+   "gold": "The statistic above provides data on the Black elected officials in the United States . In 2012 , 56 Black elected officials were counted in Florida .\n"
 }

@@ -1,61 +1,103 @@
 {
-   "title": "Leading IPOs in the U.S. 2019",
-   "xAxis": "Company (Offer date)",
-   "yAxis": "Deal size in million U.S. dollars",
-   "columnType": "two",
+   "title": "Top U.S. states based on milk production 2016 to 2018",
+   "labels": [
+      "State",
+      "2016",
+      "2017",
+      "2018"
+   ],
+   "columnType": "multi",
    "graphType": "bar",
    "summary": [
-      "This statistic shows the ten Leading 2019 , other than English , in IPOs U.S. 2019 in , by Deal of size . ",
-      "The Leading commonly 2019 Company was Uber_Technologies_(May_9) with almost 8100 thousand native size , followed by Avantor_(May_16) and IPOs U.S. ."
+      "California is the most successful nation of all time at the U.S. Games , having amassed a total of 368 medals since the first U.S. Olympics in 2016 . ",
+      "As of 2018 , California was the most popular U.S. states in the U.S. , with over 39798 million U.S. dollars . ",
+      "This total State 30579 % increased from 2016 ."
    ],
    "trends": [
-      {},
       {
-         "6": "0",
-         "9": "0",
-         "16": "1"
+         "0": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "4": [
+            "0",
+            "0"
+         ],
+         "17": [
+            "0",
+            "2"
+         ]
+      },
+      {
+         "3": [
+            "1",
+            "3"
+         ]
       }
    ],
    "data": [
       {
-         "Company (Offer date)": "Uber Technologies (May 9)",
-         "Deal size in million U.S. dollars": "8100"
+         "State": "California",
+         "2016": "40469",
+         "2017": "39798",
+         "2018": "40413"
       },
       {
-         "Company (Offer date)": "Avantor (May 16)",
-         "Deal size in million U.S. dollars": "2898"
+         "State": "Wisconsin",
+         "2016": "30123",
+         "2017": "30320",
+         "2018": "30579"
       },
       {
-         "Company (Offer date)": "Lyft (Mar 28)",
-         "Deal size in million U.S. dollars": "2340"
+         "State": "Idaho",
+         "2016": "14665",
+         "2017": "14627",
+         "2018": "15149"
       },
       {
-         "Company (Offer date)": "XP (Dec 10)",
-         "Deal size in million U.S. dollars": "1958"
+         "State": "New York",
+         "2016": "14765",
+         "2017": "14912",
+         "2018": "14882"
       },
       {
-         "Company (Offer date)": "Pinterest (Apr 17)",
-         "Deal size in million U.S. dollars": "1425"
+         "State": "Texas",
+         "2016": "10773",
+         "2017": "12054",
+         "2018": "12852"
       },
       {
-         "Company (Offer date)": "SmileDirectClub (Sep 11)",
-         "Deal size in million U.S. dollars": "1346"
+         "State": "Michigan",
+         "2016": "10876",
+         "2017": "11231",
+         "2018": "11168"
       },
       {
-         "Company (Offer date)": "Peloton Interactive (Sep 25)",
-         "Deal size in million U.S. dollars": "1160"
+         "State": "Pennsylvania",
+         "2016": "10820",
+         "2017": "10938",
+         "2018": "10665"
       },
       {
-         "Company (Offer date)": "Tradeweb Markets (Apr 3)",
-         "Deal size in million U.S. dollars": "1080"
+         "State": "Minnesota",
+         "2016": "9666",
+         "2017": "9864",
+         "2018": "9868"
       },
       {
-         "Company (Offer date)": "Chewy (Jun 13)",
-         "Deal size in million U.S. dollars": "1023"
+         "State": "New Mexico",
+         "2016": "7711",
+         "2017": "8212",
+         "2018": "8285"
       },
       {
-         "Company (Offer date)": "DouYu International Holdings (Jul 16)",
-         "Deal size in million U.S. dollars": "775"
+         "State": "Washington",
+         "2016": "6650",
+         "2017": "6526",
+         "2018": "6736"
       }
-   ]
+   ],
+   "gold": "This statistic shows the ten U.S. states with the highest amount of milk production from 2016 to 2018 . California , was the leading producer , where 40.4 billion pounds of milk were produced in 2018 . Milk production Dairy farming is an agricultural business which is engaged in the long-term milk production within the dairy industry .\n"
 }

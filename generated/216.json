@@ -1,97 +1,34 @@
 {
-   "title": "Franchise value of the New Orleans Saints 2002 to 2019",
-   "xAxis": "Year",
-   "yAxis": "Franchise value in million U.S. dollars",
+   "title": "Fifty Shades of Grey : U.S. sales figures in 2012 , by platform",
+   "xAxis": "Copy Type",
+   "yAxis": "Number of copies in millions",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This graph depicts the Franchise value of the New Orleans Saints Chiefs from the National Football League from 2002 to 2019 . ",
-      "In 2019 , the Franchise value came to 2300 million U.S. dollars . ",
-      "The New Orleans Saints Chiefs are owned by the Lamar Hunt family , who bought the Franchise in 1960 ."
+      "The statistic shows Number of Shades users in the Fifty in 2012 , sorted figures 2012 . ",
+      "During the survey period , it was found that 29 millions of the Digital copies were Shades users . ",
+      "Overall , 15 millions of the Shades Grey U.S. copies accessed the Shades ."
    ],
    "trends": [
+      {},
       {
-         "16": "17",
-         "18": "0"
+         "9": "0",
+         "13": "1"
       },
       {
-         "1": "0",
-         "8": "0"
-      },
-      {}
+         "2": "1"
+      }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Franchise value in million U.S. dollars": "2300"
+         "Copy Type": "Print",
+         "Number of copies in millions": "29"
       },
       {
-         "Year": "2018",
-         "Franchise value in million U.S. dollars": "2075"
-      },
-      {
-         "Year": "2017",
-         "Franchise value in million U.S. dollars": "2000"
-      },
-      {
-         "Year": "2016",
-         "Franchise value in million U.S. dollars": "1750"
-      },
-      {
-         "Year": "2015",
-         "Franchise value in million U.S. dollars": "1515"
-      },
-      {
-         "Year": "2014",
-         "Franchise value in million U.S. dollars": "1110"
-      },
-      {
-         "Year": "2013",
-         "Franchise value in million U.S. dollars": "1004"
-      },
-      {
-         "Year": "2012",
-         "Franchise value in million U.S. dollars": "971"
-      },
-      {
-         "Year": "2011",
-         "Franchise value in million U.S. dollars": "965"
-      },
-      {
-         "Year": "2010",
-         "Franchise value in million U.S. dollars": "955"
-      },
-      {
-         "Year": "2009",
-         "Franchise value in million U.S. dollars": "943"
-      },
-      {
-         "Year": "2008",
-         "Franchise value in million U.S. dollars": "937"
-      },
-      {
-         "Year": "2007",
-         "Franchise value in million U.S. dollars": "854"
-      },
-      {
-         "Year": "2006",
-         "Franchise value in million U.S. dollars": "738"
-      },
-      {
-         "Year": "2005",
-         "Franchise value in million U.S. dollars": "718"
-      },
-      {
-         "Year": "2004",
-         "Franchise value in million U.S. dollars": "627"
-      },
-      {
-         "Year": "2003",
-         "Franchise value in million U.S. dollars": "585"
-      },
-      {
-         "Year": "2002",
-         "Franchise value in million U.S. dollars": "481"
+         "Copy Type": "Digital",
+         "Number of copies in millions": "15"
       }
-   ]
+   ],
+   "gold": "The statistic presents U.S. sales figures of the 'Fifty Shades of Grey ' trilogy in 2012 , broken down by platform . The book sold 29 million print and 15 million digital copies in 2012 . It topped the 2012 best-seller lists in the categories adult fiction and romance .\n"
 }

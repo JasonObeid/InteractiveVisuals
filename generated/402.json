@@ -1,126 +1,77 @@
 {
-   "title": "Golden Boot at the 2018 FIFA World Cup",
-   "xAxis": "Month",
-   "yAxis": "Number of goals",
+   "title": "YouTube : annual beauty content views 2009 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Annual beauty content views in billions",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the top 2 Golden at the Cup in Boot FIFA World Cup according to their current Number / World goals . ",
-      "Harry_Kane_(England) of Argentina is the 2018 valued player , Boot a World Number goals of 6 % goals ."
+      "The statistic shows the Annual of beauty content in the YouTube between 2006 and 2018 . ",
+      "In 2018 , around 169.0 billions beauty content were sold ."
    ],
    "trends": [
       {
-         "5": "14"
+         "12": "12",
+         "14": "0"
       },
       {
-         "0": "0",
-         "15": "0"
+         "1": "0",
+         "4": "0"
       }
    ],
    "data": [
       {
-         "Month": "Harry Kane (England)",
-         "Number of goals": "6"
+         "Year": "2018",
+         "Annual beauty content views in billions": "169.0"
       },
       {
-         "Month": "Antoine Griezmann (France)",
-         "Number of goals": "4"
+         "Year": "2017",
+         "Annual beauty content views in billions": "104.0"
       },
       {
-         "Month": "Romelu Lukaku (Belgium)",
-         "Number of goals": "4"
+         "Year": "2016",
+         "Annual beauty content views in billions": "59.0"
       },
       {
-         "Month": "Denis Cheryshev (Russia)",
-         "Number of goals": "4"
+         "Year": "2015",
+         "Annual beauty content views in billions": "37.0"
       },
       {
-         "Month": "Cristiano Ronaldo (Portugal)",
-         "Number of goals": "4"
+         "Year": "2014",
+         "Annual beauty content views in billions": "25.0"
       },
       {
-         "Month": "Kylian Mbappe (France)",
-         "Number of goals": "4"
+         "Year": "2013",
+         "Annual beauty content views in billions": "16.0"
       },
       {
-         "Month": "Artem Dzyuba (Russia)",
-         "Number of goals": "3"
+         "Year": "2012",
+         "Annual beauty content views in billions": "11.0"
       },
       {
-         "Month": "Eden Hazard (Belgium)",
-         "Number of goals": "3"
+         "Year": "2011",
+         "Annual beauty content views in billions": "7.0"
       },
       {
-         "Month": "Mario Mandzukic (Croatia)",
-         "Number of goals": "3"
+         "Year": "2010",
+         "Annual beauty content views in billions": "5.0"
       },
       {
-         "Month": "Ivan Perisic (Croatia)",
-         "Number of goals": "3"
+         "Year": "2009",
+         "Annual beauty content views in billions": "3.0"
       },
       {
-         "Month": "Yerry Mina (Columbia)",
-         "Number of goals": "3"
+         "Year": "2008",
+         "Annual beauty content views in billions": "2.0"
       },
       {
-         "Month": "Diego Costa (Spain)",
-         "Number of goals": "3"
+         "Year": "2007",
+         "Annual beauty content views in billions": "0.87"
       },
       {
-         "Month": "Edinson Cavani (Uruguay)",
-         "Number of goals": "3"
-      },
-      {
-         "Month": "Wahbi Khazri (Tunisia)",
-         "Number of goals": "2"
-      },
-      {
-         "Month": "Philippe Coutinho (Brazil)",
-         "Number of goals": "2"
-      },
-      {
-         "Month": "Neymar (Brazil)",
-         "Number of goals": "2"
-      },
-      {
-         "Month": "Takashi Inui (Japan)",
-         "Number of goals": "2"
-      },
-      {
-         "Month": "Luis Suarez (Uruguay)",
-         "Number of goals": "2"
-      },
-      {
-         "Month": "Luka Modric (Croatia)",
-         "Number of goals": "2"
-      },
-      {
-         "Month": "Mohamed Salah (Egypt)",
-         "Number of goals": "2"
-      },
-      {
-         "Month": "Sergio Ag\u00fcero (Argentina)",
-         "Number of goals": "2"
-      },
-      {
-         "Month": "Ahmed Musa (Nigeria)",
-         "Number of goals": "2"
-      },
-      {
-         "Month": "Heung-Min Son (South Korea)",
-         "Number of goals": "2"
-      },
-      {
-         "Month": "Mile Jedinak (Australia)",
-         "Number of goals": "2"
-      },
-      {
-         "Month": "Andreas Granqvist (Sweden)",
-         "Number of goals": "2"
-      },
-      {
-         "Month": "John Stones (England)",
-         "Number of goals": "2"
+         "Year": "2006",
+         "Annual beauty content views in billions": "0.13"
       }
-   ]
+   ],
+   "gold": "Beauty videos are big business on YouTube . In 2018 , beauty-related content generated more than 169 billion views on the video platform . Popular types of YouTube beauty content include tutorials and DIY videos , reviews , haul videos and videos produced by beauty vloggers .\n"
 }

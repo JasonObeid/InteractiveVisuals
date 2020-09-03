@@ -11,16 +11,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 11 categories for the x axis of Response representing Google, Yahoo, Bing, AOL, Ask, Other.",
-      " The highest category is found at Total with a mean value of 16.668333333333333.",
-      " The second highest category is found at Ten or more words with a mean value of 16.666666666666668.",
+      "This grouped bar chart has 11 categories for the x axis of Response representing Google, Yahoo, Bing, AOL, Ask, and Other.",
+      " The highest category is found at Total with a mean value of 16.67.",
+      " The second highest category is found at Ten or more words with a mean value of 16.67.",
       " This represents a difference of 0.0%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "6",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "10"
+         ],
+         "14": [
+            "6",
+            "10"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Response": "Total",

@@ -1,139 +1,152 @@
 {
-   "title": "UK households : ownership of landline telephones 1970 to 2018",
-   "xAxis": "Year",
-   "yAxis": "Percentage of respondents",
+   "title": "Average player age of participating national teams at the 2018 World Cup in Russia",
+   "xAxis": "Country",
+   "yAxis": "Average player age in years",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "Just five percentage of houses in the UK ( ) were not heated using a households ownership system , as of 2018 . ",
-      "The share of houses using a households ownership system climbed steadily until 2005 , increasing from 95 percentage in the Year 2000 . ",
-      "86 percentage of properties use gas as the fuel for their households ownership system ."
+      "The statistic shows the Average of the player age in European Union member states and other selected European countries in 2018 , in years . ",
+      "Among these 33 countries Costa_Rica has the longest player age in participating at 29.6 years . ",
+      "Average player age of the 2018 World Cup squads - additional information There were a total of 736 players across 32 teams in the World Cup , picked from domestic leagues in 52 countries ."
    ],
    "trends": [
       {},
       {
-         "12": "13",
-         "16": "18",
-         "21": "18"
+         "4": "0",
+         "13": "0"
       },
       {}
    ],
    "data": [
       {
-         "Year": "2017-18",
-         "Percentage of respondents": "85"
+         "Country": "Costa Rica",
+         "Average player age in years": "29.6"
       },
       {
-         "Year": "2016-17",
-         "Percentage of respondents": "89"
+         "Country": "Mexico",
+         "Average player age in years": "29.4"
       },
       {
-         "Year": "2015-16",
-         "Percentage of respondents": "88"
+         "Country": "Argentina",
+         "Average player age in years": "29.3"
       },
       {
-         "Year": "2014-15",
-         "Percentage of respondents": "88"
+         "Country": "Egypt",
+         "Average player age in years": "29.0"
       },
       {
-         "Year": "2014",
-         "Percentage of respondents": "88"
+         "Country": "Panama",
+         "Average player age in years": "28.9"
       },
       {
-         "Year": "2013",
-         "Percentage of respondents": "89"
+         "Country": "Russia",
+         "Average player age in years": "28.8"
       },
       {
-         "Year": "2012",
-         "Percentage of respondents": "88"
+         "Country": "Saudi Arabia",
+         "Average player age in years": "28.7"
       },
       {
-         "Year": "2011",
-         "Percentage of respondents": "88"
+         "Country": "Brazil",
+         "Average player age in years": "28.6"
       },
       {
-         "Year": "2010",
-         "Percentage of respondents": "87"
+         "Country": "Iceland",
+         "Average player age in years": "28.6"
       },
       {
-         "Year": "2009",
-         "Percentage of respondents": "88"
+         "Country": "Japan",
+         "Average player age in years": "28.5"
       },
       {
-         "Year": "2008",
-         "Percentage of respondents": "90"
+         "Country": "Spain",
+         "Average player age in years": "28.4"
       },
       {
-         "Year": "2007",
-         "Percentage of respondents": "89"
+         "Country": "Portugal",
+         "Average player age in years": "28.3"
       },
       {
-         "Year": "2006",
-         "Percentage of respondents": "92"
+         "Country": "Poland",
+         "Average player age in years": "28.2"
       },
       {
-         "Year": "2005",
-         "Percentage of respondents": "93"
+         "Country": "Sweden",
+         "Average player age in years": "28.1"
       },
       {
-         "Year": "2004",
-         "Percentage of respondents": "92"
+         "Country": "Uruguay",
+         "Average player age in years": "28.1"
       },
       {
-         "Year": "2003",
-         "Percentage of respondents": "94"
+         "Country": "Colombia",
+         "Average player age in years": "28.1"
       },
       {
-         "Year": "2002",
-         "Percentage of respondents": "94"
+         "Country": "Australia",
+         "Average player age in years": "28.1"
       },
       {
-         "Year": "2001",
-         "Percentage of respondents": "93"
+         "Country": "Croatia",
+         "Average player age in years": "27.9"
       },
       {
-         "Year": "2000",
-         "Percentage of respondents": "95"
+         "Country": "South Korea",
+         "Average player age in years": "27.8"
       },
       {
-         "Year": "1999",
-         "Percentage of respondents": "95"
+         "Country": "Belgium",
+         "Average player age in years": "27.6"
       },
       {
-         "Year": "1998",
-         "Percentage of respondents": "94"
+         "Country": "Peru",
+         "Average player age in years": "27.4"
       },
       {
-         "Year": "1997",
-         "Percentage of respondents": "93"
+         "Country": "Senegal",
+         "Average player age in years": "27.2"
       },
       {
-         "Year": "1996",
-         "Percentage of respondents": "92"
+         "Country": "Switzerland",
+         "Average player age in years": "27.2"
       },
       {
-         "Year": "1995",
-         "Percentage of respondents": "91"
+         "Country": "Morocco",
+         "Average player age in years": "27.2"
       },
       {
-         "Year": "1990",
-         "Percentage of respondents": "87"
+         "Country": "Iran",
+         "Average player age in years": "27.2"
       },
       {
-         "Year": "1985",
-         "Percentage of respondents": "81"
+         "Country": "Germany",
+         "Average player age in years": "27.1"
       },
       {
-         "Year": "1980",
-         "Percentage of respondents": "72"
+         "Country": "Denmark",
+         "Average player age in years": "27.1"
       },
       {
-         "Year": "1975",
-         "Percentage of respondents": "52"
+         "Country": "Serbia",
+         "Average player age in years": "26.8"
       },
       {
-         "Year": "1970",
-         "Percentage of respondents": "35"
+         "Country": "Tunisia",
+         "Average player age in years": "26.5"
+      },
+      {
+         "Country": "France",
+         "Average player age in years": "26.0"
+      },
+      {
+         "Country": "England",
+         "Average player age in years": "26.0"
+      },
+      {
+         "Country": "Nigeria",
+         "Average player age in years": "25.9"
       }
-   ]
+   ],
+   "gold": "While Costa Rica might have crashed out of the 2018 World Cup in the first round having finished bottom of their group , they were able to claim the title of the oldest average team . Their squad had an average age of 29.6 years , almost four years older than the squad of Nigeria , who had the youngest squad at the tournament . France 's stars bring home the trophyFrance 's squad was full of superstars such as Kylian Mbapp\u00e9 , Paul Pogba , and Antoine Griezmann , making it the most expensive squad assembled at the 2018 World Cup .\n"
 }

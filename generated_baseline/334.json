@@ -4,15 +4,24 @@
    "yAxis": "Number of monthly active users in millions",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 37 categories for the x axis representing Quarter, and a y axis representing Number of monthly active users in millions.",
       " The highest category is found at Q1_'18 where Number of monthly active users in millions is 336.0.",
       " The lowest category is found at Q1_'10 where Number of monthly active users in millions is 30.0."
    ],
-   "trends": {
-      "maxIndex": 4,
-      "minIndex": 36
-   },
+   "trends": [
+      {},
+      {
+         "7": 4,
+         "12": 4
+      },
+      {
+         "7": 36,
+         "12": 36
+      },
+      {}
+   ],
    "data": [
       {
          "Quarter": "Q1 '19",

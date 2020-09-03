@@ -4,15 +4,24 @@
    "yAxis": "Amount in million metric tons",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 17 categories for the x axis representing Country, and a y axis representing Amount in million metric tons.",
       " The highest category is found at European_Union where Amount in million metric tons is 56.34.",
       " The lowest category is found at Belarus where Amount in million metric tons is 1.7."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 16
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 16,
+         "12": 16
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "European Union",

@@ -1,59 +1,32 @@
 {
-   "title": "Total consumption of lithium worldwide 2008 to 2016",
-   "xAxis": "Year",
-   "yAxis": "Consumption in metric tons of lithium carbonate equivalent",
+   "title": "Facebook user share in the United States 2019 , by gender",
+   "xAxis": "Sex",
+   "yAxis": "Percentage of users",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the worldwide 2008 Consumption metric going to the Total from 2008 to 2016 . ",
-      "In 2016 , the worldwide 2008 Consumption metric is expected to be about 212719 % lithium carbonate ."
+      "This statistic gives information on the user of United States users worldwide as of 2020 , sorted 2019 by . ",
+      "During the survey period , 46.3 percentage of United States United were Female and 53.7 percentage were Male ."
    ],
    "trends": [
+      {},
       {
-         "14": "8",
-         "16": "0"
-      },
-      {
-         "1": "0",
-         "13": "0"
+         "5": "1",
+         "11": "0",
+         "13": "0",
+         "16": "1"
       }
    ],
    "data": [
       {
-         "Year": "2016",
-         "Consumption in metric tons of lithium carbonate equivalent": "212719"
+         "Sex": "Female",
+         "Percentage of users": "53.7"
       },
       {
-         "Year": "2015",
-         "Consumption in metric tons of lithium carbonate equivalent": "194000"
-      },
-      {
-         "Year": "2014",
-         "Consumption in metric tons of lithium carbonate equivalent": "182903"
-      },
-      {
-         "Year": "2013",
-         "Consumption in metric tons of lithium carbonate equivalent": "165484"
-      },
-      {
-         "Year": "2012",
-         "Consumption in metric tons of lithium carbonate equivalent": "151048"
-      },
-      {
-         "Year": "2011",
-         "Consumption in metric tons of lithium carbonate equivalent": "138306"
-      },
-      {
-         "Year": "2010",
-         "Consumption in metric tons of lithium carbonate equivalent": "125726"
-      },
-      {
-         "Year": "2009",
-         "Consumption in metric tons of lithium carbonate equivalent": "101613"
-      },
-      {
-         "Year": "2008",
-         "Consumption in metric tons of lithium carbonate equivalent": "120968"
+         "Sex": "Male",
+         "Percentage of users": "46.3"
       }
-   ]
+   ],
+   "gold": "Facebook is the most popular social network in the United States and as of November 2019 , 53.7 percent of U.S. Facebook audiences were female , and 46.3 percent of users were male . The social network had a combined 247 million monthly active users in the United States and Canada as of the third quarter of 2019 . Facebook usage in the United States Thanks to its wide reach and vast range of products including Facebook Messenger , Instagram and WhatsApp , many internet users would find it hard to imagine an online experience without the company that arguably made social media mainstream .\n"
 }

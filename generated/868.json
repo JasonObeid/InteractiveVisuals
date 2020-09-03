@@ -1,67 +1,122 @@
 {
-   "title": "Infant mortality rate in Afghanistan 2018",
-   "xAxis": "Year",
-   "yAxis": "Deaths per 1,000 live births",
+   "title": "Countries with the largest Jewish population in 2010",
+   "xAxis": "Country",
+   "yAxis": "Estimated Jewish population in thousand",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the Infant mortality rate in Afghanistan from 2008 to 2018 . ",
-      "In 2018 , the Infant mortality rate in Afghanistan was at about 47.9 Deaths per 1,000 live births ."
+      "The statistic depicts the Estimated of largest Jewish population 2010 in . ",
+      "In that year , United_States was the highest Estimated of largest Jewish population with 5690 Jewish population ."
    ],
    "trends": [
+      {},
       {
-         "10": "10",
-         "12": "0"
-      },
-      {
-         "1": "0",
-         "12": "0"
+         "4": "0",
+         "14": "0"
       }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Deaths per 1,000 live births": "47.9"
+         "Country": "United States",
+         "Estimated Jewish population in thousand": "5690"
       },
       {
-         "Year": "2017",
-         "Deaths per 1,000 live births": "49.5"
+         "Country": "Israel",
+         "Estimated Jewish population in thousand": "5610"
       },
       {
-         "Year": "2016",
-         "Deaths per 1,000 live births": "51.2"
+         "Country": "Canada",
+         "Estimated Jewish population in thousand": "350"
       },
       {
-         "Year": "2015",
-         "Deaths per 1,000 live births": "53.1"
+         "Country": "France",
+         "Estimated Jewish population in thousand": "310"
       },
       {
-         "Year": "2014",
-         "Deaths per 1,000 live births": "55.1"
+         "Country": "United Kingdom",
+         "Estimated Jewish population in thousand": "280"
       },
       {
-         "Year": "2013",
-         "Deaths per 1,000 live births": "57.3"
+         "Country": "Germany",
+         "Estimated Jewish population in thousand": "230"
       },
       {
-         "Year": "2012",
-         "Deaths per 1,000 live births": "59.5"
+         "Country": "Russia",
+         "Estimated Jewish population in thousand": "230"
       },
       {
-         "Year": "2011",
-         "Deaths per 1,000 live births": "61.9"
+         "Country": "Argentina",
+         "Estimated Jewish population in thousand": "200"
       },
       {
-         "Year": "2010",
-         "Deaths per 1,000 live births": "64.3"
+         "Country": "Australia",
+         "Estimated Jewish population in thousand": "110"
       },
       {
-         "Year": "2009",
-         "Deaths per 1,000 live births": "66.8"
+         "Country": "Brazil",
+         "Estimated Jewish population in thousand": "110"
       },
       {
-         "Year": "2008",
-         "Deaths per 1,000 live births": "69.4"
+         "Country": "Mexico",
+         "Estimated Jewish population in thousand": "70"
+      },
+      {
+         "Country": "South Africa",
+         "Estimated Jewish population in thousand": "70"
+      },
+      {
+         "Country": "Spain",
+         "Estimated Jewish population in thousand": "60"
+      },
+      {
+         "Country": "Italy",
+         "Estimated Jewish population in thousand": "50"
+      },
+      {
+         "Country": "Ukraine",
+         "Estimated Jewish population in thousand": "50"
+      },
+      {
+         "Country": "Belgium",
+         "Estimated Jewish population in thousand": "30"
+      },
+      {
+         "Country": "Netherlands",
+         "Estimated Jewish population in thousand": "30"
+      },
+      {
+         "Country": "Chile",
+         "Estimated Jewish population in thousand": "20"
+      },
+      {
+         "Country": "Moldova",
+         "Estimated Jewish population in thousand": "20"
+      },
+      {
+         "Country": "Switzerland",
+         "Estimated Jewish population in thousand": "20"
+      },
+      {
+         "Country": "Turkey",
+         "Estimated Jewish population in thousand": "20"
+      },
+      {
+         "Country": "Austria",
+         "Estimated Jewish population in thousand": "10"
+      },
+      {
+         "Country": "Hungary",
+         "Estimated Jewish population in thousand": "10"
+      },
+      {
+         "Country": "India",
+         "Estimated Jewish population in thousand": "10"
+      },
+      {
+         "Country": "Panama",
+         "Estimated Jewish population in thousand": "10"
       }
-   ]
+   ],
+   "gold": "This statistic shows the top 25 countries in the world with the largest number of Jewish population in 2010 . In 2010 , there were living about 5.7 million Jews in the United States .\n"
 }

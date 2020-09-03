@@ -1,111 +1,65 @@
 {
-   "title": "UK households : ownership of mobile telephones 1996 to 2018",
-   "xAxis": "Year",
-   "yAxis": "Percentage of respondents",
-   "columnType": "two",
-   "graphType": "line",
+   "title": "Global internet usage rate 2019 , by gender and region",
+   "labels": [
+      "Country",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
    "summary": [
-      "The statistic shows the UK of households ownership in UK 1996 . ",
-      "In 1996 , 95 percentage of households ownership in the UK were households ownership users ."
+      "This statistic illustrates the total Global internet in the gender in 2019 , usage Europe 2019 and by . ",
+      "In 2019 , about 33.8 out of 100,000 men of Africa origin died in the gender ."
    ],
    "trends": [
-      {},
       {
-         "3": "0"
+         "14": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "4": [
+            "5",
+            "1"
+         ],
+         "10": [
+            "5",
+            "0"
+         ]
       }
    ],
    "data": [
       {
-         "Year": "2017-18",
-         "Percentage of respondents": "95"
+         "Country": "Europe",
+         "Male": "84.9",
+         "Female": "80.3"
       },
       {
-         "Year": "2016-17",
-         "Percentage of respondents": "95"
+         "Country": "The Americas",
+         "Male": "77.6",
+         "Female": "76.8"
       },
       {
-         "Year": "2015-16",
-         "Percentage of respondents": "95"
+         "Country": "CIS",
+         "Male": "73.6",
+         "Female": "71"
       },
       {
-         "Year": "2014-15",
-         "Percentage of respondents": "94"
+         "Country": "Arab States",
+         "Male": "58.5",
+         "Female": "44.2"
       },
       {
-         "Year": "2014",
-         "Percentage of respondents": "94"
+         "Country": "Asia Pacific",
+         "Male": "54.6",
+         "Female": "41.3"
       },
       {
-         "Year": "2013",
-         "Percentage of respondents": "92"
-      },
-      {
-         "Year": "2012",
-         "Percentage of respondents": "87"
-      },
-      {
-         "Year": "2011",
-         "Percentage of respondents": "87"
-      },
-      {
-         "Year": "2010",
-         "Percentage of respondents": "80"
-      },
-      {
-         "Year": "2009",
-         "Percentage of respondents": "81"
-      },
-      {
-         "Year": "2008",
-         "Percentage of respondents": "79"
-      },
-      {
-         "Year": "2007",
-         "Percentage of respondents": "78"
-      },
-      {
-         "Year": "2006",
-         "Percentage of respondents": "80"
-      },
-      {
-         "Year": "2005-06",
-         "Percentage of respondents": "79"
-      },
-      {
-         "Year": "2004-05",
-         "Percentage of respondents": "78"
-      },
-      {
-         "Year": "2003-04",
-         "Percentage of respondents": "76"
-      },
-      {
-         "Year": "2002-03",
-         "Percentage of respondents": "70"
-      },
-      {
-         "Year": "2001-02",
-         "Percentage of respondents": "64"
-      },
-      {
-         "Year": "2000-01",
-         "Percentage of respondents": "47"
-      },
-      {
-         "Year": "1999-2000",
-         "Percentage of respondents": "44"
-      },
-      {
-         "Year": "1998-99",
-         "Percentage of respondents": "26"
-      },
-      {
-         "Year": "1997-98",
-         "Percentage of respondents": "20"
-      },
-      {
-         "Year": "1996-97",
-         "Percentage of respondents": "16"
+         "Country": "Africa",
+         "Male": "33.8",
+         "Female": "22.6"
       }
-   ]
+   ],
+   "gold": "There are still vast disparities between the internet access rates of male and female online users in global regions worldwide . In 2019 , 22.6 percent of Africa 's female population had online access , compared to 33.8 percent of men . In the Americas , the share of female online access was 76.8 percent .\n"
 }

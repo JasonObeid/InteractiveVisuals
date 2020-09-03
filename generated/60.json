@@ -1,88 +1,228 @@
 {
-   "title": "Net profit of airlines worldwide 2006 to 2020",
-   "xAxis": "Year",
-   "yAxis": "Net profit in billion U.S. dollars",
-   "columnType": "two",
-   "graphType": "line",
+   "title": "Higher education spending as a share of GDP worldwide 2016 , by country",
+   "labels": [
+      "Country",
+      "Public",
+      "Private"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
    "summary": [
-      "This statistic shows the worldwide profit in Net profit airlines 2020 between 2006 and 2020 . ",
-      "In 2019 , Net profit airlines 2020 is estimated to increase by 25.9 billion on the Year before . ",
-      "By 2020 , airlines is projected to grow with another 29.3 billion ."
+      "The GDP and education spending share GDP worldwide differs significantly by Country . ",
+      "As of 2016 , the Norway had the highest education spending share worldwide while the GDP expenditures were relatively in range with other developed by . ",
+      "In the same year , Finland had the highest GDP expenditures on GDP globally ."
    ],
    "trends": [
+      {},
       {
-         "13": "14",
-         "15": "0"
+         "5": [
+            "0",
+            "0"
+         ]
       },
       {
-         "1": "1",
-         "13": "1"
-      },
-      {
-         "1": "0",
-         "10": "0"
+         "5": [
+            "2",
+            "0"
+         ]
       }
    ],
    "data": [
       {
-         "Year": "2020",
-         "Net profit in billion U.S. dollars": "29.3"
+         "Country": "Norway",
+         "Public": "1.8",
+         "Private": "0.1"
       },
       {
-         "Year": "2019",
-         "Net profit in billion U.S. dollars": "25.9"
+         "Country": "Austria",
+         "Public": "1.6",
+         "Private": "0.1"
       },
       {
-         "Year": "2018",
-         "Net profit in billion U.S. dollars": "27.3"
+         "Country": "Finland",
+         "Public": "1.5",
+         "Private": "0.1"
       },
       {
-         "Year": "2017",
-         "Net profit in billion U.S. dollars": "37.6"
+         "Country": "Turkey",
+         "Public": "1.4",
+         "Private": "0.5"
       },
       {
-         "Year": "2016",
-         "Net profit in billion U.S. dollars": "34.2"
+         "Country": "Sweden",
+         "Public": "1.4",
+         "Private": "0.2"
       },
       {
-         "Year": "2015",
-         "Net profit in billion U.S. dollars": "36.0"
+         "Country": "Switzerland",
+         "Public": "1.3",
+         "Private": "0"
       },
       {
-         "Year": "2014",
-         "Net profit in billion U.S. dollars": "13.8"
+         "Country": "Canada",
+         "Public": "1.2",
+         "Private": "1.1"
       },
       {
-         "Year": "2013",
-         "Net profit in billion U.S. dollars": "10.7"
+         "Country": "Belgium",
+         "Public": "1.2",
+         "Private": "0.2"
       },
       {
-         "Year": "2012",
-         "Net profit in billion U.S. dollars": "9.2"
+         "Country": "Estonia",
+         "Public": "1.2",
+         "Private": "0.2"
       },
       {
-         "Year": "2011",
-         "Net profit in billion U.S. dollars": "8.3"
+         "Country": "Netherlands",
+         "Public": "1.1",
+         "Private": "0.5"
       },
       {
-         "Year": "2010",
-         "Net profit in billion U.S. dollars": "17.3"
+         "Country": "France",
+         "Public": "1.1",
+         "Private": "0.3"
       },
       {
-         "Year": "2009",
-         "Net profit in billion U.S. dollars": "-4.6"
+         "Country": "Argentina",
+         "Public": "1.1",
+         "Private": "0"
       },
       {
-         "Year": "2008",
-         "Net profit in billion U.S. dollars": "-26.1"
+         "Country": "Iceland",
+         "Public": "1.1",
+         "Private": "0.1"
       },
       {
-         "Year": "2007",
-         "Net profit in billion U.S. dollars": "14.7"
+         "Country": "Chile",
+         "Public": "1",
+         "Private": "1.7"
       },
       {
-         "Year": "2006",
-         "Net profit in billion U.S. dollars": "5.0"
+         "Country": "Brazil",
+         "Public": "1",
+         "Private": "0"
+      },
+      {
+         "Country": "Germany",
+         "Public": "1",
+         "Private": "0.2"
+      },
+      {
+         "Country": "Mexico",
+         "Public": "0.9",
+         "Private": "0.4"
+      },
+      {
+         "Country": "Poland",
+         "Public": "0.9",
+         "Private": "0.2"
+      },
+      {
+         "Country": "New Zealand",
+         "Public": "0.9",
+         "Private": "0.9"
+      },
+      {
+         "Country": "Australia",
+         "Public": "0.8",
+         "Private": "1.2"
+      },
+      {
+         "Country": "Israel",
+         "Public": "0.8",
+         "Private": "0.6"
+      },
+      {
+         "Country": "Slovenia",
+         "Public": "0.8",
+         "Private": "0.1"
+      },
+      {
+         "Country": "Colombia",
+         "Public": "0.8",
+         "Private": "0.8"
+      },
+      {
+         "Country": "Spain",
+         "Public": "0.8",
+         "Private": "0.4"
+      },
+      {
+         "Country": "Latvia",
+         "Public": "0.7",
+         "Private": "0.3"
+      },
+      {
+         "Country": "Korea",
+         "Public": "0.7",
+         "Private": "1.1"
+      },
+      {
+         "Country": "Slovak Republic",
+         "Public": "0.7",
+         "Private": "0.3"
+      },
+      {
+         "Country": "Czech Republic",
+         "Public": "0.7",
+         "Private": "0.2"
+      },
+      {
+         "Country": "Lithuania",
+         "Public": "0.7",
+         "Private": "0.3"
+      },
+      {
+         "Country": "Portugal",
+         "Public": "0.7",
+         "Private": "0.4"
+      },
+      {
+         "Country": "Russian Federation",
+         "Public": "0.7",
+         "Private": "0.4"
+      },
+      {
+         "Country": "Hungary",
+         "Public": "0.7",
+         "Private": "0.4"
+      },
+      {
+         "Country": "Greece",
+         "Public": "0.6",
+         "Private": "0"
+      },
+      {
+         "Country": "Ireland",
+         "Public": "0.6",
+         "Private": "0.2"
+      },
+      {
+         "Country": "South Africa",
+         "Public": "0.6",
+         "Private": "0"
+      },
+      {
+         "Country": "Italy",
+         "Public": "0.5",
+         "Private": "0.3"
+      },
+      {
+         "Country": "United Kingdom",
+         "Public": "0.5",
+         "Private": "1.2"
+      },
+      {
+         "Country": "Japan",
+         "Public": "0.4",
+         "Private": "1"
+      },
+      {
+         "Country": "Luxembourg",
+         "Public": "0.4",
+         "Private": "0"
       }
-   ]
+   ],
+   "gold": "The statistic shows the expenditure on higher education as a share of GDP in selected countries worldwide in 2016 . The United States invested 2.5 percent of its GDP in higher education in 2013 ; Public investment amounted to 0.9 of GDP and private to 1.6 percent . To find out more about the expenditure on higher education per student in selected countries worldwide in 2016 , please click here .\n"
 }

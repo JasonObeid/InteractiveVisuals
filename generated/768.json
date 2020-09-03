@@ -1,98 +1,78 @@
 {
-   "title": "Italy : volume of crude oil imported Q1 2018 , by country of origin",
-   "xAxis": "Country",
-   "yAxis": "Import volume in tons",
+   "title": "Total number of employees of the LVMH Group worldwide 2008 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Total number of employees",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the countries with the largest Import of oil imported volume in Italy and the Caribbean as of 2018 . ",
-      "Azarbaijan led the ranking , with 12298989 soldiers , followed by Iran , with 9324007 ."
+      "The statistic shows the total of employees and LVMH Group worldwide in Indonesian territorial waters from 2008 to 2019 . ",
+      "In 2019 , there were 156000 employees and LVMH Group worldwide in LVMH Group . ",
+      "Group worldwide in LVMH Group Group worldwide in Indonesian waters spiked in 2015 , when 156000 number were reported ."
    ],
    "trends": [
-      {},
       {
-         "0": "0",
-         "6": "0",
-         "11": "1",
-         "14": "1"
+         "17": "11",
+         "19": "0"
+      },
+      {
+         "1": "0",
+         "5": "0"
+      },
+      {
+         "11": "4",
+         "14": "0"
       }
    ],
    "data": [
       {
-         "Country": "Azarbaijan",
-         "Import volume in tons": "12298989"
+         "Year": "2019",
+         "Total number of employees": "156000"
       },
       {
-         "Country": "Iran",
-         "Import volume in tons": "9324007"
+         "Year": "2018",
+         "Total number of employees": "136633"
       },
       {
-         "Country": "Iraq",
-         "Import volume in tons": "2041664"
+         "Year": "2017",
+         "Total number of employees": "128637"
       },
       {
-         "Country": "Libya",
-         "Import volume in tons": "1840713"
+         "Year": "2016",
+         "Total number of employees": "116786"
       },
       {
-         "Country": "Saudi Arabia",
-         "Import volume in tons": "1825182"
+         "Year": "2015",
+         "Total number of employees": "125346"
       },
       {
-         "Country": "Russia",
-         "Import volume in tons": "1052134"
+         "Year": "2014",
+         "Total number of employees": "121289"
       },
       {
-         "Country": "Nigeria",
-         "Import volume in tons": "767828"
+         "Year": "2013",
+         "Total number of employees": "114635"
       },
       {
-         "Country": "Kazakhstan",
-         "Import volume in tons": "703232"
+         "Year": "2012",
+         "Total number of employees": "106348"
       },
       {
-         "Country": "USA",
-         "Import volume in tons": "504954"
+         "Year": "2011",
+         "Total number of employees": "97559"
       },
       {
-         "Country": "Angola",
-         "Import volume in tons": "322012"
+         "Year": "2010",
+         "Total number of employees": "83542"
       },
       {
-         "Country": "Canada",
-         "Import volume in tons": "317132"
+         "Year": "2009",
+         "Total number of employees": "77302"
       },
       {
-         "Country": "Kuwait",
-         "Import volume in tons": "312218"
-      },
-      {
-         "Country": "Egypt",
-         "Import volume in tons": "204085"
-      },
-      {
-         "Country": "Cameroon",
-         "Import volume in tons": "185753"
-      },
-      {
-         "Country": "Algeria",
-         "Import volume in tons": "155279"
-      },
-      {
-         "Country": "Equatorial Guinea",
-         "Import volume in tons": "89845"
-      },
-      {
-         "Country": "Tunisia",
-         "Import volume in tons": "56891"
-      },
-      {
-         "Country": "Mauritania",
-         "Import volume in tons": "33791"
-      },
-      {
-         "Country": "Albania",
-         "Import volume in tons": "123"
+         "Year": "2008",
+         "Total number of employees": "77087"
       }
-   ]
+   ],
+   "gold": "This timeline shows the total number of employees of the LVMH Group worldwide from 2008 to 2019 . In 2019 , the total number of employees of the LVMH Group worldwide was 156,000 .\n"
 }

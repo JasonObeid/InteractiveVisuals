@@ -1,94 +1,82 @@
 {
-   "title": "Number of FDIC-insured commercial banks in the U.S. 2002 to 2018",
-   "xAxis": "Year",
-   "yAxis": "Number of banks",
-   "columnType": "two",
+   "title": "Travel spending of U.S. travelers by age group 2015",
+   "labels": [
+      "Year",
+      "Less than 1,000 U.S. dollars",
+      "1,000-3,999 U.S. dollars",
+      "4,000-3,000 U.S. dollars",
+      "8,000-11,999 U.S. dollars",
+      "12,000-15,999 U.S. dollars",
+      "16,000-19,999 U.S. dollars",
+      "20,000-24,999 U.S. dollars",
+      "25,000 U.S. dollars or more"
+   ],
+   "columnType": "multi",
    "graphType": "line",
    "summary": [
-      "This statistic shows the FDIC Number of pumpkins from 2002 to 2018 . ",
-      "In 2018 , the banks Number of banks amounted to 4708 % . ",
-      "The FDIC production of banks amounted to about 114.73 million banks in 2018 ."
+      "The statistic shows the results of a survey concerned 35-54_years_old the Travel why consumers attended travelers in U.S. by from 55+_years_old to 21-34_years_old . ",
+      "In 55+_years_old , 23 % of respondents aged Less to than years old ."
    ],
    "trends": [
       {
-         "9": "16",
-         "11": "0"
+         "9": [
+            "1",
+            "0"
+         ],
+         "20": [
+            "2",
+            "0"
+         ],
+         "22": [
+            "0",
+            "0"
+         ]
       },
       {
-         "1": "0"
-      },
-      {
-         "12": "0"
+         "1": [
+            "2",
+            "0"
+         ],
+         "3": [
+            "2",
+            "1"
+         ]
       }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Number of banks": "4708"
+         "Year": "21-34 years old",
+         "Less than 1,000 U.S. dollars": "15",
+         "1,000-3,999 U.S. dollars": "43",
+         "4,000-3,000 U.S. dollars": "19",
+         "8,000-11,999 U.S. dollars": "6",
+         "12,000-15,999 U.S. dollars": "3",
+         "16,000-19,999 U.S. dollars": "7",
+         "20,000-24,999 U.S. dollars": "3",
+         "25,000 U.S. dollars or more": "4"
       },
       {
-         "Year": "2017",
-         "Number of banks": "4909"
+         "Year": "35-54 years old",
+         "Less than 1,000 U.S. dollars": "12",
+         "1,000-3,999 U.S. dollars": "33",
+         "4,000-3,000 U.S. dollars": "26",
+         "8,000-11,999 U.S. dollars": "14",
+         "12,000-15,999 U.S. dollars": "6",
+         "16,000-19,999 U.S. dollars": "2",
+         "20,000-24,999 U.S. dollars": "3",
+         "25,000 U.S. dollars or more": "4"
       },
       {
-         "Year": "2016",
-         "Number of banks": "5102"
-      },
-      {
-         "Year": "2015",
-         "Number of banks": "5330"
-      },
-      {
-         "Year": "2014",
-         "Number of banks": "5596"
-      },
-      {
-         "Year": "2013",
-         "Number of banks": "5836"
-      },
-      {
-         "Year": "2012",
-         "Number of banks": "6061"
-      },
-      {
-         "Year": "2011",
-         "Number of banks": "6263"
-      },
-      {
-         "Year": "2010",
-         "Number of banks": "6506"
-      },
-      {
-         "Year": "2009",
-         "Number of banks": "6813"
-      },
-      {
-         "Year": "2008",
-         "Number of banks": "7061"
-      },
-      {
-         "Year": "2007",
-         "Number of banks": "7262"
-      },
-      {
-         "Year": "2006",
-         "Number of banks": "7380"
-      },
-      {
-         "Year": "2005",
-         "Number of banks": "7507"
-      },
-      {
-         "Year": "2004",
-         "Number of banks": "7612"
-      },
-      {
-         "Year": "2003",
-         "Number of banks": "7750"
-      },
-      {
-         "Year": "2002",
-         "Number of banks": "7870"
+         "Year": "55+ years old",
+         "Less than 1,000 U.S. dollars": "23",
+         "1,000-3,999 U.S. dollars": "36",
+         "4,000-3,000 U.S. dollars": "18",
+         "8,000-11,999 U.S. dollars": "10",
+         "12,000-15,999 U.S. dollars": "5",
+         "16,000-19,999 U.S. dollars": "3",
+         "20,000-24,999 U.S. dollars": "2",
+         "25,000 U.S. dollars or more": "4"
       }
-   ]
+   ],
+   "gold": "This statistic shows amount spent on travel by U.S. travelers in 2015 , by age group . The survey revealed that 15 percent of 21 - 34 year olds spent less than 1,000 U.S. dollars on travel in the past 12 months .\n"
 }

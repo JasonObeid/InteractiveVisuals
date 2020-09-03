@@ -8,16 +8,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 10 categories for the x axis of Country representing Passenger Cars, Commercial Vehicles, Total.",
-      " The highest category is found at Germany with a mean value of 4100559.3333333335.",
-      " The second highest category is found at Spain with a mean value of 1951377.3333333333.",
+      "This grouped bar chart has 10 categories for the x axis of Country representing Passenger Cars, Commercial Vehicles, and Total.",
+      " The highest category is found at Germany with a mean value of 4100559.33.",
+      " The second highest category is found at Spain with a mean value of 1951377.33.",
       " This represents a difference of 71.0%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "3",
+            "1"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "Germany",

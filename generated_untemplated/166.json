@@ -1,0 +1,65 @@
+{
+   "title": "National Basketball Association highest-paid players ( salaries & endorsements ) 2019",
+   "labels": [
+      "Player",
+      "Salary",
+      "Endorsements"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": "This statistic shows the highest paid players in major league baseball in 2019 . mike trout of the Los Angeles Angels received a salary of 36 million U.S. dollars for the 2019 season . highest paid mlb players - additional information major league baseball players receive generous yearly salaries , along with performance incentives and endorsement deals .\n",
+   "trends": {},
+   "data": [
+      {
+         "Player": "LeBron James (Cleveland Cavaliers)",
+         "Salary": "35.7",
+         "Endorsements": "53"
+      },
+      {
+         "Player": "Stephen Curry (Golden State Warriors)",
+         "Salary": "37.5",
+         "Endorsements": "42"
+      },
+      {
+         "Player": "Kevin Durant (Golden State Warriors)",
+         "Salary": "30.0",
+         "Endorsements": "35"
+      },
+      {
+         "Player": "Russell Westbrook (Oklahoma City Thunder)",
+         "Salary": "35.7",
+         "Endorsements": "18"
+      },
+      {
+         "Player": "James Harden (Houston Rockets)",
+         "Salary": "30.4",
+         "Endorsements": "17"
+      },
+      {
+         "Player": "Chris Paul (Los Angeles Clippers)",
+         "Salary": "35.7",
+         "Endorsements": "8"
+      },
+      {
+         "Player": "Giannis Antetokounmpo (Milwaukee Bucks)",
+         "Salary": "24.2",
+         "Endorsements": "19"
+      },
+      {
+         "Player": "Damian Lillard (Portland Trail Blazers)",
+         "Salary": "28.0",
+         "Endorsements": "13"
+      },
+      {
+         "Player": "Blake Griffin (Detroit Pistons)",
+         "Salary": "32.1",
+         "Endorsements": "7"
+      },
+      {
+         "Player": "Paul George (Oklahoma City Thunder)",
+         "Salary": "30.6",
+         "Endorsements": "8"
+      }
+   ]
+}

@@ -11,16 +11,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 9 categories for the x axis of Country representing Facebook, Twitter, MySpace, Shaadi, Match, Badoo.",
-      " The highest category is found at Indonesia with a mean value of 22.166666666666668.",
+      "This grouped bar chart has 9 categories for the x axis of Country representing Facebook, Twitter, MySpace, Shaadi, Match, and Badoo.",
+      " The highest category is found at Indonesia with a mean value of 22.17.",
       " The second highest category is found at Vietnam with a mean value of 20.5.",
       " This represents a difference of 7.8%."
    ],
-   "trends": {
-      "maxIndex": 1,
-      "secondIndex": 1
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "6",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "14": [
+            "6",
+            "3"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "India",

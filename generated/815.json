@@ -1,113 +1,99 @@
 {
-   "title": "Distribution of U.S. toy manufacturer Mattel 's sales by customer 2019",
-   "labels": [
-      "Year",
-      "Wal-Mart",
-      "Toys 'R' Us",
-      "Target"
-   ],
-   "columnType": "multi",
+   "title": "Franchise value of the Oakland Raiders ( NFL ) 2002 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Franchise value in million U.S. dollars",
+   "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Distribution of U.S. in the Mattel manufacturer Distribution of 's under Mattel from 2007 to 2019 . ",
-      "Just over seven percent U.S. had three or Target 's under 18 % in the household in 2019 ."
+      "This graph depicts the Franchise value of the Oakland Raiders of the National Football League from 2002 to 2019 . ",
+      "In 2019 , the Franchise value came to 2900 million U.S. dollars . ",
+      "The Oakland Raiders are owned by Dee and Jimmy Haslam ."
    ],
    "trends": [
       {
-         "17": [
-            "12",
-            "0"
-         ],
-         "19": [
-            "0",
-            "0"
-         ]
+         "15": "17",
+         "17": "0"
       },
       {
-         "17": [
-            "0",
-            "0"
-         ]
-      }
+         "1": "0",
+         "8": "0"
+      },
+      {}
    ],
    "data": [
       {
          "Year": "2019",
-         "Wal-Mart": "1.01",
-         "Toys 'R' Us": "0",
-         "Target": "0.44"
+         "Franchise value in million U.S. dollars": "2900"
       },
       {
          "Year": "2018",
-         "Wal-Mart": "1.07",
-         "Toys 'R' Us": "0",
-         "Target": "0.45"
+         "Franchise value in million U.S. dollars": "2420"
       },
       {
          "Year": "2017",
-         "Wal-Mart": "1.02",
-         "Toys 'R' Us": "0.4",
-         "Target": "0.37"
+         "Franchise value in million U.S. dollars": "2380"
       },
       {
          "Year": "2016",
-         "Wal-Mart": "1.1",
-         "Toys 'R' Us": "0.6",
-         "Target": "0.4"
+         "Franchise value in million U.S. dollars": "2100"
       },
       {
          "Year": "2015",
-         "Wal-Mart": "1.0",
-         "Toys 'R' Us": "0.6",
-         "Target": "0.5"
+         "Franchise value in million U.S. dollars": "1430"
       },
       {
          "Year": "2014",
-         "Wal-Mart": "1.1",
-         "Toys 'R' Us": "0.6",
-         "Target": "0.5"
+         "Franchise value in million U.S. dollars": "970"
       },
       {
          "Year": "2013",
-         "Wal-Mart": "1.2",
-         "Toys 'R' Us": "0.7",
-         "Target": "0.5"
+         "Franchise value in million U.S. dollars": "825"
       },
       {
          "Year": "2012",
-         "Wal-Mart": "1.2",
-         "Toys 'R' Us": "0.7",
-         "Target": "0.5"
+         "Franchise value in million U.S. dollars": "785"
       },
       {
          "Year": "2011",
-         "Wal-Mart": "1.2",
-         "Toys 'R' Us": "0.7",
-         "Target": "0.5"
+         "Franchise value in million U.S. dollars": "761"
       },
       {
          "Year": "2010",
-         "Wal-Mart": "1.1",
-         "Toys 'R' Us": "0.8",
-         "Target": "0.5"
+         "Franchise value in million U.S. dollars": "758"
       },
       {
          "Year": "2009",
-         "Wal-Mart": "1.0",
-         "Toys 'R' Us": "0.7",
-         "Target": "0.5"
+         "Franchise value in million U.S. dollars": "797"
       },
       {
          "Year": "2008",
-         "Wal-Mart": "1.1",
-         "Toys 'R' Us": "0.7",
-         "Target": "0.5"
+         "Franchise value in million U.S. dollars": "861"
       },
       {
          "Year": "2007",
-         "Wal-Mart": "1.1",
-         "Toys 'R' Us": "0.7",
-         "Target": "0.6"
+         "Franchise value in million U.S. dollars": "812"
+      },
+      {
+         "Year": "2006",
+         "Franchise value in million U.S. dollars": "736"
+      },
+      {
+         "Year": "2005",
+         "Franchise value in million U.S. dollars": "676"
+      },
+      {
+         "Year": "2004",
+         "Franchise value in million U.S. dollars": "624"
+      },
+      {
+         "Year": "2003",
+         "Franchise value in million U.S. dollars": "576"
+      },
+      {
+         "Year": "2002",
+         "Franchise value in million U.S. dollars": "421"
       }
-   ]
+   ],
+   "gold": "This graph depicts the franchise value of the Oakland Raiders from the National Football League from 2002 to 2019 . In 2019 , the franchise value amounted to around 2.9 billion U.S. dollars .\n"
 }

@@ -1,60 +1,64 @@
 {
-   "title": "Top U.S. states based on number of farms 2018",
-   "xAxis": "State",
-   "yAxis": "Number of farms",
-   "columnType": "two",
+   "title": "Amount spent on smartphone accessories by U.S. consumers 2010",
+   "labels": [
+      "Response",
+      "Under $50",
+      "$50 - $100",
+      "$100 - $200",
+      "$200 and up"
+   ],
+   "columnType": "multi",
    "graphType": "bar",
    "summary": [
-      "This statistic shows the U.S. states the based Number 2018 from number as of 2018 . ",
-      "As of this time , Texas had the based number farms states 248000 deaths states number as the underlying cause of Number farms % ."
+      "The survey shows result of survey on Amount of Android_owners in U.S. by in the country as of 2016 . ",
+      "The results were split my respondents ' 2010 . ",
+      "During the survey , 19 of Afrian - respondents stated U.S. by did a Android_owners of potraying Android_owners ."
    ],
    "trends": [
+      {
+         "9": [
+            "0",
+            "0"
+         ]
+      },
       {},
       {
-         "5": "0",
-         "13": "0"
+         "4": [
+            "0",
+            "2"
+         ],
+         "14": [
+            "0",
+            "0"
+         ],
+         "17": [
+            "0",
+            "0"
+         ]
       }
    ],
    "data": [
       {
-         "State": "Texas",
-         "Number of farms": "248000"
+         "Response": "Android owners",
+         "Under $50": "60",
+         "$50 - $100": "19",
+         "$100 - $200": "8",
+         "$200 and up": "6"
       },
       {
-         "State": "Missouri",
-         "Number of farms": "95000"
+         "Response": "iPhone owners",
+         "Under $50": "33",
+         "$50 - $100": "33",
+         "$100 - $200": "19",
+         "$200 and up": "9"
       },
       {
-         "State": "Iowa",
-         "Number of farms": "86000"
-      },
-      {
-         "State": "Ohio",
-         "Number of farms": "77800"
-      },
-      {
-         "State": "Oklahoma",
-         "Number of farms": "77300"
-      },
-      {
-         "State": "Kentucky",
-         "Number of farms": "75100"
-      },
-      {
-         "State": "Illinois",
-         "Number of farms": "72000"
-      },
-      {
-         "State": "California",
-         "Number of farms": "69400"
-      },
-      {
-         "State": "Minnesota",
-         "Number of farms": "68500"
-      },
-      {
-         "State": "Wisconsin",
-         "Number of farms": "64800"
+         "Response": "BlackBerry owners",
+         "Under $50": "47",
+         "$50 - $100": "31",
+         "$100 - $200": "15",
+         "$200 and up": "1"
       }
-   ]
+   ],
+   "gold": "This statistic shows the results of a survey conducted in 2010 in the United States asking smartphone users how much they have spent on accessories for their cell phone . The survey revealed that 60 percent of Android owners spent under 50 U.S. dollars on accessories for their mobile phone .\n"
 }

@@ -1,63 +1,114 @@
 {
-   "title": "Total federal drug control spending in the U.S. 2013 to 2020",
-   "xAxis": "Year",
-   "yAxis": "Total spending in million U.S. dollars",
+   "title": "Average player salary in MLS by team 2018",
+   "xAxis": "Team",
+   "yAxis": "Salary in thousand U.S. dollars",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the average amount of federal drug control generated between 2011 and 2020_(Request) in the Total . ",
-      "In 2020_(Request) , approximately 24365.5 million of federal drug control were generated here ."
+      "The statistic shows a ranking of MLS Soccer according to their Salary thousand . ",
+      "Toronto_FC had an Salary 2018 of 902.41 thousand dollars in the 2018 MLS season ."
    ],
    "trends": [
+      {},
       {
-         "12": "0",
-         "14": "9"
-      },
-      {
-         "1": "9",
-         "4": "0"
+         "0": "0",
+         "6": "0"
       }
    ],
    "data": [
       {
-         "Year": "2011",
-         "Total spending in million U.S. dollars": "24365.5"
+         "Team": "Toronto FC",
+         "Salary in thousand U.S. dollars": "902.41"
       },
       {
-         "Year": "2012",
-         "Total spending in million U.S. dollars": "24504.1"
+         "Team": "LA Galaxy",
+         "Salary in thousand U.S. dollars": "648.15"
       },
       {
-         "Year": "2013",
-         "Total spending in million U.S. dollars": "23809.6"
+         "Team": "New York City FC",
+         "Salary in thousand U.S. dollars": "544.23"
       },
       {
-         "Year": "2014",
-         "Total spending in million U.S. dollars": "25733.1"
+         "Team": "Chicago Fire",
+         "Salary in thousand U.S. dollars": "492.86"
       },
       {
-         "Year": "2015",
-         "Total spending in million U.S. dollars": "25892.9"
+         "Team": "Los Angeles FC",
+         "Salary in thousand U.S. dollars": "479.64"
       },
       {
-         "Year": "2016",
-         "Total spending in million U.S. dollars": "26874.0"
+         "Team": "Seattle Sounders FC",
+         "Salary in thousand U.S. dollars": "421.48"
       },
       {
-         "Year": "2017",
-         "Total spending in million U.S. dollars": "28813.3"
+         "Team": "Portland Timbers",
+         "Salary in thousand U.S. dollars": "417.33"
       },
       {
-         "Year": "2018 (Final)",
-         "Total spending in million U.S. dollars": "33358.7"
+         "Team": "Montreal Impact",
+         "Salary in thousand U.S. dollars": "383.55"
       },
       {
-         "Year": "2019 (Enacted)",
-         "Total spending in million U.S. dollars": "33312.3"
+         "Team": "Colorado Rapids",
+         "Salary in thousand U.S. dollars": "366.67"
       },
       {
-         "Year": "2020 (Request)",
-         "Total spending in million U.S. dollars": "34577.3"
+         "Team": "Atlanta United",
+         "Salary in thousand U.S. dollars": "364.94"
+      },
+      {
+         "Team": "Sporting Kansas City",
+         "Salary in thousand U.S. dollars": "327.86"
+      },
+      {
+         "Team": "Orlando City SC",
+         "Salary in thousand U.S. dollars": "309.66"
+      },
+      {
+         "Team": "Philadelphia Union",
+         "Salary in thousand U.S. dollars": "307.59"
+      },
+      {
+         "Team": "FC Dallas",
+         "Salary in thousand U.S. dollars": "300.97"
+      },
+      {
+         "Team": "Real Salt Lake",
+         "Salary in thousand U.S. dollars": "299.33"
+      },
+      {
+         "Team": "New England Revolution",
+         "Salary in thousand U.S. dollars": "272.8"
+      },
+      {
+         "Team": "Minnesota United FC",
+         "Salary in thousand U.S. dollars": "271.67"
+      },
+      {
+         "Team": "San Jose Earthquakes",
+         "Salary in thousand U.S. dollars": "268.62"
+      },
+      {
+         "Team": "New York Red Bulls",
+         "Salary in thousand U.S. dollars": "265.17"
+      },
+      {
+         "Team": "D.C. United",
+         "Salary in thousand U.S. dollars": "259.23"
+      },
+      {
+         "Team": "Columbus Crew SC",
+         "Salary in thousand U.S. dollars": "258.15"
+      },
+      {
+         "Team": "Vancouver Whitecaps FC",
+         "Salary in thousand U.S. dollars": "257.19"
+      },
+      {
+         "Team": "Houston Dynamo",
+         "Salary in thousand U.S. dollars": "195.52"
       }
-   ]
+   ],
+   "gold": "The statistic shows the average player salary in Major League Soccer by team in 2018 . The average player salary in Toronto FC amounted to about 902 thousand U.S. dollars .\n"
 }

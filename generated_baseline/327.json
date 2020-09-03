@@ -8,16 +8,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 24 categories for the x axis of Quarter representing North America, Europe, Rest of World.",
-      " The highest category is found at Q4 '19 with a mean value of 72.33333333333333.",
+      "This grouped bar chart has 24 categories for the x axis of Quarter representing North America, Europe, and Rest of World.",
+      " The highest category is found at Q4 '19 with a mean value of 72.33.",
       " The second highest category is found at Q3 '19 with a mean value of 70.0.",
       " This represents a difference of 3.3%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "3",
+            "1"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Quarter": "Q4 '19",

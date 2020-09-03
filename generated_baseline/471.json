@@ -4,15 +4,24 @@
    "yAxis": "Market share",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 9 categories for the x axis representing Mobile Carrier, and a y axis representing Market share.",
       " The highest category is found at BT_(including_EE) where Market share is 28.0.",
       " The lowest category is found at Talk_Talk where Market share is 1.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 6
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 6,
+         "12": 6
+      },
+      {}
+   ],
    "data": [
       {
          "Mobile Carrier": "BT (including EE)",

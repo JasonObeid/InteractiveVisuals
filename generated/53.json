@@ -1,99 +1,73 @@
 {
-   "title": "U.S. per capita consumption of fresh broccoli 2000 to 2018",
-   "xAxis": "Year",
-   "yAxis": "Per capita consumption in pounds",
+   "title": "World nuclear power consumption by country 2018",
+   "xAxis": "Country",
+   "yAxis": "Share of nuclear power consumption",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Per capita consumption of fresh broccoli in the U.S. from 2000 to 2018 . ",
-      "According to the report , the U.S. Per capita consumption of fresh broccoli amounted to approximately 5.9 pounds in 2018 ."
+      "This statistic displays the distribution of the total World Share consumption in 2018/2019 , broken down by Country . ",
+      "According to the report , the United_States was responsible for over a third of the world 's Share that year . ",
+      "Most of the U.S. Share is attributable to the World Belt , which is located in the Midwest of the United_States ."
    ],
    "trends": [
+      {},
       {
-         "14": "18",
-         "16": "0"
+         "6": "0"
       },
       {
-         "16": "0",
-         "19": "0"
+         "20": "0"
       }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Per capita consumption in pounds": "5.9"
+         "Country": "United States",
+         "Share of nuclear power consumption": "31.4"
       },
       {
-         "Year": "2017",
-         "Per capita consumption in pounds": "7.1"
+         "Country": "France",
+         "Share of nuclear power consumption": "15.3"
       },
       {
-         "Year": "2016",
-         "Per capita consumption in pounds": "7.5"
+         "Country": "China",
+         "Share of nuclear power consumption": "10.9"
       },
       {
-         "Year": "2015",
-         "Per capita consumption in pounds": "7.4"
+         "Country": "Russian Federation",
+         "Share of nuclear power consumption": "7.6"
       },
       {
-         "Year": "2014",
-         "Per capita consumption in pounds": "6.6"
+         "Country": "South Korea",
+         "Share of nuclear power consumption": "4.9"
       },
       {
-         "Year": "2013",
-         "Per capita consumption in pounds": "6.9"
+         "Country": "Canada",
+         "Share of nuclear power consumption": "3.7"
       },
       {
-         "Year": "2012",
-         "Per capita consumption in pounds": "6.3"
+         "Country": "Ukraine",
+         "Share of nuclear power consumption": "3.1"
       },
       {
-         "Year": "2011",
-         "Per capita consumption in pounds": "5.9"
+         "Country": "Germany",
+         "Share of nuclear power consumption": "2.8"
       },
       {
-         "Year": "2010",
-         "Per capita consumption in pounds": "5.6"
+         "Country": "UK",
+         "Share of nuclear power consumption": "2.4"
       },
       {
-         "Year": "2009",
-         "Per capita consumption in pounds": "6.2"
+         "Country": "Sweden",
+         "Share of nuclear power consumption": "2.5"
       },
       {
-         "Year": "2008",
-         "Per capita consumption in pounds": "6.0"
+         "Country": "Spain",
+         "Share of nuclear power consumption": "2.1"
       },
       {
-         "Year": "2007",
-         "Per capita consumption in pounds": "5.6"
-      },
-      {
-         "Year": "2006",
-         "Per capita consumption in pounds": "5.8"
-      },
-      {
-         "Year": "2005",
-         "Per capita consumption in pounds": "5.3"
-      },
-      {
-         "Year": "2004",
-         "Per capita consumption in pounds": "5.3"
-      },
-      {
-         "Year": "2003",
-         "Per capita consumption in pounds": "5.3"
-      },
-      {
-         "Year": "2002",
-         "Per capita consumption in pounds": "5.4"
-      },
-      {
-         "Year": "2001",
-         "Per capita consumption in pounds": "5.4"
-      },
-      {
-         "Year": "2000",
-         "Per capita consumption in pounds": "5.9"
+         "Country": "Japan",
+         "Share of nuclear power consumption": "1.8"
       }
-   ]
+   ],
+   "gold": "This statistic represents the percentage of world nuclear power consumption in 2018 , by country . That year , the United States accounted for more than one third of the total nuclear power consumption worldwide .\n"
 }

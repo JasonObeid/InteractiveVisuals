@@ -1,83 +1,63 @@
 {
-   "title": "U.S. wage and salary workers : weekly earnings by education and gender 2019",
+   "title": "BMI : adult 's body mass index in England 2018 , by gender and age",
    "labels": [
-      "unknown",
+      "Year",
       "Men",
       "Women"
    ],
    "columnType": "multi",
-   "graphType": "bar",
+   "graphType": "line",
    "summary": [
-      "This statistic shows the U.S. wage salary of workers High_school_no_college care Advanced_degree to Men and Women consumers in the U.S. , according to a survey conducted in 2013 . ",
-      "High_school_no_college moisturising and hydrating salary were considered the U.S. wage salary High_school_no_college both genders , with 865 % of women stating this as wage . ",
-      "The Some_college_or_associate's_degree moisturiser market takes up the largest proportion of the workers High_school_no_college care market with a share of 41.6 % in 2019 ."
+      "This statistic shows the BMI adult 's body in the England in 2018 , England by and 2018 . ",
+      "In 2018 , the BMI adult 's body for the England adult was 24.5 England dollars . ",
+      "This study defined Women Men 's households as those with an 's between 67 and 200 % of the England in 2018 ."
    ],
    "trends": [
+      {},
       {
-         "9": [
-            "2",
-            "0"
-         ],
-         "11": [
-            "5",
-            "0"
-         ]
-      },
-      {
-         "0": [
-            "2",
-            "0"
-         ],
-         "11": [
-            "2",
-            "0"
-         ],
-         "16": [
+         "13": [
             "0",
             "2"
          ]
       },
-      {
-         "1": [
-            "3",
-            "0"
-         ],
-         "12": [
-            "2",
-            "0"
-         ]
-      }
+      {}
    ],
    "data": [
       {
-         "unknown": "Total",
-         "Men": "1070",
-         "Women": "865"
+         "Year": "16-24 years",
+         "Men": "24.4",
+         "Women": "24.5"
       },
       {
-         "unknown": "Less than a high school diploma",
-         "Men": "644",
-         "Women": "494"
+         "Year": "25-34 years",
+         "Men": "26.2",
+         "Women": "26.9"
       },
       {
-         "unknown": "High school no college",
-         "Men": "844",
-         "Women": "633"
+         "Year": "35-44 years",
+         "Men": "27.4",
+         "Women": "27.7"
       },
       {
-         "unknown": "Some college or associate's degree",
-         "Men": "991",
-         "Women": "737"
+         "Year": "45-54 years",
+         "Men": "28.8",
+         "Women": "28.4"
       },
       {
-         "unknown": "Bachelor's degree",
-         "Men": "1442",
-         "Women": "1100"
+         "Year": "55-64 years",
+         "Men": "29.0",
+         "Women": "28.3"
       },
       {
-         "unknown": "Advanced degree",
-         "Men": "1878",
-         "Women": "1365"
+         "Year": "65-74 years",
+         "Men": "28.6",
+         "Women": "28.5"
+      },
+      {
+         "Year": "75 years and over",
+         "Men": "27.8",
+         "Women": "27.7"
       }
-   ]
+   ],
+   "gold": "In 2018 , men aged 55 to 64 years had an average body mass index ( BMI ) of 29 kg/m2 and women aged 65 to 74 years had a BMI of 28.3 kg/m2 , the highest mean BMI among both genders across all the age groups . Apart from individuals aged 16 to 24 years , every demographic in England had an average BMI which is classified as overweight , indicating there is a problem with overweightness in England . An increasing problem It is shown that the mean BMI of individuals for both men and women has been generally increasing year-on-year in England .\n"
 }

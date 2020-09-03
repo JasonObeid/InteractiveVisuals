@@ -1,74 +1,118 @@
 {
-   "title": "Real GDP of New York , by industry 2018\n",
-   "xAxis": "Industry",
-   "yAxis": "Real value added in billion chained (2012) U.S. dollars",
-   "columnType": "two",
-   "graphType": "bar",
-   "summary": [
-      "This bar chart has 14 categories for the x axis representing Industry, and a y axis representing Real value added in billion chained (2012) U.S. dollars.",
-      " The highest category is found at Finance_insurance_real_estate_rental_and_leasing where Real value added in billion chained (2012) U.S. dollars is 418.87.",
-      " The lowest category is found at Mining_quarrying_and_oil_and_gas_extraction where Real value added in billion chained (2012) U.S. dollars is 1.2."
+   "title": "Population in China 2008 - 2018 , by gender",
+   "labels": [
+      "Year",
+      "Male",
+      "Female"
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 13
-   },
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 2 lines.",
+      " The line representing Male had the highest values across Year with a mean value of 697.5.",
+      " This peaked at 2018 with a value of 713.0. ",
+      " The line with the second highest values was Female with a mean value of 663.1.",
+      " This line peaked at 2018 with a value of 681.0"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "10",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "10": [
+            "0",
+            "1"
+         ]
+      }
+   ],
    "data": [
       {
-         "Industry": "Finance insurance real estate rental and leasing",
-         "Real value added in billion chained (2012) U.S. dollars": 418.87
+         "Year": "2018",
+         "Male": "713.51",
+         "Female": "681.87"
       },
       {
-         "Industry": "Professional and business services",
-         "Real value added in billion chained (2012) U.S. dollars": 200.09
+         "Year": "2017",
+         "Male": "711.37",
+         "Female": "678.71"
       },
       {
-         "Industry": "Government and government enterprises",
-         "Real value added in billion chained (2012) U.S. dollars": 151.94
+         "Year": "2016",
+         "Male": "708.15",
+         "Female": "674.56"
       },
       {
-         "Industry": "Information",
-         "Real value added in billion chained (2012) U.S. dollars": 143.64
+         "Year": "2015",
+         "Male": "704.14",
+         "Female": "670.48"
       },
       {
-         "Industry": "Educational services health care and social assistance",
-         "Real value added in billion chained (2012) U.S. dollars": 141.49
+         "Year": "2014",
+         "Male": "700.79",
+         "Female": "667.03"
       },
       {
-         "Industry": "Wholesale trade",
-         "Real value added in billion chained (2012) U.S. dollars": 70.45
+         "Year": "2013",
+         "Male": "697.28",
+         "Female": "663.44"
       },
       {
-         "Industry": "Retail trade",
-         "Real value added in billion chained (2012) U.S. dollars": 69.22
+         "Year": "2012",
+         "Male": "693.95",
+         "Female": "660.09"
       },
       {
-         "Industry": "Manufacturing",
-         "Real value added in billion chained (2012) U.S. dollars": 65.79
+         "Year": "2011",
+         "Male": "690.68",
+         "Female": "656.67"
       },
       {
-         "Industry": "Arts entertainment recreation accommodation and food services",
-         "Real value added in billion chained (2012) U.S. dollars": 61.7
+         "Year": "2010",
+         "Male": "687.48",
+         "Female": "653.43"
       },
       {
-         "Industry": "Construction",
-         "Real value added in billion chained (2012) U.S. dollars": 39.87
+         "Year": "2009",
+         "Male": "686.47",
+         "Female": "648.03"
       },
       {
-         "Industry": "Transportation and warehousing",
-         "Real value added in billion chained (2012) U.S. dollars": 28.29
-      },
-      {
-         "Industry": "Utilities",
-         "Real value added in billion chained (2012) U.S. dollars": 20.17
-      },
-      {
-         "Industry": "Agriculture forestry fishing and hunting",
-         "Real value added in billion chained (2012) U.S. dollars": 3.3
-      },
-      {
-         "Industry": "Mining quarrying and oil and gas extraction",
-         "Real value added in billion chained (2012) U.S. dollars": 1.2
+         "Year": "2008",
+         "Male": "683.57",
+         "Female": "644.45"
       }
    ]
 }

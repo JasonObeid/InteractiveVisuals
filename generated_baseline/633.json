@@ -4,15 +4,24 @@
    "yAxis": "Costs in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 8 categories for the x axis representing Breakdown of Project, and a y axis representing Costs in million U.S. dollars.",
       " The highest category is found at Stadium_construction_&_renovation where Costs in million U.S. dollars is 3600.0.",
       " The lowest category is found at Tourism_infrastructure_projects where Costs in million U.S. dollars is 76.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 7
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
    "data": [
       {
          "Breakdown of Project": "Stadium construction & renovation",

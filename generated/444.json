@@ -1,109 +1,84 @@
 {
-   "title": "Unemployment rate in South Africa 2019",
-   "xAxis": "Year",
-   "yAxis": "Unemployment rate",
+   "title": "Global YouTube usage for music consumption 2017 , by country",
+   "xAxis": "Country",
+   "yAxis": "Share of respondents",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the Unemployment rate in South Africa from 1999 to 2019 . ",
-      "In 2019 , the Unemployment rate in South Africa was at about 27.32 % . ",
-      "Trade in South Africa is a growing market and recognized as one of the world 's newest industrialized countries ."
+      "This statistic shows the usage considered to be the YouTube for in 2017 , based on a survey conducted in six usage . ",
+      "Of respondents , 97 % viewed Mexico as a Country with YouTube people , with the United Kingdom ( Brazil ) following at 95 % . ",
+      "In 2016 a similar report on YouTube reputable usage also found Mexico to have one of the best reputations for , next to Sweden ."
    ],
    "trends": [
+      {},
       {
-         "9": "20",
-         "11": "0"
+         "3": "0",
+         "6": "0",
+         "19": "1",
+         "23": "1"
       },
       {
-         "1": "0",
          "11": "0"
-      },
-      {}
+      }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Unemployment rate": "27.32"
+         "Country": "Mexico",
+         "Share of respondents": "97"
       },
       {
-         "Year": "2018",
-         "Unemployment rate": "26.96"
+         "Country": "Brazil",
+         "Share of respondents": "95"
       },
       {
-         "Year": "2017",
-         "Unemployment rate": "27.33"
+         "Country": "Italy",
+         "Share of respondents": "90"
       },
       {
-         "Year": "2016",
-         "Unemployment rate": "26.55"
+         "Country": "Spain",
+         "Share of respondents": "90"
       },
       {
-         "Year": "2015",
-         "Unemployment rate": "25.16"
+         "Country": "South Korea",
+         "Share of respondents": "86"
       },
       {
-         "Year": "2014",
-         "Unemployment rate": "24.9"
+         "Country": "Canada",
+         "Share of respondents": "84"
       },
       {
-         "Year": "2013",
-         "Unemployment rate": "24.57"
+         "Country": "Total",
+         "Share of respondents": "83"
       },
       {
-         "Year": "2012",
-         "Unemployment rate": "24.73"
+         "Country": "Germany",
+         "Share of respondents": "82"
       },
       {
-         "Year": "2011",
-         "Unemployment rate": "24.65"
+         "Country": "United States",
+         "Share of respondents": "82"
       },
       {
-         "Year": "2010",
-         "Unemployment rate": "24.69"
+         "Country": "France",
+         "Share of respondents": "81"
       },
       {
-         "Year": "2009",
-         "Unemployment rate": "23.54"
+         "Country": "Great Britain",
+         "Share of respondents": "79"
       },
       {
-         "Year": "2008",
-         "Unemployment rate": "22.43"
+         "Country": "Sweden",
+         "Share of respondents": "79"
       },
       {
-         "Year": "2007",
-         "Unemployment rate": "26.67"
+         "Country": "Australia",
+         "Share of respondents": "77"
       },
       {
-         "Year": "2006",
-         "Unemployment rate": "28.49"
-      },
-      {
-         "Year": "2005",
-         "Unemployment rate": "29.25"
-      },
-      {
-         "Year": "2004",
-         "Unemployment rate": "29.58"
-      },
-      {
-         "Year": "2003",
-         "Unemployment rate": "32.46"
-      },
-      {
-         "Year": "2002",
-         "Unemployment rate": "33.47"
-      },
-      {
-         "Year": "2001",
-         "Unemployment rate": "30.9"
-      },
-      {
-         "Year": "2000",
-         "Unemployment rate": "30.23"
-      },
-      {
-         "Year": "1999",
-         "Unemployment rate": "30.2"
+         "Country": "Japan",
+         "Share of respondents": "72"
       }
-   ]
+   ],
+   "gold": "This statistic shows the share of global users who have accessed YouTube to consume music as of 2017 , sorted by country . During the survey period , 82 percent of respondents from the United States said that they had used YouTube for music .\n"
 }

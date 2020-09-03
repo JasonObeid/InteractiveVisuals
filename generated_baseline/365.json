@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 5 categories for the x axis of Movie representing North America, Worldwide.",
-      " The highest category is found at Jurassic World with a mean value of 1161.9850000000001.",
-      " The second highest category is found at Jurassic World: Fallen Kingdom with a mean value of 860.785.",
+      "This grouped bar chart has 5 categories for the x axis of Movie representing North America, and Worldwide.",
+      " The highest category is found at Jurassic World with a mean value of 1161.99.",
+      " The second highest category is found at Jurassic World: Fallen Kingdom with a mean value of 860.78.",
       " This represents a difference of 29.8%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "4"
+         ],
+         "14": [
+            "2",
+            "4"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Movie": "Jurassic World",

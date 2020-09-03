@@ -1,58 +1,130 @@
 {
-   "title": "Leading video gaming brands on Twitter 2018 , by followers\n",
-   "xAxis": "Brand",
-   "yAxis": "Brand fans in millions",
-   "columnType": "two",
-   "graphType": "bar",
-   "summary": [
-      "This bar chart has 10 categories for the x axis representing Brand, and a y axis representing Brand fans in millions.",
-      " The highest category is found at PlayStation where Brand fans in millions is 15.63.",
-      " The lowest category is found at League_of_Legends where Brand fans in millions is 4.36."
+   "title": "Employment by economic sector in Latin America and the Caribbean 2019",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 9
-   },
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 3 lines.",
+      " The line representing Services had the highest values across Year with a mean value of 63.6.",
+      " This peaked at 2019 with a value of 65.1. ",
+      " The line with the second highest values was Industry with a mean value of 21.3.",
+      " This line peaked at 2014 with a value of 21.8"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "16": [
+            "10",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "2"
+         ],
+         "9": [
+            "0",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "10": [
+            "0",
+            "1"
+         ]
+      }
+   ],
    "data": [
       {
-         "Brand": "PlayStation",
-         "Brand fans in millions": 15.63
+         "Year": "2019",
+         "Agriculture": "13.94",
+         "Industry": "20.95",
+         "Services": "65.11"
       },
       {
-         "Brand": "Xbox",
-         "Brand fans in millions": 12.87
+         "Year": "2018",
+         "Agriculture": "14.02",
+         "Industry": "20.99",
+         "Services": "64.99"
       },
       {
-         "Brand": "Nintendo of America",
-         "Brand fans in millions": 9.44
+         "Year": "2017",
+         "Agriculture": "14.07",
+         "Industry": "21.04",
+         "Services": "64.89"
       },
       {
-         "Brand": "Rockstar Games",
-         "Brand fans in millions": 9.31
+         "Year": "2016",
+         "Agriculture": "14.16",
+         "Industry": "21.2",
+         "Services": "64.64"
       },
       {
-         "Brand": "Ubisoft",
-         "Brand fans in millions": 7.11
+         "Year": "2015",
+         "Agriculture": "14.17",
+         "Industry": "21.64",
+         "Services": "64.19"
       },
       {
-         "Brand": "EA SPORTS FIFA",
-         "Brand fans in millions": 6.4
+         "Year": "2014",
+         "Agriculture": "14.36",
+         "Industry": "21.82",
+         "Services": "63.81"
       },
       {
-         "Brand": "Sonic the Hedgehog",
-         "Brand fans in millions": 5.76
+         "Year": "2013",
+         "Agriculture": "14.66",
+         "Industry": "21.65",
+         "Services": "63.69"
       },
       {
-         "Brand": "Fortnite",
-         "Brand fans in millions": 5.64
+         "Year": "2012",
+         "Agriculture": "15.01",
+         "Industry": "21.75",
+         "Services": "63.24"
       },
       {
-         "Brand": "Electronic Arts",
-         "Brand fans in millions": 5.19
+         "Year": "2011",
+         "Agriculture": "16.54",
+         "Industry": "21.36",
+         "Services": "62.1"
       },
       {
-         "Brand": "League of Legends",
-         "Brand fans in millions": 4.36
+         "Year": "2010",
+         "Agriculture": "16.85",
+         "Industry": "21.44",
+         "Services": "61.71"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "17.18",
+         "Industry": "21.48",
+         "Services": "61.34"
       }
    ]
 }

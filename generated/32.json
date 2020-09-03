@@ -1,100 +1,62 @@
 {
-   "title": "Average wind speed in the United Kingdom ( UK ) 2001 to 2018",
-   "xAxis": "Year",
-   "yAxis": "wind speed in knots",
-   "columnType": "two",
+   "title": "Liver cirrhosis deaths : Canada 2002 , 2012 , and 2016",
+   "labels": [
+      "Year",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
    "graphType": "line",
    "summary": [
-      "This statistic shows the percentage of speed who use the Average in the UK from 2001 and 2019 . ",
-      "In the most recent measured Year , 8.2 % of United Kingdom speed were reported to use the Average at least occasionally , up from 9.0 % in 2011 ."
+      "This statistic shows the death rate from Liver cirrhosis in the Canada in 2016 , 2012 and 2002 , by gender . ",
+      "In 2002 , there were 10.4 Male deaths per 100,000 population , aged 10.6 years and over , resulting from cirrhosis of the Liver in the Canada ."
    ],
    "trends": [
       {
-         "15": "18",
-         "17": "0"
+         "13": [
+            "2",
+            "0"
+         ],
+         "15": [
+            "1",
+            "0"
+         ],
+         "17": [
+            "0",
+            "0"
+         ]
       },
       {
-         "7": "0",
-         "24": "8",
-         "27": "8"
+         "1": [
+            "0",
+            "0"
+         ],
+         "5": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "1",
+            "1"
+         ]
       }
    ],
    "data": [
       {
-         "Year": "2019",
-         "wind speed in knots": "8.2"
-      },
-      {
-         "Year": "2018",
-         "wind speed in knots": "8.5"
-      },
-      {
-         "Year": "2017",
-         "wind speed in knots": "8.7"
-      },
-      {
-         "Year": "2016",
-         "wind speed in knots": "8.4"
-      },
-      {
-         "Year": "2015",
-         "wind speed in knots": "9.4"
-      },
-      {
-         "Year": "2014",
-         "wind speed in knots": "8.7"
-      },
-      {
-         "Year": "2013",
-         "wind speed in knots": "8.6"
+         "Year": "2002",
+         "Male": "10.4",
+         "Female": "4.7"
       },
       {
          "Year": "2012",
-         "wind speed in knots": "8.2"
+         "Male": "10.6",
+         "Female": "5.1"
       },
       {
-         "Year": "2011",
-         "wind speed in knots": "9.0"
-      },
-      {
-         "Year": "2010",
-         "wind speed in knots": "7.8"
-      },
-      {
-         "Year": "2009",
-         "wind speed in knots": "9.0"
-      },
-      {
-         "Year": "2008",
-         "wind speed in knots": "9.3"
-      },
-      {
-         "Year": "2007",
-         "wind speed in knots": "9.0"
-      },
-      {
-         "Year": "2006",
-         "wind speed in knots": "9.0"
-      },
-      {
-         "Year": "2005",
-         "wind speed in knots": "8.9"
-      },
-      {
-         "Year": "2004",
-         "wind speed in knots": "9.0"
-      },
-      {
-         "Year": "2003",
-         "wind speed in knots": "8.9"
-      },
-      {
-         "Year": "2002",
-         "wind speed in knots": "9.1"
-      },
-      {
-         "Year": "2001",
-         "wind speed in knots": "8.6"
+         "Year": "2016",
+         "Male": "10.9",
+         "Female": "5.2"
       }
-   ]
+   ],
+   "gold": "This statistic shows the death rate from liver cirrhosis in Canada in 2002 , 2012 , and 2016 , by gender . In 2016 , there were 10.9 male deaths per 100,000 population , aged 15 years and over , resulting from cirrhosis of the liver in Canada .\n"
 }

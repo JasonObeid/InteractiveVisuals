@@ -1,77 +1,125 @@
 {
-   "title": "Yelp 's annual net revenue 2007 to 2019",
-   "xAxis": "Year",
-   "yAxis": "Revenue in million U.S. dollars",
+   "title": "Monthly exchange rate of USD to GBP 2017 to 2019",
+   "xAxis": "Month",
+   "yAxis": "USD GBP exchange rate",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic depicts the net sales of the Yelp worldwide from 2007 to 2019 . ",
-      "In 2019 , Yelp 's net sales was at about 1014.19 million U.S. dollars.The Yelp is a U.S.-based company that manufactures and sells boats and marine engines . ",
-      "The company previously made and sold sporting and fitness equipment and bowling & billiards equipment ."
+      "The Monthly exchange rate USD in 2020 was nearly 0.82 GBP exchange rate . ",
+      "However , this figure differed significantly according to the region in which the rental was looked for . ",
+      "In Aosta Valley , the tiniest region in the country which borders France and Switzerland , the Monthly rate USD in 2018 peaked at over Aug_19 GBP exchange rate ."
    ],
    "trends": [
       {
-         "11": "12",
-         "13": "0"
+         "11": "0"
       },
+      {},
       {
-         "1": "0",
-         "10": "0"
-      },
-      {}
+         "25": "0"
+      }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Revenue in million U.S. dollars": "1014.19"
+         "Month": "Aug 19",
+         "USD GBP exchange rate": "0.82"
       },
       {
-         "Year": "2018",
-         "Revenue in million U.S. dollars": "942.77"
+         "Month": "Jul 19",
+         "USD GBP exchange rate": "0.82"
       },
       {
-         "Year": "2017",
-         "Revenue in million U.S. dollars": "850.85"
+         "Month": "Jun 19",
+         "USD GBP exchange rate": "0.79"
       },
       {
-         "Year": "2016",
-         "Revenue in million U.S. dollars": "716.0"
+         "Month": "May 19",
+         "USD GBP exchange rate": "0.79"
       },
       {
-         "Year": "2015",
-         "Revenue in million U.S. dollars": "549.71"
+         "Month": "Apr 19",
+         "USD GBP exchange rate": "0.77"
       },
       {
-         "Year": "2014",
-         "Revenue in million U.S. dollars": "377.5"
+         "Month": "Mar 19",
+         "USD GBP exchange rate": "0.77"
       },
       {
-         "Year": "2013",
-         "Revenue in million U.S. dollars": "233.0"
+         "Month": "Feb 19",
+         "USD GBP exchange rate": "0.75"
       },
       {
-         "Year": "2012",
-         "Revenue in million U.S. dollars": "137.6"
+         "Month": "Jan 19",
+         "USD GBP exchange rate": "0.76"
       },
       {
-         "Year": "2011",
-         "Revenue in million U.S. dollars": "83.29"
+         "Month": "Dec 18",
+         "USD GBP exchange rate": "0.79"
       },
       {
-         "Year": "2010",
-         "Revenue in million U.S. dollars": "47.73"
+         "Month": "Nov 18",
+         "USD GBP exchange rate": "0.78"
       },
       {
-         "Year": "2009",
-         "Revenue in million U.S. dollars": "25.81"
+         "Month": "Oct 18",
+         "USD GBP exchange rate": "0.79"
       },
       {
-         "Year": "2008",
-         "Revenue in million U.S. dollars": "12.14"
+         "Month": "Sep 18",
+         "USD GBP exchange rate": "0.76"
       },
       {
-         "Year": "2007",
-         "Revenue in million U.S. dollars": "3.75"
+         "Month": "Aug 18",
+         "USD GBP exchange rate": "0.78"
+      },
+      {
+         "Month": "Jul 18",
+         "USD GBP exchange rate": "0.76"
+      },
+      {
+         "Month": "Jun 18",
+         "USD GBP exchange rate": "0.76"
+      },
+      {
+         "Month": "May 18",
+         "USD GBP exchange rate": "0.75"
+      },
+      {
+         "Month": "Apr 18",
+         "USD GBP exchange rate": "0.73"
+      },
+      {
+         "Month": "Mar 18",
+         "USD GBP exchange rate": "0.71"
+      },
+      {
+         "Month": "Feb 18",
+         "USD GBP exchange rate": "0.73"
+      },
+      {
+         "Month": "Jan 18",
+         "USD GBP exchange rate": "0.71"
+      },
+      {
+         "Month": "Dec 17",
+         "USD GBP exchange rate": "0.74"
+      },
+      {
+         "Month": "Nov 17",
+         "USD GBP exchange rate": "0.74"
+      },
+      {
+         "Month": "Oct 17",
+         "USD GBP exchange rate": "0.76"
+      },
+      {
+         "Month": "Sep 17",
+         "USD GBP exchange rate": "0.74"
+      },
+      {
+         "Month": "Aug 17",
+         "USD GBP exchange rate": "0.77"
       }
-   ]
+   ],
+   "gold": "The statistic presents the monthly exchange rate of U.S. dollar to British Pound from August 2017 to August 2019 . The USD GBP exchange rate amounted to approximately 0.82 on August 30 , 2019 , which means that one U.S. dollar could buy around 0.82 British Pound on that day . USD GBP exchange rate \u2013 additional information Over the past two years , the monthly exchange rate of the U.S. dollar to the British Pound has experienced pronounced fluctuations .\n"
 }

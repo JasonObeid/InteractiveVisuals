@@ -4,15 +4,24 @@
    "yAxis": "Median annual salary in GBP",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 5 categories for the x axis representing Service In Uk, and a y axis representing Median annual salary in GBP.",
       " The highest category is found at Financial_services_activities where Median annual salary in GBP is 42066.0.",
       " The lowest category is found at Real_estate where Median annual salary in GBP is 25924.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 4
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
    "data": [
       {
          "Service In Uk": "Financial services activities",

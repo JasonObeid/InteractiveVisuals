@@ -1,133 +1,108 @@
 {
-   "title": "Total value of U.S. trade in goods worldwide 2004 to 2018",
-   "labels": [
-      "Year",
-      "Total",
-      "Exports",
-      "Imports"
-   ],
-   "columnType": "multi",
-   "graphType": "line",
+   "title": "Most followed EPL team in the U.S. 2019",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the trade of Total and worldwide due to Total in the U.S. from 2004 to 2018 . ",
-      "In 2018 , there were a total of 4206.9 goods and 1664.1 worldwide reported due to lighting in the U.S. ."
+      "This statistic shows the Most 20 followed in EPL team on U.S. 2019 in the 2019 as forecasted by professional chefs for 2019 . ",
+      "During the survey , 32 % of the respondents stated that Manchester_United of ( e.g",
+      "Manchester_United , Manchester_United ) would be a `` hot trend '' for U.S. 2019 in ."
    ],
    "trends": [
+      {},
       {
-         "16": [
-            "14",
-            "0"
-         ],
-         "18": [
-            "0",
-            "0"
-         ]
+         "4": "0",
+         "11": "0",
+         "13": "0"
       },
       {
-         "1": [
-            "0",
-            "0"
-         ],
-         "8": [
-            "0",
-            "1"
-         ],
-         "11": [
-            "0",
-            "2"
-         ]
+         "0": "0",
+         "2": "0"
       }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Total": "4206.9",
-         "Exports": "1664.1",
-         "Imports": "2542.8"
+         "Response": "Manchester United",
+         "Share of respondents": "32"
       },
       {
-         "Year": "2017",
-         "Total": "3889.7",
-         "Exports": "1546.8",
-         "Imports": "2342.9"
+         "Response": "Liverpool",
+         "Share of respondents": "14"
       },
       {
-         "Year": "2016",
-         "Total": "3643.6",
-         "Exports": "1454.6",
-         "Imports": "2188.9"
+         "Response": "Manchester City",
+         "Share of respondents": "9"
       },
       {
-         "Year": "2015",
-         "Total": "3746.0",
-         "Exports": "1504.9",
-         "Imports": "2241.1"
+         "Response": "Arsenal",
+         "Share of respondents": "6"
       },
       {
-         "Year": "2014",
-         "Total": "3969.1",
-         "Exports": "1623.3",
-         "Imports": "2345.8"
+         "Response": "Chelsea",
+         "Share of respondents": "6"
       },
       {
-         "Year": "2013",
-         "Total": "3846.4",
-         "Exports": "1578.9",
-         "Imports": "2267.6"
+         "Response": "Crystal Palace",
+         "Share of respondents": "2"
       },
       {
-         "Year": "2012",
-         "Total": "3822.2",
-         "Exports": "1547.1",
-         "Imports": "2275.0"
+         "Response": "Newcastle United",
+         "Share of respondents": "2"
       },
       {
-         "Year": "2011",
-         "Total": "3687.6",
-         "Exports": "1480.7",
-         "Imports": "2207.0"
+         "Response": "Tottenham Hostpur",
+         "Share of respondents": "2"
       },
       {
-         "Year": "2010",
-         "Total": "3190.2",
-         "Exports": "1278.1",
-         "Imports": "1912.1"
+         "Response": "Aston Villa",
+         "Share of respondents": "1"
       },
       {
-         "Year": "2009",
-         "Total": "2615.0",
-         "Exports": "1056.9",
-         "Imports": "1558.1"
+         "Response": "Brighton & Hove Albion",
+         "Share of respondents": "1"
       },
       {
-         "Year": "2008",
-         "Total": "3400.9",
-         "Exports": "1300.5",
-         "Imports": "2100.4"
+         "Response": "Burnley",
+         "Share of respondents": "1"
       },
       {
-         "Year": "2007",
-         "Total": "3117.0",
-         "Exports": "1163.3",
-         "Imports": "1953.6"
+         "Response": "Everton",
+         "Share of respondents": "1"
       },
       {
-         "Year": "2006",
-         "Total": "2892.7",
-         "Exports": "1037.3",
-         "Imports": "1855.4"
+         "Response": "Leicester City",
+         "Share of respondents": "1"
       },
       {
-         "Year": "2005",
-         "Total": "2575.7",
-         "Exports": "904.3",
-         "Imports": "1671.4"
+         "Response": "Norwich City",
+         "Share of respondents": "1"
       },
       {
-         "Year": "2004",
-         "Total": "2289.6",
-         "Exports": "819.0",
-         "Imports": "1471.0"
+         "Response": "Sheffield United",
+         "Share of respondents": "1"
+      },
+      {
+         "Response": "Southampton",
+         "Share of respondents": "1"
+      },
+      {
+         "Response": "Watford",
+         "Share of respondents": "1"
+      },
+      {
+         "Response": "West Ham United",
+         "Share of respondents": "1"
+      },
+      {
+         "Response": "Wolverhamption Wanderers",
+         "Share of respondents": "1"
+      },
+      {
+         "Response": "Bournemouth",
+         "Share of respondents": "0"
       }
-   ]
+   ],
+   "gold": "Despite being one of the most popular sports in the world , the level of interest in soccer in the United States still remains relatively low . The English Premier League is nevertheless keenly followed by some fans in the states and 32 percent of respondents stated that record league title winners , Manchester United , were their favorite team to follow .\n"
 }

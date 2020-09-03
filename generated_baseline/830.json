@@ -4,15 +4,24 @@
    "yAxis": "Import volume in thousand metric tones",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 9 categories for the x axis representing Country, and a y axis representing Import volume in thousand metric tones.",
       " The highest category is found at China where Import volume in thousand metric tones is 3700.0.",
       " The lowest category is found at Canada where Import volume in thousand metric tones is 260.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 7
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "China",

@@ -1,99 +1,70 @@
 {
-   "title": "Kentucky - Poverty rate 2000 to 2018",
+   "title": "Regular season average attendance of the Milwaukee Brewers 2009 to 2019",
    "xAxis": "Year",
-   "yAxis": "Percentage of population",
+   "yAxis": "Average attendance",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Poverty rate in Kentucky from 2000 to 2018 . ",
-      "For instance , 16.9 percentage of Kentucky 's population lived below the Poverty line in 2018 ."
+      "This graph depicts the Average Regular season home attendance of the Milwaukee Brewers from 2009 to 2019 . ",
+      "In 2019 , the Average Regular season home attendance of the Milwaukee Brewers was 36090 \u2022 Milwaukee Brewers total home attendance \u2022 Major League Baseball Average per game attendance \u2022 Major League Baseball total attendance . "
    ],
    "trends": [
       {
-         "9": "18",
-         "11": "0"
+         "13": "10",
+         "15": "0"
       },
       {
-         "3": "0",
-         "15": "0"
+         "1": "0",
+         "13": "0",
+         "14": "0"
       }
    ],
    "data": [
       {
+         "Year": "2019",
+         "Average attendance": "36090"
+      },
+      {
          "Year": "2018",
-         "Percentage of population": "16.9"
+         "Average attendance": "35195"
       },
       {
          "Year": "2017",
-         "Percentage of population": "17.2"
+         "Average attendance": "31589"
       },
       {
          "Year": "2016",
-         "Percentage of population": "18.5"
+         "Average attendance": "28575"
       },
       {
          "Year": "2015",
-         "Percentage of population": "18.5"
+         "Average attendance": "31389"
       },
       {
          "Year": "2014",
-         "Percentage of population": "19.1"
+         "Average attendance": "34535"
       },
       {
          "Year": "2013",
-         "Percentage of population": "18"
+         "Average attendance": "31248"
       },
       {
          "Year": "2012",
-         "Percentage of population": "19.4"
+         "Average attendance": "34955"
       },
       {
          "Year": "2011",
-         "Percentage of population": "19.1"
+         "Average attendance": "37918"
       },
       {
          "Year": "2010",
-         "Percentage of population": "19"
+         "Average attendance": "34278"
       },
       {
          "Year": "2009",
-         "Percentage of population": "18.6"
-      },
-      {
-         "Year": "2008",
-         "Percentage of population": "17.3"
-      },
-      {
-         "Year": "2007",
-         "Percentage of population": "17.3"
-      },
-      {
-         "Year": "2006",
-         "Percentage of population": "17"
-      },
-      {
-         "Year": "2005",
-         "Percentage of population": "16.8"
-      },
-      {
-         "Year": "2004",
-         "Percentage of population": "17.4"
-      },
-      {
-         "Year": "2003",
-         "Percentage of population": "17.4"
-      },
-      {
-         "Year": "2002",
-         "Percentage of population": "15.6"
-      },
-      {
-         "Year": "2001",
-         "Percentage of population": "15.4"
-      },
-      {
-         "Year": "2000",
-         "Percentage of population": "16.4"
+         "Average attendance": "37499"
       }
-   ]
+   ],
+   "gold": "This graph depicts the average regular season home attendance of the Milwaukee Brewers from 2009 to 2019 . In 2019 , the average regular season home attendance of the Milwaukee Brewers was 36,090 . \u2022 Milwaukee Brewers total home attendance \u2022 Major League Baseball average per game attendance \u2022 Major League Baseball total attendance\n"
 }

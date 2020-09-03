@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 40 categories for the x axis of Country representing Male, Female.",
+      "This grouped bar chart has 40 categories for the x axis of Country representing Male, and Female.",
       " The highest category is found at Germany with a mean value of 41087842.0.",
       " The second highest category is found at France with a mean value of 33379975.0.",
       " This represents a difference of 20.7%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "Germany",

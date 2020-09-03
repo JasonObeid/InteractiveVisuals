@@ -8,16 +8,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 5 categories for the x axis of Response representing 2011, 2012, 2013.",
+      "This grouped bar chart has 5 categories for the x axis of Response representing 2011, 2012, and 2013.",
       " The highest category is found at Spend the same as last Christmas with a mean value of 46.0.",
       " The second highest category is found at Spend less than last Christmas with a mean value of 33.0.",
       " This represents a difference of 32.9%."
    ],
-   "trends": {
-      "maxIndex": 1,
-      "secondIndex": 1
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "3",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "14": [
+            "3",
+            "2"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Response": "Spend more than last Christmas",

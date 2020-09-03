@@ -4,15 +4,24 @@
    "yAxis": "Sales value in million GBP",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 10 categories for the x axis representing Month, and a y axis representing Sales value in million GBP.",
       " The highest category is found at Sterling where Sales value in million GBP is 1511.3.",
       " The lowest category is found at Windsor where Sales value in million GBP is 461.9."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 9
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
    "data": [
       {
          "Month": "Sterling",

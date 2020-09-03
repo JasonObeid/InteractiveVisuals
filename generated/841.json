@@ -1,74 +1,140 @@
 {
-   "title": "Number of visitors to the Mount Rushmore National Memorial in the U.S. 2008 to 2019",
-   "xAxis": "Year",
-   "yAxis": "Number of visitors in millions",
+   "title": "Annual compensation earned by U.S. physicians by specialty 2019",
+   "xAxis": "Occupation",
+   "yAxis": "Annual compensation in thousand U.S. dollars",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "Mount Rushmore National Memorial Park in the Memorial attracted a total of approximately 1.96 millions visitors in 2019 , down from its visitation peak of 2.44 millions in 2017 . ",
-      "A Mount Rushmore National Memorial uniting nations Mount Rushmore National Memorial Park 's name derived from the many glaciers that shaped its topography for over 2.43 millions years . ",
-      "Located in Montana on the Canada-U.S. border , Mount Rushmore National Memorial Park is the second half of the Glacier-Waterton International Peace Mount Rushmore National Memorial , the first half being Waterton Lakes Mount Rushmore National Memorial in Canada ."
+      "The statistic shows the Annual of the compensation thousand U.S. in the U.S. in 2019 , physicians Occupation . ",
+      "In that year , the Orthopedics Yankees had the highest Annual of compensation thousand 482 , followed by Plastic_surgery with 471 thousand ."
    ],
    "trends": [
+      {},
       {
-         "10": "0",
+         "5": "0",
          "14": "0",
-         "22": "2",
-         "25": "2"
-      },
-      {
-         "19": "4"
-      },
-      {}
+         "19": "1",
+         "21": "1"
+      }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Number of visitors in millions": "1.96"
+         "Occupation": "Orthopedics",
+         "Annual compensation in thousand U.S. dollars": "482"
       },
       {
-         "Year": "2018",
-         "Number of visitors in millions": "2.31"
+         "Occupation": "Plastic surgery",
+         "Annual compensation in thousand U.S. dollars": "471"
       },
       {
-         "Year": "2017",
-         "Number of visitors in millions": "2.44"
+         "Occupation": "Otolaryngology",
+         "Annual compensation in thousand U.S. dollars": "461"
       },
       {
-         "Year": "2016",
-         "Number of visitors in millions": "2.43"
+         "Occupation": "Cardiology",
+         "Annual compensation in thousand U.S. dollars": "430"
       },
       {
-         "Year": "2015",
-         "Number of visitors in millions": "2.43"
+         "Occupation": "Dermatology",
+         "Annual compensation in thousand U.S. dollars": "419"
       },
       {
-         "Year": "2014",
-         "Number of visitors in millions": "2.14"
+         "Occupation": "Radiology",
+         "Annual compensation in thousand U.S. dollars": "419"
       },
       {
-         "Year": "2013",
-         "Number of visitors in millions": "2.16"
+         "Occupation": "Gastroenterology",
+         "Annual compensation in thousand U.S. dollars": "417"
       },
       {
-         "Year": "2012",
-         "Number of visitors in millions": "2.19"
+         "Occupation": "Urology",
+         "Annual compensation in thousand U.S. dollars": "408"
       },
       {
-         "Year": "2011",
-         "Number of visitors in millions": "2.08"
+         "Occupation": "Anesthesiology",
+         "Annual compensation in thousand U.S. dollars": "392"
       },
       {
-         "Year": "2010",
-         "Number of visitors in millions": "2.33"
+         "Occupation": "Ophthalmology",
+         "Annual compensation in thousand U.S. dollars": "366"
       },
       {
-         "Year": "2009",
-         "Number of visitors in millions": "2.26"
+         "Occupation": "General surgery",
+         "Annual compensation in thousand U.S. dollars": "362"
       },
       {
-         "Year": "2008",
-         "Number of visitors in millions": "1.79"
+         "Occupation": "Oncology",
+         "Annual compensation in thousand U.S. dollars": "359"
+      },
+      {
+         "Occupation": "Emergency medicine",
+         "Annual compensation in thousand U.S. dollars": "353"
+      },
+      {
+         "Occupation": "Critical care",
+         "Annual compensation in thousand U.S. dollars": "349"
+      },
+      {
+         "Occupation": "Pulmonology",
+         "Annual compensation in thousand U.S. dollars": "331"
+      },
+      {
+         "Occupation": "Pathology",
+         "Annual compensation in thousand U.S. dollars": "308"
+      },
+      {
+         "Occupation": "Physical medicine/rehabilitation",
+         "Annual compensation in thousand U.S. dollars": "306"
+      },
+      {
+         "Occupation": "Nephrology",
+         "Annual compensation in thousand U.S. dollars": "305"
+      },
+      {
+         "Occupation": "Obstetricians/gynecologists",
+         "Annual compensation in thousand U.S. dollars": "303"
+      },
+      {
+         "Occupation": "Allergy/immunology",
+         "Annual compensation in thousand U.S. dollars": "275"
+      },
+      {
+         "Occupation": "Neurology",
+         "Annual compensation in thousand U.S. dollars": "267"
+      },
+      {
+         "Occupation": "Psychiatry",
+         "Annual compensation in thousand U.S. dollars": "260"
+      },
+      {
+         "Occupation": "Rheumatology",
+         "Annual compensation in thousand U.S. dollars": "259"
+      },
+      {
+         "Occupation": "Internal medicine",
+         "Annual compensation in thousand U.S. dollars": "243"
+      },
+      {
+         "Occupation": "Infectious disease",
+         "Annual compensation in thousand U.S. dollars": "239"
+      },
+      {
+         "Occupation": "Diabetes/endocrinology",
+         "Annual compensation in thousand U.S. dollars": "236"
+      },
+      {
+         "Occupation": "Family medicine",
+         "Annual compensation in thousand U.S. dollars": "231"
+      },
+      {
+         "Occupation": "Pediatrics",
+         "Annual compensation in thousand U.S. dollars": "225"
+      },
+      {
+         "Occupation": "Public health/preventive medicine",
+         "Annual compensation in thousand U.S. dollars": "209"
       }
-   ]
+   ],
+   "gold": "Orthopedic physicians earn an average annual compensation of around 482,000 U.S. dollars . This makes orthopedic physicians the most well-compensated physicians in the United States as of 2019 . An orthopaedic physician specializes in injuries and diseases involving bones , muscles , joints , nerves and other parts of the musculoskeletal system .\n"
 }

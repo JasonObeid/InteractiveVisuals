@@ -4,36 +4,41 @@
    "yAxis": "Inflation rate change compared to previous year",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Inflation rate change compared to previous year, with a total of 31 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely positive which exists from 2023 to 2017.",
-      " Likewise, the next significant trend is extremely positive which exists from 2013 to 2008.",
-      " Similarly, the next significant trend is extremely positive which exists from 1998 to 1994."
+      "This line chart has an x axis representing Year and a y axis representing Inflation rate change compared to previous year, with a total of 31 data points. The chart has 6 significant trends.",
+      " The longest trend is extremely negative which exists from 2024 to 2017.",
+      " Differently, the next significant trend is extremely positive which exists from 2008 to 2002.",
+      " Similarly, the next significant trend is extremely negative which exists from 2013 to 2008.",
+      " On the contrary, the next significant trend is extremely positive which exists from 2017 to 2013.",
+      " Additionally, the next significant trend is extremely positive which exists from 2002 to 1998.",
+      " Likewise, the next significant trend is slightly negative which exists from 1998 to 1994."
    ],
    "trends": [
+      {},
       {
-         "Length": 7,
-         "direction": "positive",
-         "start": 1,
-         "end": 7,
-         "trend": "y=-1.56x+3155.5",
-         "magnitude": "extremely"
+         "1": "0",
+         "12": "7"
       },
       {
-         "Length": 6,
-         "direction": "positive",
-         "start": 11,
-         "end": 16,
-         "trend": "y=-4.92x+9895.79",
-         "magnitude": "extremely"
+         "3": "16",
+         "14": "22"
       },
       {
-         "Length": 5,
-         "direction": "positive",
-         "start": 26,
-         "end": 30,
-         "trend": "y=-212.21x+423842.1",
-         "magnitude": "extremely"
+         "3": "11",
+         "14": "16"
+      },
+      {
+         "3": "7",
+         "14": "11"
+      },
+      {
+         "3": "22",
+         "14": "26"
+      },
+      {
+         "3": "26",
+         "14": "30"
       }
    ],
    "data": [

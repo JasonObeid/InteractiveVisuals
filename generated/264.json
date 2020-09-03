@@ -1,48 +1,86 @@
 {
-   "title": "Global follower growth rate on Instagram 2019 , by profile size",
+   "title": "Microwaves ovens U.S. unit shipments 2005 to 2019",
    "xAxis": "Year",
-   "yAxis": "Growth",
+   "yAxis": "Unit shipments in millions",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the Growth Instagram 2019 Growth profile at the Instagram Games 2019 10m+ to 0-1k . ",
-      "The 0-1k Instagram in 0-1k de Janeiro Instagram about 9.4 % Growth in revenues ."
+      "The statistic shows dishwasher Unit shipments in the unit from 2005 to 2007 and forecasts up to and including 2019 . ",
+      "In 2007 , Unit shipments of Microwaves in the unit are forecast to reach 13.69 millions units ."
    ],
    "trends": [
       {
-         "14": "5",
-         "16": "0"
+         "10": "14",
+         "12": "12",
+         "19": "0"
       },
       {
-         "1": "0",
-         "4": "0",
-         "9": "0"
+         "1": "12",
+         "14": "13"
       }
    ],
    "data": [
       {
-         "Year": "0-1k",
-         "Growth": "9.4"
+         "Year": "2019",
+         "Unit shipments in millions": "13.45"
       },
       {
-         "Year": "1k-10k",
-         "Growth": "12.6"
+         "Year": "2018",
+         "Unit shipments in millions": "13.05"
       },
       {
-         "Year": "10k-100k",
-         "Growth": "15.9"
+         "Year": "2017",
+         "Unit shipments in millions": "12.56"
       },
       {
-         "Year": "100k-1m",
-         "Growth": "16"
+         "Year": "2016",
+         "Unit shipments in millions": "11.33"
       },
       {
-         "Year": "1m-10m",
-         "Growth": "14"
+         "Year": "2015",
+         "Unit shipments in millions": "11.94"
       },
       {
-         "Year": "10m+",
-         "Growth": "14.6"
+         "Year": "2014",
+         "Unit shipments in millions": "9.75"
+      },
+      {
+         "Year": "2013",
+         "Unit shipments in millions": "9.15"
+      },
+      {
+         "Year": "2012",
+         "Unit shipments in millions": "9.58"
+      },
+      {
+         "Year": "2011",
+         "Unit shipments in millions": "9.52"
+      },
+      {
+         "Year": "2010",
+         "Unit shipments in millions": "9.33"
+      },
+      {
+         "Year": "2009",
+         "Unit shipments in millions": "9.63"
+      },
+      {
+         "Year": "2008",
+         "Unit shipments in millions": "11.34"
+      },
+      {
+         "Year": "2007",
+         "Unit shipments in millions": "11.85"
+      },
+      {
+         "Year": "2006",
+         "Unit shipments in millions": "13.69"
+      },
+      {
+         "Year": "2005",
+         "Unit shipments in millions": "13.86"
       }
-   ]
+   ],
+   "gold": "Forecasts suggest that nearly 13.5 million microwave ovens will be shipped in the United States in 2019 , marking the product 's highest sales figure in years . Although quite a mature market , microwave oven shipments have fluctuated significantly over the past few decades . Between 2005 and 2013 total shipments fell from around 13.9 million to 9.2 million per year ; but in recent years the market has recovered to previous levels .\n"
 }

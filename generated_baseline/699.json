@@ -4,36 +4,36 @@
    "yAxis": "GDP per capita in U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing GDP per capita in U.S. dollars, with a total of 41 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely negative which exists from 2024 to 2015.",
-      " Contrarily, the next significant trend is extremely negative which exists from 2008 to 1999.",
-      " On the other hand, the next significant trend is extremely negative which exists from 1998 to 1992."
+      "This line chart has an x axis representing Year and a y axis representing GDP per capita in U.S. dollars, with a total of 41 data points. The chart has 5 significant trends.",
+      " The longest trend is extremely positive which exists from 2010 to 1999.",
+      " Similarly, the next significant trend is extremely positive which exists from 2024 to 2015.",
+      " Additionally, the next significant trend is slightly positive which exists from 1992 to 1984.",
+      " Additionally, the next significant trend is slightly positive which exists from 1999 to 1992.",
+      " Likewise, the next significant trend is moderately positive which exists from 2015 to 2010."
    ],
    "trends": [
+      {},
       {
-         "Length": 10,
-         "direction": "negative",
-         "start": 0,
-         "end": 9,
-         "trend": "y=960.16x+-1925895.42",
-         "magnitude": "extremely"
+         "1": "14",
+         "12": "25"
       },
       {
-         "Length": 10,
-         "direction": "negative",
-         "start": 16,
-         "end": 25,
-         "trend": "y=930.29x+-1859562.52",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "9"
       },
       {
-         "Length": 7,
-         "direction": "negative",
-         "start": 26,
-         "end": 32,
-         "trend": "y=151.33x+-300471.08",
-         "magnitude": "extremely"
+         "3": "32",
+         "14": "40"
+      },
+      {
+         "3": "25",
+         "14": "32"
+      },
+      {
+         "3": "9",
+         "14": "14"
       }
    ],
    "data": [

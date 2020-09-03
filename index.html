@@ -168,6 +168,7 @@
         var yLabel = "";
         var title = "";
         var graphType = "";
+        var summaryType = "";
         var columnType = "";
         var data = [];
         var idArrays = [];
@@ -203,6 +204,8 @@
                 var jsonObj = summaryRequest.response;
                 graphType = jsonObj.graphType;
                 columnType = jsonObj.columnType;
+                summaryType = jsonObj.summaryType;
+                console.log(summaryType)
                 var title = jsonObj.title;
                 if (columnType === "two") {
                     yLabel = jsonObj.yAxis;
@@ -230,15 +233,16 @@
         function run(summaryArray, trendsArray, chartData) {
             sumArrayLength = summaryArray.length;
             summary = summaryArray;
+            let idArray = []
             if (columnType === "two") {
                 if (graphType === "line") {
-                    let idArray = getLineIds(trendsArray);
+                    idArray = getLineIds(trendsArray);
                     idArrays = idArray;
                     lineGraph();
                     setSummary(summaryArray);
                     addLineListeners(idArray);
                 } else if (graphType === "bar") {
-                    let idArray = getBarIds(trendsArray);
+                    idArray = getBarIds(trendsArray);
                     idArrays = idArray;
                     barGraph();
                     setSummary(summaryArray);
@@ -247,18 +251,27 @@
             }
             else if (columnType === "multi") {
                 if (graphType === "line") {
-                    let idArray = getMultiLineIds(trendsArray);
+                    idArray = getMultiLineIds(trendsArray);
                     idArrays = idArray;
                     multiLineGraph();
                     setSummary(summaryArray);
                     addLineListeners(idArray);
                 } else if (graphType === "bar") {
-                    let idArray = getMultiBarIds(trendsArray);
-                    console.log(idArray);
-                    idArrays = idArray;
-                    multiBarGraph();
-                    setSummary(summaryArray);
-                    addBarListeners(idArray);
+                    if (summaryType === "baseline") {
+                        idArray  = getMultiLineIds(trendsArray);
+                        idArrays = idArray;
+                        multiBarGraph();
+                        setSummary(summaryArray);
+                        addLineListeners(idArray);
+                    }
+                    else {
+                        idArray = getMultiBarIds(trendsArray);
+                        idArrays = idArray;
+                        multiBarGraph();
+                        setSummary(summaryArray);
+                        addBarListeners(idArray);
+                    }
+
                 }
             }
             document.getElementById('summary').childNodes.forEach(function(d) {
@@ -346,6 +359,7 @@
             console.log(graphIds)
             console.log(trendAnchor)
             if (graphIds.toString().length < 13) {
+                console.log(graphIds)
                 let dot = document.getElementById(graphIds);
                 let graphFill = dot.getAttribute('fill');
                 dot.addEventListener("mouseover", function () {
@@ -360,6 +374,7 @@
             else {
                 for (let i=0;i<graphIds.length;i++) {
                     let dot = document.getElementById(graphIds[i]);
+                    console.log(graphIds[i])
                     dot.addEventListener("mouseover", function () {
                         trendAnchor.style.backgroundColor = '#d9f6ff';
                         for (graphId of graphIds) {
@@ -668,7 +683,6 @@
                     }
                 }
                 else if (keys.length === 1){
-                    console.log('HERE');
                     sentenceGraphIds.push("Column" + values);
                     sentenceTokenIds.push("Token" + keys);
                 }
@@ -733,7 +747,7 @@
                         }
                         const lineDelta = Math.abs(values[0][1] - values[values.length-1][1])
                         console.log(lineDelta)
-                        //if index is 0 it means it refers to the x axis rather than a specific line,
+                        /*//if index is 0 it means it refers to the x axis rather than a specific line,
                         //therefore we highlight each line in this range
                         console.log(values)
                         if (values[i][1] === '0' && values.length < 3) {
@@ -746,9 +760,9 @@
                                     trendGraphRanges.push(id);
                                 }
                             }
-                        }
+                        }*/
                         //if trend n and trend n+1 refer to different lines, run this code which highlights templates 1 at a time
-                        else if (lineDelta !== 0) {
+                        if (lineDelta !== 0) {
                             console.log('here2')
                             console.log(values)
                             const index = values[i][1]
@@ -1018,16 +1032,22 @@
                     .ticks(5)
             }
 
+            //convert string x values to int
+            data.forEach(function(d) {
+                //check for years in form of '2018/19'
+                if (d[labelArr[0]].length = 7) {
+                    if (isNumeric(d[labelArr[0]].slice(0, 4)) && isNumeric(d[labelArr[0]].slice(5, 7))
+                        && d[labelArr[0]].slice(4, 5) === '/') {
+                        d[labelArr[0]] = parseInt(d[labelArr[0]].slice(0, 5));
+                    }
+                }
+            });
             //convert string y values to int
             data.forEach(function(d) {
-                for (let n = 0; n < labelArr.length; n++)
-                    /*if (isNaN(d[labelArr[n]])) {
-                        d[labelArr[n]] = 0;
-                    }*/
-                    if (isNumeric(d[labelArr[n]])) {
-                        d[labelArr[n]] = parseInt(d[labelArr[n]]) || parseFloat(d[labelArr[n]]);
-                    }
+                for (let n = 1; n < labelArr.length; n++)
+                    d[labelArr[n]] = parseFloat(d[labelArr[n]]);
             });
+            console.log(data);
             var xLabel = labelArr[0]
             const minX = d3.min(data, function (d) {
                 return +d[xLabel];
@@ -1039,6 +1059,8 @@
             var x = d3.scaleLinear()
                 .domain([minX, maxX])
                 .range([0, width]).nice();
+            console.log(x)
+
             svg.append("g")
                 .attr("transform", "translate(0," + height + ")")
                 .call(d3.axisBottom(x)

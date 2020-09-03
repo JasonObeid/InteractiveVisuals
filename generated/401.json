@@ -1,75 +1,77 @@
 {
-   "title": "Texas Rangers average ticket price 2006 to 2019",
-   "xAxis": "Year",
-   "yAxis": "Average ticket price in U.S. dollars",
-   "columnType": "two",
+   "title": "Number of Carrabba 's Italian Grill restaurants in the U.S. from 2011 to 2018",
+   "labels": [
+      "Year",
+      "Company-owned",
+      "Franchised"
+   ],
+   "columnType": "multi",
    "graphType": "line",
    "summary": [
-      "This graph depicts the Average ticket price for Texas Rangers games in Major League Baseball from 2006 to 2019 . ",
-      "In 2019 , the Average ticket price was at 25.75 U.S. dollars ."
+      "This statistic shows the Number Carrabba of Italian restaurants in the U.S. from 2011 to 2018 , by ownership type . ",
+      "In 2018 , Carrabba Italian restaurants generated 3 million U.S. dollars in franchise Number Carrabba . ",
+      "Carrabba Italian Italian restaurants is owned by Bloomin ' Brands , Inc. a U.S.-based Number company ."
    ],
    "trends": [
       {
-         "15": "12",
-         "17": "0"
+         "15": [
+            "7",
+            "0"
+         ],
+         "17": [
+            "0",
+            "0"
+         ]
       },
       {
-         "1": "0",
-         "9": "0"
-      }
+         "1": [
+            "0",
+            "0"
+         ]
+      },
+      {}
    ],
    "data": [
       {
-         "Year": "2019",
-         "Average ticket price in U.S. dollars": "25.75"
+         "Year": "2018",
+         "Company-owned": "224",
+         "Franchised": "3"
       },
       {
-         "Year": "2018",
-         "Average ticket price in U.S. dollars": "26.94"
+         "Year": "2017",
+         "Company-owned": "225",
+         "Franchised": "3"
       },
       {
          "Year": "2016",
-         "Average ticket price in U.S. dollars": "23.64"
+         "Company-owned": "242",
+         "Franchised": "2"
       },
       {
          "Year": "2015",
-         "Average ticket price in U.S. dollars": "23.64"
+         "Company-owned": "244",
+         "Franchised": "3"
       },
       {
          "Year": "2014",
-         "Average ticket price in U.S. dollars": "23.54"
+         "Company-owned": "242",
+         "Franchised": "1"
       },
       {
          "Year": "2013",
-         "Average ticket price in U.S. dollars": "22.54"
+         "Company-owned": "239",
+         "Franchised": "1"
       },
       {
          "Year": "2012",
-         "Average ticket price in U.S. dollars": "20.49"
+         "Company-owned": "234",
+         "Franchised": "1"
       },
       {
          "Year": "2011",
-         "Average ticket price in U.S. dollars": "18.6"
-      },
-      {
-         "Year": "2010",
-         "Average ticket price in U.S. dollars": "20.65"
-      },
-      {
-         "Year": "2009",
-         "Average ticket price in U.S. dollars": "19.41"
-      },
-      {
-         "Year": "2008",
-         "Average ticket price in U.S. dollars": "18.01"
-      },
-      {
-         "Year": "2007",
-         "Average ticket price in U.S. dollars": "16.47"
-      },
-      {
-         "Year": "2006",
-         "Average ticket price in U.S. dollars": "15.81"
+         "Company-owned": "231",
+         "Franchised": "1"
       }
-   ]
+   ],
+   "gold": "This statistic shows the number of Carrabba 's Italian Grill restaurants in the United States from 2011 to 2018 , by ownership type . In 2018 , there were 224 company-owned Carrabba 's Italian Grill restaurants in the United States . Carrabba 's Italian Grill is owned by Bloomin ' Brands , Inc. , a U.S.-based restaurant company .\n"
 }

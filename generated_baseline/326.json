@@ -4,72 +4,51 @@
    "yAxis": "Imports in million bushels",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Imports in million bushels, with a total of 19 data points. The chart has 7 significant trends.",
-      " The longest trend is extremely negative which exists from 2012 to 2009.",
-      " On the contrary, the next significant trend is extremely positive which exists from 2019 to 2017.",
-      " Likewise, the next significant trend is extremely positive which exists from 2014 to 2012.",
-      " Additionally, the next significant trend is extremely positive which exists from 2009 to 2007.",
-      " Likewise, the next significant trend is extremely negative which exists from 2007 to 2005.",
-      " Differently, the next significant trend is extremely positive which exists from 2005 to 2003.",
-      " Additionally, the next significant trend is extremely neutral which exists from 2003 to 2001."
+      "This line chart has an x axis representing Year and a y axis representing Imports in million bushels, with a total of 19 data points. The chart has 8 significant trends.",
+      " The longest trend is slightly negative which exists from 2015 to 2012.",
+      " Differently, the next significant trend is extremely positive which exists from 2012 to 2009.",
+      " Correspondingly, the next significant trend is slightly negative which exists from 2019 to 2017.",
+      " On the other hand, the next significant trend is moderately negative which exists from 2017 to 2015.",
+      " On the contrary, the next significant trend is moderately negative which exists from 2009 to 2007.",
+      " Conversely, the next significant trend is moderately positive which exists from 2007 to 2005.",
+      " Also, the next significant trend is moderately negative which exists from 2005 to 2003.",
+      " On the contrary, the next significant trend is moderately neutral which exists from 2003 to 2001."
    ],
    "trends": [
+      {},
       {
-         "Length": 4,
-         "direction": "negative",
-         "start": 7,
-         "end": 10,
-         "trend": "y=45.7x+-91823.6",
-         "magnitude": "extremely"
+         "1": "4",
+         "12": "7"
       },
       {
-         "Length": 3,
-         "direction": "positive",
-         "start": 0,
-         "end": 2,
-         "trend": "y=-14.5x+29301.33",
-         "magnitude": "extremely"
+         "3": "7",
+         "14": "10"
       },
       {
-         "Length": 3,
-         "direction": "positive",
-         "start": 5,
-         "end": 7,
-         "trend": "y=-64.0x+128908.0",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "2"
       },
       {
-         "Length": 3,
-         "direction": "positive",
-         "start": 10,
-         "end": 12,
-         "trend": "y=-6.0x+12062.0",
-         "magnitude": "extremely"
+         "3": "2",
+         "14": "4"
       },
       {
-         "Length": 3,
-         "direction": "negative",
-         "start": 12,
-         "end": 14,
-         "trend": "y=5.5x+-11019.33",
-         "magnitude": "extremely"
+         "3": "10",
+         "14": "12"
       },
       {
-         "Length": 3,
-         "direction": "positive",
-         "start": 14,
-         "end": 16,
-         "trend": "y=-2.5x+5021.33",
-         "magnitude": "extremely"
+         "3": "12",
+         "14": "14"
       },
       {
-         "Length": 3,
-         "direction": "neutral",
-         "start": 16,
-         "end": 18,
-         "trend": "y=2.0x+-3991.33",
-         "magnitude": "extremely"
+         "3": "14",
+         "14": "16"
+      },
+      {
+         "3": "16",
+         "14": "18"
       }
    ],
    "data": [

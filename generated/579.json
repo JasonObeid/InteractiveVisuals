@@ -1,94 +1,65 @@
 {
-   "title": "Arsenal FC revenue by stream 2018/19",
-   "labels": [
-      "Season",
-      "Matchday",
-      "Broadcasting",
-      "Commercial"
-   ],
-   "columnType": "multi",
+   "title": "Countries with the highest rates of autism among children worldwide as of 2018",
+   "xAxis": "Country",
+   "yAxis": "Number of children with autism per 10,000 children studied",
+   "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "Broadcasting is the largest source of revenue for Arsenal . ",
-      "In 2018/2019 , the club earned approximately 210.6 million euros from Broadcasting , more than triple in 2010/2011 . ",
-      "The second biggest revenue stream is the Commercial one ."
+      "The United_States was the leading exporter of highest worldwide in among . ",
+      "In that time period , the U.S. highest industry had an export volume of 168.0 million metric tons . ",
+      "highest products highest is one of the most versatile and widely used materials ."
    ],
    "trends": [
-      {},
       {
-         "7": [
-            "0",
-            "2"
-         ]
+         "1": "0"
+      },
+      {
+         "14": "0"
       },
       {}
    ],
    "data": [
       {
-         "Season": "2018/19",
-         "Matchday": "109.2",
-         "Broadcasting": "210.6",
-         "Commercial": "125.8"
+         "Country": "United States",
+         "Number of children with autism per 10,000 children studied": "168.0"
       },
       {
-         "Season": "2017/18",
-         "Matchday": "111.6",
-         "Broadcasting": "206.9",
-         "Commercial": "120.7"
+         "Country": "Japan",
+         "Number of children with autism per 10,000 children studied": "161.0"
       },
       {
-         "Season": "2016/17",
-         "Matchday": "116.4",
-         "Broadcasting": "234.7",
-         "Commercial": "136.5"
+         "Country": "Canada",
+         "Number of children with autism per 10,000 children studied": "152.0"
       },
       {
-         "Season": "2015/16",
-         "Matchday": "133.6",
-         "Broadcasting": "192.0",
-         "Commercial": "142.9"
+         "Country": "United Kingdom",
+         "Number of children with autism per 10,000 children studied": "100.0"
       },
       {
-         "Season": "2014/15",
-         "Matchday": "132.0",
-         "Broadcasting": "167.7",
-         "Commercial": "135.8"
+         "Country": "Ireland",
+         "Number of children with autism per 10,000 children studied": "100.0"
       },
       {
-         "Season": "2013/14",
-         "Matchday": "119.8",
-         "Broadcasting": "147.3",
-         "Commercial": "92.2"
+         "Country": "Denmark",
+         "Number of children with autism per 10,000 children studied": "69.0"
       },
       {
-         "Season": "2012/13",
-         "Matchday": "108.3",
-         "Broadcasting": "103.2",
-         "Commercial": "72.8"
+         "Country": "Australia",
+         "Number of children with autism per 10,000 children studied": "67.0"
       },
       {
-         "Season": "2011/12",
-         "Matchday": "117.7",
-         "Broadcasting": "107.7",
-         "Commercial": "64.9"
+         "Country": "Hong Kong (SAR of China)",
+         "Number of children with autism per 10,000 children studied": "49.0"
       },
       {
-         "Season": "2010/11",
-         "Matchday": "103.2",
-         "Broadcasting": "96.7",
-         "Commercial": "51.2"
+         "Country": "Brazil",
+         "Number of children with autism per 10,000 children studied": "27.0"
       },
       {
-         "Season": "2009/10",
-         "Matchday": "114.7",
-         "Broadcasting": "105.7",
-         "Commercial": "53.7"
-      },
-      {
-         "Season": "2008/09",
-         "Matchday": "117.5",
-         "Broadcasting": "89.0",
-         "Commercial": "56.5"
+         "Country": "Portugal",
+         "Number of children with autism per 10,000 children studied": "9.2"
       }
-   ]
+   ],
+   "gold": "In 2018 , it was estimated that around 168 per 10,000 children in the United States had autism spectrum disorder , one of the highest prevalence rates in the world . Autism spectrum disorder ( ASD ) includes a variety of disorders . The `` spectrum '' denotes the range of symptoms as well as their severity .\n"
 }

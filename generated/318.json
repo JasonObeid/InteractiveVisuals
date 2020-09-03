@@ -1,107 +1,75 @@
 {
-   "title": "Literacy rate in Brazil 2018",
+   "title": "Mobile phone usage : frequency of making mobile phone calls in the UK 2019 , by gender",
    "labels": [
-      "Year",
-      "Adult total",
-      "Adult male",
-      "Adult female"
+      "Response",
+      "Male",
+      "Female"
    ],
    "columnType": "multi",
-   "graphType": "line",
+   "graphType": "bar",
    "summary": [
-      "The statistic depicts the Literacy rate in Brazil from 2008 to 2018 . ",
-      "The Literacy rate measures the percentage of people aged 15 and above who can read and write . ",
-      "In 2018 , Brazil 's Literacy rate was around 93.23 % ."
+      "A majority of survey found that around 49 % of respondents aged Male to took Every_day to phone Several_times_a_day in the previous UK . ",
+      "The mobile does not require businesses to provide employees with paid phone leave , however bigger businesses must offer unpaid leave for medical issues . ",
+      "Laws regarding phone leave do vary making state ."
    ],
    "trends": [
       {
-         "9": [
-            "10",
+         "7": [
+            "0",
+            "1"
+         ],
+         "17": [
+            "1",
             "0"
          ],
-         "11": [
+         "19": [
+            "1",
+            "0"
+         ],
+         "21": [
             "0",
             "0"
          ]
       },
       {},
-      {
-         "1": [
-            "0",
-            "0"
-         ],
-         "9": [
-            "0",
-            "1"
-         ]
-      }
+      {}
    ],
    "data": [
       {
-         "Year": "2018",
-         "Adult total": "93.23",
-         "Adult male": "93.01",
-         "Adult female": "93.43"
+         "Response": "Several times a day",
+         "Male": "49",
+         "Female": "46"
       },
       {
-         "Year": "2017",
-         "Adult total": "93.08",
-         "Adult male": "92.89",
-         "Adult female": "93.24"
+         "Response": "Every day",
+         "Male": "21",
+         "Female": "24"
       },
       {
-         "Year": "2016",
-         "Adult total": "92.81",
-         "Adult male": "92.58",
-         "Adult female": "93.02"
+         "Response": "Several times a week",
+         "Male": "16",
+         "Female": "17"
       },
       {
-         "Year": "2015",
-         "Adult total": "92.05",
-         "Adult male": "91.73",
-         "Adult female": "92.34"
+         "Response": "At least once a week",
+         "Male": "6",
+         "Female": "6"
       },
       {
-         "Year": "2014",
-         "Adult total": "91.73",
-         "Adult male": "91.37",
-         "Adult female": "92.06"
+         "Response": "At least once a month",
+         "Male": "4",
+         "Female": "3"
       },
       {
-         "Year": "2013",
-         "Adult total": "91.48",
-         "Adult male": "91.18",
-         "Adult female": "91.76"
+         "Response": "Less than once a month",
+         "Male": "2",
+         "Female": "2"
       },
       {
-         "Year": "2012",
-         "Adult total": "91.34",
-         "Adult male": "91.03",
-         "Adult female": "91.62"
-      },
-      {
-         "Year": "2011",
-         "Adult total": "91.41",
-         "Adult male": "91.17",
-         "Adult female": "91.63"
-      },
-      {
-         "Year": "2010",
-         "Adult total": "90.38",
-         "Adult male": "90.06",
-         "Adult female": "90.68"
-      },
-      {
-         "Year": "2009",
-         "Adult total": "90.3",
-         "Adult male": "90.17",
-         "Adult female": "90.41"
-      },
-      {
-         "Year": "2008",
-         "Adult total": "90.04",
-         "Adult male": "89.84",
-         "Adult female": "90.22"
+         "Response": "Never",
+         "Male": "1",
+         "Female": "1"
       }
-   ]
+   ],
+   "gold": "Figures covering the frequency of mobile phone use show a relatively even split among genders in the United Kingdom ( UK ) during 2019 . Males were slightly more likely to use their mobile phones to make calls several times a day , while less than one percent of female respondents reported never using a mobile phone to make calls . Mobile call volume increasing The volume of calls made using mobile phones has increased over the past several years .\n"
 }

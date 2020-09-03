@@ -1,0 +1,50 @@
+{
+   "title": "BMI : adult 's body mass index in England 2018 , by gender and age",
+   "labels": [
+      "Year",
+      "Men",
+      "Women"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": "As of 2019 , male and female users aged 25 to 34 years were the biggest group of facebook users in the united states , accounting for 13.8 percent of the social network 's user base each .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "16-24 years",
+         "Men": "24.4",
+         "Women": "24.5"
+      },
+      {
+         "Year": "25-34 years",
+         "Men": "26.2",
+         "Women": "26.9"
+      },
+      {
+         "Year": "35-44 years",
+         "Men": "27.4",
+         "Women": "27.7"
+      },
+      {
+         "Year": "45-54 years",
+         "Men": "28.8",
+         "Women": "28.4"
+      },
+      {
+         "Year": "55-64 years",
+         "Men": "29.0",
+         "Women": "28.3"
+      },
+      {
+         "Year": "65-74 years",
+         "Men": "28.6",
+         "Women": "28.5"
+      },
+      {
+         "Year": "75 years and over",
+         "Men": "27.8",
+         "Women": "27.7"
+      }
+   ]
+}

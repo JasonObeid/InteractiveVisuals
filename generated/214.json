@@ -1,51 +1,89 @@
 {
-   "title": "John Deere 's total assets 2013 to 2019",
+   "title": "eBay Enterprise : annual net revenue 1999 to 2014",
    "xAxis": "Year",
-   "yAxis": "Total assets in million U.S. dollars",
+   "yAxis": "Revenue in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the Total assets of the sports company Deere from 2013 to 2019 . ",
-      "Deere had a Total assets of 73011.0 million U.S. dollars in 2015 ."
+      "The timeline depicts the Revenue of eBay Enterprise from 1999 to 2014 . ",
+      "In 2014 , the Revenue amounted to approximately 1238.0 million U.S. dollars in the previous Year ."
    ],
    "trends": [
       {
-         "12": "6",
-         "14": "0"
+         "8": "0",
+         "10": "15"
       },
       {
-         "6": "0",
-         "11": "4"
+         "1": "15",
+         "8": "15"
       }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Total assets in million U.S. dollars": "73011.0"
+         "Year": "1999",
+         "Revenue in million U.S. dollars": "5.5"
       },
       {
-         "Year": "2018",
-         "Total assets in million U.S. dollars": "70108.0"
+         "Year": "2000",
+         "Revenue in million U.S. dollars": "42.8"
       },
       {
-         "Year": "2017",
-         "Total assets in million U.S. dollars": "65786.3"
+         "Year": "2001",
+         "Revenue in million U.S. dollars": "102.6"
       },
       {
-         "Year": "2016",
-         "Total assets in million U.S. dollars": "57981.4"
+         "Year": "2002",
+         "Revenue in million U.S. dollars": "172.6"
       },
       {
-         "Year": "2015",
-         "Total assets in million U.S. dollars": "57947.6"
+         "Year": "2003",
+         "Revenue in million U.S. dollars": "241.9"
       },
       {
-         "Year": "2014",
-         "Total assets in million U.S. dollars": "61336.4"
+         "Year": "2004",
+         "Revenue in million U.S. dollars": "335.3"
+      },
+      {
+         "Year": "2005",
+         "Revenue in million U.S. dollars": "440.0"
+      },
+      {
+         "Year": "2006",
+         "Revenue in million U.S. dollars": "609.6"
+      },
+      {
+         "Year": "2007",
+         "Revenue in million U.S. dollars": "750.0"
+      },
+      {
+         "Year": "2008",
+         "Revenue in million U.S. dollars": "966.9"
+      },
+      {
+         "Year": "2009",
+         "Revenue in million U.S. dollars": "1004.0"
+      },
+      {
+         "Year": "2010",
+         "Revenue in million U.S. dollars": "1358.0"
+      },
+      {
+         "Year": "2011",
+         "Revenue in million U.S. dollars": "509.0"
+      },
+      {
+         "Year": "2012",
+         "Revenue in million U.S. dollars": "1083.0"
       },
       {
          "Year": "2013",
-         "Total assets in million U.S. dollars": "59521.3"
+         "Revenue in million U.S. dollars": "1166.0"
+      },
+      {
+         "Year": "2014",
+         "Revenue in million U.S. dollars": "1238.0"
       }
-   ]
+   ],
+   "gold": "This timeline represents eBay Enterprise 's , formerly known as GSI Commerce , annual net revenue from 1999 to 2014 , in million U.S. dollars . In 2010 , GSI Commerce reported a net revenue of 1.36 billion U.S. dollars before being acquired by eBay in June 2011 .\n"
 }

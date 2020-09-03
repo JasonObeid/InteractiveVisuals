@@ -1,46 +1,118 @@
 {
-   "title": "Daily social media usage in Denmark 2018 , by social media site\n",
-   "xAxis": "Platform",
-   "yAxis": "Share of respondents",
-   "columnType": "two",
-   "graphType": "bar",
-   "summary": [
-      "This bar chart has 7 categories for the x axis representing Platform, and a y axis representing Share of respondents.",
-      " The highest category is found at Facebook where Share of respondents is 53.0.",
-      " The lowest category is found at Twitter where Share of respondents is 1.0."
+   "title": "Video game consumer market value worldwide 2011 - 2021 , by distribution",
+   "labels": [
+      "Year",
+      "DLC market",
+      "Package market"
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 6
-   },
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 2 lines.",
+      " The line representing Package market had the highest values across Year with a mean value of 20.1.",
+      " This peaked at 2020 with a value of 87.0. ",
+      " The line with the second highest values was DLC market with a mean value of 14.2.",
+      " This line peaked at 2021 with a value of 28.9"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "9": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "10",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "10": [
+            "0",
+            "0"
+         ]
+      }
+   ],
    "data": [
       {
-         "Platform": "Facebook",
-         "Share of respondents": 53.0
+         "Year": "2021",
+         "DLC market": "28.9",
+         "Package market": "8.4"
       },
       {
-         "Platform": "Snapchat",
-         "Share of respondents": 19.0
+         "Year": "2020",
+         "DLC market": "24.6",
+         "Package market": "87.0"
       },
       {
-         "Platform": "Instagram",
-         "Share of respondents": 19.0
+         "Year": "2019",
+         "DLC market": "22.1",
+         "Package market": "9.8"
       },
       {
-         "Platform": "LinkedIn",
-         "Share of respondents": 4.0
+         "Year": "2018",
+         "DLC market": "19.0",
+         "Package market": "10.9"
       },
       {
-         "Platform": "WhatsApp",
-         "Share of respondents": 4.0
+         "Year": "2017",
+         "DLC market": "13.2",
+         "Package market": "11.2"
       },
       {
-         "Platform": "Pinterest",
-         "Share of respondents": 2.0
+         "Year": "2016",
+         "DLC market": "10.3",
+         "Package market": "10.9"
       },
       {
-         "Platform": "Twitter",
-         "Share of respondents": 1.0
+         "Year": "2015",
+         "DLC market": "9.3",
+         "Package market": "12.4"
+      },
+      {
+         "Year": "2014",
+         "DLC market": "8.7",
+         "Package market": "12.9"
+      },
+      {
+         "Year": "2013",
+         "DLC market": "7.4",
+         "Package market": "16.3"
+      },
+      {
+         "Year": "2012",
+         "DLC market": "7.1",
+         "Package market": "18.4"
+      },
+      {
+         "Year": "2011",
+         "DLC market": "5.3",
+         "Package market": "22.4"
       }
    ]
 }

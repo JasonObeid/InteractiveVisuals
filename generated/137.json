@@ -1,40 +1,98 @@
 {
-   "title": "Active duty U.S. military personnel numbers , by service branch 2010",
-   "xAxis": "Month",
-   "yAxis": "Share of military personnel",
+   "title": "Boston Red Sox revenue 2001 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Active duty U.S. military in U.S. 2010 , by on Share military . ",
-      "In that year , Army was the Active duty U.S. chain in U.S. by on Share military of about 561979 million ."
+      "The statistic depicts the Revenue of the Boston Red Sox , franchise of the National Football League , from 2001 to 2018 . ",
+      "In 2018 , the Revenue of the Boston Red Sox was 516 U.S. dollars ."
    ],
    "trends": [
-      {},
       {
-         "4": "0",
+         "17": "17",
          "19": "0"
+      },
+      {
+         "1": "0",
+         "9": "0",
+         "10": "0"
       }
    ],
    "data": [
       {
-         "Month": "Army",
-         "Share of military personnel": "561979"
+         "Year": "2018",
+         "Revenue in million U.S. dollars": "516"
       },
       {
-         "Month": "Air Force",
-         "Share of military personnel": "329640"
+         "Year": "2017",
+         "Revenue in million U.S. dollars": "453"
       },
       {
-         "Month": "Navy",
-         "Share of military personnel": "323139"
+         "Year": "2016",
+         "Revenue in million U.S. dollars": "434"
       },
       {
-         "Month": "Marine Corps",
-         "Share of military personnel": "202612"
+         "Year": "2015",
+         "Revenue in million U.S. dollars": "398"
       },
       {
-         "Month": "Coast Guard",
-         "Share of military personnel": "41327"
+         "Year": "2014",
+         "Revenue in million U.S. dollars": "370"
+      },
+      {
+         "Year": "2013",
+         "Revenue in million U.S. dollars": "357"
+      },
+      {
+         "Year": "2012",
+         "Revenue in million U.S. dollars": "336"
+      },
+      {
+         "Year": "2011",
+         "Revenue in million U.S. dollars": "310"
+      },
+      {
+         "Year": "2010",
+         "Revenue in million U.S. dollars": "272"
+      },
+      {
+         "Year": "2009",
+         "Revenue in million U.S. dollars": "266"
+      },
+      {
+         "Year": "2008",
+         "Revenue in million U.S. dollars": "269"
+      },
+      {
+         "Year": "2007",
+         "Revenue in million U.S. dollars": "263"
+      },
+      {
+         "Year": "2006",
+         "Revenue in million U.S. dollars": "234"
+      },
+      {
+         "Year": "2005",
+         "Revenue in million U.S. dollars": "206"
+      },
+      {
+         "Year": "2004",
+         "Revenue in million U.S. dollars": "201"
+      },
+      {
+         "Year": "2003",
+         "Revenue in million U.S. dollars": "190"
+      },
+      {
+         "Year": "2002",
+         "Revenue in million U.S. dollars": "171"
+      },
+      {
+         "Year": "2001",
+         "Revenue in million U.S. dollars": "152"
       }
-   ]
+   ],
+   "gold": "The statistic depicts the revenue of the Boston Red Sox from 2001 to 2018 . In 2018 , the revenue of the Major League Baseball franchise amounted to 516 million U.S. dollars.The Boston Red Sox are owned by John Henry and Thomas Werner , who bought the franchise for 380 million U.S. dollars in 2002 .\n"
 }

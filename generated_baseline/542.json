@@ -4,27 +4,21 @@
    "yAxis": "Vended volume (in billion U.S. dollars)",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Vended volume (in billion U.S. dollars), with a total of 12 data points. The chart has 2 significant trends.",
-      " The longest trend is extremely positive which exists from 1999 to 2007.",
-      " Additionally, the next significant trend is extremely negative which exists from 2007 to 2010."
+      " The longest trend is extremely negative which exists from 1999 to 2007.",
+      " Conversely, the next significant trend is slightly positive which exists from 2007 to 2010."
    ],
    "trends": [
+      {},
       {
-         "Length": 9,
-         "direction": "positive",
-         "start": 0,
-         "end": 8,
-         "trend": "y=1.35x+-2661.37",
-         "magnitude": "extremely"
+         "1": "0",
+         "12": "8"
       },
       {
-         "Length": 4,
-         "direction": "negative",
-         "start": 8,
-         "end": 11,
-         "trend": "y=-1.86x+3780.36",
-         "magnitude": "extremely"
+         "3": "8",
+         "14": "11"
       }
    ],
    "data": [

@@ -4,15 +4,24 @@
    "yAxis": "Homicides per 100,000 inhabitants",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 22 categories for the x axis representing Country, and a y axis representing Homicides per 100,000 inhabitants.",
       " The highest category is found at El_Salvador where Homicides per 100,000 inhabitants is 61.8.",
       " The lowest category is found at Chile where Homicides per 100,000 inhabitants is 4.3."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 21
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 21,
+         "12": 21
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "El Salvador",

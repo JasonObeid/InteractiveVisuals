@@ -1,106 +1,153 @@
 {
-   "title": "General Electric profits in the Healthcare segment 1997 to 2018\n",
-   "xAxis": "Year",
-   "yAxis": "Profit in billion U.S. dollars",
-   "columnType": "two",
+   "title": "U.S. and European natural gas price 1980 to 2030",
+   "labels": [
+      "Year",
+      "Europe",
+      "U.S."
+   ],
+   "columnType": "multi",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Profit in billion U.S. dollars, with a total of 14 data points. The chart has 4 significant trends.",
-      " The longest trend is extremely negative which exists from 2013 to 2009.",
-      " But, the next significant trend is extremely negative which exists from 2018 to 2015.",
-      " Contrarily, the next significant trend is extremely positive which exists from 2009 to 2007.",
-      " Similarly, the next significant trend is extremely negative which exists from 2007 to 1997."
+      "This line chart has 2 lines.",
+      " The line representing Europe had the highest values across Year with a mean value of 6.4.",
+      " This peaked at 2013 with a value of 11.1. ",
+      " The line with the second highest values was U.S. with a mean value of 3.1.",
+      " This line peaked at 2000 with a value of 4.8"
    ],
    "trends": [
+      {},
       {
-         "Length": 5,
-         "direction": "negative",
-         "start": 5,
-         "end": 9,
-         "trend": "y=0.15x+-302.9",
-         "magnitude": "extremely"
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "17",
+            "0"
+         ]
       },
       {
-         "Length": 4,
-         "direction": "negative",
-         "start": 0,
-         "end": 3,
-         "trend": "y=0.27x+-549.2",
-         "magnitude": "extremely"
+         "1": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "0"
+         ]
       },
       {
-         "Length": 3,
-         "direction": "positive",
-         "start": 9,
-         "end": 11,
-         "trend": "y=-0.35x+705.6",
-         "magnitude": "extremely"
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "17",
+            "1"
+         ]
       },
       {
-         "Length": 3,
-         "direction": "negative",
-         "start": 11,
-         "end": 13,
-         "trend": "y=0.24x+-478.68",
-         "magnitude": "extremely"
+         "1": [
+            "0",
+            "1"
+         ],
+         "10": [
+            "0",
+            "1"
+         ]
       }
    ],
    "data": [
       {
+         "Year": "2030",
+         "Europe": "7.0",
+         "U.S.": "4.0"
+      },
+      {
+         "Year": "2025",
+         "Europe": "5.6",
+         "U.S.": "3.3"
+      },
+      {
+         "Year": "2022",
+         "Europe": "4.9",
+         "U.S.": "2.9"
+      },
+      {
+         "Year": "2021",
+         "Europe": "4.7",
+         "U.S.": "2.8"
+      },
+      {
+         "Year": "2020",
+         "Europe": "4.5",
+         "U.S.": "2.7"
+      },
+      {
+         "Year": "2019",
+         "Europe": "4.5",
+         "U.S.": "2.5"
+      },
+      {
          "Year": "2018",
-         "Profit in billion U.S. dollars": 3.7
+         "Europe": "7.7",
+         "U.S.": "3.2"
       },
       {
          "Year": "2017",
-         "Profit in billion U.S. dollars": 3.49
+         "Europe": "5.7",
+         "U.S.": "3.0"
       },
       {
          "Year": "2016",
-         "Profit in billion U.S. dollars": 3.21
+         "Europe": "4.6",
+         "U.S.": "2.5"
       },
       {
          "Year": "2015",
-         "Profit in billion U.S. dollars": 2.88
+         "Europe": "7.3",
+         "U.S.": "2.6"
       },
       {
          "Year": "2014",
-         "Profit in billion U.S. dollars": 3.05
+         "Europe": "10.05",
+         "U.S.": "4.37"
       },
       {
          "Year": "2013",
-         "Profit in billion U.S. dollars": 3.05
+         "Europe": "11.1",
+         "U.S.": "3.5"
       },
       {
          "Year": "2012",
-         "Profit in billion U.S. dollars": 2.92
+         "Europe": "9.6",
+         "U.S.": "2.3"
       },
       {
          "Year": "2011",
-         "Profit in billion U.S. dollars": 2.8
+         "Europe": "8.6",
+         "U.S.": "3.3"
       },
       {
          "Year": "2010",
-         "Profit in billion U.S. dollars": 2.7
+         "Europe": "7.3",
+         "U.S.": "3.9"
       },
       {
-         "Year": "2009",
-         "Profit in billion U.S. dollars": 2.4
+         "Year": "2000",
+         "Europe": "4.3",
+         "U.S.": "4.8"
       },
       {
-         "Year": "2008",
-         "Profit in billion U.S. dollars": 2.9
+         "Year": "1990",
+         "Europe": "2.9",
+         "U.S.": "1.8"
       },
       {
-         "Year": "2007",
-         "Profit in billion U.S. dollars": 3.1
-      },
-      {
-         "Year": "2002",
-         "Profit in billion U.S. dollars": 1.6
-      },
-      {
-         "Year": "1997",
-         "Profit in billion U.S. dollars": 0.7
+         "Year": "1980",
+         "Europe": "5.5",
+         "U.S.": "2.1"
       }
    ]
 }

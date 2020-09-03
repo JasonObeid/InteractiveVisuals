@@ -1,68 +1,97 @@
 {
-   "title": "Gross domestic product ( GDP ) growth rate in Qatar 2024",
-   "xAxis": "Year",
-   "yAxis": "GDP growth compared to previous year",
-   "columnType": "two",
-   "graphType": "line",
+   "title": "Number of Burger King restaurants in the Asia Pacific region from 2012 to 2013",
+   "labels": [
+      "Country",
+      "2012",
+      "2013"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
    "summary": [
-      "The statistic shows the growth in real GDP in Qatar from 2014 to 2018 , with projections up until 2024 . ",
-      "In 2018 , Qatar 's real Gross domestic product increased by around 1.49 % compared to the previous Year ."
+      "This statistic shows the Burger Asia King restaurants in Burger King 2012 and 2013 . ",
+      "During the survey period in 2013 , it was found that 371 % of Asia shoppers King clothing and footwear Asia , followed from China category . ",
+      "which was ranked second with 190 % of the global Spanish Asia purchases ."
    ],
    "trends": [
+      {},
       {
-         "11": "10",
-         "13": "6",
-         "19": "0"
+         "11": [
+            "0",
+            "2"
+         ],
+         "24": [
+            "1",
+            "0"
+         ]
       },
       {
-         "1": "6",
-         "12": "6"
+         "5": [
+            "1",
+            "2"
+         ]
       }
    ],
    "data": [
       {
-         "Year": "2024",
-         "GDP growth compared to previous year": "2.83"
+         "Country": "Australia",
+         "2012": "357",
+         "2013": "371"
       },
       {
-         "Year": "2023",
-         "GDP growth compared to previous year": "2.09"
+         "Country": "China",
+         "2012": "86",
+         "2013": "190"
       },
       {
-         "Year": "2022",
-         "GDP growth compared to previous year": "2.36"
+         "Country": "South Korea",
+         "2012": "139",
+         "2013": "164"
       },
       {
-         "Year": "2021",
-         "GDP growth compared to previous year": "3.02"
+         "Country": "New Zealand",
+         "2012": "82",
+         "2013": "86"
       },
       {
-         "Year": "2020",
-         "GDP growth compared to previous year": "2.76"
+         "Country": "Japan",
+         "2012": "64",
+         "2013": "82"
       },
       {
-         "Year": "2019",
-         "GDP growth compared to previous year": "1.97"
+         "Country": "Malaysia",
+         "2012": "43",
+         "2013": "56"
       },
       {
-         "Year": "2018",
-         "GDP growth compared to previous year": "1.49"
+         "Country": "Indonesia",
+         "2012": "40",
+         "2013": "48"
       },
       {
-         "Year": "2017",
-         "GDP growth compared to previous year": "1.58"
+         "Country": "Singapore",
+         "2012": "41",
+         "2013": "43"
       },
       {
-         "Year": "2016",
-         "GDP growth compared to previous year": "2.13"
+         "Country": "Philippines",
+         "2012": "29",
+         "2013": "36"
       },
       {
-         "Year": "2015",
-         "GDP growth compared to previous year": "3.66"
+         "Country": "Taiwan",
+         "2012": "41",
+         "2013": "36"
       },
       {
-         "Year": "2014",
-         "GDP growth compared to previous year": "3.98"
+         "Country": "Thailand",
+         "2012": "29",
+         "2013": "34"
+      },
+      {
+         "Country": "Other",
+         "2012": "59",
+         "2013": "85"
       }
-   ]
+   ],
+   "gold": "The statistic shows the number of Burger King restaurants in the Asia Pacific region from 2012 to 2013 , by country . In 2013 , there were 371 Burger King restaurants in Australia , 190 restaurants in China and 164 restaurants in South Korea .\n"
 }

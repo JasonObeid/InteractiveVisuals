@@ -1,70 +1,63 @@
 {
-   "title": "National debt of Ireland 2024",
+   "title": "Academy Awards nominations in 2020 , by film",
    "xAxis": "Year",
-   "yAxis": "National debt in billion U.S. dollars",
+   "yAxis": "Number of nominations",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the National debt of the Ireland from 2014 to 2018 , with projections up until 2024 . ",
-      "The amount of the debt of the Ireland amounted to around 226.92 billion U.S. dollars in 2018 . ",
-      "National debt of the Ireland National debt in the Ireland is a topic of much debate and controversy , primarily due to large amounts of unnecessary spending ."
+      "The statistic illustrates the Number of nominations owned by households in the 2020 from Ford_v_Ferrari to Joker . ",
+      "In Joker , about 4 % of nominations were owned by American households . ",
+      "Thus , nominations made up the most popular pet category in the 2020 , with the total Number ."
    ],
    "trends": [
       {
-         "10": "10",
-         "12": "6",
-         "18": "0"
+         "15": "8",
+         "17": "0"
       },
       {
-         "11": "6",
-         "16": "6"
+         "1": "0",
+         "4": "8"
       },
       {}
    ],
    "data": [
       {
-         "Year": "2024",
-         "National debt in billion U.S. dollars": "224.31"
+         "Year": "Joker",
+         "Number of nominations": "11"
       },
       {
-         "Year": "2023",
-         "National debt in billion U.S. dollars": "228.22"
+         "Year": "The Irishman",
+         "Number of nominations": "10"
       },
       {
-         "Year": "2022",
-         "National debt in billion U.S. dollars": "230.52"
+         "Year": "1917",
+         "Number of nominations": "10"
       },
       {
-         "Year": "2021",
-         "National debt in billion U.S. dollars": "231.85"
+         "Year": "Once Upon a Time in Hollywood",
+         "Number of nominations": "10"
       },
       {
-         "Year": "2020",
-         "National debt in billion U.S. dollars": "227.68"
+         "Year": "Little Women",
+         "Number of nominations": "6"
       },
       {
-         "Year": "2019",
-         "National debt in billion U.S. dollars": "229.83"
+         "Year": "Jojo Rabbit",
+         "Number of nominations": "6"
       },
       {
-         "Year": "2018",
-         "National debt in billion U.S. dollars": "226.92"
+         "Year": "Parasite",
+         "Number of nominations": "6"
       },
       {
-         "Year": "2017",
-         "National debt in billion U.S. dollars": "221.59"
+         "Year": "Marriage Story",
+         "Number of nominations": "6"
       },
       {
-         "Year": "2016",
-         "National debt in billion U.S. dollars": "220.87"
-      },
-      {
-         "Year": "2015",
-         "National debt in billion U.S. dollars": "221.87"
-      },
-      {
-         "Year": "2014",
-         "National debt in billion U.S. dollars": "223.78"
+         "Year": "Ford v Ferrari",
+         "Number of nominations": "4"
       }
-   ]
+   ],
+   "gold": "In 2020 , the movie with the most Oscar nominations was 'Joker ' _ , with 11 in total . 'Joker ' was directed by Todd Philips , whose work includes movies within 'The Hangover ' franchise , 'Due Date ' _ , and 'War Dogs ' _ . Philips also produced major hit ' A Star is Born ' _ .\n"
 }

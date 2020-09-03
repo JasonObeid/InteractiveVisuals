@@ -4,36 +4,41 @@
    "yAxis": "Number of shutdowns",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of shutdowns, with a total of 15 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely negative which exists from 2018 to 2016.",
-      " On the contrary, the next significant trend is extremely negative which exists from 2009 to 2007.",
-      " But, the next significant trend is slightly positive which exists from 2007 to 2005."
+      "This line chart has an x axis representing Year and a y axis representing Number of shutdowns, with a total of 15 data points. The chart has 6 significant trends.",
+      " The longest trend is moderately positive which exists from 2019 to 2016.",
+      " In a similar manner, the next significant trend is moderately positive which exists from 2010 to 2007.",
+      " In a similar manner, the next significant trend is extremely positive which exists from 2016 to 2014.",
+      " In a similar manner, the next significant trend is slightly positive which exists from 2014 to 2012.",
+      " In a similar manner, the next significant trend is extremely positive which exists from 2012 to 2010.",
+      " Correspondingly, the next significant trend is slightly negative which exists from 2007 to 2005."
    ],
    "trends": [
+      {},
       {
-         "Length": 3,
-         "direction": "negative",
-         "start": 1,
-         "end": 3,
-         "trend": "y=1.5x+-3020.17",
-         "magnitude": "extremely"
+         "1": "0",
+         "12": "3"
       },
       {
-         "Length": 3,
-         "direction": "negative",
-         "start": 10,
-         "end": 12,
-         "trend": "y=1.0x+-2006.0",
-         "magnitude": "extremely"
+         "3": "9",
+         "14": "12"
       },
       {
-         "Length": 3,
-         "direction": "positive",
-         "start": 12,
-         "end": 14,
-         "trend": "y=-0.5x+1006.67",
-         "magnitude": "slightly"
+         "3": "3",
+         "14": "5"
+      },
+      {
+         "3": "5",
+         "14": "7"
+      },
+      {
+         "3": "7",
+         "14": "9"
+      },
+      {
+         "3": "12",
+         "14": "14"
       }
    ],
    "data": [

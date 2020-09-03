@@ -1,76 +1,113 @@
 {
-   "title": "Inflation rate in Sub-Saharan Africa 2024\n",
-   "xAxis": "Year",
-   "yAxis": "Inflation rate compared to previous year",
-   "columnType": "two",
+   "title": "Number of vehicles in use worldwide 2006 to 2015",
+   "labels": [
+      "Year",
+      "Commercial vehicles",
+      "Passenger cars"
+   ],
+   "columnType": "multi",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Inflation rate compared to previous year, with a total of 11 data points. The chart has 2 significant trends.",
-      " The longest trend is extremely positive which exists from 2024 to 2017.",
-      " Likewise, the next significant trend is extremely negative which exists from 2017 to 2014."
+      "This line chart has 2 lines.",
+      " The line representing Passenger cars had the highest values across Year with a mean value of 799826.3.",
+      " This peaked at 2015 with a value of 947080.0. ",
+      " The line with the second highest values was Commercial vehicles with a mean value of 289727.9.",
+      " This line peaked at 2015 with a value of 335190.0"
    ],
    "trends": [
+      {},
       {
-         "Length": 8,
-         "direction": "positive",
-         "start": 0,
-         "end": 7,
-         "trend": "y=-0.52x+1067.19",
-         "magnitude": "extremely"
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "9",
+            "1"
+         ]
       },
       {
-         "Length": 4,
-         "direction": "negative",
-         "start": 7,
-         "end": 10,
-         "trend": "y=1.74x+-3496.19",
-         "magnitude": "extremely"
+         "1": [
+            "0",
+            "1"
+         ],
+         "9": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "9",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "10": [
+            "0",
+            "0"
+         ]
       }
    ],
    "data": [
       {
-         "Year": "2024",
-         "Inflation rate compared to previous year": 6.64
-      },
-      {
-         "Year": "2023",
-         "Inflation rate compared to previous year": 6.7
-      },
-      {
-         "Year": "2022",
-         "Inflation rate compared to previous year": 6.83
-      },
-      {
-         "Year": "2021",
-         "Inflation rate compared to previous year": 7.08
-      },
-      {
-         "Year": "2020",
-         "Inflation rate compared to previous year": 8.04
-      },
-      {
-         "Year": "2019",
-         "Inflation rate compared to previous year": 8.38
-      },
-      {
-         "Year": "2018",
-         "Inflation rate compared to previous year": 8.45
-      },
-      {
-         "Year": "2017",
-         "Inflation rate compared to previous year": 10.88
-      },
-      {
-         "Year": "2016",
-         "Inflation rate compared to previous year": 10.85
-      },
-      {
          "Year": "2015",
-         "Inflation rate compared to previous year": 6.93
+         "Commercial vehicles": "335190",
+         "Passenger cars": "947080"
       },
       {
          "Year": "2014",
-         "Inflation rate compared to previous year": 6.39
+         "Commercial vehicles": "327825",
+         "Passenger cars": "907062"
+      },
+      {
+         "Year": "2013",
+         "Commercial vehicles": "315845",
+         "Passenger cars": "869083"
+      },
+      {
+         "Year": "2012",
+         "Commercial vehicles": "306721",
+         "Passenger cars": "834916"
+      },
+      {
+         "Year": "2011",
+         "Commercial vehicles": "288618",
+         "Passenger cars": "808401"
+      },
+      {
+         "Year": "2010",
+         "Commercial vehicles": "280127",
+         "Passenger cars": "775573"
+      },
+      {
+         "Year": "2009",
+         "Commercial vehicles": "271957",
+         "Passenger cars": "747899"
+      },
+      {
+         "Year": "2008",
+         "Commercial vehicles": "264970",
+         "Passenger cars": "727405"
+      },
+      {
+         "Year": "2007",
+         "Commercial vehicles": "258538",
+         "Passenger cars": "701690"
+      },
+      {
+         "Year": "2006",
+         "Commercial vehicles": "247488",
+         "Passenger cars": "679154"
       }
    ]
 }

@@ -1,78 +1,54 @@
 {
-   "title": "Roche Group 's net income 2007 to 2019",
-   "xAxis": "Year",
-   "yAxis": "Net income in million Swiss francs",
+   "title": "Average YouTube video length 2018 , by category",
+   "xAxis": "Youtube Category",
+   "yAxis": "Average length in minutes",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Net of Group 's net income in Roche Group from 2007 to 2019 . ",
-      "Group 's Net in Roche Group amounted to approximately 14108 income net in 2019 , down from 10865 income the previous Year . ",
-      "Group 's in Roche Group - additional information Group 's , most often classed as a dairy product , comes in a variety of different flavors and is usually made from 's or milk , with added natural or artificial flavorings , sweeteners and colorings ."
+      "The Gaming industry accounted for a 24.7 % Average of length YouTube minutes in 2018 , which amounted to about 2,136 metric tons . ",
+      "Gaming was therefore the largest YouTube demanding industry video . ",
+      "Golds uses YouTube is a transition metal that has bright yellow coloring ."
    ],
    "trends": [
       {
-         "13": "12",
-         "15": "0"
+         "1": "0",
+         "6": "0"
       },
       {
-         "8": "0",
-         "13": "0",
-         "17": "1"
+         "0": "0"
       },
       {}
    ],
    "data": [
       {
-         "Year": "2019",
-         "Net income in million Swiss francs": "14108"
+         "Youtube Category": "Gaming",
+         "Average length in minutes": "24.7"
       },
       {
-         "Year": "2018",
-         "Net income in million Swiss francs": "10865"
+         "Youtube Category": "Film and animation",
+         "Average length in minutes": "19.2"
       },
       {
-         "Year": "2017",
-         "Net income in million Swiss francs": "8825"
+         "Youtube Category": "Entertainment",
+         "Average length in minutes": "12.9"
       },
       {
-         "Year": "2016",
-         "Net income in million Swiss francs": "9733"
+         "Youtube Category": "Total",
+         "Average length in minutes": "11.7"
       },
       {
-         "Year": "2015",
-         "Net income in million Swiss francs": "9056"
+         "Youtube Category": "Other",
+         "Average length in minutes": "9.5"
       },
       {
-         "Year": "2014",
-         "Net income in million Swiss francs": "9535"
+         "Youtube Category": "People and blogs",
+         "Average length in minutes": "8.4"
       },
       {
-         "Year": "2013",
-         "Net income in million Swiss francs": "11373"
-      },
-      {
-         "Year": "2012",
-         "Net income in million Swiss francs": "9773"
-      },
-      {
-         "Year": "2011",
-         "Net income in million Swiss francs": "9544"
-      },
-      {
-         "Year": "2010",
-         "Net income in million Swiss francs": "8891"
-      },
-      {
-         "Year": "2009",
-         "Net income in million Swiss francs": "8510"
-      },
-      {
-         "Year": "2008",
-         "Net income in million Swiss francs": "10844"
-      },
-      {
-         "Year": "2007",
-         "Net income in million Swiss francs": "11437"
+         "Youtube Category": "Music",
+         "Average length in minutes": "6.8"
       }
-   ]
+   ],
+   "gold": "This statistic presents the average length of YouTube videos as of December 2018 , sorted by category . According to the report , the average video length is at 11.7 minutes . Music content generally had the shortest video length among all categories on the platform , with an average length of 6.8 minutes per video .\n"
 }

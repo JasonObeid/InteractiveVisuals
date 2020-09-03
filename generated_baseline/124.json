@@ -4,27 +4,21 @@
    "yAxis": "Revenue in billion euros",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Revenue in billion euros, with a total of 12 data points. The chart has 2 significant trends.",
-      " The longest trend is extremely negative which exists from 2017/18 to 2008/09.",
-      " On the contrary, the next significant trend is moderately positive which exists from 2008/09 to 2006/07."
+      " The longest trend is extremely positive which exists from 2017/18 to 2008/09.",
+      " Also, the next significant trend is slightly negative which exists from 2008/09 to 2006/07."
    ],
    "trends": [
+      {},
       {
-         "Length": 10,
-         "direction": "negative",
-         "start": 0,
-         "end": 9,
-         "trend": "y=0.15x+-300.26",
-         "magnitude": "extremely"
+         "1": "0",
+         "12": "9"
       },
       {
-         "Length": 3,
-         "direction": "positive",
-         "start": 9,
-         "end": 11,
-         "trend": "y=0.01x+-27.33",
-         "magnitude": "moderately"
+         "3": "9",
+         "14": "11"
       }
    ],
    "data": [

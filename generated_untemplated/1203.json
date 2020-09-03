@@ -1,0 +1,28 @@
+{
+   "title": "Average weekly working hours in Sweden 2019 , by type of employment\n",
+   "xAxis": "Form of Employment",
+   "yAxis": "Average number of working hours per week",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the average annual salary in the netherlands in 2018 , in euros . It shows that the average employee , next to an annual salary of roughly 20,100 euros , also received an additional 4,600 euros in special payments . Together , the combined yearly salary in the netherlands was approximately 34,700 euros .\n",
+   "trends": {},
+   "data": [
+      {
+         "Form of Employment": "Self-employed",
+         "Average number of working hours per week": 35.4
+      },
+      {
+         "Form of Employment": "Permanently employed",
+         "Average number of working hours per week": 30.4
+      },
+      {
+         "Form of Employment": "Temporary employed",
+         "Average number of working hours per week": 25.5
+      },
+      {
+         "Form of Employment": "Employed total",
+         "Average number of working hours per week": 30.2
+      }
+   ]
+}

@@ -1,112 +1,64 @@
 {
-   "title": "Revenue of the Walt Disney Company 2010 - 2019 , by region",
-   "labels": [
-      "unknown",
-      "2010",
-      "2011",
-      "2012",
-      "2013",
-      "2014",
-      "2015",
-      "2016",
-      "2017",
-      "2018",
-      "2019"
-   ],
-   "columnType": "multi",
+   "title": "Forbes ranking of the 10 richest people in Italy 2019",
+   "xAxis": "Month",
+   "yAxis": "Wealth in billion U.S. dollars",
+   "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Company of the Revenue Walt Disney in the Walt Disney Company ( ) from 2010 to 2019 , region . ",
-      "In 2019 , the largest Company was held region Latin_America_and_other United_States_and_Canada , accounting for 34021 % of the Revenue Walt Disney , followed region Asia_Pacific United_States_and_Canada ( 3333 % ) . ",
-      "The Disney Company of Revenue Walt types in the Walt Disney Company is predominantly made up of United_States_and_Canada , with the value of the Disney experiencing year on increases ."
+      "The statistic shows the Forbes ranking 10 richest according to the Wealth of billion 2019 in . ",
+      "Leonardo_Del_Vecchio leads all richest with a total of 24.4 billion in 50 matches . ",
+      "Most billion in 2015 - additional information In 10 an ace is a legal serve that is not touched Italy the receiver , thus winning the point for the server ."
    ],
    "trends": [
       {},
       {
-         "9": [
-            "0",
-            "0"
-         ],
-         "10": [
-            "3",
-            "0"
-         ],
-         "14": [
-            "3",
-            "4"
-         ],
-         "24": [
-            "1",
-            "0"
-         ],
-         "25": [
-            "3",
-            "0"
-         ],
-         "27": [
-            "1",
-            "4"
-         ]
+         "0": "0",
+         "8": "0"
       },
-      {
-         "15": [
-            "3",
-            "0"
-         ]
-      }
+      {}
    ],
    "data": [
       {
-         "unknown": "Latin America and other",
-         "2010": "914",
-         "2011": "1073",
-         "2012": "1295",
-         "2013": "1506",
-         "2014": "1609",
-         "2015": "1680",
-         "2016": "1720",
-         "2017": "1640",
-         "2018": "1839",
-         "2019": "3213"
+         "Month": "Leonardo Del Vecchio",
+         "Wealth in billion U.S. dollars": "24.4"
       },
       {
-         "unknown": "Asia Pacific",
-         "2010": "2320",
-         "2011": "2517",
-         "2012": "2990",
-         "2013": "3333",
-         "2014": "3930",
-         "2015": "3958",
-         "2016": "4582",
-         "2017": "5075",
-         "2018": "5531",
-         "2019": "7796"
+         "Month": "Giovanni Ferrero",
+         "Wealth in billion U.S. dollars": "21.9"
       },
       {
-         "unknown": "Europe",
-         "2010": "6550",
-         "2011": "6455",
-         "2012": "6223",
-         "2013": "6181",
-         "2014": "6505",
-         "2015": "6507",
-         "2016": "6714",
-         "2017": "6541",
-         "2018": "7026",
-         "2019": "8006"
+         "Month": "Giorgio Armani",
+         "Wealth in billion U.S. dollars": "11.2"
       },
       {
-         "unknown": "United States and Canada",
-         "2010": "28279",
-         "2011": "30848",
-         "2012": "31770",
-         "2013": "34021",
-         "2014": "36769",
-         "2015": "40320",
-         "2016": "42616",
-         "2017": "41881",
-         "2018": "45038",
-         "2019": "50555"
+         "Month": "Stefano Pessina",
+         "Wealth in billion U.S. dollars": "10.4"
+      },
+      {
+         "Month": "Massimiliana Landini Aleotti",
+         "Wealth in billion U.S. dollars": "8.1"
+      },
+      {
+         "Month": "Silvio Berlusconi",
+         "Wealth in billion U.S. dollars": "7.0"
+      },
+      {
+         "Month": "Augusto e Giorgio Perfetti",
+         "Wealth in billion U.S. dollars": "6.9"
+      },
+      {
+         "Month": "Paolo and Gianfelice Rocca",
+         "Wealth in billion U.S. dollars": "3.7"
+      },
+      {
+         "Month": "Piero Ferrari",
+         "Wealth in billion U.S. dollars": "3.4"
+      },
+      {
+         "Month": "Ennio Doris",
+         "Wealth in billion U.S. dollars": "3.3"
       }
-   ]
+   ],
+   "gold": "Leonardo Del Vecchio , founder of the eyewear company Luxottica , podiumed in the yearly ranking of Italian billionaires , published by the American business magazine Forbes . With the total net worth estimated at 24.4 billion dollars , Del Vecchio put ahead other Italian entrepreneurs - Giovanni Ferrero , the CEO of the Italian confectionary company Ferrero and the fashion designer Giorgio Armani , whose fortunes reached respectively 21.9 and 11.2 billion dollars . Largest eyewear company in the world Luxottica is the largest company in the eyewear sector worldwide .\n"
 }

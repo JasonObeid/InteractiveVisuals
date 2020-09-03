@@ -1,129 +1,145 @@
 {
-   "title": "Retail price of premium cigarettes in Europe 2017 , by country",
-   "xAxis": "Country",
-   "yAxis": "Retail price in GBP",
+   "title": "Gross domestic product ( GDP ) per capita in the Czech Republic 2024",
+   "xAxis": "Year",
+   "yAxis": "GDP per capita in U.S. dollars",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Retail price GBP of the Europe by states in 2017 . ",
-      "A negative price balance means that a Country contributes more to the Europe budget than it receives from it , a positive balance means the Country contributes less than it receives . ",
-      "In 2017 , Bulgaria contributed the most with approximately 10.68 billion GBP ."
+      "The statistic shows the Gross domestic product ( GDP ) per capita in Czech Republic from 1995 to 2018 , with projections up until 2024 . ",
+      "GDP is the total value of all goods and services produced in a country in a Year . ",
+      "It is considered to be a very important indicator of the economic strength of a country and a positive change is an indicator of economic growth ."
    ],
    "trends": [
-      {},
-      {},
       {
-         "3": "26"
-      }
+         "15": "29",
+         "17": "6",
+         "23": "0"
+      },
+      {},
+      {}
    ],
    "data": [
       {
-         "Country": "United Kingdom",
-         "Retail price in GBP": "9.91"
+         "Year": "2024",
+         "GDP per capita in U.S. dollars": "30070.3"
       },
       {
-         "Country": "Ireland",
-         "Retail price in GBP": "9.15"
+         "Year": "2023",
+         "GDP per capita in U.S. dollars": "28569.08"
       },
       {
-         "Country": "France",
-         "Retail price in GBP": "5.67"
+         "Year": "2022",
+         "GDP per capita in U.S. dollars": "27205.52"
       },
       {
-         "Country": "Netherlands",
-         "Retail price in GBP": "5.37"
+         "Year": "2021",
+         "GDP per capita in U.S. dollars": "25881.83"
       },
       {
-         "Country": "Belgium",
-         "Retail price in GBP": "5.12"
+         "Year": "2020",
+         "GDP per capita in U.S. dollars": "24569.06"
       },
       {
-         "Country": "Finland",
-         "Retail price in GBP": "5.02"
+         "Year": "2019",
+         "GDP per capita in U.S. dollars": "23213.95"
       },
       {
-         "Country": "Denmark",
-         "Retail price in GBP": "5.0"
+         "Year": "2018",
+         "GDP per capita in U.S. dollars": "23112.59"
       },
       {
-         "Country": "Germany",
-         "Retail price in GBP": "4.86"
+         "Year": "2017",
+         "GDP per capita in U.S. dollars": "20409.98"
       },
       {
-         "Country": "Malta",
-         "Retail price in GBP": "4.46"
+         "Year": "2016",
+         "GDP per capita in U.S. dollars": "18458.24"
       },
       {
-         "Country": "Italy",
-         "Retail price in GBP": "4.37"
+         "Year": "2015",
+         "GDP per capita in U.S. dollars": "17728.7"
       },
       {
-         "Country": "Luxembourg",
-         "Retail price in GBP": "4.21"
+         "Year": "2014",
+         "GDP per capita in U.S. dollars": "19768.84"
       },
       {
-         "Country": "Austria",
-         "Retail price in GBP": "4.05"
+         "Year": "2013",
+         "GDP per capita in U.S. dollars": "19912.51"
       },
       {
-         "Country": "Spain",
-         "Retail price in GBP": "3.93"
+         "Year": "2012",
+         "GDP per capita in U.S. dollars": "19739.9"
       },
       {
-         "Country": "Portugal",
-         "Retail price in GBP": "3.89"
+         "Year": "2011",
+         "GDP per capita in U.S. dollars": "21736.84"
       },
       {
-         "Country": "Cyprus",
-         "Retail price in GBP": "3.89"
+         "Year": "2010",
+         "GDP per capita in U.S. dollars": "19831.4"
       },
       {
-         "Country": "Greece",
-         "Retail price in GBP": "3.4"
+         "Year": "2009",
+         "GDP per capita in U.S. dollars": "19787.77"
       },
       {
-         "Country": "Slovenia",
-         "Retail price in GBP": "3.16"
+         "Year": "2008",
+         "GDP per capita in U.S. dollars": "22819.46"
       },
       {
-         "Country": "Estonia",
-         "Retail price in GBP": "3.09"
+         "Year": "2007",
+         "GDP per capita in U.S. dollars": "18434.54"
       },
       {
-         "Country": "Romania",
-         "Retail price in GBP": "3.09"
+         "Year": "2006",
+         "GDP per capita in U.S. dollars": "15206.4"
       },
       {
-         "Country": "Hungary",
-         "Retail price in GBP": "3.06"
+         "Year": "2005",
+         "GDP per capita in U.S. dollars": "13362.34"
       },
       {
-         "Country": "Slovakia",
-         "Retail price in GBP": "3.0"
+         "Year": "2004",
+         "GDP per capita in U.S. dollars": "11687.92"
       },
       {
-         "Country": "Czech Republic",
-         "Retail price in GBP": "3.0"
+         "Year": "2003",
+         "GDP per capita in U.S. dollars": "9777.81"
       },
       {
-         "Country": "Latvia",
-         "Retail price in GBP": "2.92"
+         "Year": "2002",
+         "GDP per capita in U.S. dollars": "8028.36"
       },
       {
-         "Country": "Poland",
-         "Retail price in GBP": "2.81"
+         "Year": "2001",
+         "GDP per capita in U.S. dollars": "6599.31"
       },
       {
-         "Country": "Croatia",
-         "Retail price in GBP": "2.72"
+         "Year": "2000",
+         "GDP per capita in U.S. dollars": "5997.69"
       },
       {
-         "Country": "Lithuania",
-         "Retail price in GBP": "2.67"
+         "Year": "1999",
+         "GDP per capita in U.S. dollars": "6304.16"
       },
       {
-         "Country": "Bulgaria",
-         "Retail price in GBP": "2.32"
+         "Year": "1998",
+         "GDP per capita in U.S. dollars": "6453.43"
+      },
+      {
+         "Year": "1997",
+         "GDP per capita in U.S. dollars": "5993.0"
+      },
+      {
+         "Year": "1996",
+         "GDP per capita in U.S. dollars": "6490.09"
+      },
+      {
+         "Year": "1995",
+         "GDP per capita in U.S. dollars": "5784.1"
       }
-   ]
+   ],
+   "gold": "The statistic shows gross domestic product ( GDP ) per capita in the Czech Republic from 1995 to 2018 , with projections up until 2024 . GDP is the total value of all goods and services produced in a country in a year . It is considered to be a very important indicator of the economic strength of a country and a positive change is an indicator of economic growth .\n"
 }

@@ -1,77 +1,51 @@
 {
-   "title": "LinkedIn : unique mobile visiting members 2013 to 2016",
-   "xAxis": "Quarter",
-   "yAxis": "Number of mobile visiting members in millions",
-   "columnType": "two",
+   "title": "Global basketball shoe sales 2012 - 2013 , by NBA player",
+   "labels": [
+      "Quarter",
+      "2012",
+      "2013"
+   ],
+   "columnType": "multi",
    "graphType": "bar",
    "summary": [
-      "This statistic presents the Number of mobile visiting LinkedIn video platform members as of 2015 . ",
-      "As of that Quarter , the video portal had 20 millions mobile visiting members worldwide . ",
-      "The VoD service had been acquired by Japanese e-commerce company Rakuten in 2013 ."
+      "This statistic shows a projection with the global revenues of basketball shoe sales in the third Quarter of 2012 and the third Quarter of 2013 . ",
+      "In the third Quarter of 2013 , 2012 accounted for 2000 % of global SoC shoe revenues ."
    ],
    "trends": [
       {},
       {
-         "9": "13"
-      },
-      {}
+         "10": [
+            "0",
+            "1"
+         ]
+      }
    ],
    "data": [
       {
-         "Quarter": "Q2 '16",
-         "Number of mobile visiting members in millions": "63"
+         "Quarter": "Michael Jordan",
+         "2012": "2000",
+         "2013": "2500"
       },
       {
-         "Quarter": "Q1 '16",
-         "Number of mobile visiting members in millions": "61"
+         "Quarter": "Lebron James",
+         "2012": "300",
+         "2013": "300"
       },
       {
-         "Quarter": "Q4 '15",
-         "Number of mobile visiting members in millions": "57"
+         "Quarter": "Kevin Durant",
+         "2012": "35",
+         "2013": "175"
       },
       {
-         "Quarter": "Q3 '15",
-         "Number of mobile visiting members in millions": "55"
+         "Quarter": "Kobe Bryant",
+         "2012": "50",
+         "2013": "50"
       },
       {
-         "Quarter": "Q2 '15",
-         "Number of mobile visiting members in millions": "51"
-      },
-      {
-         "Quarter": "Q1 '15",
-         "Number of mobile visiting members in millions": "49"
-      },
-      {
-         "Quarter": "Q4 '14",
-         "Number of mobile visiting members in millions": "45"
-      },
-      {
-         "Quarter": "Q3 '14",
-         "Number of mobile visiting members in millions": "42"
-      },
-      {
-         "Quarter": "Q2 '14",
-         "Number of mobile visiting members in millions": "38"
-      },
-      {
-         "Quarter": "Q1 '14",
-         "Number of mobile visiting members in millions": "35"
-      },
-      {
-         "Quarter": "Q4 '13",
-         "Number of mobile visiting members in millions": "31"
-      },
-      {
-         "Quarter": "Q3 '13",
-         "Number of mobile visiting members in millions": "29"
-      },
-      {
-         "Quarter": "Q2 '13",
-         "Number of mobile visiting members in millions": "26"
-      },
-      {
-         "Quarter": "Q1 '13",
-         "Number of mobile visiting members in millions": "20"
+         "Quarter": "Derrick Rose",
+         "2012": "40",
+         "2013": "40"
       }
-   ]
+   ],
+   "gold": "This timeline depicts global basketball shoe sales in 2012 and 2013 , by NBA player . In 2013 , Michael Jordan and his shoe brand , Jordan , earned approximately 2.5 billion U.S. dollars .\n"
 }

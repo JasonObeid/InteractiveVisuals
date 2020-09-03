@@ -1,79 +1,71 @@
 {
-   "title": "Franchise value of the Chicago Blackhawks 2006 to 2019",
+   "title": "Urbanization in Tanzania 2018",
    "xAxis": "Year",
-   "yAxis": "Franchise value in million U.S. dollars",
+   "yAxis": "Share of urban population in total population",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This graph depicts the Franchise value million for Chicago Blackhawks games in the National Football League from 2006 to 2019 . ",
-      "In 2019 , the Franchise value million was 1085 U.S. dollars ."
+      "This statistic shows the degree of Urbanization in Tanzania from 2008 to 2018 . ",
+      "Urbanization means the Share of urban population in the total population of a country . ",
+      "In 2018 , 33.78 % of Tanzania 's total population lived in urban areas and cities ."
    ],
    "trends": [
       {
-         "16": "13",
-         "18": "0"
+         "10": "10",
+         "12": "0"
       },
+      {},
       {
          "1": "0",
-         "8": "0"
+         "3": "0"
       }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Franchise value in million U.S. dollars": "1085"
-      },
-      {
          "Year": "2018",
-         "Franchise value in million U.S. dollars": "1050"
+         "Share of urban population in total population": "33.78"
       },
       {
          "Year": "2017",
-         "Franchise value in million U.S. dollars": "1000"
+         "Share of urban population in total population": "33.05"
       },
       {
          "Year": "2016",
-         "Franchise value in million U.S. dollars": "925"
+         "Share of urban population in total population": "32.33"
       },
       {
          "Year": "2015",
-         "Franchise value in million U.S. dollars": "925"
+         "Share of urban population in total population": "31.62"
       },
       {
          "Year": "2014",
-         "Franchise value in million U.S. dollars": "825"
+         "Share of urban population in total population": "30.9"
       },
       {
          "Year": "2013",
-         "Franchise value in million U.S. dollars": "625"
+         "Share of urban population in total population": "30.2"
       },
       {
          "Year": "2012",
-         "Franchise value in million U.S. dollars": "350"
+         "Share of urban population in total population": "29.49"
       },
       {
          "Year": "2011",
-         "Franchise value in million U.S. dollars": "306"
+         "Share of urban population in total population": "28.8"
       },
       {
          "Year": "2010",
-         "Franchise value in million U.S. dollars": "300"
+         "Share of urban population in total population": "28.11"
       },
       {
          "Year": "2009",
-         "Franchise value in million U.S. dollars": "258"
+         "Share of urban population in total population": "27.44"
       },
       {
          "Year": "2008",
-         "Franchise value in million U.S. dollars": "205"
-      },
-      {
-         "Year": "2007",
-         "Franchise value in million U.S. dollars": "179"
-      },
-      {
-         "Year": "2006",
-         "Franchise value in million U.S. dollars": "168"
+         "Share of urban population in total population": "26.78"
       }
-   ]
+   ],
+   "gold": "This statistic shows the degree of urbanization in Tanzania from 2008 to 2018 . Urbanization means the share of urban population in the total population of a country . In 2018 , 33.78 percent of Tanzania 's total population lived in urban areas and cities .\n"
 }

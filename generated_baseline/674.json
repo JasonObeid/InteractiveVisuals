@@ -4,15 +4,24 @@
    "yAxis": "Number of live births",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 31 categories for the x axis representing Years 1900-1930, and a y axis representing Number of live births.",
       " The highest category is found at '20 where Number of live births is 1126849.0.",
       " The lowest category is found at '29 where Number of live births is 761963.0."
    ],
-   "trends": {
-      "maxIndex": 10,
-      "minIndex": 1
-   },
+   "trends": [
+      {},
+      {
+         "7": 10,
+         "12": 10
+      },
+      {
+         "7": 1,
+         "12": 1
+      },
+      {}
+   ],
    "data": [
       {
          "Years 1900-1930": "'30",

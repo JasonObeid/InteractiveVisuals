@@ -1,118 +1,110 @@
 {
-   "title": "Births delivered by forceps or vacuum extraction in the U.S. 1990 to 2018",
-   "labels": [
-      "Year",
-      "Forceps",
-      "Vacuum extraction"
-   ],
-   "columnType": "multi",
-   "graphType": "line",
+   "title": "Latin America & the Caribbean : homicide rates 2017 , by country",
+   "xAxis": "Country",
+   "yAxis": "Homicides per 100,000 inhabitants",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Births delivered by of forceps vacuum in the U.S. from 1990 to 2018 . ",
-      "In 2018 , 0.5 million delivered by of forceps vacuum in Forceps was ."
+      "The statistic shows the Latin America Caribbean America the & Caribbean of homicide rates in 2017 . ",
+      "That year , El_Salvador was the largest Homicides of homicide rates with a Homicides of 61.8 million homicide rates ."
    ],
    "trends": [
+      {},
       {
-         "14": [
-            "15",
-            "0"
-         ],
-         "16": [
-            "0",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "0"
-         ],
-         "3": [
-            "0",
-            "1"
-         ]
+         "3": "0",
+         "15": "0"
       }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Forceps": "0.5",
-         "Vacuum extraction": "2.5"
+         "Country": "El Salvador",
+         "Homicides per 100,000 inhabitants": "61.8"
       },
       {
-         "Year": "2017",
-         "Forceps": "0.5",
-         "Vacuum extraction": "2.6"
+         "Country": "Jamaica",
+         "Homicides per 100,000 inhabitants": "57.0"
       },
       {
-         "Year": "2016",
-         "Forceps": "0.5",
-         "Vacuum extraction": "2.6"
+         "Country": "Honduras",
+         "Homicides per 100,000 inhabitants": "41.7"
       },
       {
-         "Year": "2015",
-         "Forceps": "0.56",
-         "Vacuum extraction": "2.58"
+         "Country": "Belize",
+         "Homicides per 100,000 inhabitants": "37.9"
       },
       {
-         "Year": "2014",
-         "Forceps": "0.57",
-         "Vacuum extraction": "2.64"
+         "Country": "Bahamas",
+         "Homicides per 100,000 inhabitants": "30.9"
       },
       {
-         "Year": "2013",
-         "Forceps": "0.59",
-         "Vacuum extraction": "2.72"
+         "Country": "Brazil",
+         "Homicides per 100,000 inhabitants": "30.5"
       },
       {
-         "Year": "2012",
-         "Forceps": "0.61",
-         "Vacuum extraction": "2.79"
+         "Country": "Guatemala",
+         "Homicides per 100,000 inhabitants": "26.1"
       },
       {
-         "Year": "2011",
-         "Forceps": "0.65",
-         "Vacuum extraction": "2.85"
+         "Country": "Colombia",
+         "Homicides per 100,000 inhabitants": "24.9"
       },
       {
-         "Year": "2010",
-         "Forceps": "0.66",
-         "Vacuum extraction": "2.96"
+         "Country": "Mexico",
+         "Homicides per 100,000 inhabitants": "24.8"
       },
       {
-         "Year": "2009",
-         "Forceps": "0.67",
-         "Vacuum extraction": "3.04"
+         "Country": "Puerto Rico",
+         "Homicides per 100,000 inhabitants": "18.5"
       },
       {
-         "Year": "2008",
-         "Forceps": "0.71",
-         "Vacuum extraction": "3.22"
+         "Country": "Guyana",
+         "Homicides per 100,000 inhabitants": "14.8"
       },
       {
-         "Year": "2007",
-         "Forceps": "0.76",
-         "Vacuum extraction": "3.47"
+         "Country": "Costa Rica",
+         "Homicides per 100,000 inhabitants": "12.3"
       },
       {
-         "Year": "2005",
-         "Forceps": "0.93",
-         "Vacuum extraction": "3.87"
+         "Country": "Dominican Republic",
+         "Homicides per 100,000 inhabitants": "11.3"
       },
       {
-         "Year": "2000",
-         "Forceps": "2.07",
-         "Vacuum extraction": "4.85"
+         "Country": "Grenada",
+         "Homicides per 100,000 inhabitants": "11.1"
       },
       {
-         "Year": "1995",
-         "Forceps": "3.48",
-         "Vacuum extraction": "5.9"
+         "Country": "Panama",
+         "Homicides per 100,000 inhabitants": "9.7"
       },
       {
-         "Year": "1990",
-         "Forceps": "5.11",
-         "Vacuum extraction": "3.9"
+         "Country": "Uruguay",
+         "Homicides per 100,000 inhabitants": "8.2"
+      },
+      {
+         "Country": "Peru",
+         "Homicides per 100,000 inhabitants": "7.7"
+      },
+      {
+         "Country": "Nicaragua",
+         "Homicides per 100,000 inhabitants": "7.4"
+      },
+      {
+         "Country": "Ecuador",
+         "Homicides per 100,000 inhabitants": "5.8"
+      },
+      {
+         "Country": "Suriname",
+         "Homicides per 100,000 inhabitants": "5.5"
+      },
+      {
+         "Country": "Argentina",
+         "Homicides per 100,000 inhabitants": "5.2"
+      },
+      {
+         "Country": "Chile",
+         "Homicides per 100,000 inhabitants": "4.3"
       }
-   ]
+   ],
+   "gold": "Countries in Central America and the Caribbean registered some of the highest homicide rates in the Latin American region in 2017 . El Salvador ranked first , with nearly 62 homicides committed per 100,000 inhabitants . Jamaica came in second , with 57 homicides per 100,000 people .\n"
 }

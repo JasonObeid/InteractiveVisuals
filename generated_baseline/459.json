@@ -4,15 +4,24 @@
    "yAxis": "Current year (as of January 25, 2020)",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 10 categories for the x axis representing Month, and a y axis representing Current year (as of January 25, 2020).",
       " The highest category is found at Assyrian where Current year (as of January 25, 2020) is 6770.0.",
       " The lowest category is found at French_Revolutionary where Current year (as of January 25, 2020) is 228.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 9
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
    "data": [
       {
          "Month": "Assyrian",

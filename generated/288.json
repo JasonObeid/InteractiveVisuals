@@ -1,95 +1,118 @@
 {
-   "title": "Semiconductor equipment manufacturers ' market share worldwide 1Q'17 to 2018",
+   "title": "Revenue of the leading telecommunications companies in Germany 2008 to 2018",
    "labels": [
       "Year",
-      "Applied Materials",
-      "ASML",
-      "Lam Research",
-      "Tokyo Electron",
-      "KLA-Tencor",
-      "Screen Semiconductor",
-      "Hitachi High Tech",
-      "ASMI",
-      "Nova Measuring",
-      "Nanometrics",
-      "Rudolph Technology",
-      "Others"
+      "Deutsche Telekom",
+      "Vodafone Germany",
+      "Telef\u00f3nica Germany",
+      "E-Plus group"
    ],
    "columnType": "multi",
    "graphType": "line",
    "summary": [
-      "This statistic shows the Semiconductor equipment of Semiconductor worldwide share 1Q_'17 to 2018 , by location and ownership type . ",
-      "In 2018 , Semiconductor generated approximately 16.8 billion U.S. dollars in Applied Research Semiconductor equipment . ",
-      "Semiconductor is owned by Bloomin ' Brands , Inc. a U.S.-based Semiconductor company ."
+      "The timeline shows the leading telecommunications companies of Germany 2008 in the Revenue from 2008 to 2018 . ",
+      "The Germany leading telecommunications companies of Germany 2008 amounted to 24.36 Deutsche in 2018 ."
    ],
    "trends": [
       {
-         "10": [
-            "2",
+         "14": [
+            "10",
             "0"
          ],
-         "12": [
+         "16": [
             "0",
             "0"
          ]
       },
       {
-         "1": [
+         "10": [
+            "0",
+            "1"
+         ],
+         "13": [
             "0",
             "0"
-         ],
-         "6": [
-            "0",
-            "3"
          ]
-      },
-      {}
+      }
    ],
    "data": [
       {
          "Year": "2018",
-         "Applied Materials": "18.8",
-         "ASML": "17.6",
-         "Lam Research": "16.8",
-         "Tokyo Electron": "16.7",
-         "KLA-Tencor": "6.4",
-         "Screen Semiconductor": "2.1",
-         "Hitachi High Tech": "2.1",
-         "ASMI": "0",
-         "Nova Measuring": "0",
-         "Nanometrics": "0",
-         "Rudolph Technology": "0",
-         "Others": "19.4"
+         "Deutsche Telekom": "24.36",
+         "Vodafone Germany": "10.31",
+         "Telef\u00f3nica Germany": "7.32",
+         "E-Plus group": "0"
       },
       {
-         "Year": "1Q '18",
-         "Applied Materials": "17.7",
-         "ASML": "12.1",
-         "Lam Research": "14",
-         "Tokyo Electron": "15",
-         "KLA-Tencor": "4.4",
-         "Screen Semiconductor": "2.2",
-         "Hitachi High Tech": "1.8",
-         "ASMI": "0.9",
-         "Nova Measuring": "0.3",
-         "Nanometrics": "0.3",
-         "Rudolph Technology": "0.4",
-         "Others": "31.1"
+         "Year": "2017",
+         "Deutsche Telekom": "24.58",
+         "Vodafone Germany": "10.26",
+         "Telef\u00f3nica Germany": "7.3",
+         "E-Plus group": "0"
       },
       {
-         "Year": "1Q '17",
-         "Applied Materials": "18.4",
-         "ASML": "9.9",
-         "Lam Research": "13.5",
-         "Tokyo Electron": "13.7",
-         "KLA-Tencor": "5.1",
-         "Screen Semiconductor": "2.1",
-         "Hitachi High Tech": "1.9",
-         "ASMI": "0.9",
-         "Nova Measuring": "0.3",
-         "Nanometrics": "0.3",
-         "Rudolph Technology": "0.4",
-         "Others": "33.5"
+         "Year": "2016",
+         "Deutsche Telekom": "24.63",
+         "Vodafone Germany": "10.01",
+         "Telef\u00f3nica Germany": "7.5",
+         "E-Plus group": "0"
+      },
+      {
+         "Year": "2015",
+         "Deutsche Telekom": "25.06",
+         "Vodafone Germany": "10.63",
+         "Telef\u00f3nica Germany": "7.89",
+         "E-Plus group": "0"
+      },
+      {
+         "Year": "2014",
+         "Deutsche Telekom": "25.0",
+         "Vodafone Germany": "10.68",
+         "Telef\u00f3nica Germany": "5.52",
+         "E-Plus group": "0"
+      },
+      {
+         "Year": "2013",
+         "Deutsche Telekom": "25.38",
+         "Vodafone Germany": "9.82",
+         "Telef\u00f3nica Germany": "4.91",
+         "E-Plus group": "3.2"
+      },
+      {
+         "Year": "2012",
+         "Deutsche Telekom": "25.77",
+         "Vodafone Germany": "9.64",
+         "Telef\u00f3nica Germany": "5.21",
+         "E-Plus group": "3.4"
+      },
+      {
+         "Year": "2011",
+         "Deutsche Telekom": "26.4",
+         "Vodafone Germany": "9.55",
+         "Telef\u00f3nica Germany": "5.04",
+         "E-Plus group": "3.24"
+      },
+      {
+         "Year": "2010",
+         "Deutsche Telekom": "27.3",
+         "Vodafone Germany": "9.29",
+         "Telef\u00f3nica Germany": "4.83",
+         "E-Plus group": "3.24"
+      },
+      {
+         "Year": "2009",
+         "Deutsche Telekom": "28.0",
+         "Vodafone Germany": "9.04",
+         "Telef\u00f3nica Germany": "3.75",
+         "E-Plus group": "3.18"
+      },
+      {
+         "Year": "2008",
+         "Deutsche Telekom": "28.9",
+         "Vodafone Germany": "9.41",
+         "Telef\u00f3nica Germany": "3.6",
+         "E-Plus group": "3.22"
       }
-   ]
+   ],
+   "gold": "This statistic shows data on the revenues of the three ( four ) leading companies in the German telecommunications market from 2008 to 2018 . In 2018 , Vodafone generated a revenue of roughly 10.3 billion euros in Germany . In the same year , the revenue of Deutsche Telekom amounted to roughly 24.4 billion euros .\n"
 }

@@ -1,91 +1,82 @@
 {
-   "title": "Natural gas prices for households in Italy 2010 - 2018 , semi-annually",
-   "xAxis": "Year",
-   "yAxis": "Euro cents per kilowatt-hour",
+   "title": "Cities with the most parkland per 1,000 residents in the U.S. 2018",
+   "xAxis": "City",
+   "yAxis": "Acres of parkland per 1,000 residents",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Natural gas prices for household end users in Italy semi-annually from 2010_S2 to 2018_S1 . ",
-      "In the first half of 2018_S1 , the average Natural gas price for households was 7.14 Euro cents per kWh ."
+      "The statistic shows the Cities most the largest number of per Acres parkland per 10,000 residents in the 2018 in . ",
+      "There were 3012.8 per Acres parkland per 100,000 1,000 in Scottsdale 2018 ."
    ],
    "trends": [
+      {},
       {
-         "15": "15",
-         "17": "0"
-      },
-      {
-         "5": "0",
-         "15": "0"
+         "2": "0",
+         "10": "2"
       }
    ],
    "data": [
       {
-         "Year": "2018 S1",
-         "Euro cents per kilowatt-hour": "7.14"
+         "City": "Anchorage",
+         "Acres of parkland per 1,000 residents": "3012.8"
       },
       {
-         "Year": "2017 S2",
-         "Euro cents per kilowatt-hour": "8.74"
+         "City": "Chesapeake",
+         "Acres of parkland per 1,000 residents": "228.1"
       },
       {
-         "Year": "2017 S1",
-         "Euro cents per kilowatt-hour": "7.04"
+         "City": "Scottsdale",
+         "Acres of parkland per 1,000 residents": "126.4"
       },
       {
-         "Year": "2016 S2",
-         "Euro cents per kilowatt-hour": "8.38"
+         "City": "Fremont",
+         "Acres of parkland per 1,000 residents": "106.0"
       },
       {
-         "Year": "2016 S1",
-         "Euro cents per kilowatt-hour": "7.31"
+         "City": "Jacksonville",
+         "Acres of parkland per 1,000 residents": "74.9"
       },
       {
-         "Year": "2015 S2",
-         "Euro cents per kilowatt-hour": "9.05"
+         "City": "New Orleans",
+         "Acres of parkland per 1,000 residents": "70.8"
       },
       {
-         "Year": "2015 S1",
-         "Euro cents per kilowatt-hour": "7.66"
+         "City": "North Las Vegas",
+         "Acres of parkland per 1,000 residents": "68.7"
       },
       {
-         "Year": "2014 S2",
-         "Euro cents per kilowatt-hour": "9.51"
+         "City": "Honolulu",
+         "Acres of parkland per 1,000 residents": "65.8"
       },
       {
-         "Year": "2014 S1",
-         "Euro cents per kilowatt-hour": "7.97"
+         "City": "Virginia Beach",
+         "Acres of parkland per 1,000 residents": "54.0"
       },
       {
-         "Year": "2013 S2",
-         "Euro cents per kilowatt-hour": "9.46"
+         "City": "Nashville/Davidson",
+         "Acres of parkland per 1,000 residents": "49.6"
       },
       {
-         "Year": "2013 S1",
-         "Euro cents per kilowatt-hour": "8.34"
+         "City": "Albuquerque",
+         "Acres of parkland per 1,000 residents": "47.2"
       },
       {
-         "Year": "2012 S2",
-         "Euro cents per kilowatt-hour": "9.68"
+         "City": "El Paso",
+         "Acres of parkland per 1,000 residents": "44.0"
       },
       {
-         "Year": "2012 S1",
-         "Euro cents per kilowatt-hour": "7.69"
+         "City": "Irvine",
+         "Acres of parkland per 1,000 residents": "42.8"
       },
       {
-         "Year": "2011 S2",
-         "Euro cents per kilowatt-hour": "8.75"
+         "City": "Kansas City",
+         "Acres of parkland per 1,000 residents": "35.7"
       },
       {
-         "Year": "2011 S1",
-         "Euro cents per kilowatt-hour": "6.94"
-      },
-      {
-         "Year": "2010 S2",
-         "Euro cents per kilowatt-hour": "7.87"
-      },
-      {
-         "Year": "2010 S1",
-         "Euro cents per kilowatt-hour": "6.17"
+         "City": "Phoenix",
+         "Acres of parkland per 1,000 residents": "30.7"
       }
-   ]
+   ],
+   "gold": "This graph depicts the acres of parkland per 1,000 residents in the most populous cities in the United States in 2018 . In Scottsdale in 2018 , there were 126.4 acres of parkland per 1,000 residents .\n"
 }

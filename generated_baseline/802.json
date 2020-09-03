@@ -4,15 +4,24 @@
    "yAxis": "Imports in metric tons",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 10 categories for the x axis representing Country, and a y axis representing Imports in metric tons.",
       " The highest category is found at India where Imports in metric tons is 45170.0.",
       " The lowest category is found at Uruguay where Imports in metric tons is 4025.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 9
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "India",

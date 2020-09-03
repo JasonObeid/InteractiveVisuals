@@ -1,71 +1,103 @@
 {
-   "title": "Average regular season home attendance of the Detroit Lions 2008 to 2019",
-   "xAxis": "Year",
-   "yAxis": "Average attendance",
+   "title": "Highest salaries in Major League Baseball 2019",
+   "xAxis": "Baseball Player",
+   "yAxis": "Salary in million U.S. dollars",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This graph depicts the Average regular season home attendance of the Detroit Lions Lions from 2008 to 2019 . ",
-      "In 2019 , the Average attendance at home games of the Detroit Lions Lions was 61342 ."
+      "The statistics shows the 20 Major League Baseball salaries Major in the League according to the Global Peace Salary 2018 . ",
+      "According to the Global Peace Salary 2019 , Stephen_Strasburg was the Major League Baseball salaries Baseball in the League with an Salary value of 1.072 . ",
+      "Additional information on the Global Peace Salary The Global Peace Salary is an effort by the Institute for Economics and Peace to measure the degree of peacefulness in Major across the global and rank them accordingly ."
    ],
    "trends": [
+      {},
       {
-         "14": "11",
-         "16": "0"
+         "8": "0"
       },
-      {
-         "1": "0",
-         "14": "0"
-      }
+      {}
    ],
    "data": [
       {
-         "Year": "2019",
-         "Average attendance": "61342"
+         "Baseball Player": "Stephen Strasburg",
+         "Salary in million U.S. dollars": "38.33"
       },
       {
-         "Year": "2018",
-         "Average attendance": "62795"
+         "Baseball Player": "Max Scherzer",
+         "Salary in million U.S. dollars": "37.41"
       },
       {
-         "Year": "2017",
-         "Average attendance": "64137"
+         "Baseball Player": "Zack Greinke",
+         "Salary in million U.S. dollars": "34.5"
       },
       {
-         "Year": "2016",
-         "Average attendance": "60792"
+         "Baseball Player": "David Price",
+         "Salary in million U.S. dollars": "31.0"
       },
       {
-         "Year": "2015",
-         "Average attendance": "61347"
+         "Baseball Player": "Clayton Kershaw",
+         "Salary in million U.S. dollars": "31.0"
       },
       {
-         "Year": "2014",
-         "Average attendance": "63024"
+         "Baseball Player": "Miguel Cabrera",
+         "Salary in million U.S. dollars": "30.0"
       },
       {
-         "Year": "2013",
-         "Average attendance": "63796"
+         "Baseball Player": "Yoenis Cespedes",
+         "Salary in million U.S. dollars": "29.0"
       },
       {
-         "Year": "2012",
-         "Average attendance": "63769"
+         "Baseball Player": "Albert Pujols",
+         "Salary in million U.S. dollars": "28.0"
       },
       {
-         "Year": "2011",
-         "Average attendance": "63742"
+         "Baseball Player": "Justin Verlander",
+         "Salary in million U.S. dollars": "28.0"
       },
       {
-         "Year": "2010",
-         "Average attendance": "56285"
+         "Baseball Player": "Felix Hernandez",
+         "Salary in million U.S. dollars": "27.86"
       },
       {
-         "Year": "2009",
-         "Average attendance": "49395"
+         "Baseball Player": "Jon Lester",
+         "Salary in million U.S. dollars": "27.5"
       },
       {
-         "Year": "2008",
-         "Average attendance": "54497"
+         "Baseball Player": "Nolan Arenado",
+         "Salary in million U.S. dollars": "26.0"
+      },
+      {
+         "Baseball Player": "Giancarlo Stanton",
+         "Salary in million U.S. dollars": "26.0"
+      },
+      {
+         "Baseball Player": "Jake Arrieta",
+         "Salary in million U.S. dollars": "25.0"
+      },
+      {
+         "Baseball Player": "Jordan Zimmermann",
+         "Salary in million U.S. dollars": "25.0"
+      },
+      {
+         "Baseball Player": "Joey Votto",
+         "Salary in million U.S. dollars": "25.0"
+      },
+      {
+         "Baseball Player": "Robinson Cano",
+         "Salary in million U.S. dollars": "24.0"
+      },
+      {
+         "Baseball Player": "J.D. Martinez",
+         "Salary in million U.S. dollars": "23.75"
+      },
+      {
+         "Baseball Player": "Josh Donaldson",
+         "Salary in million U.S. dollars": "23.0"
+      },
+      {
+         "Baseball Player": "Jason Heyward",
+         "Salary in million U.S. dollars": "22.5"
       }
-   ]
+   ],
+   "gold": "American professional sports leagues are known for paying their players handsomely and Major League Baseball is no different . The highest earner in the MLB in 2019 was the starting pitcher for the Arizona Diamondbacks , Stephen Strasburg . The 30-year-old three-time All-Star took home an annual salary of 38.33 million U.S. dollars in the 2019 season .\n"
 }

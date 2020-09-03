@@ -4,15 +4,24 @@
    "yAxis": "Medals won (gold, silver, bronze)",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 50 categories for the x axis representing Country, and a y axis representing Medals won (gold, silver, bronze).",
       " The highest category is found at United_States where Medals won (gold, silver, bronze) is 2520.0.",
       " The lowest category is found at Indonesia where Medals won (gold, silver, bronze) is 30.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 49
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 49,
+         "12": 49
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "United States",

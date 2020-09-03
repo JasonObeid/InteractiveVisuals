@@ -1,102 +1,80 @@
 {
-   "title": "Countries with the highest unemployment rate",
+   "title": "Countries with the lowest prevalence of condom use among its male population 2013",
    "xAxis": "Country",
-   "yAxis": "Unemployment rate",
+   "yAxis": "Percentage of males aged 15-49",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Countries highest unemployment in the rate as rated according to the Unemployment rate for . ",
-      "In , the Countries highest Country in the rate was considered to be Burkina_Faso with a Unemployment rate of 77 . ",
-      "Quality of life around the rate economic indicator , Unemployment rate was created by Arthur Okun ."
+      "This statistic shows the Percentage of males first instance aged applications in condom of the Countries among in 2013 , broken down by Country . ",
+      "In 2013 , Niger males the largest Percentage of aged seekers with 24 . ",
+      "Madagascar and Mali males the second and third most respectively , with roughly 10.6 and 10 thousand 15-49 , respectively ."
    ],
    "trends": [
       {},
       {
-         "14": "0",
-         "21": "0"
+         "3": "0",
+         "12": "12"
       },
-      {}
+      {
+         "0": "1",
+         "2": "2",
+         "15": "2"
+      }
    ],
    "data": [
       {
-         "Country": "Burkina Faso",
-         "Unemployment rate": "77"
+         "Country": "Niger",
+         "Percentage of males aged 15-49": "4"
       },
       {
-         "Country": "Syria",
-         "Unemployment rate": "50"
+         "Country": "Madagascar",
+         "Percentage of males aged 15-49": "7"
+      },
+      {
+         "Country": "Mali",
+         "Percentage of males aged 15-49": "10"
+      },
+      {
+         "Country": "Sierra Leone",
+         "Percentage of males aged 15-49": "13"
+      },
+      {
+         "Country": "Burundi",
+         "Percentage of males aged 15-49": "14"
+      },
+      {
+         "Country": "Ethiopia",
+         "Percentage of males aged 15-49": "16"
+      },
+      {
+         "Country": "DC Congo",
+         "Percentage of males aged 15-49": "16"
+      },
+      {
+         "Country": "East Timor",
+         "Percentage of males aged 15-49": "19"
+      },
+      {
+         "Country": "Uganda",
+         "Percentage of males aged 15-49": "19"
+      },
+      {
+         "Country": "Nigeria",
+         "Percentage of males aged 15-49": "20"
       },
       {
          "Country": "Senegal",
-         "Unemployment rate": "48"
+         "Percentage of males aged 15-49": "21"
       },
       {
-         "Country": "Haiti",
-         "Unemployment rate": "40.6"
+         "Country": "Benin",
+         "Percentage of males aged 15-49": "22"
       },
       {
-         "Country": "Kenya",
-         "Unemployment rate": "40"
-      },
-      {
-         "Country": "Djibouti",
-         "Unemployment rate": "40"
-      },
-      {
-         "Country": "Marshall Islands",
-         "Unemployment rate": "36"
-      },
-      {
-         "Country": "Republic of the Congo",
-         "Unemployment rate": "36"
-      },
-      {
-         "Country": "Namibia",
-         "Unemployment rate": "34"
-      },
-      {
-         "Country": "Kiribati",
-         "Unemployment rate": "30.6"
-      },
-      {
-         "Country": "Kosovo",
-         "Unemployment rate": "30.5"
-      },
-      {
-         "Country": "Libya",
-         "Unemployment rate": "30"
-      },
-      {
-         "Country": "American Samoa",
-         "Unemployment rate": "29.8"
-      },
-      {
-         "Country": "Lesotho",
-         "Unemployment rate": "28.1"
-      },
-      {
-         "Country": "Eswatini",
-         "Unemployment rate": "28"
-      },
-      {
-         "Country": "Gabon",
-         "Unemployment rate": "28"
-      },
-      {
-         "Country": "South Africa",
-         "Unemployment rate": "27.6"
-      },
-      {
-         "Country": "Yemen",
-         "Unemployment rate": "27"
-      },
-      {
-         "Country": "Gaza Strip",
-         "Unemployment rate": "26.7"
-      },
-      {
-         "Country": "West Bank",
-         "Unemployment rate": "26.7"
+         "Country": "Liberia",
+         "Percentage of males aged 15-49": "24"
       }
-   ]
+   ],
+   "gold": "This statistic depicts the countries with lowest prevalence of condom use among its male population worldwide as of 2013 . As of that year , Niger had the lowest prevalence of condom use among men worldwide . Only four percent of its male population aged 15 - 49 years used condoms .\n"
 }

@@ -4,18 +4,16 @@
    "yAxis": "Number of residents",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Number of residents with a total of 9 data points. The chart has one significant trend.",
-      " This trend is extremely positive which exists from 2010 to 2018."
+      " This trend is negative which exists from 2010 to 2018."
    ],
    "trends": [
+      {},
       {
-         "Length": 9,
-         "direction": "positive",
-         "start": 0,
-         "end": 8,
-         "trend": "y=76811.48x+-148781334.32",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "8"
       }
    ],
    "data": [

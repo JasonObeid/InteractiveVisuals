@@ -4,27 +4,21 @@
    "yAxis": "Share of respondents",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Share of respondents, with a total of 4 data points. The chart has 2 significant trends.",
-      " The longest trend is strongly positive which exists from 7-11_AM to 9_PM_-_2_AM.",
-      " Likewise, the next significant trend is slightly negative which exists from 7-11_AM to 7-11_AM."
+      " The longest trend is slightly negative which exists from 7-11_AM to 9_PM_-_2_AM.",
+      " Contrarily, the next significant trend is slightly positive which exists from 7-11_AM to 7-11_AM."
    ],
    "trends": [
+      {},
       {
-         "Length": 4,
-         "direction": "positive",
-         "start": 0,
-         "end": 3,
-         "trend": "y=-0.03x+33.33",
-         "magnitude": "strongly"
+         "1": "0",
+         "12": "3"
       },
       {
-         "Length": 1,
-         "direction": "negative",
-         "start": 0,
-         "end": 0,
-         "trend": "y=nanx+nan",
-         "magnitude": "slightly"
+         "3": "0",
+         "14": "0"
       }
    ],
    "data": [

@@ -1,0 +1,45 @@
+{
+   "title": "Mobile/fixed market share of Vodafone in its main markets 2018",
+   "labels": [
+      "Country",
+      "Mobile market",
+      "Fixed market"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": "This statistic shows the distribution of worldwide mobile application revenues in 2019 , sorted by channel . According to a survey of the survey , the united states is expected to grow by 22 percent over the previous year .\n",
+   "trends": {},
+   "data": [
+      {
+         "Country": "South Africa/Africa (Vodacom Group)",
+         "Mobile market": "46.3",
+         "Fixed market": "0"
+      },
+      {
+         "Country": "Germany",
+         "Mobile market": "33.6",
+         "Fixed market": "21.4"
+      },
+      {
+         "Country": "India",
+         "Mobile market": "31.5",
+         "Fixed market": "0"
+      },
+      {
+         "Country": "Italy",
+         "Mobile market": "31.1",
+         "Fixed market": "9.3"
+      },
+      {
+         "Country": "United Kingdom",
+         "Mobile market": "21.3",
+         "Fixed market": "6.8"
+      },
+      {
+         "Country": "Spain",
+         "Mobile market": "17.4",
+         "Fixed market": "17.4"
+      }
+   ]
+}

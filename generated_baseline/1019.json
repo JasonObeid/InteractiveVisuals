@@ -4,18 +4,41 @@
    "yAxis": "Number of persons",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of persons with a total of 30 data points. The chart has one significant trend.",
-      " This trend is extremely positive which exists from '97 to '92."
+      "This line chart has an x axis representing Year and a y axis representing Number of persons, with a total of 30 data points. The chart has 6 significant trends.",
+      " The longest trend is extremely positive which exists from '11 to '06.",
+      " Similarly, the next significant trend is moderately positive which exists from '02 to '97.",
+      " Correspondingly, the next significant trend is slightly negative which exists from '97 to '92.",
+      " On the contrary, the next significant trend is slightly positive which exists from '19 to '15.",
+      " Also, the next significant trend is extremely positive which exists from '15 to '11.",
+      " In a similar manner, the next significant trend is extremely positive which exists from '06 to '02."
    ],
    "trends": [
+      {},
       {
-         "Length": 6,
-         "direction": "positive",
-         "start": 22,
-         "end": 27,
-         "trend": "y=-12924.49x+1323334.73",
-         "magnitude": "extremely"
+         "1": "8",
+         "12": "13"
+      },
+      {
+         "3": "17",
+         "14": "22"
+      },
+      {
+         "3": "22",
+         "14": "27"
+      },
+      {
+         "3": "0",
+         "14": "4"
+      },
+      {
+         "3": "4",
+         "14": "8"
+      },
+      {
+         "3": "13",
+         "14": "17"
       }
    ],
    "data": [

@@ -1,55 +1,45 @@
 {
-   "title": "Number of grocery stores in Canada by employment size 2019",
-   "xAxis": "Year",
-   "yAxis": "Number of stores",
+   "title": "Revenue share by geographic region of delivery for Christian Dior December 2018",
+   "xAxis": "Country",
+   "yAxis": "Revenue share",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Number grocery of Number stores in Canada from 500+_employees to 1-4_employees . ",
-      "The Number grocery of Number stores in Canada is estimated to reach 5648 stores in 1-4_employees ."
+      "The graph shows the Christian Dior December share by geographic region delivery for in 2018 . ",
+      "In that year , the Christian Dior December share by geographic Revenue amounted to 29 % share ."
    ],
    "trends": [
+      {},
       {
-         "12": "7",
-         "14": "0"
-      },
-      {
-         "12": "0",
-         "19": "0"
+         "12": "1"
       }
    ],
    "data": [
       {
-         "Year": "1-4 employees",
-         "Number of stores": "5648"
+         "Country": "Other markets",
+         "Revenue share": "11"
       },
       {
-         "Year": "5-9 employees",
-         "Number of stores": "3302"
+         "Country": "Asia (excluding Japan)",
+         "Revenue share": "29"
       },
       {
-         "Year": "10-19 employees",
-         "Number of stores": "2312"
+         "Country": "Japan",
+         "Revenue share": "7"
       },
       {
-         "Year": "20-49 employees",
-         "Number of stores": "1290"
+         "Country": "United States",
+         "Revenue share": "24"
       },
       {
-         "Year": "50-99 employees",
-         "Number of stores": "1595"
+         "Country": "Europe (excluding France)",
+         "Revenue share": "19"
       },
       {
-         "Year": "100-199 employees",
-         "Number of stores": "1165"
-      },
-      {
-         "Year": "200-499 employees",
-         "Number of stores": "261"
-      },
-      {
-         "Year": "500+ employees",
-         "Number of stores": "13"
+         "Country": "France",
+         "Revenue share": "10"
       }
-   ]
+   ],
+   "gold": "Christian Dior SE , or simply known as Dior , is one of France 's most emblematic luxury goods company . As of December 2016 , 26 percent of its revenue came from Asian countries ( excluding Japan ) , seven percent of its revenue came from Japan , 26 percent from the United States , 19 percent from Europe ( excluding France ) . France was responsible for 10 percent of its revenue and other markets such as South Africa , Brazil and countries from the Arabian Gulf accounted for 12 percent of its revenue .\n"
 }

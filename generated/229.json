@@ -1,85 +1,74 @@
 {
-   "title": "U.S. winter heating oil prices 2005/06 - 2019/20",
-   "xAxis": "Winter of",
-   "yAxis": "Price in U.S. dollars per gallon",
-   "columnType": "two",
+   "title": "Market share of selected TV stations in Germany 2019",
+   "labels": [
+      "TV Channel",
+      "Total audience (3 years and older)",
+      "14-49 years"
+   ],
+   "columnType": "multi",
    "graphType": "bar",
    "summary": [
-      "This statistic shows the leading 15 Winter models according to the Auto Express Driver Power survey responses oil on Winter prices 2005/06 . ",
-      "The survey was carried U.S. by the British automotive magazine online between 2014 and 2015 . ",
-      "2019/20 dominated this category securing the top three spots with the 2019/20 , 2018/19 and 2017/18 models as well having three other models in the top 15 ."
+      "This statistic shows the Market share TV of Germany and stations 2019 TV their pets in the 2019 in . ",
+      "In 2019 , American Germany 2019 reckoned they spent a median amount of some 374 Germany dollars on medical costs between ZDF and Sat.1 ZDF for their pet ."
    ],
    "trends": [
       {},
-      {},
       {
-         "0": "0",
-         "11": "0",
-         "13": "1",
-         "16": "1",
-         "17": "2"
+         "21": [
+            "0",
+            "0"
+         ],
+         "23": [
+            "3",
+            "0"
+         ],
+         "24": [
+            "0",
+            "0"
+         ]
       }
    ],
    "data": [
       {
-         "Winter of": "2019/20",
-         "Price in U.S. dollars per gallon": "3.02"
+         "TV Channel": "ZDF",
+         "Total audience (3 years and older)": "12.7",
+         "14-49 years": "5.6"
       },
       {
-         "Winter of": "2018/19",
-         "Price in U.S. dollars per gallon": "3.07"
+         "TV Channel": "ARD",
+         "Total audience (3 years and older)": "11.2",
+         "14-49 years": "6.5"
       },
       {
-         "Winter of": "2017/18",
-         "Price in U.S. dollars per gallon": "2.78"
+         "TV Channel": "RTL",
+         "Total audience (3 years and older)": "8.5",
+         "14-49 years": "11.9"
       },
       {
-         "Winter of": "2016/17",
-         "Price in U.S. dollars per gallon": "2.41"
+         "TV Channel": "Sat.1",
+         "Total audience (3 years and older)": "6.1",
+         "14-49 years": "8"
       },
       {
-         "Winter of": "2015/16",
-         "Price in U.S. dollars per gallon": "2.06"
+         "TV Channel": "Vox",
+         "Total audience (3 years and older)": "4.9",
+         "14-49 years": "6.9"
       },
       {
-         "Winter of": "2014/15",
-         "Price in U.S. dollars per gallon": "3.04"
+         "TV Channel": "ProSieben",
+         "Total audience (3 years and older)": "4.2",
+         "14-49 years": "9.2"
       },
       {
-         "Winter of": "2013/14",
-         "Price in U.S. dollars per gallon": "3.88"
+         "TV Channel": "kabel eins",
+         "Total audience (3 years and older)": "3.6",
+         "14-49 years": "5"
       },
       {
-         "Winter of": "2012/13",
-         "Price in U.S. dollars per gallon": "3.87"
-      },
-      {
-         "Winter of": "2011/12",
-         "Price in U.S. dollars per gallon": "3.73"
-      },
-      {
-         "Winter of": "2010/11",
-         "Price in U.S. dollars per gallon": "3.38"
-      },
-      {
-         "Winter of": "2009/10",
-         "Price in U.S. dollars per gallon": "2.85"
-      },
-      {
-         "Winter of": "2008/09",
-         "Price in U.S. dollars per gallon": "2.65"
-      },
-      {
-         "Winter of": "2007/08",
-         "Price in U.S. dollars per gallon": "3.33"
-      },
-      {
-         "Winter of": "2006/07",
-         "Price in U.S. dollars per gallon": "2.42"
-      },
-      {
-         "Winter of": "2005/06",
-         "Price in U.S. dollars per gallon": "2.44"
+         "TV Channel": "RTL II",
+         "Total audience (3 years and older)": "2.9",
+         "14-49 years": "5.2"
       }
-   ]
+   ],
+   "gold": "This statistic shows data on the audience market share of selected television channels in Germany in 2019 . Among viewers aged three years and older , the market share of TV station ZDF amounted to almost 12.7 percent . In comparison , among the age group of people between 14 to 49 years , the channel had a market share of only 5.6 percent .\n"
 }

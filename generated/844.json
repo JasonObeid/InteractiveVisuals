@@ -1,79 +1,49 @@
 {
-   "title": "Tampa Bay Lightnings ' revenue 2005 to 2019",
-   "xAxis": "Year",
-   "yAxis": "Revenue in million U.S. dollars",
+   "title": "Number of Dollar Tree stores in Canada by province 2019",
+   "xAxis": "Province",
+   "yAxis": "Number of stores",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This graph depicts the annual National Hockey League Revenue of the Tampa Bay Lightnings from the 2005/06 season to the 2018/19 season . ",
-      "The Revenue of the Tampa Bay Lightnings amounted to 140 million U.S. dollars in the 2018/19 season ."
+      "In 2019 , Manitoba and the Saskatchewan were neck and with both province delivering Tree worth 107 and 102 million British pounds , respectively . ",
+      "The stores of coming from the Alberta during this time was about half of this . ",
+      "stores from British_Columbia and Ontario followed closely ."
    ],
    "trends": [
       {
-         "14": "13",
-         "18": "0"
+         "3": "0",
+         "6": "1"
       },
       {
-         "7": "0",
-         "13": "0"
+         "7": "2"
+      },
+      {
+         "2": "3",
+         "4": "4"
       }
    ],
    "data": [
       {
-         "Year": "2018/19",
-         "Revenue in million U.S. dollars": "140"
+         "Province": "Manitoba",
+         "Number of stores": "13"
       },
       {
-         "Year": "2017/18",
-         "Revenue in million U.S. dollars": "146"
+         "Province": "Saskatchewan",
+         "Number of stores": "16"
       },
       {
-         "Year": "2016/17",
-         "Revenue in million U.S. dollars": "124"
+         "Province": "Alberta",
+         "Number of stores": "37"
       },
       {
-         "Year": "2015/16",
-         "Revenue in million U.S. dollars": "127"
+         "Province": "British Columbia",
+         "Number of stores": "49"
       },
       {
-         "Year": "2014/15",
-         "Revenue in million U.S. dollars": "121"
-      },
-      {
-         "Year": "2013/14",
-         "Revenue in million U.S. dollars": "97"
-      },
-      {
-         "Year": "2012/13",
-         "Revenue in million U.S. dollars": "72"
-      },
-      {
-         "Year": "2011/12",
-         "Revenue in million U.S. dollars": "88"
-      },
-      {
-         "Year": "2010/11",
-         "Revenue in million U.S. dollars": "87"
-      },
-      {
-         "Year": "2009/10",
-         "Revenue in million U.S. dollars": "76"
-      },
-      {
-         "Year": "2008/09",
-         "Revenue in million U.S. dollars": "80"
-      },
-      {
-         "Year": "2007/08",
-         "Revenue in million U.S. dollars": "84"
-      },
-      {
-         "Year": "2006/07",
-         "Revenue in million U.S. dollars": "85"
-      },
-      {
-         "Year": "2005/06",
-         "Revenue in million U.S. dollars": "82"
+         "Province": "Ontario",
+         "Number of stores": "110"
       }
-   ]
+   ],
+   "gold": "As of February 2019 , Ontario was the Canadian province home to the most Dollar Tree stores in the whole of Canada , with 110 . British Columbia and Alberta ranked in second and third places , with 49 and 37 stores respectively . At that time , there were Dollar Tree stores located in five of Canada 's ten provinces .\n"
 }

@@ -1,66 +1,170 @@
 {
-   "title": "Pandora 's net income/loss 2007 to 2017\n",
-   "xAxis": "Month",
-   "yAxis": "Net income / loss in million U.S. dollars",
-   "columnType": "two",
-   "graphType": "bar",
-   "summary": [
-      "This bar chart has 12 categories for the x axis representing Month, and a y axis representing Net income / loss in million U.S. dollars.",
-      " The highest category is found at Feb_2010_to_Jan_2011 where Net income / loss in million U.S. dollars is -1.76.",
-      " The lowest category is found at Jan_to_Dec_2017 where Net income / loss in million U.S. dollars is -518.4."
+   "title": "Revenue of Johnson & Johnson 's pharmaceuticals segment worldwide 2012 to 2024",
+   "labels": [
+      "Year",
+      "Immunology",
+      "Cardiovascular/Metabolism/Other",
+      "Oncology",
+      "Central nervous system",
+      "Anti-infectives"
    ],
-   "trends": {
-      "maxIndex": 7,
-      "minIndex": 0
-   },
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 5 lines.",
+      " The line representing Oncology had the highest values across Year with a mean value of 83.8.",
+      " This peaked at 2019 with a value of 988.0. ",
+      " The line with the second highest values was Immunology with a mean value of 10.8.",
+      " This line peaked at 2019 with a value of 12.4"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "16": [
+            "12",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "2"
+         ],
+         "9": [
+            "0",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "12",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "10": [
+            "0",
+            "0"
+         ]
+      }
+   ],
    "data": [
       {
-         "Month": "Jan to Dec 2017",
-         "Net income / loss in million U.S. dollars": -518.4
+         "Year": "2012",
+         "Immunology": "7.87",
+         "Cardiovascular/Metabolism/Other": "4.94",
+         "Oncology": "2.63",
+         "Central nervous system": "6.72",
+         "Anti-infectives": "3.19"
       },
       {
-         "Month": "Jan to Dec 2016",
-         "Net income / loss in million U.S. dollars": -342.98
+         "Year": "2013",
+         "Immunology": "9.19",
+         "Cardiovascular/Metabolism/Other": "4.95",
+         "Oncology": "3.77",
+         "Central nervous system": "6.67",
+         "Anti-infectives": "3.55"
       },
       {
-         "Month": "Jan to Dec 2015",
-         "Net income / loss in million U.S. dollars": -169.66
+         "Year": "2014",
+         "Immunology": "10.19",
+         "Cardiovascular/Metabolism/Other": "5.58",
+         "Oncology": "4.46",
+         "Central nervous system": "6.49",
+         "Anti-infectives": "5.6"
       },
       {
-         "Month": "Jan to Dec 2014",
-         "Net income / loss in million U.S. dollars": -30.41
+         "Year": "2015",
+         "Immunology": "10.4",
+         "Cardiovascular/Metabolism/Other": "6.42",
+         "Oncology": "4.7",
+         "Central nervous system": "6.26",
+         "Anti-infectives": "3.66"
       },
       {
-         "Month": "Feb to Dec 2013",
-         "Net income / loss in million U.S. dollars": -27.02
+         "Year": "2016",
+         "Immunology": "11.97",
+         "Cardiovascular/Metabolism/Other": "6.4",
+         "Oncology": "5.81",
+         "Central nervous system": "6.08",
+         "Anti-infectives": "3.21"
       },
       {
-         "Month": "Feb 2012 to Jan 2013",
-         "Net income / loss in million U.S. dollars": -38.15
+         "Year": "2017",
+         "Immunology": "12.24",
+         "Cardiovascular/Metabolism/Other": "6.29",
+         "Oncology": "7.26",
+         "Central nervous system": "5.99",
+         "Anti-infectives": "3.15"
       },
       {
-         "Month": "Feb 2011 to Jan 2012",
-         "Net income / loss in million U.S. dollars": -16.11
+         "Year": "2018",
+         "Immunology": "12.34",
+         "Cardiovascular/Metabolism/Other": "7.19",
+         "Oncology": "8.96",
+         "Central nervous system": "5.74",
+         "Anti-infectives": "3.18"
       },
       {
-         "Month": "Feb 2010 to Jan 2011",
-         "Net income / loss in million U.S. dollars": -1.76
+         "Year": "2019",
+         "Immunology": "12.49",
+         "Cardiovascular/Metabolism/Other": "7.27",
+         "Oncology": "988.0",
+         "Central nervous system": "4.93",
+         "Anti-infectives": "3.79"
       },
       {
-         "Month": "Feb 2009 to Jan 2010",
-         "Net income / loss in million U.S. dollars": -16.75
+         "Year": "2020",
+         "Immunology": "12.09",
+         "Cardiovascular/Metabolism/Other": "7.1",
+         "Oncology": "10.73",
+         "Central nervous system": "4.84",
+         "Anti-infectives": "3.95"
       },
       {
-         "Month": "Feb 2008 to Jan 2009",
-         "Net income / loss in million U.S. dollars": -28.23
+         "Year": "2021",
+         "Immunology": "11.69",
+         "Cardiovascular/Metabolism/Other": "7.09",
+         "Oncology": "11.78",
+         "Central nervous system": "4.94",
+         "Anti-infectives": "4.38"
       },
       {
-         "Month": "Feb 2007 to Jan 2008",
-         "Net income / loss in million U.S. dollars": -13.99
+         "Year": "2022",
+         "Immunology": "11.14",
+         "Cardiovascular/Metabolism/Other": "6.93",
+         "Oncology": "12.71",
+         "Central nervous system": "5.05",
+         "Anti-infectives": "5.02"
       },
       {
-         "Month": "Feb 2006 to Jan 2007",
-         "Net income / loss in million U.S. dollars": -11.82
+         "Year": "2023",
+         "Immunology": "10.24",
+         "Cardiovascular/Metabolism/Other": "6.8",
+         "Oncology": "13.91",
+         "Central nervous system": "4.68",
+         "Anti-infectives": "5.45"
+      },
+      {
+         "Year": "2024",
+         "Immunology": "9.34",
+         "Cardiovascular/Metabolism/Other": "6.79",
+         "Oncology": "14.86",
+         "Central nervous system": "5.03",
+         "Anti-infectives": "5.94"
       }
    ]
 }

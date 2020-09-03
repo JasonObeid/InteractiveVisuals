@@ -1,132 +1,61 @@
 {
-   "title": "Favorite online dating website or app in the United States 2018 , by age group",
-   "labels": [
-      "unknown",
-      "18 - 29 years",
-      "30 - 44 years",
-      "45 - 54 years",
-      "55 - 64 years",
-      "65 and over"
-   ],
-   "columnType": "multi",
-   "graphType": "bar",
+   "title": "Miami-Fort Lauderdale-West Palm Beach metro area population U.S. 2010 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of residents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the most popular movie dating in the website as of 2018 , broken down States 2018 . ",
-      "The findings reveal that Grindr comedies and None were less popular with Hispanics than with respondents in 55 ethnic groups , and 20 % more 45 Americans than 18 United States adults have a very or somewhat favorable attitudes towards the None genre ."
+      "This statistic shows the area of the Miami Lauderdale-West Palm metropolitan metro in the population from 2010 to 2018 . ",
+      "In 2018 , about 6086935 million people lived in the Miami Lauderdale-West Palm metropolitan metro ."
    ],
    "trends": [
-      {},
       {
-         "4": [
-            "7",
-            "0"
-         ],
-         "7": [
-            "11",
-            "0"
-         ],
-         "40": [
-            "11",
-            "0"
-         ]
+         "16": "0",
+         "18": "8"
+      },
+      {
+         "1": "8",
+         "4": "6"
       }
    ],
    "data": [
       {
-         "unknown": "Tinder",
-         "18 - 29 years": "14",
-         "30 - 44 years": "5",
-         "45 - 54 years": "1",
-         "55 - 64 years": "1",
-         "65 and over": "0"
+         "Year": "2010",
+         "Number of residents": "5583547"
       },
       {
-         "unknown": "PlentyofFish",
-         "18 - 29 years": "8",
-         "30 - 44 years": "7",
-         "45 - 54 years": "4",
-         "55 - 64 years": "1",
-         "65 and over": "1"
+         "Year": "2011",
+         "Number of residents": "5693531"
       },
       {
-         "unknown": "Match.com",
-         "18 - 29 years": "7",
-         "30 - 44 years": "9",
-         "45 - 54 years": "7",
-         "55 - 64 years": "7",
-         "65 and over": "2"
+         "Year": "2012",
+         "Number of residents": "5771731"
       },
       {
-         "unknown": "OkCupid",
-         "18 - 29 years": "6",
-         "30 - 44 years": "4",
-         "45 - 54 years": "2",
-         "55 - 64 years": "1",
-         "65 and over": "1"
+         "Year": "2013",
+         "Number of residents": "5849411"
       },
       {
-         "unknown": "EHarmony",
-         "18 - 29 years": "4",
-         "30 - 44 years": "5",
-         "45 - 54 years": "3",
-         "55 - 64 years": "5",
-         "65 and over": "4"
+         "Year": "2014",
+         "Number of residents": "5921030"
       },
       {
-         "unknown": "Coffee Meets Bagel",
-         "18 - 29 years": "3",
-         "30 - 44 years": "3",
-         "45 - 54 years": "1",
-         "55 - 64 years": "0",
-         "65 and over": "0"
+         "Year": "2015",
+         "Number of residents": "5998284"
       },
       {
-         "unknown": "Bumble",
-         "18 - 29 years": "3",
-         "30 - 44 years": "2",
-         "45 - 54 years": "1",
-         "55 - 64 years": "1",
-         "65 and over": "0"
+         "Year": "2016",
+         "Number of residents": "6086935"
       },
       {
-         "unknown": "Grindr",
-         "18 - 29 years": "3",
-         "30 - 44 years": "2",
-         "45 - 54 years": "0",
-         "55 - 64 years": "2",
-         "65 and over": "0"
+         "Year": "2017",
+         "Number of residents": "6149687"
       },
       {
-         "unknown": "A religious based dating app",
-         "18 - 29 years": "2",
-         "30 - 44 years": "2",
-         "45 - 54 years": "4",
-         "55 - 64 years": "3",
-         "65 and over": "4"
-      },
-      {
-         "unknown": "Hinge Down",
-         "18 - 29 years": "2",
-         "30 - 44 years": "1",
-         "45 - 54 years": "1",
-         "55 - 64 years": "0",
-         "65 and over": "0"
-      },
-      {
-         "unknown": "Happn",
-         "18 - 29 years": "1",
-         "30 - 44 years": "1",
-         "45 - 54 years": "0",
-         "55 - 64 years": "0",
-         "65 and over": "0"
-      },
-      {
-         "unknown": "None",
-         "18 - 29 years": "47",
-         "30 - 44 years": "59",
-         "45 - 54 years": "75",
-         "55 - 64 years": "79",
-         "65 and over": "88"
+         "Year": "2018",
+         "Number of residents": "6198782"
       }
-   ]
+   ],
+   "gold": "This statistic shows the population of the Miami-Fort Lauderdale-West Palm Beach area in the United States from 2010 to 2018 . In 2018 , about 6.19 million people lived in the Miami-Fort Lauderdale-West Palm Beach metropolitan area .\n"
 }

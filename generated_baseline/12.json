@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 9 categories for the x axis of Movie representing North America, Worldwide.",
-      " The highest category is found at Furious 7 with a mean value of 934.505.",
-      " The second highest category is found at The Fate of the Furious with a mean value of 731.005.",
+      "This grouped bar chart has 9 categories for the x axis of Movie representing North America, and Worldwide.",
+      " The highest category is found at Furious 7 with a mean value of 934.5.",
+      " The second highest category is found at The Fate of the Furious with a mean value of 731.0.",
       " This represents a difference of 24.4%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Movie": "Furious 7",

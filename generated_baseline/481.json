@@ -4,36 +4,26 @@
    "yAxis": "Age median in years",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Age median in years, with a total of 21 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely negative which exists from 2050 to 1995.",
-      " Contrarily, the next significant trend is extremely positive which exists from 1970 to 1950.",
-      " Likewise, the next significant trend is extremely negative which exists from 1990 to 1975."
+      " The longest trend is extremely positive which exists from 2050 to 1995.",
+      " Also, the next significant trend is slightly negative which exists from 1975 to 1950.",
+      " Contrarily, the next significant trend is moderately positive which exists from 1995 to 1975."
    ],
    "trends": [
+      {},
       {
-         "Length": 12,
-         "direction": "negative",
-         "start": 0,
-         "end": 11,
-         "trend": "y=0.39x+-750.3",
-         "magnitude": "extremely"
+         "1": "0",
+         "12": "11"
       },
       {
-         "Length": 5,
-         "direction": "positive",
-         "start": 16,
-         "end": 20,
-         "trend": "y=-0.05x+120.42",
-         "magnitude": "extremely"
+         "3": "15",
+         "14": "20"
       },
       {
-         "Length": 4,
-         "direction": "negative",
-         "start": 12,
-         "end": 15,
-         "trend": "y=0.11x+-195.31",
-         "magnitude": "extremely"
+         "3": "11",
+         "14": "15"
       }
    ],
    "data": [

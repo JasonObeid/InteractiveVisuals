@@ -1,63 +1,61 @@
 {
-   "title": "Most popular domestic summer city destinations for travelers in the U.S. 2015",
-   "xAxis": "Response",
-   "yAxis": "Share of respondents",
+   "title": "Top U.S. states by number of hogs and pigs 2019",
+   "xAxis": "State",
+   "yAxis": "Number in thousands",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the popular domestic problems city destinations Miami in the U.S. in 2020 . ",
-      "During the survey , about 17 % of the respondents stated that the popular domestic summer city destinations Miami was Orlando ."
+      "This statistic represents the Top U.S. the largest Number of by number thousands pigs in the 2019 in . ",
+      "According to the source , Connecticut was the State U.S. the states by number thousands pigs in 2019 U.S. 23500 thousands to every thousands thousand ."
    ],
    "trends": [
+      {},
       {
-         "9": "4"
-      },
-      {
-         "5": "0",
-         "18": "4",
-         "20": "0"
+         "19": "0"
       }
    ],
    "data": [
       {
-         "Response": "Orlando",
-         "Share of respondents": "17"
+         "State": "Iowa",
+         "Number in thousands": "23500"
       },
       {
-         "Response": "Las Vegas",
-         "Share of respondents": "13"
+         "State": "North Carolina",
+         "Number in thousands": "8900"
       },
       {
-         "Response": "San Francisco",
-         "Share of respondents": "4"
+         "State": "Minnesota",
+         "Number in thousands": "8700"
       },
       {
-         "Response": "New York City",
-         "Share of respondents": "3"
+         "State": "Illinois",
+         "Number in thousands": "5200"
       },
       {
-         "Response": "Miami",
-         "Share of respondents": "3"
+         "State": "Indiana",
+         "Number in thousands": "4150"
       },
       {
-         "Response": "Los Angeles",
-         "Share of respondents": "2"
+         "State": "Nebraska",
+         "Number in thousands": "3550"
       },
       {
-         "Response": "Anaheim",
-         "Share of respondents": "2"
+         "State": "Missouri",
+         "Number in thousands": "3500"
       },
       {
-         "Response": "San Diego",
-         "Share of respondents": "2"
+         "State": "Ohio",
+         "Number in thousands": "2600"
       },
       {
-         "Response": "New Orleans",
-         "Share of respondents": "2"
+         "State": "Oklahoma",
+         "Number in thousands": "2170"
       },
       {
-         "Response": "Washington DC",
-         "Share of respondents": "2"
+         "State": "Kansas",
+         "Number in thousands": "2040"
       }
-   ]
+   ],
+   "gold": "Hogs and pigs are one of the main sources of meat in the United States , and there is a thriving domestic pork market . As of March 2019 , Iowa had an inventory of about 23.5 million hogs and pigs , making it the top producer of swine in the country by a large margin . In that same year , the second largest producer of hogs and pigs was North Carolina , with about 8.9 million head .\n"
 }

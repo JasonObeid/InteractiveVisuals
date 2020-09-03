@@ -4,36 +4,26 @@
    "yAxis": "Number of cars in millions",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Number of cars in millions, with a total of 19 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely negative which exists from 2008 to 2000.",
-      " Differently, the next significant trend is extremely negative which exists from 2018 to 2014.",
-      " Contrarily, the next significant trend is extremely negative which exists from 2013 to 2009."
+      " The longest trend is moderately positive which exists from 2009 to 2000.",
+      " Also, the next significant trend is slightly positive which exists from 2014 to 2009.",
+      " Also, the next significant trend is extremely positive which exists from 2018 to 2014."
    ],
    "trends": [
+      {},
       {
-         "Length": 9,
-         "direction": "negative",
-         "start": 10,
-         "end": 18,
-         "trend": "y=0.39x+-745.76",
-         "magnitude": "extremely"
+         "1": "9",
+         "12": "18"
       },
       {
-         "Length": 5,
-         "direction": "negative",
-         "start": 0,
-         "end": 4,
-         "trend": "y=0.5x+-976.36",
-         "magnitude": "extremely"
+         "3": "4",
+         "14": "9"
       },
       {
-         "Length": 5,
-         "direction": "negative",
-         "start": 5,
-         "end": 9,
-         "trend": "y=0.18x+-331.54",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "4"
       }
    ],
    "data": [

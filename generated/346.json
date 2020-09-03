@@ -1,69 +1,63 @@
 {
-   "title": "Eastman Chemical 's revenue 2008 to 2018",
+   "title": "Number of pet birds in the U.S. 2000 to 2017",
    "xAxis": "Year",
-   "yAxis": "Revenue in million U.S. dollars",
+   "yAxis": "Number of birds in millions",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic depicts Eastman Chemical Chemical Revenue between 2008 and 2018 . ",
-      "Eastman Chemical , Inc. is the largest industrial gases company in North and South America and one of the largest worldwide . ",
-      "In 2018 , the corporation generated around 10151 million U.S. dollars of Revenue ."
+      "The statistic shows the Number of birds millions owned by households in the U.S. from 2000 to 2017 . ",
+      "In 2017 , about 20.6 millions birds were owned by American households . ",
+      "Thus , birds millions made up the most popular pet category in the U.S. , based on the total Number ."
    ],
    "trends": [
       {
-         "7": "10",
-         "9": "0"
+         "15": "8",
+         "17": "0"
       },
-      {},
       {
          "1": "0",
-         "7": "0"
-      }
+         "4": "0"
+      },
+      {}
    ],
    "data": [
       {
-         "Year": "2018",
-         "Revenue in million U.S. dollars": "10151"
-      },
-      {
          "Year": "2017",
-         "Revenue in million U.S. dollars": "9549"
-      },
-      {
-         "Year": "2016",
-         "Revenue in million U.S. dollars": "9008"
+         "Number of birds in millions": "20.6"
       },
       {
          "Year": "2015",
-         "Revenue in million U.S. dollars": "9648"
+         "Number of birds in millions": "14.3"
       },
       {
          "Year": "2014",
-         "Revenue in million U.S. dollars": "9527"
-      },
-      {
-         "Year": "2013",
-         "Revenue in million U.S. dollars": "9350"
+         "Number of birds in millions": "20.6"
       },
       {
          "Year": "2012",
-         "Revenue in million U.S. dollars": "8102"
-      },
-      {
-         "Year": "2011",
-         "Revenue in million U.S. dollars": "7178"
-      },
-      {
-         "Year": "2010",
-         "Revenue in million U.S. dollars": "5842"
-      },
-      {
-         "Year": "2009",
-         "Revenue in million U.S. dollars": "4396"
+         "Number of birds in millions": "16.2"
       },
       {
          "Year": "2008",
-         "Revenue in million U.S. dollars": "5936"
+         "Number of birds in millions": "15.0"
+      },
+      {
+         "Year": "2006",
+         "Number of birds in millions": "16.0"
+      },
+      {
+         "Year": "2004",
+         "Number of birds in millions": "16.6"
+      },
+      {
+         "Year": "2002",
+         "Number of birds in millions": "17.3"
+      },
+      {
+         "Year": "2000",
+         "Number of birds in millions": "19.0"
       }
-   ]
+   ],
+   "gold": "According to a national pet owners survey , the number of birds owned as a pet by households in the United States reached 20.6 million in 2017 . The number of pet birds has fluctuated over the past few years , hitting a low of 14.3 million in 2015 . Americans love their pets Some 68 percent of all households in the United States owned at least one pet in 2017 , this is an increase of over 10 percent since 1988 .\n"
 }

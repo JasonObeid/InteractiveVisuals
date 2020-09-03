@@ -4,15 +4,24 @@
    "yAxis": "Sugar intake in grams",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 5 categories for the x axis representing Age Group, and a y axis representing Sugar intake in grams.",
       " The highest category is found at Teenagers_11-18_years where Sugar intake in grams is 74.2.",
       " The lowest category is found at Children_1.5-3_years where Sugar intake in grams is 36.1."
    ],
-   "trends": {
-      "maxIndex": 2,
-      "minIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "7": 2,
+         "12": 2
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
    "data": [
       {
          "Age Group": "Children 1.5-3 years",

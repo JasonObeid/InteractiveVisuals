@@ -1,70 +1,107 @@
 {
-   "title": "Twitter : number of monetizable daily active U.S. users 2017 to 2019",
-   "xAxis": "Quarter",
-   "yAxis": "Number of monetizable daily active users in millions",
+   "title": "UEFA Champions League most games played by club 2019",
+   "xAxis": "Uefa Club",
+   "yAxis": "Games played",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic presents the number monetizable daily sales of Twitter Inc. as of the fourth Quarter of 2017 . ",
-      "During that period , the C2C e-commerce company generated Number of 31 millions daily active , up from 27 millions daily active in the corresponding Quarter of the previous year . ",
-      "This represents a 32.8 millions year-on-year growth ."
+      "This chart shows the average Games of the Champions League most games in the played in 2019 . ",
+      "In that year , AC_Milan Real_Madrid_CF was ranked first in the Champions , at 431 played ."
    ],
    "trends": [
       {},
       {
-         "11": "0",
-         "18": "4"
-      },
-      {}
+         "4": "6",
+         "5": "0",
+         "14": "0"
+      }
    ],
    "data": [
       {
-         "Quarter": "Q4 '19",
-         "Number of monetizable daily active users in millions": "31"
+         "Uefa Club": "Real Madrid CF",
+         "Games played": "431"
       },
       {
-         "Quarter": "Q3 '19",
-         "Number of monetizable daily active users in millions": "30"
+         "Uefa Club": "FC Bayern M\u00fcnchen",
+         "Games played": "341"
       },
       {
-         "Quarter": "Q2 '19",
-         "Number of monetizable daily active users in millions": "29"
+         "Uefa Club": "FC Barcelona",
+         "Games played": "310"
       },
       {
-         "Quarter": "Q1 '19",
-         "Number of monetizable daily active users in millions": "28"
+         "Uefa Club": "Manchester United FC",
+         "Games played": "279"
       },
       {
-         "Quarter": "Q4 '18",
-         "Number of monetizable daily active users in millions": "27"
+         "Uefa Club": "Juventus",
+         "Games played": "271"
       },
       {
-         "Quarter": "Q3 '18",
-         "Number of monetizable daily active users in millions": "26"
+         "Uefa Club": "SL Benfica",
+         "Games played": "252"
       },
       {
-         "Quarter": "Q2 '18",
-         "Number of monetizable daily active users in millions": "26"
+         "Uefa Club": "AC Milan",
+         "Games played": "249"
       },
       {
-         "Quarter": "Q1 '18",
-         "Number of monetizable daily active users in millions": "26"
+         "Uefa Club": "FC Porto",
+         "Games played": "243"
       },
       {
-         "Quarter": "Q4 '17",
-         "Number of monetizable daily active users in millions": "25"
+         "Uefa Club": "FC Dynamo Kyiv",
+         "Games played": "231"
       },
       {
-         "Quarter": "Q3 '17",
-         "Number of monetizable daily active users in millions": "26"
+         "Uefa Club": "AFC Ajax",
+         "Games played": "217"
       },
       {
-         "Quarter": "Q2 '17",
-         "Number of monetizable daily active users in millions": "25"
+         "Uefa Club": "Liverpool FC",
+         "Games played": "209"
       },
       {
-         "Quarter": "Q1 '17",
-         "Number of monetizable daily active users in millions": "26"
+         "Uefa Club": "Celtic FC",
+         "Games played": "206"
+      },
+      {
+         "Uefa Club": "Arsenal FC",
+         "Games played": "201"
+      },
+      {
+         "Uefa Club": "RSC Anderlecht",
+         "Games played": "200"
+      },
+      {
+         "Uefa Club": "PSV Eindhoven",
+         "Games played": "175"
+      },
+      {
+         "Uefa Club": "FC Internazionale Milano",
+         "Games played": "172"
+      },
+      {
+         "Uefa Club": "Galatasaray A\u015e",
+         "Games played": "169"
+      },
+      {
+         "Uefa Club": "Rangers FC",
+         "Games played": "161"
+      },
+      {
+         "Uefa Club": "Chelsea FC",
+         "Games played": "160"
+      },
+      {
+         "Uefa Club": "Olympiacos FC",
+         "Games played": "160"
+      },
+      {
+         "Uefa Club": "Panathinaikos FC",
+         "Games played": "157"
       }
-   ]
+   ],
+   "gold": "Real Madrid CF is the club to have played most played games in the UEFA competition from 1955 to 2019 , with 431 appearances . Within the German football league system , the leader was FC Bayern M\u00fcnchen with 341 appearances , whereas among the English teams , Manchester United FC was the leader with 279 games played . Since its founding in June 1954 , the number of national associations in UEFA grew from 25 to 55 .\n"
 }

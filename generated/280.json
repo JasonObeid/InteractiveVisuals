@@ -1,156 +1,65 @@
 {
-   "title": "Latin America & Caribbean : unemployment rate 2019 - 2024 , by country",
-   "labels": [
-      "Country",
-      "2019",
-      "2024"
-   ],
-   "columnType": "multi",
+   "title": "European cities ranked worst for over-tourism 2017",
+   "xAxis": "Tourist Places",
+   "yAxis": "Overtourism score (1-10)",
+   "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Belize & Caribbean unemployment ( Latin ) in Latin America Caribbean 2019 and 2024 . ",
-      "In 2024 , Caribbean unemployment in the Puerto_Rico amounted to some 11.4 million metric tons . ",
-      "Thus , the Puerto_Rico is among the global top three Caribbean producers ."
+      "This statistic presents the Overtourism of score (1-10) in the most popular European Tourist over-tourism in 2017 . ",
+      "Barcelona_Spain had the largest Overtourism of score (1-10) in 2017 with 3.61 % . ",
+      "In 2017 , Barcelona_Spain had the second most score (1-10) ."
    ],
    "trends": [
+      {},
       {
-         "4": [
-            "6",
-            "0"
-         ]
+         "0": "0"
       },
       {
-         "7": [
-            "3",
-            "0"
-         ],
-         "11": [
-            "3",
-            "2"
-         ]
-      },
-      {
-         "3": [
-            "3",
-            "0"
-         ]
+         "3": "0"
       }
    ],
    "data": [
       {
-         "Country": "Venezuela",
-         "2019": "44.3",
-         "2024": "56"
+         "Tourist Places": "Barcelona Spain",
+         "Overtourism score (1-10)": "2.05"
       },
       {
-         "Country": "Nicaragua",
-         "2019": "23.4",
-         "2024": "12.5"
+         "Tourist Places": "Amsterdam Netherlands",
+         "Overtourism score (1-10)": "2.18"
       },
       {
-         "Country": "Brazil",
-         "2019": "11.4",
-         "2024": "9"
+         "Tourist Places": "Venice Italy",
+         "Overtourism score (1-10)": "2.19"
       },
       {
-         "Country": "Puerto Rico",
-         "2019": "11",
-         "2024": "11.4"
+         "Tourist Places": "Milan Italy",
+         "Overtourism score (1-10)": "2.66"
       },
       {
-         "Country": "Jamaica",
-         "2019": "11",
-         "2024": "8.6"
+         "Tourist Places": "Budapest Hungary",
+         "Overtourism score (1-10)": "2.89"
       },
       {
-         "Country": "Barbados",
-         "2019": "10.4",
-         "2024": "9.3"
+         "Tourist Places": "Bucharest Romania",
+         "Overtourism score (1-10)": "3.22"
       },
       {
-         "Country": "Belize",
-         "2019": "10.1",
-         "2024": "13.7"
+         "Tourist Places": "Reykjavik Iceland",
+         "Overtourism score (1-10)": "3.26"
       },
       {
-         "Country": "Argentina",
-         "2019": "9.9",
-         "2024": "8.8"
+         "Tourist Places": "Moscow Russia",
+         "Overtourism score (1-10)": "3.27"
       },
       {
-         "Country": "Colombia",
-         "2019": "9.7",
-         "2024": "9"
+         "Tourist Places": "Athens Greece",
+         "Overtourism score (1-10)": "3.45"
       },
       {
-         "Country": "Costa Rica",
-         "2019": "9.7",
-         "2024": "9.3"
-      },
-      {
-         "Country": "Bahamas",
-         "2019": "9",
-         "2024": "8.6"
-      },
-      {
-         "Country": "Uruguay",
-         "2019": "8.1",
-         "2024": "7.4"
-      },
-      {
-         "Country": "El Salvador",
-         "2019": "6.7",
-         "2024": "6.9"
-      },
-      {
-         "Country": "Peru",
-         "2019": "6.6",
-         "2024": "6.5"
-      },
-      {
-         "Country": "Chile",
-         "2019": "6.5",
-         "2024": "6"
-      },
-      {
-         "Country": "Panama",
-         "2019": "6.1",
-         "2024": "6"
-      },
-      {
-         "Country": "Paraguay",
-         "2019": "5.7",
-         "2024": "5.8"
-      },
-      {
-         "Country": "Dominican Republic",
-         "2019": "5.2",
-         "2024": "5.2"
-      },
-      {
-         "Country": "Trinidad and Tobago",
-         "2019": "4.8",
-         "2024": "4.4"
-      },
-      {
-         "Country": "Ecuador",
-         "2019": "4.3",
-         "2024": "4.5"
-      },
-      {
-         "Country": "Bolivia",
-         "2019": "4",
-         "2024": "4"
-      },
-      {
-         "Country": "Mexico",
-         "2019": "3.5",
-         "2024": "3.4"
-      },
-      {
-         "Country": "Honduras",
-         "2019": "3.4",
-         "2024": "3.7"
+         "Tourist Places": "Nantes France",
+         "Overtourism score (1-10)": "3.61"
       }
-   ]
+   ],
+   "gold": "Barcelona in Spain ranked as the worst city for overtourism in Europe . It was followed by Amsterdam in the Netherlands and Venice in Italy . All three have faced issues associated with mass tourism and have been forced to implement measures to tackle problems with overtourism .\n"
 }

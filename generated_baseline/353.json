@@ -4,15 +4,24 @@
    "yAxis": "Own a boat",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 5 categories for the x axis representing Age (in years), and a y axis representing Own a boat.",
       " The highest category is found at 16_to_34 where Own a boat is 8.2.",
       " The lowest category is found at 65+ where Own a boat is 6.0."
    ],
-   "trends": {
-      "maxIndex": 1,
-      "minIndex": 4
-   },
+   "trends": [
+      {},
+      {
+         "7": 1,
+         "12": 1
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
    "data": [
       {
          "Age (in years)": "Under 16",

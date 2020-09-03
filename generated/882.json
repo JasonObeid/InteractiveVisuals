@@ -1,120 +1,81 @@
 {
-   "title": "Inflation rate ( CPI ) in the United Kingdom ( UK ) 2017 to 2019",
-   "xAxis": "Month",
-   "yAxis": "Inflation rate",
-   "columnType": "two",
-   "graphType": "bar",
+   "title": "Number of customer transactions at the Home Depot and Lowe 's worldwide 2011 to 2018",
+   "labels": [
+      "Year",
+      "Home Depot",
+      "Lowe's"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
    "summary": [
-      "The statistic shows the top 25 United Kingdom rate CPI with the most rate from 1950 to 2017 . ",
-      "Nov_'19 had 3.1 rate throughout his career ."
+      "This statistic shows the Lowe forecast for the Home customer transactions Depot in the United Kingdom ( Home Depot ) from 2011 to 2018 , . ",
+      "The estimated customer transactions Lowe 's of the defense and Lowe's Depot in 2018 is 941 million British pounds ( GBP ) . ",
+      "customer transactions , also often called IT transactions or computer transactions , is a vital part to any business ."
    ],
    "trends": [
-      {},
       {
-         "0": "0",
-         "2": "24"
-      }
+         "20": [
+            "7",
+            "0"
+         ],
+         "22": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "13": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "0",
+            "2"
+         ]
+      },
+      {}
    ],
    "data": [
       {
-         "Month": "Nov '19",
-         "Inflation rate": "1.5"
+         "Year": "2018",
+         "Home Depot": "1621",
+         "Lowe's": "941"
       },
       {
-         "Month": "Oct '19",
-         "Inflation rate": "1.5"
+         "Year": "2017",
+         "Home Depot": "1579",
+         "Lowe's": "953"
       },
       {
-         "Month": "Sep '19",
-         "Inflation rate": "1.7"
+         "Year": "2016",
+         "Home Depot": "1544",
+         "Lowe's": "945"
       },
       {
-         "Month": "Aug '19",
-         "Inflation rate": "1.7"
+         "Year": "2015",
+         "Home Depot": "1501",
+         "Lowe's": "878"
       },
       {
-         "Month": "Jul '19",
-         "Inflation rate": "2.1"
+         "Year": "2014",
+         "Home Depot": "1442",
+         "Lowe's": "857"
       },
       {
-         "Month": "Jun '19",
-         "Inflation rate": "2"
+         "Year": "2013",
+         "Home Depot": "1391",
+         "Lowe's": "828"
       },
       {
-         "Month": "May '19",
-         "Inflation rate": "2"
+         "Year": "2012",
+         "Home Depot": "1364",
+         "Lowe's": "804"
       },
       {
-         "Month": "Apr '19",
-         "Inflation rate": "2.1"
-      },
-      {
-         "Month": "Mar '19",
-         "Inflation rate": "1.9"
-      },
-      {
-         "Month": "Feb '19",
-         "Inflation rate": "1.9"
-      },
-      {
-         "Month": "Jan '19",
-         "Inflation rate": "1.8"
-      },
-      {
-         "Month": "Dec '18",
-         "Inflation rate": "2.1"
-      },
-      {
-         "Month": "Nov '18",
-         "Inflation rate": "2.3"
-      },
-      {
-         "Month": "Oct '18",
-         "Inflation rate": "2.4"
-      },
-      {
-         "Month": "Sep '18",
-         "Inflation rate": "2.4"
-      },
-      {
-         "Month": "Aug '18",
-         "Inflation rate": "2.7"
-      },
-      {
-         "Month": "Jul '18",
-         "Inflation rate": "2.5"
-      },
-      {
-         "Month": "Jun '18",
-         "Inflation rate": "2.4"
-      },
-      {
-         "Month": "May '18",
-         "Inflation rate": "2.4"
-      },
-      {
-         "Month": "Apr '18",
-         "Inflation rate": "2.4"
-      },
-      {
-         "Month": "Mar '18",
-         "Inflation rate": "2.5"
-      },
-      {
-         "Month": "Feb '18",
-         "Inflation rate": "2.7"
-      },
-      {
-         "Month": "Jan '18",
-         "Inflation rate": "3"
-      },
-      {
-         "Month": "Dec '17",
-         "Inflation rate": "3"
-      },
-      {
-         "Month": "Nov '17",
-         "Inflation rate": "3.1"
+         "Year": "2011",
+         "Home Depot": "1318",
+         "Lowe's": "810"
       }
-   ]
+   ],
+   "gold": "This statistic depicts the number of customer transactions at the Home Depot and Lowe 's worldwide from 2011 to 2018 . In 2018 , the Home Depot carried out 1.62 billion customer transactions worldwide .\n"
 }

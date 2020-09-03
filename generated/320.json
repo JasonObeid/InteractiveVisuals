@@ -1,61 +1,170 @@
 {
-   "title": "Number of ABB Group employees 2010 to 2018",
-   "xAxis": "Year",
-   "yAxis": "Number of employees",
-   "columnType": "two",
-   "graphType": "line",
+   "title": "Gifts Americans are planning to purchase for Valentine 's Day by gender 2020",
+   "labels": [
+      "Race",
+      "Women",
+      "Men"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
    "summary": [
-      "This statistic outlines the Number of employees at ABB Group from 2010 to 2018 . ",
-      "ABB Group Corporation is one of the largest U.S. oil and gas production companies . ",
-      "In 2018 , the company had approximately 146600 ."
+      "This statistic shows how often Americans are planning Flowers for 's Day by in 2020 . ",
+      "During the survey , 48 % of survey respondents said they planning Chocolates for at Women a ."
    ],
    "trends": [
       {
-         "10": "8",
-         "12": "0"
+         "8": [
+            "8",
+            "0"
+         ]
       },
-      {},
       {
-         "1": "0",
-         "7": "0"
+         "4": [
+            "1",
+            "1"
+         ],
+         "12": [
+            "1",
+            "0"
+         ]
       }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Number of employees": "146600"
+         "Race": "Dinner out",
+         "Women": "53",
+         "Men": "52"
       },
       {
-         "Year": "2017",
-         "Number of employees": "134800"
+         "Race": "Chocolates",
+         "Women": "48",
+         "Men": "54"
       },
       {
-         "Year": "2016",
-         "Number of employees": "132300"
+         "Race": "Candy",
+         "Women": "27",
+         "Men": "32"
       },
       {
-         "Year": "2015",
-         "Number of employees": "135800"
+         "Race": "Greeting cards",
+         "Women": "24",
+         "Men": "29"
       },
       {
-         "Year": "2014",
-         "Number of employees": "140400"
+         "Race": "Gift cards",
+         "Women": "20",
+         "Men": "17"
       },
       {
-         "Year": "2013",
-         "Number of employees": "147700"
+         "Race": "Alcohol/wine",
+         "Women": "19",
+         "Men": "18"
       },
       {
-         "Year": "2012",
-         "Number of employees": "146100"
+         "Race": "Personalized gifts",
+         "Women": "18",
+         "Men": "27"
       },
       {
-         "Year": "2011",
-         "Number of employees": "133600"
+         "Race": "Home-cooked meals",
+         "Women": "8",
+         "Men": "19"
       },
       {
-         "Year": "2010",
-         "Number of employees": "116500"
+         "Race": "Flowers",
+         "Women": "17",
+         "Men": "44"
+      },
+      {
+         "Race": "Massages",
+         "Women": "15",
+         "Men": "28"
+      },
+      {
+         "Race": "Jewelry",
+         "Women": "15",
+         "Men": "25"
+      },
+      {
+         "Race": "Outings",
+         "Women": "12",
+         "Men": "6"
+      },
+      {
+         "Race": "Perfumes",
+         "Women": "10",
+         "Men": "18"
+      },
+      {
+         "Race": "Other",
+         "Women": "7",
+         "Men": "2"
+      },
+      {
+         "Race": "Stuffed toys",
+         "Women": "6",
+         "Men": "9"
+      },
+      {
+         "Race": "Accessories",
+         "Women": "6",
+         "Men": "6"
+      },
+      {
+         "Race": "Holidays",
+         "Women": "4",
+         "Men": "10"
+      },
+      {
+         "Race": "Books",
+         "Women": "4",
+         "Men": "7"
+      },
+      {
+         "Race": "Photo frame",
+         "Women": "4",
+         "Men": "8"
+      },
+      {
+         "Race": "Home decor",
+         "Women": "3",
+         "Men": "0"
+      },
+      {
+         "Race": "Electronic gadgets",
+         "Women": "3",
+         "Men": "5"
+      },
+      {
+         "Race": "Wearables",
+         "Women": "3",
+         "Men": "12"
+      },
+      {
+         "Race": "Toiletries",
+         "Women": "3",
+         "Men": "1"
+      },
+      {
+         "Race": "Cosmetics",
+         "Women": "3",
+         "Men": "9"
+      },
+      {
+         "Race": "Pets",
+         "Women": "2",
+         "Men": "8"
+      },
+      {
+         "Race": "Couple's gym membership",
+         "Women": "1",
+         "Men": "1"
+      },
+      {
+         "Race": "Mixtape",
+         "Women": "0",
+         "Men": "2"
       }
-   ]
+   ],
+   "gold": "This statistic shows the results of a survey among Americans in 2020 regarding what they would gift their Valentine . The results were sorted by gender . Some 53 percent of female respondents stated that they would gift their Valentine a dinner out in 2020 .\n"
 }

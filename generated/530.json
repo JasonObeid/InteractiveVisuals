@@ -1,83 +1,109 @@
 {
-   "title": "Regular season home attendance of the Denver Broncos 2006 to 2019",
-   "xAxis": "Year",
-   "yAxis": "Home attendance",
-   "columnType": "two",
-   "graphType": "line",
+   "title": "Perceived ROI level from digital marketing channels worldwide 2017",
+   "labels": [
+      "Response",
+      "Lowest ROI",
+      "Medium ROI",
+      "Highest ROI",
+      "Don't use or N/A"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
    "summary": [
-      "This graph depicts the total Regular season Home attendance of the St. Louis / Denver Broncos Rams franchise of the National Football League from 2006 to 2019 . ",
-      "In 2019 , the Regular season Home attendance of the franchise was 607497 . ",
-      "The franchise moved from St. Louis to Denver Broncos before the 2016 season ."
+      "The statistic shows the results of a survey among digital , Medium and channels American ROI and use regarding their level alcoholic from . ",
+      "The survey was conducted in 2017 . ",
+      "15 % of the digital respondents and 41 % of the marketing respondents stated that they drink SEO , while only 33 % of the surveyed use identifying as channels named SEO as one of their level from ."
    ],
    "trends": [
+      {},
+      {},
       {
-         "23": "13",
-         "25": "0"
-      },
-      {
-         "1": "0",
-         "12": "0"
-      },
-      {
-         "10": "3"
+         "0": [
+            "0",
+            "1"
+         ],
+         "7": [
+            "0",
+            "2"
+         ],
+         "17": [
+            "0",
+            "0"
+         ],
+         "21": [
+            "4",
+            "1"
+         ],
+         "31": [
+            "0",
+            "0"
+         ]
       }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Home attendance": "607497"
+         "Response": "SEO",
+         "Lowest ROI": "15",
+         "Medium ROI": "41",
+         "Highest ROI": "32",
+         "Don't use or N/A": "12"
       },
       {
-         "Year": "2018",
-         "Home attendance": "611571"
+         "Response": "Content marketing",
+         "Lowest ROI": "17",
+         "Medium ROI": "40",
+         "Highest ROI": "30",
+         "Don't use or N/A": "13"
       },
       {
-         "Year": "2017",
-         "Home attendance": "610846"
+         "Response": "E-mail marketing and marketing automation",
+         "Lowest ROI": "17",
+         "Medium ROI": "43",
+         "Highest ROI": "30",
+         "Don't use or N/A": "10"
       },
       {
-         "Year": "2016",
-         "Home attendance": "614193"
+         "Response": "Paid search marketing (AdWords)",
+         "Lowest ROI": "19",
+         "Medium ROI": "37",
+         "Highest ROI": "20",
+         "Don't use or N/A": "24"
       },
       {
-         "Year": "2015",
-         "Home attendance": "615381"
+         "Response": "Social media (organic)",
+         "Lowest ROI": "33",
+         "Medium ROI": "39",
+         "Highest ROI": "20",
+         "Don't use or N/A": "8"
       },
       {
-         "Year": "2014",
-         "Home attendance": "615517"
+         "Response": "Socila media (paid ads)",
+         "Lowest ROI": "24",
+         "Medium ROI": "36",
+         "Highest ROI": "17",
+         "Don't use or N/A": "23"
       },
       {
-         "Year": "2013",
-         "Home attendance": "614977"
+         "Response": "Website personalization",
+         "Lowest ROI": "18",
+         "Medium ROI": "26",
+         "Highest ROI": "16",
+         "Don't use or N/A": "40"
       },
       {
-         "Year": "2012",
-         "Home attendance": "613062"
+         "Response": "Online PR and outreach",
+         "Lowest ROI": "28",
+         "Medium ROI": "37",
+         "Highest ROI": "15",
+         "Don't use or N/A": "20"
       },
       {
-         "Year": "2011",
-         "Home attendance": "602618"
-      },
-      {
-         "Year": "2010",
-         "Home attendance": "599264"
-      },
-      {
-         "Year": "2009",
-         "Home attendance": "600928"
-      },
-      {
-         "Year": "2008",
-         "Home attendance": "604074"
-      },
-      {
-         "Year": "2007",
-         "Home attendance": "612888"
-      },
-      {
-         "Year": "2006",
-         "Home attendance": "610776"
+         "Response": "Display advertising including programmatic",
+         "Lowest ROI": "26",
+         "Medium ROI": "31",
+         "Highest ROI": "10",
+         "Don't use or N/A": "33"
       }
-   ]
+   ],
+   "gold": "Among the many digital marketing channels to choose from , SEO , content marketing and e-mail marketing together with automation commanded the largest share of marketers claiming that they generated the highest return on investment . Roughly a third of surveyed industry professionals believed that these three tactics were highly beneficial . Consequently , more than half of global marketers declared an increase in their budgets on all three channels in the same period .\n"
 }

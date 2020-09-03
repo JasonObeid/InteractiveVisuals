@@ -1,39 +1,103 @@
 {
-   "title": "Autonomous driving sensor components - global market size 2015 to 2030\n",
-   "xAxis": "Year",
-   "yAxis": "Market size in billion U.S. dollars",
-   "columnType": "two",
+   "title": "Children participating in cricket in England 2010 to 2018",
+   "labels": [
+      "Year",
+      "5-10 years",
+      "11-15 years"
+   ],
+   "columnType": "multi",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Market size in billion U.S. dollars with a total of 4 data points. The chart has one significant trend.",
-      " This trend is extremely negative which exists from 2030 to 2015."
+      "This line chart has 2 lines.",
+      " The line representing 11-15 years had the highest values across Year with a mean value of 17.7.",
+      " This peaked at 2012/13 with a value of 22.5. ",
+      " The line with the second highest values was 5-10 years with a mean value of 5.5.",
+      " This line peaked at 2011/12 with a value of 6.9"
    ],
    "trends": [
+      {},
       {
-         "Length": 4,
-         "direction": "negative",
-         "start": 0,
-         "end": 3,
-         "trend": "y=1.7x+-3419.06",
-         "magnitude": "extremely"
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "7",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "9": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "7",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "10": [
+            "0",
+            "0"
+         ]
       }
    ],
    "data": [
       {
-         "Year": "2030",
-         "Market size in billion U.S. dollars": 25.0
+         "Year": "2017/18",
+         "5-10 years": "5.3",
+         "11-15 years": "12.6"
       },
       {
-         "Year": "2025",
-         "Market size in billion U.S. dollars": 15.0
+         "Year": "2016/17",
+         "5-10 years": "5.2",
+         "11-15 years": "13.4"
       },
       {
-         "Year": "2020",
-         "Market size in billion U.S. dollars": 4.0
+         "Year": "2015/16",
+         "5-10 years": "4",
+         "11-15 years": "18.8"
       },
       {
-         "Year": "2015",
-         "Market size in billion U.S. dollars": 0.4
+         "Year": "2014/15",
+         "5-10 years": "4.6",
+         "11-15 years": "18.1"
+      },
+      {
+         "Year": "2013/14",
+         "5-10 years": "6.4",
+         "11-15 years": "21.3"
+      },
+      {
+         "Year": "2012/13",
+         "5-10 years": "4.7",
+         "11-15 years": "22.5"
+      },
+      {
+         "Year": "2011/12",
+         "5-10 years": "6.9",
+         "11-15 years": "17.6"
+      },
+      {
+         "Year": "2010/11",
+         "5-10 years": "6.6",
+         "11-15 years": "17.3"
       }
    ]
 }

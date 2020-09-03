@@ -1,133 +1,110 @@
 {
-   "title": "Daily online activities of adult U.S. internet users 2017 , by age",
-   "labels": [
-      "unknown",
-      "18-29",
-      "30-59",
-      "60+"
-   ],
-   "columnType": "multi",
-   "graphType": "bar",
+   "title": "Gross domestic product ( GDP ) in Afghanistan 2024",
+   "xAxis": "Year",
+   "yAxis": "GDP in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the results of a survey conducted irregularly between Buy_a_product_online and None_of_the_above among adult Americans and the Daily of online activities in the U.S. as of 2017 . ",
-      "During the survey , 49 % of respondents stated that they approved of Send_instant_messages and Get_news_online ."
+      "The statistic shows the Gross domestic product ( GDP ) in Afghanistan from 2004 to 2018 , with projections up until 2024 . ",
+      "In 2018 , the Gross domestic product in Afghanistan amounted to about 19.63 billion U.S. dollars ."
    ],
    "trends": [
       {
-         "11": [
-            "0",
-            "0"
-         ],
-         "13": [
-            "13",
-            "0"
-         ]
+         "13": "20",
+         "15": "6",
+         "21": "0"
       },
       {
-         "4": [
-            "0",
-            "1"
-         ],
-         "13": [
-            "7",
-            "0"
-         ],
-         "15": [
-            "4",
-            "0"
-         ]
+         "1": "6",
+         "12": "6"
       }
    ],
    "data": [
       {
-         "unknown": "Buy a product online",
-         "18-29": "49",
-         "30-59": "49",
-         "60+": "41"
+         "Year": "2024",
+         "GDP in billion U.S. dollars": "25.19"
       },
       {
-         "unknown": "Buy or make a reservation for travel",
-         "18-29": "13",
-         "30-59": "22",
-         "60+": "15"
+         "Year": "2023",
+         "GDP in billion U.S. dollars": "23.24"
       },
       {
-         "unknown": "Check weather reports and forecasts online",
-         "18-29": "50",
-         "30-59": "57",
-         "60+": "61"
+         "Year": "2022",
+         "GDP in billion U.S. dollars": "21.54"
       },
       {
-         "unknown": "Do any banking online",
-         "18-29": "49",
-         "30-59": "55",
-         "60+": "55"
+         "Year": "2021",
+         "GDP in billion U.S. dollars": "20"
       },
       {
-         "unknown": "Get news online",
-         "18-29": "57",
-         "30-59": "64",
-         "60+": "58"
+         "Year": "2020",
+         "GDP in billion U.S. dollars": "18.86"
       },
       {
-         "unknown": "Look for news and information about politics",
-         "18-29": "29",
-         "30-59": "39",
-         "60+": "40"
+         "Year": "2019",
+         "GDP in billion U.S. dollars": "18.73"
       },
       {
-         "unknown": "Participate in an online auction",
-         "18-29": "12",
-         "30-59": "11",
-         "60+": "8"
+         "Year": "2018",
+         "GDP in billion U.S. dollars": "19.63"
       },
       {
-         "unknown": "Send instant messages",
-         "18-29": "49",
-         "30-59": "43",
-         "60+": "24"
+         "Year": "2017",
+         "GDP in billion U.S. dollars": "20.24"
       },
       {
-         "unknown": "Send or read e-mail",
-         "18-29": "77",
-         "30-59": "86",
-         "60+": "91"
+         "Year": "2016",
+         "GDP in billion U.S. dollars": "19.43"
       },
       {
-         "unknown": "Use a search engine to find information",
-         "18-29": "67",
-         "30-59": "72",
-         "60+": "70"
+         "Year": "2015",
+         "GDP in billion U.S. dollars": "20.06"
       },
       {
-         "unknown": "Use a social networking site",
-         "18-29": "74",
-         "30-59": "67",
-         "60+": "49"
+         "Year": "2014",
+         "GDP in billion U.S. dollars": "20.62"
       },
       {
-         "unknown": "Use classified ads sites like Craigslist",
-         "18-29": "16",
-         "30-59": "17",
-         "60+": "12"
+         "Year": "2013",
+         "GDP in billion U.S. dollars": "20.17"
       },
       {
-         "unknown": "Watch a video on a video-sharing site",
-         "18-29": "55",
-         "30-59": "40",
-         "60+": "20"
+         "Year": "2012",
+         "GDP in billion U.S. dollars": "20.29"
       },
       {
-         "unknown": "None of the above",
-         "18-29": "1",
-         "30-59": "1",
-         "60+": "2"
+         "Year": "2011",
+         "GDP in billion U.S. dollars": "17.89"
       },
       {
-         "unknown": "I don\u2019t use the Internet",
-         "18-29": "0",
-         "30-59": "1",
-         "60+": "0"
+         "Year": "2010",
+         "GDP in billion U.S. dollars": "15.33"
+      },
+      {
+         "Year": "2009",
+         "GDP in billion U.S. dollars": "12.07"
+      },
+      {
+         "Year": "2008",
+         "GDP in billion U.S. dollars": "10.3"
+      },
+      {
+         "Year": "2007",
+         "GDP in billion U.S. dollars": "8.56"
+      },
+      {
+         "Year": "2006",
+         "GDP in billion U.S. dollars": "6.93"
+      },
+      {
+         "Year": "2005",
+         "GDP in billion U.S. dollars": "6.17"
+      },
+      {
+         "Year": "2004",
+         "GDP in billion U.S. dollars": "5.15"
       }
-   ]
+   ],
+   "gold": "This timeline shows the gross domestic product ( GDP ) in Afghanistan from 2004 to 2018 , with projections up until 2024 . In 2018 , Afghanistan 's gross domestic product amounted to 19.63 billion U.S. dollars . For comparison , global GDP was estimated at almost more than 75 trillion U.S. dollars that same year .\n"
 }

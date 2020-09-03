@@ -1,225 +1,90 @@
 {
-   "title": "U.S. - job growth 2018 , by state",
-   "xAxis": "State",
-   "yAxis": "Growth rate",
+   "title": "Global barley producers by country 2018/19",
+   "xAxis": "Country",
+   "yAxis": "Amount in million metric tons",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the percentage of rate in the state in 2018 , State . ",
-      "In 2018 , about 0.1 % of Californian rate were . ",
-      "In 2018 , there were an estimated 34.05 % rate in the state ."
+      "The statistic displays the annual million of producers cow Amount in , 2018/19 Country . ",
+      "The annual million of Amount in European_Union amounted to about 56.34 million tons in ."
    ],
    "trends": [
       {},
       {
-         "4": "49"
-      },
-      {}
+         "6": "0",
+         "10": "0"
+      }
    ],
    "data": [
       {
-         "State": "Nevada",
-         "Growth rate": "3.4"
+         "Country": "European Union",
+         "Amount in million metric tons": "56.34"
       },
       {
-         "State": "Utah",
-         "Growth rate": "3.2"
+         "Country": "Russia",
+         "Amount in million metric tons": "16.6"
       },
       {
-         "State": "Idaho",
-         "Growth rate": "3.1"
+         "Country": "Others",
+         "Amount in million metric tons": "9.68"
       },
       {
-         "State": "Arizona",
-         "Growth rate": "2.8"
+         "Country": "Canada",
+         "Amount in million metric tons": "8.4"
       },
       {
-         "State": "Washington",
-         "Growth rate": "2.6"
+         "Country": "Ukraine",
+         "Amount in million metric tons": "7.4"
       },
       {
-         "State": "Colorado",
-         "Growth rate": "2.4"
+         "Country": "Turkey",
+         "Amount in million metric tons": "7.4"
       },
       {
-         "State": "Florida",
-         "Growth rate": "2.4"
+         "Country": "Australia",
+         "Amount in million metric tons": "7.3"
       },
       {
-         "State": "South Carolina",
-         "Growth rate": "2.4"
+         "Country": "Argentina",
+         "Amount in million metric tons": "4.5"
       },
       {
-         "State": "Texas",
-         "Growth rate": "2.3"
+         "Country": "Kazakhstan",
+         "Amount in million metric tons": "4.2"
       },
       {
-         "State": "California",
-         "Growth rate": "2"
+         "Country": "United States",
+         "Amount in million metric tons": "3.33"
       },
       {
-         "State": "Georgia",
-         "Growth rate": "1.9"
+         "Country": "Iran",
+         "Amount in million metric tons": "3.1"
       },
       {
-         "State": "Oregon",
-         "Growth rate": "1.8"
+         "Country": "Morocco",
+         "Amount in million metric tons": "2.91"
       },
       {
-         "State": "North Carolina",
-         "Growth rate": "1.7"
+         "Country": "Ethiopia",
+         "Amount in million metric tons": "2.17"
       },
       {
-         "State": "Tennessee",
-         "Growth rate": "1.6"
+         "Country": "Algeria",
+         "Amount in million metric tons": "1.95"
       },
       {
-         "State": "Oklahoma",
-         "Growth rate": "1.5"
+         "Country": "China",
+         "Amount in million metric tons": "1.85"
       },
       {
-         "State": "West Virginia",
-         "Growth rate": "1.5"
+         "Country": "India",
+         "Amount in million metric tons": "1.77"
       },
       {
-         "State": "New Mexico",
-         "Growth rate": "1.3"
-      },
-      {
-         "State": "Alabama",
-         "Growth rate": "1.2"
-      },
-      {
-         "State": "New York",
-         "Growth rate": "1.1"
-      },
-      {
-         "State": "Pennsylvania",
-         "Growth rate": "1.1"
-      },
-      {
-         "State": "Michigan",
-         "Growth rate": "1.1"
-      },
-      {
-         "State": "Virginia",
-         "Growth rate": "1.1"
-      },
-      {
-         "State": "Arkansas",
-         "Growth rate": "1.1"
-      },
-      {
-         "State": "Montana",
-         "Growth rate": "1.1"
-      },
-      {
-         "State": "South Dakota",
-         "Growth rate": "1.1"
-      },
-      {
-         "State": "District of Columbia",
-         "Growth rate": "1"
-      },
-      {
-         "State": "Indiana",
-         "Growth rate": "1"
-      },
-      {
-         "State": "Delaware",
-         "Growth rate": "1"
-      },
-      {
-         "State": "New Jersey",
-         "Growth rate": "0.9"
-      },
-      {
-         "State": "Illinois",
-         "Growth rate": "0.9"
-      },
-      {
-         "State": "Kansas",
-         "Growth rate": "0.9"
-      },
-      {
-         "State": "Massachussets",
-         "Growth rate": "0.9"
-      },
-      {
-         "State": "New Hampshire",
-         "Growth rate": "0.8"
-      },
-      {
-         "State": "Wisconsin",
-         "Growth rate": "0.8"
-      },
-      {
-         "State": "Minnesota",
-         "Growth rate": "0.8"
-      },
-      {
-         "State": "Maine",
-         "Growth rate": "0.7"
-      },
-      {
-         "State": "Iowa",
-         "Growth rate": "0.7"
-      },
-      {
-         "State": "Maryland",
-         "Growth rate": "0.7"
-      },
-      {
-         "State": "Wyoming",
-         "Growth rate": "0.7"
-      },
-      {
-         "State": "North Dakota",
-         "Growth rate": "0.6"
-      },
-      {
-         "State": "Ohio",
-         "Growth rate": "0.6"
-      },
-      {
-         "State": "Louisiana",
-         "Growth rate": "0.5"
-      },
-      {
-         "State": "Hawaii",
-         "Growth rate": "0.5"
-      },
-      {
-         "State": "Kentucky",
-         "Growth rate": "0.5"
-      },
-      {
-         "State": "Missouri",
-         "Growth rate": "0.5"
-      },
-      {
-         "State": "Rhode Island",
-         "Growth rate": "0.5"
-      },
-      {
-         "State": "Nebraska",
-         "Growth rate": "0.4"
-      },
-      {
-         "State": "Mississippi",
-         "Growth rate": "0.3"
-      },
-      {
-         "State": "Vermont",
-         "Growth rate": "0.2"
-      },
-      {
-         "State": "Connecticut",
-         "Growth rate": "0.1"
-      },
-      {
-         "State": "Alaska",
-         "Growth rate": "-0.6"
+         "Country": "Belarus",
+         "Amount in million metric tons": "1.7"
       }
-   ]
+   ],
+   "gold": "This statistic provides a forecast of barley production volume worldwide in 2018/19 , by country . In that year , Argentina produced about 4.5 million metric tons of barley .\n"
 }

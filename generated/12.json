@@ -1,99 +1,84 @@
 {
-   "title": "Franchise value of the Denver Broncos ( NFL ) 2002 to 2019",
-   "xAxis": "Year",
-   "yAxis": "Franchise value in million U.S. dollars",
-   "columnType": "two",
-   "graphType": "line",
+   "title": "The Fast and the Furious : domestic and global box office revenue 2019",
+   "labels": [
+      "Movie",
+      "North America",
+      "Worldwide"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
    "summary": [
-      "This graph depicts the Franchise value of the Denver Broncos Broncos of the National Football League from 2002 to 2019 . ",
-      "In 2019 , the Franchise value came to 3000 million U.S. dollars . ",
-      "The Denver Broncos Broncos are owned by the McCaskey family , who bought the Franchise for 200 million U.S. dollars in 2004 ."
+      "The statistic presents the office revenue 2019 of Furious_7 movie franchise in North America and Worldwide . ",
+      "As of 2018 , `` Furious_7 and the Fast_&_Furious_6 '' , the second installment in the domestic based on the books written by J.K. Rowling , reached a gross of 238.68 million U.S. dollars in 4,455 cinemas across North America ."
    ],
    "trends": [
       {
-         "16": "17",
-         "18": "0"
+         "8": [
+            "0",
+            "0"
+         ]
       },
       {
-         "1": "0",
-         "8": "0"
-      },
-      {
-         "20": "15"
+         "5": [
+            "0",
+            "0"
+         ],
+         "8": [
+            "2",
+            "0"
+         ],
+         "30": [
+            "2",
+            "1"
+         ]
       }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Franchise value in million U.S. dollars": "3000"
+         "Movie": "Furious 7",
+         "North America": "353.01",
+         "Worldwide": "1516.0"
       },
       {
-         "Year": "2018",
-         "Franchise value in million U.S. dollars": "2650"
+         "Movie": "The Fate of the Furious",
+         "North America": "226.01",
+         "Worldwide": "1236.0"
       },
       {
-         "Year": "2017",
-         "Franchise value in million U.S. dollars": "2600"
+         "Movie": "Fast & Furious 6",
+         "North America": "238.68",
+         "Worldwide": "788.7"
       },
       {
-         "Year": "2016",
-         "Franchise value in million U.S. dollars": "2400"
+         "Movie": "Fast & Furious Presents: Hobbs & Shaw",
+         "North America": "164.34",
+         "Worldwide": "721.04"
       },
       {
-         "Year": "2015",
-         "Franchise value in million U.S. dollars": "1940"
+         "Movie": "Fast Five",
+         "North America": "209.84",
+         "Worldwide": "626.1"
       },
       {
-         "Year": "2014",
-         "Franchise value in million U.S. dollars": "1450"
+         "Movie": "Fast and Furious",
+         "North America": "155.06",
+         "Worldwide": "363.2"
       },
       {
-         "Year": "2013",
-         "Franchise value in million U.S. dollars": "1161"
+         "Movie": "2 Fast 2 Furious",
+         "North America": "127.15",
+         "Worldwide": "236.4"
       },
       {
-         "Year": "2012",
-         "Franchise value in million U.S. dollars": "1132"
+         "Movie": "The Fast and the Furious",
+         "North America": "144.53",
+         "Worldwide": "207.3"
       },
       {
-         "Year": "2011",
-         "Franchise value in million U.S. dollars": "1046"
-      },
-      {
-         "Year": "2010",
-         "Franchise value in million U.S. dollars": "1049"
-      },
-      {
-         "Year": "2009",
-         "Franchise value in million U.S. dollars": "1081"
-      },
-      {
-         "Year": "2008",
-         "Franchise value in million U.S. dollars": "1061"
-      },
-      {
-         "Year": "2007",
-         "Franchise value in million U.S. dollars": "994"
-      },
-      {
-         "Year": "2006",
-         "Franchise value in million U.S. dollars": "975"
-      },
-      {
-         "Year": "2005",
-         "Franchise value in million U.S. dollars": "907"
-      },
-      {
-         "Year": "2004",
-         "Franchise value in million U.S. dollars": "815"
-      },
-      {
-         "Year": "2003",
-         "Franchise value in million U.S. dollars": "683"
-      },
-      {
-         "Year": "2002",
-         "Franchise value in million U.S. dollars": "604"
+         "Movie": "The Fast and the Furious: Tokyo Drift",
+         "North America": "62.51",
+         "Worldwide": "158.5"
       }
-   ]
+   ],
+   "gold": "As of September 2019 , 'Furious 7 ' _ , the seventh installment in the series , reached a gross of 353.01 million U.S. dollars in cinemas across North America . The film had the highest grossing opening weekend of all of the films in the franchise , bringing in a box office gross of 147.2 million U.S. dollars when it was released in April 2015 .\n"
 }

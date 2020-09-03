@@ -1,62 +1,43 @@
 {
-   "title": "Distribution of internet users in Asia 2019 , by country",
-   "xAxis": "Country",
-   "yAxis": "Percentage of users",
+   "title": "PUBG unit sales worldwide 2018",
+   "xAxis": "Month",
+   "yAxis": "Unit sales in millions",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the ten countries with the most users resulting Asia between 1900 and 2019 . ",
-      "Total 37.7 people were killed due to Asia in China . ",
-      "Fatalities around the world leading causes of Asia worldwide for humans in 2012 were ischaemic heart diseases , with 7.4 percentage users and strokes , with 6.7 percentage users ."
+      "Since its release in 2011 , PUBG has recorded worldwide sales of 50 millions units , making it one of the best-selling games of all time along with other legendary games such as Tetris and Grand Theft Auto V. The popular sandbox game , which is developed by Swedish game publisher , Mojang allows players to build 3D worlds with different types of blocks and then explore and craft items within their new world . ",
+      "PUBG - a global hit PUBG is available across several computer operating systems and was more recently released for console . ",
+      "Due to the freedom that is afforded players and the infinite Unit of ways the game can develop , it still remains popular with fans some eight years after its release ."
    ],
    "trends": [
-      {},
       {
-         "1": "0",
-         "9": "0"
+         "12": "0"
       },
+      {},
       {}
    ],
    "data": [
       {
-         "Country": "China",
-         "Percentage of users": "37.7"
+         "Month": "June 2018",
+         "Unit sales in millions": "50"
       },
       {
-         "Country": "India",
-         "Percentage of users": "25.4"
+         "Month": "September 2017",
+         "Unit sales in millions": "10"
       },
       {
-         "Country": "Indonesia",
-         "Percentage of users": "6.5"
+         "Month": "August 2017",
+         "Unit sales in millions": "8"
       },
       {
-         "Country": "Japan",
-         "Percentage of users": "5.4"
+         "Month": "June 2017",
+         "Unit sales in millions": "4"
       },
       {
-         "Country": "Bangladesh",
-         "Percentage of users": "4.3"
-      },
-      {
-         "Country": "Philippines",
-         "Percentage of users": "3"
-      },
-      {
-         "Country": "Vietnam",
-         "Percentage of users": "2.9"
-      },
-      {
-         "Country": "Thailand",
-         "Percentage of users": "2.6"
-      },
-      {
-         "Country": "Korea South",
-         "Percentage of users": "2.2"
-      },
-      {
-         "Country": "Pakistan",
-         "Percentage of users": "2"
+         "Month": "May 2017",
+         "Unit sales in millions": "2"
       }
-   ]
+   ],
+   "gold": "Since it was first released by developer Bluehole in March 2017 , PlayerUnknown 's Battlegrounds ( PUBG ) has developed a loyal legion of fans . While the battle royale game only sold two million copies within the first few months of its Early Access release on Steam , this number had jumped to 50 million units just a year later in June 2018 . One of the biggest games on Steam PUBG is an online multiplayer game which pits up to 100 players against each other at one time .\n"
 }

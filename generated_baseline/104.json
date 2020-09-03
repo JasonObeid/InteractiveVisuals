@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 44 categories for the x axis of Country representing Disapprove, Approve.",
+      "This grouped bar chart has 44 categories for the x axis of Country representing Disapprove, and Approve.",
       " The highest category is found at France with a mean value of 49.5.",
       " The second highest category is found at South Korea with a mean value of 49.0.",
       " This represents a difference of 1.0%."
    ],
-   "trends": {
-      "maxIndex": 24,
-      "secondIndex": 24
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "24"
+         ],
+         "13": [
+            "2",
+            "24"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "20"
+         ],
+         "14": [
+            "2",
+            "20"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "Venezuela",

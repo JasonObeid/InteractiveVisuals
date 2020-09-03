@@ -1,66 +1,189 @@
 {
-   "title": "Problems of the Italian school system 2019",
-   "xAxis": "Response",
-   "yAxis": "Share of respondents",
+   "title": "Gross domestic product ( GDP ) in Kenya 2024",
+   "xAxis": "Year",
+   "yAxis": "Gross domestic product in billion U.S. dollars",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "A survey conducted in 2019 reveals that the largest groups of Italian respondents cheated on 2019 Violence either Italian a Lack_of_opportunities_to_enter_into_the_labor_market or Italian a Lack_of_funding_and_resources . ",
-      "In Bad_teachers , 26 % of interviewees in Italy stated that they betrayed 2019 Violence Italian a Lack_of_opportunities_to_enter_into_the_labor_market , while 21 % did so Italian a Lack_of_funding_and_resources . ",
-      "However , it was common to 2019 Italian strangers as well ."
+      "The statistic shows Gross domestic product ( GDP ) in Kenya from 1984 to 2018 , with projections up until 2024 . ",
+      "Gross domestic product ( GDP ) denotes the aggregate value of all services and goods produced within a country in any given Year . ",
+      "GDP is an important indicator of a country 's economic power ."
    ],
    "trends": [
       {
-         "16": "5",
-         "20": "0",
-         "24": "1"
+         "12": "40",
+         "14": "6",
+         "20": "0"
       },
-      {
-         "1": "2",
-         "3": "0",
-         "14": "5",
-         "17": "0",
-         "20": "1",
-         "26": "1"
-      },
+      {},
       {}
    ],
    "data": [
       {
-         "Response": "Lack of opportunities to enter into the labor market",
-         "Share of respondents": "26"
+         "Year": "2024",
+         "Gross domestic product in billion U.S. dollars": "158.84"
       },
       {
-         "Response": "Lack of funding and resources",
-         "Share of respondents": "21"
+         "Year": "2023",
+         "Gross domestic product in billion U.S. dollars": "144.69"
       },
       {
-         "Response": "Bad teachers",
-         "Share of respondents": "13"
+         "Year": "2022",
+         "Gross domestic product in billion U.S. dollars": "131.37"
       },
       {
-         "Response": "Lack of financial aid for low-income families and students",
-         "Share of respondents": "13"
+         "Year": "2021",
+         "Gross domestic product in billion U.S. dollars": "119.55"
       },
       {
-         "Response": "Inadequacy or backwardness of programs",
-         "Share of respondents": "11"
+         "Year": "2020",
+         "Gross domestic product in billion U.S. dollars": "109.13"
       },
       {
-         "Response": "Violence",
-         "Share of respondents": "7"
+         "Year": "2019",
+         "Gross domestic product in billion U.S. dollars": "98.61"
       },
       {
-         "Response": "All these aspects",
-         "Share of respondents": "4"
+         "Year": "2018",
+         "Gross domestic product in billion U.S. dollars": "87.93"
       },
       {
-         "Response": "Others",
-         "Share of respondents": "2"
+         "Year": "2017",
+         "Gross domestic product in billion U.S. dollars": "78.69"
       },
       {
-         "Response": "I do not know",
-         "Share of respondents": "3"
+         "Year": "2016",
+         "Gross domestic product in billion U.S. dollars": "69.19"
+      },
+      {
+         "Year": "2015",
+         "Gross domestic product in billion U.S. dollars": "64.24"
+      },
+      {
+         "Year": "2014",
+         "Gross domestic product in billion U.S. dollars": "61.55"
+      },
+      {
+         "Year": "2013",
+         "Gross domestic product in billion U.S. dollars": "55.13"
+      },
+      {
+         "Year": "2012",
+         "Gross domestic product in billion U.S. dollars": "50.42"
+      },
+      {
+         "Year": "2011",
+         "Gross domestic product in billion U.S. dollars": "41.67"
+      },
+      {
+         "Year": "2010",
+         "Gross domestic product in billion U.S. dollars": "40.0"
+      },
+      {
+         "Year": "2009",
+         "Gross domestic product in billion U.S. dollars": "37.02"
+      },
+      {
+         "Year": "2008",
+         "Gross domestic product in billion U.S. dollars": "35.9"
+      },
+      {
+         "Year": "2007",
+         "Gross domestic product in billion U.S. dollars": "31.96"
+      },
+      {
+         "Year": "2006",
+         "Gross domestic product in billion U.S. dollars": "25.83"
+      },
+      {
+         "Year": "2005",
+         "Gross domestic product in billion U.S. dollars": "21.0"
+      },
+      {
+         "Year": "2004",
+         "Gross domestic product in billion U.S. dollars": "18.06"
+      },
+      {
+         "Year": "2003",
+         "Gross domestic product in billion U.S. dollars": "16.8"
+      },
+      {
+         "Year": "2002",
+         "Gross domestic product in billion U.S. dollars": "14.76"
+      },
+      {
+         "Year": "2001",
+         "Gross domestic product in billion U.S. dollars": "14.54"
+      },
+      {
+         "Year": "2000",
+         "Gross domestic product in billion U.S. dollars": "14.14"
+      },
+      {
+         "Year": "1999",
+         "Gross domestic product in billion U.S. dollars": "14.35"
+      },
+      {
+         "Year": "1998",
+         "Gross domestic product in billion U.S. dollars": "15.74"
+      },
+      {
+         "Year": "1997",
+         "Gross domestic product in billion U.S. dollars": "13.74"
+      },
+      {
+         "Year": "1996",
+         "Gross domestic product in billion U.S. dollars": "13.57"
+      },
+      {
+         "Year": "1995",
+         "Gross domestic product in billion U.S. dollars": "11.94"
+      },
+      {
+         "Year": "1994",
+         "Gross domestic product in billion U.S. dollars": "9.42"
+      },
+      {
+         "Year": "1993",
+         "Gross domestic product in billion U.S. dollars": "7.87"
+      },
+      {
+         "Year": "1992",
+         "Gross domestic product in billion U.S. dollars": "11.33"
+      },
+      {
+         "Year": "1991",
+         "Gross domestic product in billion U.S. dollars": "11.5"
+      },
+      {
+         "Year": "1990",
+         "Gross domestic product in billion U.S. dollars": "12.18"
+      },
+      {
+         "Year": "1989",
+         "Gross domestic product in billion U.S. dollars": "11.71"
+      },
+      {
+         "Year": "1988",
+         "Gross domestic product in billion U.S. dollars": "11.81"
+      },
+      {
+         "Year": "1987",
+         "Gross domestic product in billion U.S. dollars": "11.39"
+      },
+      {
+         "Year": "1986",
+         "Gross domestic product in billion U.S. dollars": "10.39"
+      },
+      {
+         "Year": "1985",
+         "Gross domestic product in billion U.S. dollars": "8.75"
+      },
+      {
+         "Year": "1984",
+         "Gross domestic product in billion U.S. dollars": "8.79"
       }
-   ]
+   ],
+   "gold": "The statistic shows gross domestic product ( GDP ) in Kenya from 1984 to 2018 , with projections up until 2024 . Gross domestic product ( GDP ) denotes the aggregate value of all services and goods produced within a country in any given year . GDP is an important indicator of a country 's economic power .\n"
 }

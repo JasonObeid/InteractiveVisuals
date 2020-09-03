@@ -4,18 +4,16 @@
    "yAxis": "Number of public schools",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Number of public schools with a total of 13 data points. The chart has one significant trend.",
-      " This trend is extremely positive which exists from 2018 to 2005."
+      " This trend is negative which exists from 2018 to 2005."
    ],
    "trends": [
+      {},
       {
-         "Length": 13,
-         "direction": "positive",
-         "start": 0,
-         "end": 12,
-         "trend": "y=-442.44x+937869.51",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "12"
       }
    ],
    "data": [

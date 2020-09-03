@@ -1,139 +1,84 @@
 {
-   "title": "U.S. labor force 1990 to 2019",
-   "xAxis": "Year",
-   "yAxis": "Civilian labor force in millions",
+   "title": "Broadcasting rights revenue of European soccer leagues 2017/2018",
+   "xAxis": "Country",
+   "yAxis": "Revenue in million euros",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Civilian of refugees admitted to the U.S. from the fiscal Year of 1990 to the fiscal Year of 2019 . ",
-      "During the fiscal Year of 2019 , 163.54 refugees were admitted to the force ."
+      "This statistic presents the Revenue of global merger and acquisition deals in , 2017/2018 Country . ",
+      "In that year , the Revenue of European revenue A deals in the England ( 2017/2018 Country ) , amounted to under 3210 million euros . ",
+      "The total Revenue of mergers and acquisitions worldwide decreased in compared to the previous year ."
    ],
    "trends": [
       {},
       {
-         "7": "0"
-      }
+         "13": "0",
+         "22": "0"
+      },
+      {}
    ],
    "data": [
       {
-         "Year": "'19",
-         "Civilian labor force in millions": "163.54"
+         "Country": "England",
+         "Revenue in million euros": "3210"
       },
       {
-         "Year": "'18",
-         "Civilian labor force in millions": "162.07"
+         "Country": "Spain",
+         "Revenue in million euros": "1609"
       },
       {
-         "Year": "'17",
-         "Civilian labor force in millions": "160.32"
+         "Country": "Italy",
+         "Revenue in million euros": "1294"
       },
       {
-         "Year": "'16",
-         "Civilian labor force in millions": "159.19"
+         "Country": "Germany",
+         "Revenue in million euros": "1248"
       },
       {
-         "Year": "'15",
-         "Civilian labor force in millions": "157.13"
+         "Country": "France",
+         "Revenue in million euros": "791"
       },
       {
-         "Year": "'14",
-         "Civilian labor force in millions": "155.92"
+         "Country": "Turkey",
+         "Revenue in million euros": "376"
       },
       {
-         "Year": "'13",
-         "Civilian labor force in millions": "155.39"
+         "Country": "Portugal",
+         "Revenue in million euros": "225"
       },
       {
-         "Year": "'12",
-         "Civilian labor force in millions": "154.98"
+         "Country": "Russia",
+         "Revenue in million euros": "112"
       },
       {
-         "Year": "'11",
-         "Civilian labor force in millions": "153.62"
+         "Country": "Netherlands",
+         "Revenue in million euros": "89"
       },
       {
-         "Year": "'10",
-         "Civilian labor force in millions": "153.89"
+         "Country": "Scotland",
+         "Revenue in million euros": "64"
       },
       {
-         "Year": "'09",
-         "Civilian labor force in millions": "154.14"
+         "Country": "Denmark",
+         "Revenue in million euros": "50"
       },
       {
-         "Year": "'08",
-         "Civilian labor force in millions": "154.29"
+         "Country": "Sweden",
+         "Revenue in million euros": "42"
       },
       {
-         "Year": "'07",
-         "Civilian labor force in millions": "153.12"
+         "Country": "Poland",
+         "Revenue in million euros": "39"
       },
       {
-         "Year": "'06",
-         "Civilian labor force in millions": "151.43"
+         "Country": "Norway",
+         "Revenue in million euros": "35"
       },
       {
-         "Year": "'05",
-         "Civilian labor force in millions": "149.32"
-      },
-      {
-         "Year": "'04",
-         "Civilian labor force in millions": "147.4"
-      },
-      {
-         "Year": "'03",
-         "Civilian labor force in millions": "146.51"
-      },
-      {
-         "Year": "'02",
-         "Civilian labor force in millions": "144.86"
-      },
-      {
-         "Year": "'01",
-         "Civilian labor force in millions": "143.73"
-      },
-      {
-         "Year": "'00",
-         "Civilian labor force in millions": "142.58"
-      },
-      {
-         "Year": "'99",
-         "Civilian labor force in millions": "139.37"
-      },
-      {
-         "Year": "'98",
-         "Civilian labor force in millions": "137.67"
-      },
-      {
-         "Year": "'97",
-         "Civilian labor force in millions": "136.3"
-      },
-      {
-         "Year": "'96",
-         "Civilian labor force in millions": "133.94"
-      },
-      {
-         "Year": "'95",
-         "Civilian labor force in millions": "132.3"
-      },
-      {
-         "Year": "'94",
-         "Civilian labor force in millions": "131.06"
-      },
-      {
-         "Year": "'93",
-         "Civilian labor force in millions": "129.2"
-      },
-      {
-         "Year": "'92",
-         "Civilian labor force in millions": "128.11"
-      },
-      {
-         "Year": "'91",
-         "Civilian labor force in millions": "126.35"
-      },
-      {
-         "Year": "'90",
-         "Civilian labor force in millions": "125.84"
+         "Country": "Austria",
+         "Revenue in million euros": "22"
       }
-   ]
+   ],
+   "gold": "This statistic shows the revenue from broadcasting rights of soccer leagues in Europe in the 2017/18 season . In that season , the broadcasting revenues of the English Premier League amounted to roughly 3.21 billion euros .\n"
 }

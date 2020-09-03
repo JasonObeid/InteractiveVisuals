@@ -10,16 +10,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 12 categories for the x axis of Month representing 2015, 2016, 2017, 2018, 2019.",
-      " The highest category is found at Jan with a mean value of 2.756.",
-      " The second highest category is found at May with a mean value of 2.756.",
+      "This grouped bar chart has 12 categories for the x axis of Month representing 2015, 2016, 2017, 2018, and 2019.",
+      " The highest category is found at Jan with a mean value of 2.76.",
+      " The second highest category is found at May with a mean value of 2.76.",
       " This represents a difference of 0.0%."
    ],
-   "trends": {
-      "maxIndex": 11,
-      "secondIndex": 11
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "11"
+         ],
+         "13": [
+            "5",
+            "11"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "7"
+         ],
+         "14": [
+            "5",
+            "7"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Month": "Dec",

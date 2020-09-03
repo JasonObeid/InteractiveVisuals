@@ -1,49 +1,39 @@
 {
-   "title": "Percentage of population volunteering in the U.S. in 2015 , by age",
+   "title": "Worldwide shipments of smart watches 2013 to 2015",
    "xAxis": "Year",
-   "yAxis": "Percentage of population volunteering",
+   "yAxis": "Shipments in millions",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Percentage population of U.S. from 65_years_and_over to 16_to_24_years . ",
-      "During the eighteenth Percentage population in 16_to_24_years , Percentage population stood at 21.8 percentage . ",
-      "Republic of U.S. , also often referred to as U.S. , adopted the single-term system and holds its Percentage population every five years ."
+      "The statistic depicts the Shipments of smart watches 2013 2015 worldwide from 2013 to 2015 . ",
+      "In 2015 , global 2013 2015 smart approximately 24.92 millions . ",
+      "2013 \u2013 additional information 2013 , also called crowd sourcing , is a form of collecting money from large number of people all over the world , usually online , in order to fund a project run watches individuals or companies ."
    ],
    "trends": [
       {
-         "10": "5",
-         "12": "0"
+         "13": "2",
+         "15": "0"
       },
       {
-         "6": "0",
-         "12": "0"
+         "1": "0",
+         "8": "0"
       },
       {}
    ],
    "data": [
       {
-         "Year": "16 to 24 years",
-         "Percentage of population volunteering": "21.8"
+         "Year": "2015",
+         "Shipments in millions": "24.92"
       },
       {
-         "Year": "25 to 34 years",
-         "Percentage of population volunteering": "22.3"
+         "Year": "2014",
+         "Shipments in millions": "7.44"
       },
       {
-         "Year": "35 to 44 years",
-         "Percentage of population volunteering": "28.9"
-      },
-      {
-         "Year": "45 to 54 years",
-         "Percentage of population volunteering": "28"
-      },
-      {
-         "Year": "55 to 64 years",
-         "Percentage of population volunteering": "25.1"
-      },
-      {
-         "Year": "65 years and over",
-         "Percentage of population volunteering": "23.5"
+         "Year": "2013",
+         "Shipments in millions": "1.23"
       }
-   ]
+   ],
+   "gold": "The statistic shows the projected worldwide smart watches shipments from 2013 to 2015 . Shipments of smart watches are forecast to total around 25 million units in 2015 .\n"
 }

@@ -4,18 +4,16 @@
    "yAxis": "Prize pool in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Prize pool in million U.S. dollars with a total of 9 data points. The chart has one significant trend.",
-      " This trend is  negative which exists from 2019 to 2011."
+      " This trend is positive which exists from 2019 to 2011."
    ],
    "trends": [
+      {},
       {
-         "Length": 9,
-         "direction": "negative",
-         "start": 0,
-         "end": 8,
-         "trend": "y=4.27x+-8588.08",
-         "magnitude": ""
+         "3": "0",
+         "14": "8"
       }
    ],
    "data": [

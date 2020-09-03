@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 11 categories for the x axis of Country representing Cases, Deaths.",
+      "This grouped bar chart has 11 categories for the x axis of Country representing Cases, and Deaths.",
       " The highest category is found at Total with a mean value of 19984.5.",
       " The second highest category is found at Sierra Leone with a mean value of 9040.0.",
       " This represents a difference of 75.4%."
    ],
-   "trends": {
-      "maxIndex": 10,
-      "secondIndex": 10
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "10"
+         ],
+         "13": [
+            "2",
+            "10"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "14": [
+            "2",
+            "2"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "Guinea",

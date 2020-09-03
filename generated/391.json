@@ -1,60 +1,104 @@
 {
-   "title": "Desktop/laptop ownership among U.S. adults 2008 to 2019",
-   "xAxis": "Month",
-   "yAxis": "Share of U.S. adults",
-   "columnType": "two",
-   "graphType": "bar",
+   "title": "Unemployment rate in Belgium 2008 - 2018 , by region",
+   "labels": [
+      "Year",
+      "Flemish Region",
+      "Brussels-Capital Region",
+      "Walloon Region"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
    "summary": [
-      "The statistic shows a ranking of Brazilian U.S. adults participating in the 2008 as of 2016 . ",
-      "The survey revealed that the most adults 2008 with 78 % of U.S. adults . ",
-      "January_2018 ranked second with a total of 73 million U.S. adults ."
+      "In 2018 , the Unemployment of Belgium numbered around 11.4 % . ",
+      "Most of these inhabitants lived in the Dutch-speaking Flemish by , which was home to nearly half of Belgium 's Unemployment . ",
+      "The Walloon by , broadly in line with the French-speaking part of Belgium , numbered roughly 8.5 million inhabitants , and another 13.4 million lived in Brussels and the surrounding areas ( which are bilingual ) ."
    ],
    "trends": [
+      {
+         "1": [
+            "0",
+            "0"
+         ]
+      },
       {},
       {
-         "9": "2"
-      },
-      {
-         "0": "1",
-         "7": "1"
+         "16": [
+            "0",
+            "3"
+         ],
+         "22": [
+            "0",
+            "2"
+         ]
       }
    ],
    "data": [
       {
-         "Month": "February 2019",
-         "Share of U.S. adults": "74"
+         "Year": "2018",
+         "Flemish Region": "3.5",
+         "Brussels-Capital Region": "13.4",
+         "Walloon Region": "8.5"
       },
       {
-         "Month": "January 2018",
-         "Share of U.S. adults": "73"
+         "Year": "2017",
+         "Flemish Region": "4.4",
+         "Brussels-Capital Region": "15",
+         "Walloon Region": "9.8"
       },
       {
-         "Month": "November 2016",
-         "Share of U.S. adults": "78"
+         "Year": "2016",
+         "Flemish Region": "4.9",
+         "Brussels-Capital Region": "16.9",
+         "Walloon Region": "10.6"
       },
       {
-         "Month": "April 2016",
-         "Share of U.S. adults": "74"
+         "Year": "2015",
+         "Flemish Region": "5.2",
+         "Brussels-Capital Region": "17.5",
+         "Walloon Region": "12"
       },
       {
-         "Month": "April 2015",
-         "Share of U.S. adults": "73"
+         "Year": "2014",
+         "Flemish Region": "5.1",
+         "Brussels-Capital Region": "18.5",
+         "Walloon Region": "12"
       },
       {
-         "Month": "January 2012",
-         "Share of U.S. adults": "78"
+         "Year": "2013",
+         "Flemish Region": "5.1",
+         "Brussels-Capital Region": "19.3",
+         "Walloon Region": "11.4"
       },
       {
-         "Month": "December 2011",
-         "Share of U.S. adults": "75"
+         "Year": "2012",
+         "Flemish Region": "4.6",
+         "Brussels-Capital Region": "17.5",
+         "Walloon Region": "10.1"
       },
       {
-         "Month": "June 2010",
-         "Share of U.S. adults": "78"
+         "Year": "2011",
+         "Flemish Region": "4.3",
+         "Brussels-Capital Region": "17.1",
+         "Walloon Region": "9.5"
       },
       {
-         "Month": "January 2008",
-         "Share of U.S. adults": "74"
+         "Year": "2010",
+         "Flemish Region": "5.2",
+         "Brussels-Capital Region": "17.4",
+         "Walloon Region": "11.5"
+      },
+      {
+         "Year": "2009",
+         "Flemish Region": "5",
+         "Brussels-Capital Region": "15.9",
+         "Walloon Region": "11.2"
+      },
+      {
+         "Year": "2008",
+         "Flemish Region": "3.9",
+         "Brussels-Capital Region": "16",
+         "Walloon Region": "10.1"
       }
-   ]
+   ],
+   "gold": "In 2018 , the rate of unemployment in Belgium was six percent \u2013 the lowest it had been in a decade . There were real regional differences within the country though . The Flemish region did particularly well economically , with an unemployment rate of 3.5 percent in 2018 .\n"
 }

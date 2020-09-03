@@ -1,62 +1,116 @@
 {
-   "title": "Hotel occupancy rate in Rome 2011 to 2019",
-   "xAxis": "Year",
-   "yAxis": "Occupancy rate",
+   "title": "Global sulfur production by country 2019",
+   "xAxis": "Country",
+   "yAxis": "Price in U.S. dollars per ton",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the estimated percentage of Occupancy rate a Hotel in the Rome ( ) from 2011 to 2019 . ",
-      "Since 2016 , the share of household rate in the Rome has increased , with an estimated 67 % rate one in 2018 . ",
-      "However , the share of household rate decreased to 71 % in 2019 ."
+      "This statistic shows the Global sulfur the production by of country 2019 in . ",
+      "That year , India had an index Price of around 17400 and was tied in first sulfur nine other Global . ",
+      "Global sulfur the production by of country 2019 \u2013 additional informationIn today 's culture , many people can not imagine life without country ."
    ],
    "trends": [
+      {},
       {
-         "20": "8"
+         "3": "8",
+         "10": "0"
       },
-      {
-         "1": "5",
-         "23": "7"
-      },
-      {
-         "13": "8"
-      }
+      {}
    ],
    "data": [
       {
-         "Year": "2011",
-         "Occupancy rate": "67"
+         "Country": "China",
+         "Price in U.S. dollars per ton": "17400"
       },
       {
-         "Year": "2012",
-         "Occupancy rate": "66"
+         "Country": "United States",
+         "Price in U.S. dollars per ton": "8800"
       },
       {
-         "Year": "2013",
-         "Occupancy rate": "67"
+         "Country": "Russia",
+         "Price in U.S. dollars per ton": "7100"
       },
       {
-         "Year": "2014",
-         "Occupancy rate": "69"
+         "Country": "Saudi Arabia",
+         "Price in U.S. dollars per ton": "6600"
       },
       {
-         "Year": "2015",
-         "Occupancy rate": "69"
+         "Country": "Canada",
+         "Price in U.S. dollars per ton": "5300"
       },
       {
-         "Year": "2016",
-         "Occupancy rate": "70"
+         "Country": "Other",
+         "Price in U.S. dollars per ton": "3900"
       },
       {
-         "Year": "2017",
-         "Occupancy rate": "70"
+         "Country": "Kazakhstan",
+         "Price in U.S. dollars per ton": "3600"
       },
       {
-         "Year": "2018",
-         "Occupancy rate": "70"
+         "Country": "United Arab Emirates",
+         "Price in U.S. dollars per ton": "3400"
       },
       {
-         "Year": "2019",
-         "Occupancy rate": "71"
+         "Country": "India",
+         "Price in U.S. dollars per ton": "3400"
+      },
+      {
+         "Country": "Japan",
+         "Price in U.S. dollars per ton": "3400"
+      },
+      {
+         "Country": "South Korea",
+         "Price in U.S. dollars per ton": "3100"
+      },
+      {
+         "Country": "Iran",
+         "Price in U.S. dollars per ton": "2200"
+      },
+      {
+         "Country": "Qatar",
+         "Price in U.S. dollars per ton": "2100"
+      },
+      {
+         "Country": "Chile",
+         "Price in U.S. dollars per ton": "1500"
+      },
+      {
+         "Country": "Poland",
+         "Price in U.S. dollars per ton": "1230"
+      },
+      {
+         "Country": "Finland",
+         "Price in U.S. dollars per ton": "940"
+      },
+      {
+         "Country": "Kuwait",
+         "Price in U.S. dollars per ton": "900"
+      },
+      {
+         "Country": "Australia",
+         "Price in U.S. dollars per ton": "900"
+      },
+      {
+         "Country": "Germany",
+         "Price in U.S. dollars per ton": "870"
+      },
+      {
+         "Country": "Venezuela",
+         "Price in U.S. dollars per ton": "700"
+      },
+      {
+         "Country": "Italy",
+         "Price in U.S. dollars per ton": "550"
+      },
+      {
+         "Country": "Netherlands",
+         "Price in U.S. dollars per ton": "520"
+      },
+      {
+         "Country": "Brazil",
+         "Price in U.S. dollars per ton": "500"
       }
-   ]
+   ],
+   "gold": "In 2019 , China produced around 17.4 megatons of sulfur , which makes China the world 's leading sulfur producer . China 's sulfur production includes byproduct elemental sulfur recovered from natural gas and petroleum , the estimated sulfur content of byproduct sulfuric acid from metallurgy , and the sulfur content of sulfuric acid from pyrite .\n"
 }

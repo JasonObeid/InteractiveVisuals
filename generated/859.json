@@ -1,164 +1,76 @@
 {
-   "title": "Global Apple iPod revenue 2006 to 2014",
-   "xAxis": "Fiscal quarter",
-   "yAxis": "Revenue in billion U.S. dollars",
+   "title": "U.S.- employment by industry 2019",
+   "xAxis": "Industry",
+   "yAxis": "Employment in thousands",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows Global Apple iPod of US 2006 debt as of 2019 . ",
-      "At this time , Q4_'14 held 2006 Revenue totaling about 4.0 billion U.S. dollars ."
+      "This statistic shows the U.S.- employment for Brazil Industry to . ",
+      "The Employment is based on a survey of approximately 2,500 companies . ",
+      "Figures above 2425 represent an optimistic outlook , while figures below 2425 show a pessimistic U.S.- employment ."
    ],
    "trends": [
       {},
+      {},
       {
-         "4": "0",
-         "10": "27"
+         "2": "11",
+         "11": "11"
       }
    ],
    "data": [
       {
-         "Fiscal quarter": "Q4 '14",
-         "Revenue in billion U.S. dollars": "0.41"
+         "Industry": "Education and health services",
+         "Employment in thousands": "35894"
       },
       {
-         "Fiscal quarter": "Q3 '14",
-         "Revenue in billion U.S. dollars": "0.44"
+         "Industry": "Wholesale and retail trade",
+         "Employment in thousands": "19742"
       },
       {
-         "Fiscal quarter": "Q2 '14",
-         "Revenue in billion U.S. dollars": "0.46"
+         "Industry": "Professional and business services",
+         "Employment in thousands": "19606"
       },
       {
-         "Fiscal quarter": "Q1 '14",
-         "Revenue in billion U.S. dollars": "0.97"
+         "Industry": "Manufacturing",
+         "Employment in thousands": "15741"
       },
       {
-         "Fiscal quarter": "Q4 '13",
-         "Revenue in billion U.S. dollars": "0.57"
+         "Industry": "Leisure and hospitality",
+         "Employment in thousands": "14643"
       },
       {
-         "Fiscal quarter": "Q3 '13",
-         "Revenue in billion U.S. dollars": "0.73"
+         "Industry": "Construction",
+         "Employment in thousands": "11373"
       },
       {
-         "Fiscal quarter": "Q2 '13",
-         "Revenue in billion U.S. dollars": "0.96"
+         "Industry": "Financial activities",
+         "Employment in thousands": "10765"
       },
       {
-         "Fiscal quarter": "Q1 '13",
-         "Revenue in billion U.S. dollars": "2.14"
+         "Industry": "Transportation and utilities",
+         "Employment in thousands": "8991"
       },
       {
-         "Fiscal quarter": "Q4 '12",
-         "Revenue in billion U.S. dollars": "0.82"
+         "Industry": "Other services",
+         "Employment in thousands": "7617"
       },
       {
-         "Fiscal quarter": "Q3 '12",
-         "Revenue in billion U.S. dollars": "1.06"
+         "Industry": "Public administration",
+         "Employment in thousands": "7225"
       },
       {
-         "Fiscal quarter": "Q2 '12",
-         "Revenue in billion U.S. dollars": "1.21"
+         "Industry": "Information",
+         "Employment in thousands": "2766"
       },
       {
-         "Fiscal quarter": "Q1 '12",
-         "Revenue in billion U.S. dollars": "2.53"
+         "Industry": "Agriculture and related",
+         "Employment in thousands": "2425"
       },
       {
-         "Fiscal quarter": "Q4 '11",
-         "Revenue in billion U.S. dollars": "1.1"
-      },
-      {
-         "Fiscal quarter": "Q3 '11",
-         "Revenue in billion U.S. dollars": "1.33"
-      },
-      {
-         "Fiscal quarter": "Q2 '11",
-         "Revenue in billion U.S. dollars": "1.6"
-      },
-      {
-         "Fiscal quarter": "Q1 '11",
-         "Revenue in billion U.S. dollars": "3.43"
-      },
-      {
-         "Fiscal quarter": "Q4 '10",
-         "Revenue in billion U.S. dollars": "1.48"
-      },
-      {
-         "Fiscal quarter": "Q3 '10",
-         "Revenue in billion U.S. dollars": "1.55"
-      },
-      {
-         "Fiscal quarter": "Q2 '10",
-         "Revenue in billion U.S. dollars": "1.86"
-      },
-      {
-         "Fiscal quarter": "Q1 '10",
-         "Revenue in billion U.S. dollars": "3.39"
-      },
-      {
-         "Fiscal quarter": "Q4 '09",
-         "Revenue in billion U.S. dollars": "1.56"
-      },
-      {
-         "Fiscal quarter": "Q3 '09",
-         "Revenue in billion U.S. dollars": "1.49"
-      },
-      {
-         "Fiscal quarter": "Q2 '09",
-         "Revenue in billion U.S. dollars": "1.67"
-      },
-      {
-         "Fiscal quarter": "Q1 '09",
-         "Revenue in billion U.S. dollars": "3.37"
-      },
-      {
-         "Fiscal quarter": "Q4 '08",
-         "Revenue in billion U.S. dollars": "1.66"
-      },
-      {
-         "Fiscal quarter": "Q3 '08",
-         "Revenue in billion U.S. dollars": "1.68"
-      },
-      {
-         "Fiscal quarter": "Q2 '08",
-         "Revenue in billion U.S. dollars": "1.82"
-      },
-      {
-         "Fiscal quarter": "Q1 '08",
-         "Revenue in billion U.S. dollars": "4.0"
-      },
-      {
-         "Fiscal quarter": "Q4 '07",
-         "Revenue in billion U.S. dollars": "1.62"
-      },
-      {
-         "Fiscal quarter": "Q3 '07",
-         "Revenue in billion U.S. dollars": "1.57"
-      },
-      {
-         "Fiscal quarter": "Q2 '07",
-         "Revenue in billion U.S. dollars": "1.69"
-      },
-      {
-         "Fiscal quarter": "Q1 '07",
-         "Revenue in billion U.S. dollars": "3.43"
-      },
-      {
-         "Fiscal quarter": "Q4 '06",
-         "Revenue in billion U.S. dollars": "1.56"
-      },
-      {
-         "Fiscal quarter": "Q3 '06",
-         "Revenue in billion U.S. dollars": "1.5"
-      },
-      {
-         "Fiscal quarter": "Q2 '06",
-         "Revenue in billion U.S. dollars": "1.71"
-      },
-      {
-         "Fiscal quarter": "Q1 '06",
-         "Revenue in billion U.S. dollars": "2.91"
+         "Industry": "Mining quarrying and oil and gas extraction",
+         "Employment in thousands": "750"
       }
-   ]
+   ],
+   "gold": "In 2019 , the education and health services industry employed the largest number of people in the United States . That year , about 35.89 million people were employed in the education and health services industry . Education and Health Services Industry Despite being one of the wealthiest nations in the world , the United States has started to fall behind in both education and the health care industry .\n"
 }

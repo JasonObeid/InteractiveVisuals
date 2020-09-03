@@ -1,0 +1,20 @@
+{
+   "title": "Churn rate of Spotify worldwide 2017 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Churn rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic presents the number of consumer cloud-based online service users worldwide . In 2018 , approximately 3.6 billion internet users are projected to access cloud computing services , up from 2.4 billion users in 2013 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Churn rate": 19.8
+      },
+      {
+         "Year": "2017",
+         "Churn rate": 18.1
+      }
+   ]
+}

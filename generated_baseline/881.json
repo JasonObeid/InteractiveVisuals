@@ -4,36 +4,36 @@
    "yAxis": "Gross domestic product in billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Gross domestic product in billion U.S. dollars, with a total of 41 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely negative which exists from 2024 to 2015.",
-      " On the contrary, the next significant trend is extremely negative which exists from 2008 to 2000.",
-      " Conversely, the next significant trend is extremely negative which exists from 1999 to 1994."
+      "This line chart has an x axis representing Year and a y axis representing Gross domestic product in billion U.S. dollars, with a total of 41 data points. The chart has 5 significant trends.",
+      " The longest trend is extremely positive which exists from 2024 to 2015.",
+      " Likewise, the next significant trend is moderately positive which exists from 2009 to 2000.",
+      " Also, the next significant trend is slightly positive which exists from 1994 to 1987.",
+      " Additionally, the next significant trend is moderately positive which exists from 2015 to 2009.",
+      " Similarly, the next significant trend is slightly positive which exists from 2000 to 1994."
    ],
    "trends": [
+      {},
       {
-         "Length": 10,
-         "direction": "negative",
-         "start": 0,
-         "end": 9,
-         "trend": "y=4.34x+-8702.57",
-         "magnitude": "extremely"
+         "1": "0",
+         "12": "9"
       },
       {
-         "Length": 9,
-         "direction": "negative",
-         "start": 16,
-         "end": 24,
-         "trend": "y=3.48x+-6961.57",
-         "magnitude": "extremely"
+         "3": "15",
+         "14": "24"
       },
       {
-         "Length": 6,
-         "direction": "negative",
-         "start": 25,
-         "end": 30,
-         "trend": "y=1.01x+-2007.24",
-         "magnitude": "extremely"
+         "3": "30",
+         "14": "37"
+      },
+      {
+         "3": "9",
+         "14": "15"
+      },
+      {
+         "3": "24",
+         "14": "30"
       }
    ],
    "data": [

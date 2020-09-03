@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 6 categories for the x axis of Power Type representing 2011, 2030.",
+      "This grouped bar chart has 6 categories for the x axis of Power Type representing 2011, and 2030.",
       " The highest category is found at Nuclear generation with a mean value of 216.5.",
       " The second highest category is found at Radiation management with a mean value of 168.0.",
       " This represents a difference of 25.2%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Power Type": "Nuclear generation",

@@ -1,133 +1,66 @@
 {
-   "title": "Player expenses ( payroll ) of Chicago Fire 2019",
-   "xAxis": "Month",
-   "yAxis": "Payroll in thousand U.S. dollars",
+   "title": "Global pineapple production by leading countries 2018",
+   "xAxis": "Country",
+   "yAxis": "Production in thousand metric tons",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the Player expenses ( Payroll ) of the Chicago Earthquakes club of Major League Soccer by Player in 2019 . ",
-      "Bastian_Schweinsteiger `` Vako '' Bastian_Schweinsteiger received a salary of 5600.0 thousand U.S. dollars ."
+      "The European Union is the 2018 destination for passenger Global pineapple 2018 the Global . ",
+      "In 2018 , every second car sold 2018 thousand based manufacturers went to other member states of the EU.Total metric 2018 the thousand to the Costa_Rica valued at 172.21 thousand British pounds that same year , accounting for 45 thousand of all thousand metric and making the Costa_Rica its most important trading partner . ",
+      "In recent years the discrepancy between metric and imports has exacerbated the thousand 's negative trade balance with the Costa_Rica ."
    ],
    "trends": [
       {},
       {
-         "0": "0",
-         "4": "0",
-         "9": "0"
+         "25": "0",
+         "47": "0"
+      },
+      {
+         "19": "0"
       }
    ],
    "data": [
       {
-         "Month": "Bastian Schweinsteiger",
-         "Payroll in thousand U.S. dollars": "5600.0"
+         "Country": "Costa Rica",
+         "Production in thousand metric tons": "3418.16"
       },
       {
-         "Month": "Nicolas Gaitan",
-         "Payroll in thousand U.S. dollars": "2197.5"
+         "Country": "Philippines",
+         "Production in thousand metric tons": "2730.99"
       },
       {
-         "Month": "Nemanja Nikolic",
-         "Payroll in thousand U.S. dollars": "1913.33"
+         "Country": "Brazil",
+         "Production in thousand metric tons": "2650.48"
       },
       {
-         "Month": "Aleksandar Katai",
-         "Payroll in thousand U.S. dollars": "1380.33"
+         "Country": "Thailand",
+         "Production in thousand metric tons": "2113.38"
       },
       {
-         "Month": "Marcelo Ferreira",
-         "Payroll in thousand U.S. dollars": "797.5"
+         "Country": "Indonesia",
+         "Production in thousand metric tons": "1805.51"
       },
       {
-         "Month": "Dax McCarty",
-         "Payroll in thousand U.S. dollars": "700.0"
+         "Country": "India",
+         "Production in thousand metric tons": "1706.0"
       },
       {
-         "Month": "Francisco Calvo",
-         "Payroll in thousand U.S. dollars": "672.6"
+         "Country": "Nigeria",
+         "Production in thousand metric tons": "1664.51"
       },
       {
-         "Month": "Przemyslaw Frankoswki",
-         "Payroll in thousand U.S. dollars": "661.69"
+         "Country": "China mainland",
+         "Production in thousand metric tons": "1573.47"
       },
       {
-         "Month": "Johan Kappelhof",
-         "Payroll in thousand U.S. dollars": "577.83"
+         "Country": "Mexico",
+         "Production in thousand metric tons": "999.59"
       },
       {
-         "Month": "CJ Sapong",
-         "Payroll in thousand U.S. dollars": "475.0"
-      },
-      {
-         "Month": "David Ousted",
-         "Payroll in thousand U.S. dollars": "361.14"
-      },
-      {
-         "Month": "Richard Sanchez",
-         "Payroll in thousand U.S. dollars": "152.5"
-      },
-      {
-         "Month": "Kenneth Kronholm",
-         "Payroll in thousand U.S. dollars": "151.0"
-      },
-      {
-         "Month": "Mohammed Adams",
-         "Payroll in thousand U.S. dollars": "135.0"
-      },
-      {
-         "Month": "Fabian Herbers",
-         "Payroll in thousand U.S. dollars": "135.0"
-      },
-      {
-         "Month": "Djordje Mihailovic",
-         "Payroll in thousand U.S. dollars": "111.0"
-      },
-      {
-         "Month": "Grant Lillard",
-         "Payroll in thousand U.S. dollars": "97.5"
-      },
-      {
-         "Month": "Brandt Bronico",
-         "Payroll in thousand U.S. dollars": "90.63"
-      },
-      {
-         "Month": "Cristian Martinez",
-         "Payroll in thousand U.S. dollars": "88.41"
-      },
-      {
-         "Month": "Gabriel Slonina",
-         "Payroll in thousand U.S. dollars": "74.8"
-      },
-      {
-         "Month": "Diego Campos",
-         "Payroll in thousand U.S. dollars": "72.83"
-      },
-      {
-         "Month": "Amando Moreno",
-         "Payroll in thousand U.S. dollars": "72.75"
-      },
-      {
-         "Month": "Jorge Corrales",
-         "Payroll in thousand U.S. dollars": "70.88"
-      },
-      {
-         "Month": "Raheem Edwards",
-         "Payroll in thousand U.S. dollars": "70.25"
-      },
-      {
-         "Month": "Stefan Cleveland",
-         "Payroll in thousand U.S. dollars": "70.25"
-      },
-      {
-         "Month": "Andre Reynolds",
-         "Payroll in thousand U.S. dollars": "64.25"
-      },
-      {
-         "Month": "Elliot Collier",
-         "Payroll in thousand U.S. dollars": "57.23"
-      },
-      {
-         "Month": "Jeremiah Gutjahr",
-         "Payroll in thousand U.S. dollars": "56.25"
+         "Country": "Colombia",
+         "Production in thousand metric tons": "900.4"
       }
-   ]
+   ],
+   "gold": "In 2018 , Costa Rica , Philippines , and Brazil were the top three pineapple producers worldwide . Costa Rica generated 3.42 million metric tons of pineapples in that year . Overall pineapple production in that year amounted to 27.92 million metric tons .\n"
 }

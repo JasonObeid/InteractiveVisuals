@@ -10,16 +10,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 9 categories for the x axis of Country representing Online (excl. social media), Online (incl. social media), TV, Print, Radio.",
+      "This grouped bar chart has 9 categories for the x axis of Country representing Online (excl. social media), Online (incl. social media), TV, Print, and Radio.",
       " The highest category is found at Sweden with a mean value of 27.2.",
       " The second highest category is found at United Kingdom with a mean value of 26.2.",
       " This represents a difference of 3.7%."
    ],
-   "trends": {
-      "maxIndex": 8,
-      "secondIndex": 8
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "8"
+         ],
+         "13": [
+            "5",
+            "8"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "5",
+            "0"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "United Kingdom",

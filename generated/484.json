@@ -1,70 +1,74 @@
 {
-   "title": "Total population of Singapore 2024",
-   "xAxis": "Year",
-   "yAxis": "Inhabitants in millions",
+   "title": "Share of IT budgets spent on IT security FY2005-FY2016",
+   "xAxis": "Fiscal Year",
+   "yAxis": "Share of total IT budget",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the Total population of Singapore from 2014 to 2018 , with projections up until 2024 . ",
-      "In 2018 , the Total population of Singapore amounted to around 5.64 millions Inhabitants . ",
-      "See figures for Switzerland 's population and the population of Italy for comparison ."
+      "The statistic shows the total Share of total budget Fiscal in the FY2005-FY2016 in . ",
+      "FY2009 boats accounted for a Share of 10.6 total budget in the FY2005-FY2016 ."
    ],
    "trends": [
+      {},
       {
-         "9": "10",
-         "11": "6",
-         "17": "0"
-      },
-      {
-         "1": "6",
-         "11": "6"
-      },
-      {}
+         "0": "4",
+         "7": "12"
+      }
    ],
    "data": [
       {
-         "Year": "2024",
-         "Inhabitants in millions": "5.83"
+         "Fiscal Year": "FY2005",
+         "Share of total IT budget": "7.5"
       },
       {
-         "Year": "2023",
-         "Inhabitants in millions": "5.8"
+         "Fiscal Year": "FY2006",
+         "Share of total IT budget": "7.2"
       },
       {
-         "Year": "2022",
-         "Inhabitants in millions": "5.76"
+         "Fiscal Year": "FY2007",
+         "Share of total IT budget": "7.5"
       },
       {
-         "Year": "2021",
-         "Inhabitants in millions": "5.73"
+         "Fiscal Year": "FY2008",
+         "Share of total IT budget": "7.9"
       },
       {
-         "Year": "2020",
-         "Inhabitants in millions": "5.7"
+         "Fiscal Year": "FY2009",
+         "Share of total IT budget": "9.1"
       },
       {
-         "Year": "2019",
-         "Inhabitants in millions": "5.67"
+         "Fiscal Year": "FY2010",
+         "Share of total IT budget": "8.6"
       },
       {
-         "Year": "2018",
-         "Inhabitants in millions": "5.64"
+         "Fiscal Year": "FY2011",
+         "Share of total IT budget": "8.8"
       },
       {
-         "Year": "2017",
-         "Inhabitants in millions": "5.61"
+         "Fiscal Year": "FY2012",
+         "Share of total IT budget": "9.1"
       },
       {
-         "Year": "2016",
-         "Inhabitants in millions": "5.61"
+         "Fiscal Year": "FY2013",
+         "Share of total IT budget": "9.9"
       },
       {
-         "Year": "2015",
-         "Inhabitants in millions": "5.54"
+         "Fiscal Year": "FY2014",
+         "Share of total IT budget": "9.2"
       },
       {
-         "Year": "2014",
-         "Inhabitants in millions": "5.47"
+         "Fiscal Year": "FY2015",
+         "Share of total IT budget": "10"
+      },
+      {
+         "Fiscal Year": "FY2016",
+         "Share of total IT budget": "10.2"
+      },
+      {
+         "Fiscal Year": "FY2017",
+         "Share of total IT budget": "10.6"
       }
-   ]
+   ],
+   "gold": "The statistic shows the average share of IT budgets that is put towards IT security , from FY2005 to FY2017 . As of January 2018 , according to respondents , enterprises currently spend an average of 10.6 percent of their overall IT budgets on IT security . This figure has risen relatively steadily since 2005 .\n"
 }

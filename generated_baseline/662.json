@@ -4,36 +4,26 @@
    "yAxis": "International visitor spending in billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing International visitor spending in billion U.S. dollars, with a total of 9 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely positive which exists from 2016 to 2013.",
-      " Also, the next significant trend is extremely negative which exists from 2013 to 2010.",
-      " Differently, the next significant trend is extremely negative which exists from 2018 to 2016."
+      " The longest trend is slightly negative which exists from 2016 to 2013.",
+      " But, the next significant trend is extremely positive which exists from 2013 to 2010.",
+      " Additionally, the next significant trend is extremely positive which exists from 2018 to 2016."
    ],
    "trends": [
+      {},
       {
-         "Length": 4,
-         "direction": "positive",
-         "start": 2,
-         "end": 5,
-         "trend": "y=-2.54x+5136.2",
-         "magnitude": "extremely"
+         "1": "2",
+         "12": "5"
       },
       {
-         "Length": 4,
-         "direction": "negative",
-         "start": 5,
-         "end": 8,
-         "trend": "y=2.15x+-4308.52",
-         "magnitude": "extremely"
+         "3": "5",
+         "14": "8"
       },
       {
-         "Length": 3,
-         "direction": "negative",
-         "start": 0,
-         "end": 2,
-         "trend": "y=1.02x+-2034.21",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "2"
       }
    ],
    "data": [

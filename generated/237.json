@@ -1,68 +1,87 @@
 {
-   "title": "Gross domestic product ( GDP ) growth rate in Thailand 2024",
+   "title": "Industrial robots - worldwide sales 2004 to 2018",
    "xAxis": "Year",
-   "yAxis": "GDP growth compared to previous year",
+   "yAxis": "Sales in thousand units",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the growth in real GDP in Thailand from between 2014 to 2018 , with projections up until 2024 . ",
-      "In 2018 , Thailand 's real Gross domestic product increased by around 4.13 % compared to the previous Year ."
+      "This statistic shows the total Industrial Sales in the worldwide from 2004 to 2018 . ",
+      "In 2018 , about 384 thousand units of Industrial were robots in the worldwide , up from 120 thousand units in 2005 ."
    ],
    "trends": [
       {
-         "12": "10",
-         "14": "6",
-         "20": "0"
+         "11": "14",
+         "13": "0"
       },
       {
-         "1": "6",
-         "12": "6"
+         "1": "0",
+         "4": "0",
+         "17": "13",
+         "21": "13"
       }
    ],
    "data": [
       {
-         "Year": "2024",
-         "GDP growth compared to previous year": "3.65"
-      },
-      {
-         "Year": "2023",
-         "GDP growth compared to previous year": "3.65"
-      },
-      {
-         "Year": "2022",
-         "GDP growth compared to previous year": "3.65"
-      },
-      {
-         "Year": "2021",
-         "GDP growth compared to previous year": "3.49"
-      },
-      {
-         "Year": "2020",
-         "GDP growth compared to previous year": "3.01"
-      },
-      {
-         "Year": "2019",
-         "GDP growth compared to previous year": "2.87"
-      },
-      {
          "Year": "2018",
-         "GDP growth compared to previous year": "4.13"
+         "Sales in thousand units": "384"
       },
       {
          "Year": "2017",
-         "GDP growth compared to previous year": "4.02"
+         "Sales in thousand units": "382"
       },
       {
          "Year": "2016",
-         "GDP growth compared to previous year": "3.36"
+         "Sales in thousand units": "294"
       },
       {
          "Year": "2015",
-         "GDP growth compared to previous year": "3.13"
+         "Sales in thousand units": "254"
       },
       {
          "Year": "2014",
-         "GDP growth compared to previous year": "0.98"
+         "Sales in thousand units": "221"
+      },
+      {
+         "Year": "2013",
+         "Sales in thousand units": "178"
+      },
+      {
+         "Year": "2012",
+         "Sales in thousand units": "159"
+      },
+      {
+         "Year": "2011",
+         "Sales in thousand units": "166"
+      },
+      {
+         "Year": "2010",
+         "Sales in thousand units": "121"
+      },
+      {
+         "Year": "2009",
+         "Sales in thousand units": "60"
+      },
+      {
+         "Year": "2008",
+         "Sales in thousand units": "113"
+      },
+      {
+         "Year": "2007",
+         "Sales in thousand units": "114"
+      },
+      {
+         "Year": "2006",
+         "Sales in thousand units": "112"
+      },
+      {
+         "Year": "2005",
+         "Sales in thousand units": "120"
+      },
+      {
+         "Year": "2004",
+         "Sales in thousand units": "97"
       }
-   ]
+   ],
+   "gold": "Worldwide industrial robot shipments increased by one percent from about 382,000 in 2017 to around 384,000 in 2018 . Global spending on industrial robots is projected to exceed 24 billion U.S. dollars by 2025 . Leading markets Japan , China , the United States , South Korea , and Germany are counted among the five leading industrial robot markets worldwide .\n"
 }

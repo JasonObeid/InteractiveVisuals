@@ -1,0 +1,32 @@
+{
+   "title": "Share of global net sales of Luxottica by geographical area 2018\n",
+   "xAxis": "Geographical area",
+   "yAxis": "Share of net sales",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the distribution of causes of deforestation in canada in 2015 . 41 percent of deforestation in canada in 2015 was caused by agriculture . deforestation is the intentional destruction of forested land for permanent reuse for agricultural , urban , industrial , or other non-forest operations .\n",
+   "trends": {},
+   "data": [
+      {
+         "Geographical area": "North America",
+         "Share of net sales": 58.0
+      },
+      {
+         "Geographical area": "Europe",
+         "Share of net sales": 21.0
+      },
+      {
+         "Geographical area": "Asia-Pacific",
+         "Share of net sales": 13.0
+      },
+      {
+         "Geographical area": "Latin America",
+         "Share of net sales": 6.0
+      },
+      {
+         "Geographical area": "Rest of the world",
+         "Share of net sales": 2.0
+      }
+   ]
+}

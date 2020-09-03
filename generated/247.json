@@ -1,88 +1,57 @@
 {
-   "title": "Kidnapping : percentage of cases for ransom 2004 - 2012 , by continent",
-   "labels": [
-      "Year",
-      "Latin America",
-      "Middle East",
-      "Asia and the Pacific",
-      "Europe and CIS",
-      "US, Canada and the Caribbean",
-      "Africa"
-   ],
-   "columnType": "multi",
+   "title": "Argentina : internet user penetration 2017 to 2023",
+   "xAxis": "Year",
+   "yAxis": "Share of population",
+   "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the consumer percentage on Kidnapping by product continent in the Kidnapping ( ) from 2012 to 2004 , with a forecast estimate for 2004 . ",
-      "In each Year during this period , percentage on Kidnapping Latin was the highest across the various categories , at an estimated 55 percentage British pounds in 2004 . ",
-      "In comparison , Middle percentage was estimated at 15 percentage pounds that same Year , while percentage on Asia and Europe was forecast to reach 15 percentage pounds and 8 percentage pounds , respectively ."
+      "This statistic gives information on the internet penetration rate in Argentina from 2017 to 2023 . ",
+      "In 2017 , 77 % of the Singaporean population were using the internet . ",
+      "In 2023 , this figure is projected to grow 94 % ."
    ],
    "trends": [
       {
-         "18": [
-            "0",
-            "0"
-         ],
-         "20": [
-            "2",
-            "0"
-         ],
-         "27": [
-            "2",
-            "0"
-         ]
+         "12": "6",
+         "14": "0"
       },
       {
-         "22": [
-            "2",
-            "1"
-         ],
-         "27": [
-            "2",
-            "0"
-         ]
+         "1": "6",
+         "3": "6"
       },
       {
-         "8": [
-            "2",
-            "2"
-         ],
-         "25": [
-            "2",
-            "3"
-         ],
-         "29": [
-            "2",
-            "4"
-         ]
+         "1": "0"
       }
    ],
    "data": [
       {
-         "Year": "2012",
-         "Latin America": "25",
-         "Middle East": "19",
-         "Asia and the Pacific": "31",
-         "Europe and CIS": "2",
-         "US, Canada and the Caribbean": "1",
-         "Africa": "22"
+         "Year": "2023",
+         "Share of population": "94"
       },
       {
-         "Year": "2008",
-         "Latin America": "40",
-         "Middle East": "4",
-         "Asia and the Pacific": "38",
-         "Europe and CIS": "2",
-         "US, Canada and the Caribbean": "2",
-         "Africa": "14"
+         "Year": "2022",
+         "Share of population": "93"
       },
       {
-         "Year": "2004",
-         "Latin America": "55",
-         "Middle East": "15",
-         "Asia and the Pacific": "15",
-         "Europe and CIS": "8",
-         "US, Canada and the Caribbean": "4",
-         "Africa": "3"
+         "Year": "2021",
+         "Share of population": "91"
+      },
+      {
+         "Year": "2020",
+         "Share of population": "88"
+      },
+      {
+         "Year": "2019",
+         "Share of population": "85"
+      },
+      {
+         "Year": "2018",
+         "Share of population": "82"
+      },
+      {
+         "Year": "2017",
+         "Share of population": "77"
       }
-   ]
+   ],
+   "gold": "This statistic provides information on internet user penetration in Argentina from 2017 to 2023 . In 2017 , 77 percent of the population in Argentina were accessing the internet . This figure is projected to grow to 94 percent by 2023 .\n"
 }

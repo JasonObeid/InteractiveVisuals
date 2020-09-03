@@ -1,56 +1,70 @@
 {
-   "title": "Share of U.S. middle class population 2015 , by gender and marital status",
-   "labels": [
-      "Month",
-      "1971",
-      "2001",
-      "2015"
-   ],
-   "columnType": "multi",
-   "graphType": "bar",
+   "title": "Employments in the Netherlands 2020",
+   "xAxis": "Year",
+   "yAxis": "Labor force in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic represents the U.S. middle class in the U.S. in 2015 , marital status . ",
-      "In 2015 , the U.S. middle class of Unmarried_women_children_at_home was estimated to amount around 56 million metric tons ."
+      "This statistic shows the size of the Labor force in Netherlands from 2010 to 2018 , with projections up until 2020 . ",
+      "In 2019 , Netherlands had a Labor force of around 8.94 millions people ."
    ],
    "trends": [
-      {},
       {
-         "8": [
-            "2",
-            "0"
-         ]
+         "12": "10",
+         "14": "2",
+         "20": "0"
+      },
+      {
+         "1": "1",
+         "10": "0"
       }
    ],
    "data": [
       {
-         "Month": "Married women",
-         "1971": "65",
-         "2001": "56",
-         "2015": "52"
+         "Year": "2020",
+         "Labor force in millions": "8.94"
       },
       {
-         "Month": "Married men",
-         "1971": "65",
-         "2001": "56",
-         "2015": "52"
+         "Year": "2019",
+         "Labor force in millions": "8.89"
       },
       {
-         "Month": "Unmarried women children at home",
-         "1971": "41",
-         "2001": "43",
-         "2015": "41"
+         "Year": "2018",
+         "Labor force in millions": "8.78"
       },
       {
-         "Month": "Unmarried women no children",
-         "1971": "49",
-         "2001": "49",
-         "2015": "46"
+         "Year": "2017",
+         "Labor force in millions": "8.58"
       },
       {
-         "Month": "Unmarried men",
-         "1971": "57",
-         "2001": "54",
-         "2015": "50"
+         "Year": "2016",
+         "Labor force in millions": "8.4"
+      },
+      {
+         "Year": "2015",
+         "Labor force in millions": "8.29"
+      },
+      {
+         "Year": "2014",
+         "Labor force in millions": "8.21"
+      },
+      {
+         "Year": "2013",
+         "Labor force in millions": "8.27"
+      },
+      {
+         "Year": "2012",
+         "Labor force in millions": "8.33"
+      },
+      {
+         "Year": "2011",
+         "Labor force in millions": "8.28"
+      },
+      {
+         "Year": "2010",
+         "Labor force in millions": "8.28"
       }
-   ]
+   ],
+   "gold": "This statistic shows the size of the employments in the Netherlands from 2010 to 2018 , with projections up until 2020 . In 2018 , the Netherlands had employments of around 8.78 million people .\n"
 }

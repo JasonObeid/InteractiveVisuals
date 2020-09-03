@@ -4,27 +4,21 @@
    "yAxis": "Total number of employees",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Total number of employees, with a total of 12 data points. The chart has 2 significant trends.",
-      " The longest trend is extremely negative which exists from 2015 to 2008.",
-      " On the other hand, the next significant trend is extremely negative which exists from 2019 to 2016."
+      " The longest trend is slightly positive which exists from 2016 to 2008.",
+      " In a similar manner, the next significant trend is extremely positive which exists from 2019 to 2016."
    ],
    "trends": [
+      {},
       {
-         "Length": 8,
-         "direction": "negative",
-         "start": 4,
-         "end": 11,
-         "trend": "y=7854.95x+-15699848.21",
-         "magnitude": "extremely"
+         "1": "3",
+         "12": "11"
       },
       {
-         "Length": 4,
-         "direction": "negative",
-         "start": 0,
-         "end": 3,
-         "trend": "y=12563.8x+-25212952.5",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "3"
       }
    ],
    "data": [

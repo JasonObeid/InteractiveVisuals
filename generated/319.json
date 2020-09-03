@@ -1,48 +1,75 @@
 {
-   "title": "Ubisoft : revenue by region 2019",
-   "xAxis": "Country",
-   "yAxis": "Sales in million euros",
-   "columnType": "two",
+   "title": "U.S. price difference between legal and illegal cannabis as of January 2016 , by state",
+   "labels": [
+      "State",
+      "Dispensary price",
+      "Street price"
+   ],
+   "columnType": "multi",
    "graphType": "bar",
    "summary": [
-      "This statistic illustrates the Ubisoft euros of the Ubisoft Sales million volume from 2019 exporters in 2019 . ",
-      "In that year , Rest_of_Europe accounted for a euros of 340 million of Sales 2019 to the by ."
+      "This statistic shows the legal of price difference between in the United Kingdom ( January ) in 2016 with a U.S. for 2016 , January State . ",
+      "Superstore and hypermarket between of sales is predicted to fall from 301$ percent to 290$ percent in 2016 , with between expected to increase through discounter , California and Oregon channels . ",
+      "price shopping in the United Kingdom ( January ) is currently dominated January the 'big 214$ ' Colorado , Tesco Sainsbury 's , Asda and Morrisons , although the difference between of price stores has been increasingly volatile ."
    ],
    "trends": [
       {},
       {
-         "4": "1",
-         "10": "1"
+         "11": [
+            "3",
+            "1"
+         ],
+         "27": [
+            "1",
+            "0"
+         ],
+         "29": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "15": [
+            "4",
+            "1"
+         ],
+         "17": [
+            "2",
+            "0"
+         ]
       }
    ],
    "data": [
       {
-         "Country": "United States / Canada",
-         "Sales in million euros": "896"
+         "State": "Arizona",
+         "Dispensary price": "290$",
+         "Street price": "254$"
       },
       {
-         "Country": "Rest of Europe",
-         "Sales in million euros": "340"
+         "State": "California",
+         "Dispensary price": "299$",
+         "Street price": "218$"
       },
       {
-         "Country": "Asia / Pacific",
-         "Sales in million euros": "342"
+         "State": "Colorado",
+         "Dispensary price": "223$",
+         "Street price": "219$"
       },
       {
-         "Country": "United Kingdom",
-         "Sales in million euros": "126"
+         "State": "Michigan",
+         "Dispensary price": "301$",
+         "Street price": "274$"
       },
       {
-         "Country": "France",
-         "Sales in million euros": "116"
+         "State": "Oregon",
+         "Dispensary price": "214$",
+         "Street price": "191$"
       },
       {
-         "Country": "Germany",
-         "Sales in million euros": "135"
-      },
-      {
-         "Country": "Rest of the world",
-         "Sales in million euros": "74"
+         "State": "Washington",
+         "Dispensary price": "238$",
+         "Street price": "210$"
       }
-   ]
+   ],
+   "gold": "This statistic presents the U.S. states with the biggest difference between legal dispensary and illegal street prices for an ounce of marijuana as of January 2016 . California had the biggest price difference between legal and illegal marijuana with an ounce of marijuana from a legal dispensary costing 299 U.S. dollars compared to 218 dollars for illegal street bought marijuana .\n"
 }

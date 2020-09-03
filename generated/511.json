@@ -1,127 +1,65 @@
 {
-   "title": "Major importing countries of wheat flour and products 2014 to 2019",
-   "labels": [
-      "Country",
-      "2014/2015",
-      "2015/2016",
-      "2016/2017",
-      "2017/2018",
-      "2018/2019",
-      "2019/2020"
-   ],
-   "columnType": "multi",
-   "graphType": "bar",
+   "title": "Average ticket price Miami Heat ( NBA ) games 2015/16",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Major importing countries wheat flour products from 2014 to 2019 , . ",
-      "In 2014 , the Japan Major importing in the Japan was around 7478 million U.S. dollars ."
+      "This graph depicts the Average ticket price for Miami Heat games of the National Basketball Association from 2006/07 to 2015/16 . ",
+      "In the 2006/07 season , the Average ticket price was 78.3 U.S. dollars ."
    ],
    "trends": [
-      {},
       {
-         "4": [
-            "6",
-            "0"
-         ],
-         "9": [
-            "6",
-            "0"
-         ],
-         "12": [
-            "1",
-            "1"
-         ]
+         "16": "9",
+         "18": "0"
+      },
+      {
+         "2": "9",
+         "10": "1"
       }
    ],
    "data": [
       {
-         "Country": "Egypt",
-         "2014/2015": "11300",
-         "2015/2016": "11925",
-         "2016/2017": "11500",
-         "2017/2018": "12500",
-         "2018/2019": "12347",
-         "2019/2020": "12500"
+         "Year": "2015/16",
+         "Average ticket price in U.S. dollars": "76.73"
       },
       {
-         "Country": "Indonesia",
-         "2014/2015": "7478",
-         "2015/2016": "10116",
-         "2016/2017": "10000",
-         "2017/2018": "12500",
-         "2018/2019": "10780",
-         "2019/2020": "11000"
+         "Year": "2014/15",
+         "Average ticket price in U.S. dollars": "78.3"
       },
       {
-         "Country": "Brazil",
-         "2014/2015": "5869",
-         "2015/2016": "5922",
-         "2016/2017": "7788",
-         "2017/2018": "7500",
-         "2018/2019": "7442",
-         "2019/2020": "7500"
+         "Year": "2013/14",
+         "Average ticket price in U.S. dollars": "78.3"
       },
       {
-         "Country": "Philippines",
-         "2014/2015": "5054",
-         "2015/2016": "4918",
-         "2016/2017": "5684",
-         "2017/2018": "6059",
-         "2018/2019": "7546",
-         "2019/2020": "7400"
+         "Year": "2012/13",
+         "Average ticket price in U.S. dollars": "72.5"
       },
       {
-         "Country": "Turkey",
-         "2014/2015": "5960",
-         "2015/2016": "4405",
-         "2016/2017": "4500",
-         "2017/2018": "6400",
-         "2018/2019": "6494",
-         "2019/2020": "7200"
+         "Year": "2011/12",
+         "Average ticket price in U.S. dollars": "67.0"
       },
       {
-         "Country": "Algeria",
-         "2014/2015": "7257",
-         "2015/2016": "8153",
-         "2016/2017": "8200",
-         "2017/2018": "7500",
-         "2018/2019": "7515",
-         "2019/2020": "7000"
+         "Year": "2010/11",
+         "Average ticket price in U.S. dollars": "60.5"
       },
       {
-         "Country": "Japan",
-         "2014/2015": "5878",
-         "2015/2016": "5715",
-         "2016/2017": "5900",
-         "2017/2018": "5800",
-         "2018/2019": "5726",
-         "2019/2020": "5900"
+         "Year": "2009/10",
+         "Average ticket price in U.S. dollars": "58.55"
       },
       {
-         "Country": "European Union",
-         "2014/2015": "5979",
-         "2015/2016": "6916",
-         "2016/2017": "5300",
-         "2017/2018": "5500",
-         "2018/2019": "5762",
-         "2019/2020": "5500"
+         "Year": "2008/09",
+         "Average ticket price in U.S. dollars": "58.55"
       },
       {
-         "Country": "Mexico",
-         "2014/2015": "4471",
-         "2015/2016": "4805",
-         "2016/2017": "5250",
-         "2017/2018": "5300",
-         "2018/2019": "4861",
-         "2019/2020": "5200"
+         "Year": "2007/08",
+         "Average ticket price in U.S. dollars": "58.55"
       },
       {
-         "Country": "Nigeria",
-         "2014/2015": "4244",
-         "2015/2016": "4410",
-         "2016/2017": "4925",
-         "2017/2018": "5200",
-         "2018/2019": "4585",
-         "2019/2020": "5100"
+         "Year": "2006/07",
+         "Average ticket price in U.S. dollars": "56.55"
       }
-   ]
+   ],
+   "gold": "This graph depicts the average ticket price for Miami Heat games of the National Basketball Association from 2006/07 to 2015/16 . In the 2006/07 season , the average ticket price was 56.55 U.S. dollars . Miami Heat - additional information The Miami Heat are an American professional basketball team playing in the National Basketball Association 's ( NBA ) Southeast Division of the Eastern Conference .\n"
 }

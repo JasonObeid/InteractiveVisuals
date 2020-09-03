@@ -1,64 +1,70 @@
 {
-   "title": "Most expensive housing markets worldwide 2018",
-   "xAxis": "Country",
-   "yAxis": "Average price of property in thousand U.S. dollars",
+   "title": "Gross domestic product ( GDP ) growth rate in the Czech Republic 2024",
+   "xAxis": "Year",
+   "yAxis": "GDP growth compared to previous year",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Most expensive the housing Average worldwide 2018 for the period 2007 - 2018 . ",
-      "In that period , Hong_Kong was the Country expensive the housing number of Average in relation to its thousand . ",
-      "There were 1235.22 Average price every 1,000 of Hong_Kong 's thousand ."
+      "The statistic shows the growth in real GDP in Czech Republic from 2014 to 2018 , with projections up until 2024 . ",
+      "In 2018 , Czech Republic 's real Gross domestic product increased by around 2.96 % compared to the previous Year ."
    ],
    "trends": [
-      {},
       {
-         "4": "0"
+         "11": "10",
+         "13": "6",
+         "19": "0"
       },
       {
-         "2": "0",
-         "8": "0"
+         "1": "6",
+         "12": "6"
       }
    ],
    "data": [
       {
-         "Country": "Hong Kong",
-         "Average price of property in thousand U.S. dollars": "1235.22"
+         "Year": "2024",
+         "GDP growth compared to previous year": "2.54"
       },
       {
-         "Country": "Singapore",
-         "Average price of property in thousand U.S. dollars": "874.37"
+         "Year": "2023",
+         "GDP growth compared to previous year": "2.54"
       },
       {
-         "Country": "Shanghai",
-         "Average price of property in thousand U.S. dollars": "872.56"
+         "Year": "2022",
+         "GDP growth compared to previous year": "2.55"
       },
       {
-         "Country": "Vancouver",
-         "Average price of property in thousand U.S. dollars": "815.32"
+         "Year": "2021",
+         "GDP growth compared to previous year": "2.65"
       },
       {
-         "Country": "Shenzhen",
-         "Average price of property in thousand U.S. dollars": "680.28"
+         "Year": "2020",
+         "GDP growth compared to previous year": "2.62"
       },
       {
-         "Country": "Los Angeles",
-         "Average price of property in thousand U.S. dollars": "679.22"
+         "Year": "2019",
+         "GDP growth compared to previous year": "2.45"
       },
       {
-         "Country": "New York",
-         "Average price of property in thousand U.S. dollars": "674.5"
+         "Year": "2018",
+         "GDP growth compared to previous year": "2.96"
       },
       {
-         "Country": "London",
-         "Average price of property in thousand U.S. dollars": "646.97"
+         "Year": "2017",
+         "GDP growth compared to previous year": "4.35"
       },
       {
-         "Country": "Beijing",
-         "Average price of property in thousand U.S. dollars": "629.28"
+         "Year": "2016",
+         "GDP growth compared to previous year": "2.45"
       },
       {
-         "Country": "Paris",
-         "Average price of property in thousand U.S. dollars": "625.3"
+         "Year": "2015",
+         "GDP growth compared to previous year": "5.31"
+      },
+      {
+         "Year": "2014",
+         "GDP growth compared to previous year": "2.72"
       }
-   ]
+   ],
+   "gold": "The statistic shows the growth in real GDP in the Czech Republic from 2014 to 2018 , with projections up until 2024 . In 2018 , the Czech Republic 's real gross domestic product increased by around 2.96 percent compared to the previous year .\n"
 }

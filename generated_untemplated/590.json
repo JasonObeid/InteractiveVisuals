@@ -1,0 +1,32 @@
+{
+   "title": "Distribution of Instagram.com traffic 2019 , by country\n",
+   "xAxis": "Country",
+   "yAxis": "Share of desktop traffic",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the percentage of worldwide visitors to google.com in 2018 , sorted by country . It was found that 2.8 percent of global google.com visitors were from brazil , whereas approximately one quarter of visitors to the search platform came from the united states .\n",
+   "trends": {},
+   "data": [
+      {
+         "Country": "United States",
+         "Share of desktop traffic": 17.77
+      },
+      {
+         "Country": "Brazil",
+         "Share of desktop traffic": 8.22
+      },
+      {
+         "Country": "Russia",
+         "Share of desktop traffic": 7.06
+      },
+      {
+         "Country": "United Kingdom",
+         "Share of desktop traffic": 3.6
+      },
+      {
+         "Country": "Turkey",
+         "Share of desktop traffic": 3.24
+      }
+   ]
+}

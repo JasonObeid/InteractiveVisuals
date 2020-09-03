@@ -4,15 +4,24 @@
    "yAxis": "Number of users in thousands",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 6 categories for the x axis representing Month, and a y axis representing Number of users in thousands.",
       " The highest category is found at November_2018 where Number of users in thousands is 2000.0.",
       " The lowest category is found at September_2012 where Number of users in thousands is 100.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 5
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
    "data": [
       {
          "Month": "November 2018",

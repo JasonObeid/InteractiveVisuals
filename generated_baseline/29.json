@@ -4,18 +4,16 @@
    "yAxis": "Share of respondents",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Share of respondents with a total of 5 data points. The chart has one significant trend.",
-      " This trend is moderately positive which exists from 5_hours_or_less to I_don't_watch_TV."
+      " This trend is negative which exists from 5_hours_or_less to I_don't_watch_TV."
    ],
    "trends": [
+      {},
       {
-         "Length": 5,
-         "direction": "positive",
-         "start": 0,
-         "end": 4,
-         "trend": "y=0.01x+15.72",
-         "magnitude": "moderately"
+         "3": "0",
+         "14": "4"
       }
    ],
    "data": [

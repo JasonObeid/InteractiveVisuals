@@ -1,143 +1,86 @@
 {
-   "title": "Mexican Americans - unemployment rate in the U.S. 1990 to 2019",
-   "xAxis": "Year",
-   "yAxis": "Unemployment rate",
-   "columnType": "two",
-   "graphType": "line",
+   "title": "Facebook usage frequency in the United States 2018 , by ethnicity",
+   "labels": [
+      "Frequency",
+      "White",
+      "Hispanic",
+      "Black",
+      "Other"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
    "summary": [
-      "This statistic displays the Unemployment rate in the Mexican Americans from 1990 to 2019 . ",
-      "In 1990 , this rate stood at 8.4 % . ",
-      "Unemployment rate stood at 4.4 % in 2019 ."
+      "This statistic shows a comparison of the United States by ethnicity in the usage frequency At_least_once_a_month and United Frequency for the periods 2018 - , and an estimation for 2018 - . ",
+      "Between 2018 and , the Don't_know/No_opinion component of this Frequency experienced an United States by decrease of 1 % ."
    ],
    "trends": [
-      {},
       {
-         "7": "29"
+         "14": [
+            "4",
+            "0"
+         ]
       },
       {
-         "4": "0"
+         "6": [
+            "6",
+            "0"
+         ],
+         "17": [
+            "6",
+            "2"
+         ]
       }
    ],
    "data": [
       {
-         "Year": "'19",
-         "Unemployment rate": "4.4"
+         "Frequency": "At least once a day",
+         "White": "64",
+         "Hispanic": "56",
+         "Black": "53",
+         "Other": "49"
       },
       {
-         "Year": "'18",
-         "Unemployment rate": "4.7"
+         "Frequency": "A few times a week",
+         "White": "12",
+         "Hispanic": "15",
+         "Black": "15",
+         "Other": "14"
       },
       {
-         "Year": "'17",
-         "Unemployment rate": "5.1"
+         "Frequency": "At least once a week",
+         "White": "4",
+         "Hispanic": "4",
+         "Black": "7",
+         "Other": "3"
       },
       {
-         "Year": "'16",
-         "Unemployment rate": "5.8"
+         "Frequency": "A few times a month",
+         "White": "3",
+         "Hispanic": "6",
+         "Black": "3",
+         "Other": "7"
       },
       {
-         "Year": "'15",
-         "Unemployment rate": "6.4"
+         "Frequency": "At least once a month",
+         "White": "4",
+         "Hispanic": "5",
+         "Black": "4",
+         "Other": "6"
       },
       {
-         "Year": "'14",
-         "Unemployment rate": "7.2"
+         "Frequency": "Never",
+         "White": "11",
+         "Hispanic": "13",
+         "Black": "13",
+         "Other": "19"
       },
       {
-         "Year": "'13",
-         "Unemployment rate": "9"
-      },
-      {
-         "Year": "'12",
-         "Unemployment rate": "10.4"
-      },
-      {
-         "Year": "'11",
-         "Unemployment rate": "11.6"
-      },
-      {
-         "Year": "'10",
-         "Unemployment rate": "12.4"
-      },
-      {
-         "Year": "'09",
-         "Unemployment rate": "12.2"
-      },
-      {
-         "Year": "'08",
-         "Unemployment rate": "7.7"
-      },
-      {
-         "Year": "'07",
-         "Unemployment rate": "5.6"
-      },
-      {
-         "Year": "'06",
-         "Unemployment rate": "5.2"
-      },
-      {
-         "Year": "'05",
-         "Unemployment rate": "6.2"
-      },
-      {
-         "Year": "'04",
-         "Unemployment rate": "7.2"
-      },
-      {
-         "Year": "'03",
-         "Unemployment rate": "7.7"
-      },
-      {
-         "Year": "'02",
-         "Unemployment rate": "7.5"
-      },
-      {
-         "Year": "'01",
-         "Unemployment rate": "6.7"
-      },
-      {
-         "Year": "'00",
-         "Unemployment rate": "5.9"
-      },
-      {
-         "Year": "'99",
-         "Unemployment rate": "6.6"
-      },
-      {
-         "Year": "'98",
-         "Unemployment rate": "7.3"
-      },
-      {
-         "Year": "'97",
-         "Unemployment rate": "7.7"
-      },
-      {
-         "Year": "'96",
-         "Unemployment rate": "9.2"
-      },
-      {
-         "Year": "'95",
-         "Unemployment rate": "9.7"
-      },
-      {
-         "Year": "'94",
-         "Unemployment rate": "10.1"
-      },
-      {
-         "Year": "'93",
-         "Unemployment rate": "10.7"
-      },
-      {
-         "Year": "'92",
-         "Unemployment rate": "11.8"
-      },
-      {
-         "Year": "'91",
-         "Unemployment rate": "10.5"
-      },
-      {
-         "Year": "'90",
-         "Unemployment rate": "8.4"
+         "Frequency": "Don't know/No opinion",
+         "White": "2",
+         "Hispanic": "1",
+         "Black": "5",
+         "Other": "2"
       }
-   ]
+   ],
+   "gold": "This statistic presents the frequency of internet users in the United States accessing Facebook , sorted by ethnicity . As of February 2018 , it was found that 56 percent of Hispanic U.S. online users accessed Facebook at least once a day .\n"
 }

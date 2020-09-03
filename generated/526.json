@@ -1,80 +1,65 @@
 {
-   "title": "Hair and beauty salons : duration between female treatments in the UK 2014 to 2017",
-   "labels": [
-      "unknown",
-      "2014",
-      "2015",
-      "2016",
-      "2017"
-   ],
-   "columnType": "multi",
-   "graphType": "bar",
+   "title": "Average ticket price Boston Celtics ( NBA ) games 2015/16",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the UK beauty salons duration between in 2014 and 2017 . ",
-      "In 2017 , 7.8 % of respondents said their UK beauty salons duration technology was Pedicure modeling ( FDM ) ."
+      "This graph depicts the Average ticket price for Boston Celtics games of the National Basketball Association from 2006/07 to 2015/16 . ",
+      "In the 2006/07 season , the Average ticket price was 72.96 U.S. dollars ."
    ],
    "trends": [
-      {},
       {
-         "3": [
-            "4",
-            "2"
-         ],
-         "15": [
-            "0",
-            "0"
-         ]
+         "16": "9",
+         "18": "0"
+      },
+      {
+         "2": "9",
+         "10": "3"
       }
    ],
    "data": [
       {
-         "unknown": "Pedicure",
-         "2014": "4.4",
-         "2015": "6.7",
-         "2016": "5.6",
-         "2017": "5.1"
+         "Year": "2015/16",
+         "Average ticket price in U.S. dollars": "66.49"
       },
       {
-         "unknown": "Manicure",
-         "2014": "3.1",
-         "2015": "5.2",
-         "2016": "3.9",
-         "2017": "3.7"
+         "Year": "2014/15",
+         "Average ticket price in U.S. dollars": "70.79"
       },
       {
-         "unknown": "Hair removal",
-         "2014": "4.3",
-         "2015": "6.3",
-         "2016": "4.5",
-         "2017": "4.4"
+         "Year": "2013/14",
+         "Average ticket price in U.S. dollars": "72.64"
       },
       {
-         "unknown": "Tanning",
-         "2014": "3.1",
-         "2015": "7.2",
-         "2016": "5.0",
-         "2017": "4.7"
+         "Year": "2012/13",
+         "Average ticket price in U.S. dollars": "72.96"
       },
       {
-         "unknown": "Facial",
-         "2014": "4.6",
-         "2015": "7.8",
-         "2016": "5.5",
-         "2017": "5.4"
+         "Year": "2011/12",
+         "Average ticket price in U.S. dollars": "68.55"
       },
       {
-         "unknown": "Hair color",
-         "2014": "6.2",
-         "2015": "7.7",
-         "2016": "6.5",
-         "2017": "6.6"
+         "Year": "2010/11",
+         "Average ticket price in U.S. dollars": "68.55"
       },
       {
-         "unknown": "Haircuts",
-         "2014": "5.8",
-         "2015": "7.3",
-         "2016": "6.0",
-         "2017": "6.2"
+         "Year": "2009/10",
+         "Average ticket price in U.S. dollars": "68.55"
+      },
+      {
+         "Year": "2008/09",
+         "Average ticket price in U.S. dollars": "68.55"
+      },
+      {
+         "Year": "2007/08",
+         "Average ticket price in U.S. dollars": "65.43"
+      },
+      {
+         "Year": "2006/07",
+         "Average ticket price in U.S. dollars": "57.04"
       }
-   ]
+   ],
+   "gold": "This graph depicts the average ticket price for Boston Celtics games of the National Basketball Association from 2006/07 to 2015/16 . In the 2006/07 season , the average ticket price was 57.04 U.S. dollars . Boston Celtics The Boston Celtics are a professional basketball team of the National Basketball Association ( NBA ) playing in the Eastern Conference of the league .\n"
 }

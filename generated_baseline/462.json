@@ -4,15 +4,24 @@
    "yAxis": "Bitcoin price index in U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 90 categories for the x axis representing Month, and a y axis representing Bitcoin price index in U.S. dollars.",
       " The highest category is found at Dec_17 where Bitcoin price index in U.S. dollars is 13860.14.",
       " The lowest category is found at Jul_12 where Bitcoin price index in U.S. dollars is 9.35."
    ],
-   "trends": {
-      "maxIndex": 25,
-      "minIndex": 89
-   },
+   "trends": [
+      {},
+      {
+         "7": 25,
+         "12": 25
+      },
+      {
+         "7": 89,
+         "12": 89
+      },
+      {}
+   ],
    "data": [
       {
          "Month": "Jan 20",

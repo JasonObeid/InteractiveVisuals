@@ -1,71 +1,69 @@
 {
-   "title": "Prevalence of undernourishment worldwide 2000 to 2018",
-   "xAxis": "Year",
-   "yAxis": "Proportion of undernourished people",
+   "title": "Leading airlines worldwide - based on total number of passengers 2018",
+   "xAxis": "Airlines",
+   "yAxis": "Number of passengers in millions",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Proportion of undernourished people in 2000 Prevalence from 2000 to 2018 . ",
-      "In 2018 , there were 10.8 undernourished people in Prevalence . ",
-      "Gambling in Prevalence - additional information The Proportion of undernourished people in Prevalence increased by more than 2,000 between 2007 and 2017 ."
+      "The statistic shows the Leading airlines worldwide based in Delta 2018 , ranked by Number of passengers . ",
+      "The 2018 IAG Final broadcasted in on TSN placed ninth , with 113.0 millions passengers . ",
+      "American Bowl ranked first , with 203.7 millions passengers ."
    ],
    "trends": [
       {
-         "13": "10",
-         "15": "0"
+         "9": "1"
       },
       {
-         "1": "0",
-         "5": "0"
+         "2": "8",
+         "12": "8"
       },
       {
-         "21": "1"
+         "0": "0",
+         "6": "0"
       }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Proportion of undernourished people": "10.8"
+         "Airlines": "American",
+         "Number of passengers in millions": "203.7"
       },
       {
-         "Year": "2017",
-         "Proportion of undernourished people": "10.8"
+         "Airlines": "Delta",
+         "Number of passengers in millions": "192.5"
       },
       {
-         "Year": "2016",
-         "Proportion of undernourished people": "10.7"
+         "Airlines": "Southwest",
+         "Number of passengers in millions": "163.6"
       },
       {
-         "Year": "2015",
-         "Proportion of undernourished people": "10.6"
+         "Airlines": "United Continental",
+         "Number of passengers in millions": "158.3"
       },
       {
-         "Year": "2014",
-         "Proportion of undernourished people": "10.7"
+         "Airlines": "Lufthansa",
+         "Number of passengers in millions": "142.3"
       },
       {
-         "Year": "2013",
-         "Proportion of undernourished people": "11"
+         "Airlines": "Ryanair",
+         "Number of passengers in millions": "142.1"
       },
       {
-         "Year": "2012",
-         "Proportion of undernourished people": "11.3"
+         "Airlines": "China Southern",
+         "Number of passengers in millions": "140.0"
       },
       {
-         "Year": "2011",
-         "Proportion of undernourished people": "11.5"
+         "Airlines": "China Eastern",
+         "Number of passengers in millions": "122.5"
       },
       {
-         "Year": "2010",
-         "Proportion of undernourished people": "11.8"
+         "Airlines": "IAG",
+         "Number of passengers in millions": "113.0"
       },
       {
-         "Year": "2005",
-         "Proportion of undernourished people": "13.8"
-      },
-      {
-         "Year": "2000",
-         "Proportion of undernourished people": "14.5"
+         "Airlines": "Air China",
+         "Number of passengers in millions": "110.0"
       }
-   ]
+   ],
+   "gold": "This statistic depicts the leading airline groups worldwide in 2018 , based on passenger traffic . In that year , the ranking was dominated by U.S.-based airlines : American Airlines topped the list , with 203.7 million passengers . Air passengers The rising middle classes in emerging economies are expected to help global air traffic grow at an average annual growth rate of four percent till 2034 .\n"
 }

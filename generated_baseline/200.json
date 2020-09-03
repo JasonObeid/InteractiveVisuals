@@ -4,15 +4,24 @@
    "yAxis": "Payroll in thousand U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 26 categories for the x axis representing Seattle Sounders Players, and a y axis representing Payroll in thousand U.S. dollars.",
       " The highest category is found at Nicolas_Lodeiro where Payroll in thousand U.S. dollars is 2502.5.",
       " The lowest category is found at Alex_Roldan where Payroll in thousand U.S. dollars is 57.23."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 24
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 24,
+         "12": 24
+      },
+      {}
+   ],
    "data": [
       {
          "Seattle Sounders Players": "Nicolas Lodeiro",

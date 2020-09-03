@@ -4,15 +4,24 @@
    "yAxis": "Earnings in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 8 categories for the x axis representing Month, and a y axis representing Earnings in million U.S. dollars.",
       " The highest category is found at May_2011_to_May_2012 where Earnings in million U.S. dollars is 26.0.",
       " The lowest category is found at June_2016_to_June_2017 where Earnings in million U.S. dollars is 14.0."
    ],
-   "trends": {
-      "maxIndex": 6,
-      "minIndex": 1
-   },
+   "trends": [
+      {},
+      {
+         "7": 6,
+         "12": 6
+      },
+      {
+         "7": 1,
+         "12": 1
+      },
+      {}
+   ],
    "data": [
       {
          "Month": "June 2017 to June 2018",

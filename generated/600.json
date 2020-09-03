@@ -1,96 +1,57 @@
 {
-   "title": "Revenue of the Oakland Raiders ( NFL ) 2001 to 2018",
+   "title": "Ice hockey players in Finland 2010/11 - 2017/18",
    "xAxis": "Year",
-   "yAxis": "Revenue in million U.S. dollars",
+   "yAxis": "Number of players",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic depicts the Revenue of the Oakland Raiders , a franchise of the National Football League , from 2001 to 2018 . ",
-      "In 2018 , the Revenue of the Oakland Raiders was 357 U.S. dollars ."
+      "The statistics depicts the Number of registered Ice hockey players in Finland from 2010/11 to 2016/17 . ",
+      "In the 2017/18 season , there were a total of 56626 registered Ice hockey players in Finland according to the International Ice hockey Federation ."
    ],
    "trends": [
       {
-         "18": "17",
-         "20": "0"
+         "13": "7",
+         "15": "1"
       },
       {
-         "1": "0",
-         "9": "0",
-         "10": "0"
+         "2": "0",
+         "10": "6"
       }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Revenue in million U.S. dollars": "357"
+         "Year": "2017/18",
+         "Number of players": "73374"
       },
       {
-         "Year": "2017",
-         "Revenue in million U.S. dollars": "335"
+         "Year": "2016/17",
+         "Number of players": "76387"
       },
       {
-         "Year": "2016",
-         "Revenue in million U.S. dollars": "321"
+         "Year": "2015/16",
+         "Number of players": "74150"
       },
       {
-         "Year": "2015",
-         "Revenue in million U.S. dollars": "301"
+         "Year": "2014/15",
+         "Number of players": "75871"
       },
       {
-         "Year": "2014",
-         "Revenue in million U.S. dollars": "285"
+         "Year": "2013/14",
+         "Number of players": "73682"
       },
       {
-         "Year": "2013",
-         "Revenue in million U.S. dollars": "244"
+         "Year": "2012/13",
+         "Number of players": "66636"
       },
       {
-         "Year": "2012",
-         "Revenue in million U.S. dollars": "229"
+         "Year": "2011/12",
+         "Number of players": "56626"
       },
       {
-         "Year": "2011",
-         "Revenue in million U.S. dollars": "226"
-      },
-      {
-         "Year": "2010",
-         "Revenue in million U.S. dollars": "217"
-      },
-      {
-         "Year": "2009",
-         "Revenue in million U.S. dollars": "217"
-      },
-      {
-         "Year": "2008",
-         "Revenue in million U.S. dollars": "215"
-      },
-      {
-         "Year": "2007",
-         "Revenue in million U.S. dollars": "205"
-      },
-      {
-         "Year": "2006",
-         "Revenue in million U.S. dollars": "189"
-      },
-      {
-         "Year": "2005",
-         "Revenue in million U.S. dollars": "171"
-      },
-      {
-         "Year": "2004",
-         "Revenue in million U.S. dollars": "169"
-      },
-      {
-         "Year": "2003",
-         "Revenue in million U.S. dollars": "149"
-      },
-      {
-         "Year": "2002",
-         "Revenue in million U.S. dollars": "144"
-      },
-      {
-         "Year": "2001",
-         "Revenue in million U.S. dollars": "132"
+         "Year": "2010/11",
+         "Number of players": "65251"
       }
-   ]
+   ],
+   "gold": "The statistics shows the number of registered ice hockey players in Finland from 2010/11 to 2017/18 . The number of registered ice hockey players in 2017/18 amounted to nearly 73.4 thousand . The highest player number was reported in the previous season ( 2016/17 ) with over 76 thousand players .\n"
 }

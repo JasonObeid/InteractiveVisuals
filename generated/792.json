@@ -1,71 +1,73 @@
 {
-   "title": "U.S. passenger-miles : Intercity/Amtrak 2007 to 2018",
+   "title": "Global energy commodity price index 2013 to 2030",
    "xAxis": "Year",
-   "yAxis": "U.S. passenger-miles in millions",
+   "yAxis": "Price index in real 2010 U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the U.S. of passenger-miles 2018 in the Intercity/Amtrak from 2007 to 2018 . ",
-      "In 2018 , about 6361 passenger-miles in the Intercity/Amtrak were 2018 to be adopted ."
+      "This statistic shows the Global annual energy commodity price index 2030 2013 through 2030 . ",
+      "In 2018 , the Global Price commodity index stood at 68.1 index real 2010 U.S. dollars ."
    ],
    "trends": [
       {
-         "14": "11",
-         "16": "0"
+         "11": "11",
+         "13": "0"
       },
       {
-         "1": "0",
-         "4": "0"
+         "1": "6",
+         "11": "7"
       }
    ],
    "data": [
       {
+         "Year": "2030",
+         "Price index in real 2010 U.S. dollars": "87.2"
+      },
+      {
+         "Year": "2025",
+         "Price index in real 2010 U.S. dollars": "79.1"
+      },
+      {
+         "Year": "2022",
+         "Price index in real 2010 U.S. dollars": "74.7"
+      },
+      {
+         "Year": "2021",
+         "Price index in real 2010 U.S. dollars": "73.3"
+      },
+      {
+         "Year": "2020",
+         "Price index in real 2010 U.S. dollars": "72.0"
+      },
+      {
+         "Year": "2019",
+         "Price index in real 2010 U.S. dollars": "74.3"
+      },
+      {
          "Year": "2018",
-         "U.S. passenger-miles in millions": "6361"
+         "Price index in real 2010 U.S. dollars": "87.0"
       },
       {
          "Year": "2017",
-         "U.S. passenger-miles in millions": "6563"
+         "Price index in real 2010 U.S. dollars": "68.1"
       },
       {
          "Year": "2016",
-         "U.S. passenger-miles in millions": "6520"
+         "Price index in real 2010 U.S. dollars": "55.1"
       },
       {
          "Year": "2015",
-         "U.S. passenger-miles in millions": "6536"
+         "Price index in real 2010 U.S. dollars": "65.0"
       },
       {
          "Year": "2014",
-         "U.S. passenger-miles in millions": "6675"
+         "Price index in real 2010 U.S. dollars": "111.7"
       },
       {
          "Year": "2013",
-         "U.S. passenger-miles in millions": "7283"
-      },
-      {
-         "Year": "2012",
-         "U.S. passenger-miles in millions": "6752"
-      },
-      {
-         "Year": "2011",
-         "U.S. passenger-miles in millions": "6568"
-      },
-      {
-         "Year": "2010",
-         "U.S. passenger-miles in millions": "6420"
-      },
-      {
-         "Year": "2009",
-         "U.S. passenger-miles in millions": "5914"
-      },
-      {
-         "Year": "2008",
-         "U.S. passenger-miles in millions": "6179"
-      },
-      {
-         "Year": "2007",
-         "U.S. passenger-miles in millions": "5784"
+         "Price index in real 2010 U.S. dollars": "120.1"
       }
-   ]
+   ],
+   "gold": "This statistic shows a commodity price index of energy from 2013 through 2018 , and gives projections for 2030 . In 2018 , the index stood at around 87 real US dollars . Real 2010 US dollars reflect buying power in 2010 .\n"
 }

@@ -1,75 +1,61 @@
 {
-   "title": "Yandex : annual revenue 2007 to 2019",
-   "xAxis": "Year",
-   "yAxis": "Revenue in billion Russian rubles",
+   "title": "India 's petroleum imports by value 2010 to 2019",
+   "xAxis": "Years",
+   "yAxis": "Import value in billion Indian rupees",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Revenue of billion at 2007 establishments in Yandex from 2007 to 2019 . ",
-      "In 2019 , the Revenue of billion in travel 2007 ( including both international and domestic tourists ) amounted to approximately 175.39 billion ."
+      "In 2010 , FY_2019 was the India Years brand in terms of Years value . ",
+      "It amounted to about 7.76 billion Indian rupees , which was roughly 43 billion India kroner at the time . ",
+      "M\u00e6rsk and FY_2017 were the imports coming in second and third place ."
    ],
    "trends": [
       {
-         "14": "12",
-         "16": "0"
+         "3": "0"
       },
+      {},
       {
-         "1": "0",
-         "21": "0"
+         "2": "2"
       }
    ],
    "data": [
       {
-         "Year": "2019",
-         "Revenue in billion Russian rubles": "175.39"
+         "Years": "FY 2019",
+         "Import value in billion Indian rupees": "9860.2"
       },
       {
-         "Year": "2018",
-         "Revenue in billion Russian rubles": "127.66"
+         "Years": "FY 2018",
+         "Import value in billion Indian rupees": "7003.2"
       },
       {
-         "Year": "2017",
-         "Revenue in billion Russian rubles": "94.1"
+         "Years": "FY 2017",
+         "Import value in billion Indian rupees": "5832.2"
       },
       {
-         "Year": "2016",
-         "Revenue in billion Russian rubles": "75.9"
+         "Years": "FY 2016",
+         "Import value in billion Indian rupees": "5405.0"
       },
       {
-         "Year": "2015",
-         "Revenue in billion Russian rubles": "59.8"
+         "Years": "FY 2015",
+         "Import value in billion Indian rupees": "8428.74"
       },
       {
-         "Year": "2014",
-         "Revenue in billion Russian rubles": "50.77"
+         "Years": "FY 2014",
+         "Import value in billion Indian rupees": "9978.85"
       },
       {
-         "Year": "2013",
-         "Revenue in billion Russian rubles": "39.5"
+         "Years": "FY 2013",
+         "Import value in billion Indian rupees": "8918.71"
       },
       {
-         "Year": "2012",
-         "Revenue in billion Russian rubles": "28.77"
+         "Years": "FY 2012",
+         "Import value in billion Indian rupees": "7430.75"
       },
       {
-         "Year": "2011",
-         "Revenue in billion Russian rubles": "20.03"
-      },
-      {
-         "Year": "2010",
-         "Revenue in billion Russian rubles": "12.5"
-      },
-      {
-         "Year": "2009",
-         "Revenue in billion Russian rubles": "8.73"
-      },
-      {
-         "Year": "2008",
-         "Revenue in billion Russian rubles": "7.65"
-      },
-      {
-         "Year": "2007",
-         "Revenue in billion Russian rubles": "4.25"
+         "Years": "FY 2011",
+         "Import value in billion Indian rupees": "4822.82"
       }
-   ]
+   ],
+   "gold": "India imported petroleum products worth over 9.8 trillion Indian rupees in fiscal year 2019 . Petroleum made up a share of over 27 percent of all imports into the country that year . The increasing trend in recent years was reflected in the price of fuel and its impact on various industries across the south Asian country .\n"
 }

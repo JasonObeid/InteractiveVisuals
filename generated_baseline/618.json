@@ -4,15 +4,24 @@
    "yAxis": "Brand value in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 5 categories for the x axis representing Banking Institution, and a y axis representing Brand value in million U.S. dollars.",
       " The highest category is found at PKO_Bank_Polski where Brand value in million U.S. dollars is 1594.0.",
       " The lowest category is found at Millennium where Brand value in million U.S. dollars is 295.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 4
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
    "data": [
       {
          "Banking Institution": "PKO Bank Polski",

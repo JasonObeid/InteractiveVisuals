@@ -1,95 +1,108 @@
 {
-   "title": "Countries with the largest number of Starbucks stores worldwide as of September 2019",
-   "labels": [
-      "Country",
-      "Company operated stores",
-      "Licensed stores"
-   ],
-   "columnType": "multi",
-   "graphType": "bar",
+   "title": "Median age of the population in Hong Kong 2015",
+   "xAxis": "Year",
+   "yAxis": "Median age in years",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the number of largest and number due to Countries from the worldwide in Starbucks Africa which lasts since 2014 . ",
-      "As of 30 , 2019 there have been 3521 largest in China , resulting in 0 number . ",
-      "The Countries virus causes extremely severe hemorrhagic fever and is considered a Risk Group 0 Pathogen September the World Health Organization ( WHO ) ."
+      "This statistic shows the Median age of the population in Hong Kong from 1950 to 2050 . ",
+      "The Median age is the age that divides a population into two numerically equal groups ; that is , half the people are younger than this age and half are older . ",
+      "It is a single index that summarizes the age distribution of a population ."
    ],
    "trends": [
-      {},
       {
-         "9": [
-            "1",
-            "1"
-         ],
-         "12": [
-            "1",
-            "0"
-         ],
-         "16": [
-            "1",
-            "2"
-         ]
+         "12": "20",
+         "14": "0"
       },
-      {
-         "14": [
-            "6",
-            "1"
-         ]
-      }
+      {},
+      {}
    ],
    "data": [
       {
-         "Country": "United States",
-         "Company operated stores": "8575",
-         "Licensed stores": "6031"
+         "Year": "2050",
+         "Median age in years": "53.4"
       },
       {
-         "Country": "China",
-         "Company operated stores": "3521",
-         "Licensed stores": "0"
+         "Year": "2045",
+         "Median age in years": "52.7"
       },
       {
-         "Country": "Japan",
-         "Company operated stores": "1286",
-         "Licensed stores": "0"
+         "Year": "2040",
+         "Median age in years": "51.3"
       },
       {
-         "Country": "Canada",
-         "Company operated stores": "1109",
-         "Licensed stores": "409"
+         "Year": "2035",
+         "Median age in years": "49.7"
       },
       {
-         "Country": "Thailand",
-         "Company operated stores": "352",
-         "Licensed stores": "0"
+         "Year": "2030",
+         "Median age in years": "47.9"
       },
       {
-         "Country": "United Kingdom",
-         "Company operated stores": "335",
-         "Licensed stores": "653"
+         "Year": "2025",
+         "Median age in years": "46.4"
       },
       {
-         "Country": "South Korea",
-         "Company operated stores": "0",
-         "Licensed stores": "1231"
+         "Year": "2020",
+         "Median age in years": "44.8"
       },
       {
-         "Country": "Taiwan",
-         "Company operated stores": "0",
-         "Licensed stores": "458"
+         "Year": "2015",
+         "Median age in years": "43.2"
       },
       {
-         "Country": "Turkey",
-         "Company operated stores": "0",
-         "Licensed stores": "453"
+         "Year": "2010",
+         "Median age in years": "41.2"
       },
       {
-         "Country": "Indonesia",
-         "Company operated stores": "0",
-         "Licensed stores": "365"
+         "Year": "2005",
+         "Median age in years": "39.1"
       },
       {
-         "Country": "Philippines",
-         "Company operated stores": "0",
-         "Licensed stores": "360"
+         "Year": "2000",
+         "Median age in years": "36.2"
+      },
+      {
+         "Year": "1995",
+         "Median age in years": "34.0"
+      },
+      {
+         "Year": "1990",
+         "Median age in years": "31.0"
+      },
+      {
+         "Year": "1985",
+         "Median age in years": "28.3"
+      },
+      {
+         "Year": "1980",
+         "Median age in years": "25.7"
+      },
+      {
+         "Year": "1975",
+         "Median age in years": "23.1"
+      },
+      {
+         "Year": "1970",
+         "Median age in years": "21.7"
+      },
+      {
+         "Year": "1965",
+         "Median age in years": "21.3"
+      },
+      {
+         "Year": "1960",
+         "Median age in years": "23.4"
+      },
+      {
+         "Year": "1955",
+         "Median age in years": "24.0"
+      },
+      {
+         "Year": "1950",
+         "Median age in years": "23.7"
       }
-   ]
+   ],
+   "gold": "This statistic shows the median age of the population in Hong Kong from 1950 to 2050  . The median age of a population is an index that divides the population into two equal groups : half of the population is older than the median age and the other half younger . In 2015 , the median age of Hong Kong 's population was 43.2 years .\n"
 }

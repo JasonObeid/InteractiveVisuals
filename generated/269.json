@@ -1,100 +1,91 @@
 {
-   "title": "The highest-paid female athletes 2019",
+   "title": "Travel and tourism 's direct contribution to employment worldwide 2016 - 2017 , by region",
    "labels": [
-      "Month",
-      "Prize money",
-      "Endorsements"
+      "Region",
+      "2016",
+      "2017"
    ],
    "columnType": "multi",
    "graphType": "bar",
    "summary": [
-      "The statistic shows the athletes of The 2019 ( social media ) of the NFL franchise The female from 2012 to 2019 . ",
-      "In 2019 , the page of the female football team had 4.2 million money ."
+      "This statistic shows the direct contribution of Travel and tourism to Travel worldwide from 2016 to 2017 , by Region . ",
+      "Travel and tourism contributed approximately 1.79 trillion U.S. dollars in direct to the North_East_Asia Asian economy in 2017 ."
    ],
    "trends": [
       {},
       {
          "13": [
             "0",
-            "1"
+            "0"
          ]
       }
    ],
    "data": [
       {
-         "Month": "Serena Williams (tennis)",
-         "Prize money": "4.2",
-         "Endorsements": "25.0"
+         "Region": "North East Asia",
+         "2016": "26.02",
+         "2017": "30.49"
       },
       {
-         "Month": "Naomi Osaka (tennis)",
-         "Prize money": "8.3",
-         "Endorsements": "16.0"
+         "Region": "South Asia",
+         "2016": "28.66",
+         "2017": "29.76"
       },
       {
-         "Month": "Angelique Kerber (tennis)",
-         "Prize money": "5.3",
-         "Endorsements": "6.5"
+         "Region": "South East Asia",
+         "2016": "11.16",
+         "2017": "14.46"
       },
       {
-         "Month": "Simona Halep (tennis)",
-         "Prize money": "6.2",
-         "Endorsements": "4.0"
+         "Region": "European Union",
+         "2016": "11.41",
+         "2017": "11.89"
       },
       {
-         "Month": "Sloane Stephens (tennis)",
-         "Prize money": "4.1",
-         "Endorsements": "5.5"
+         "Region": "North America",
+         "2016": "10.09",
+         "2017": "9.94"
       },
       {
-         "Month": "Caroline Wozniacki (tennis)",
-         "Prize money": "3.5",
-         "Endorsements": "4.0"
+         "Region": "Sub Saharan Africa",
+         "2016": "6.17",
+         "2017": "6.79"
       },
       {
-         "Month": "Maria Sharapova (tennis)",
-         "Prize money": "1.0",
-         "Endorsements": "6.0"
+         "Region": "Latin America",
+         "2016": "5.93",
+         "2017": "5.71"
       },
       {
-         "Month": "Karolina Pliskova (tennis)",
-         "Prize money": "4.6",
-         "Endorsements": "1.7"
+         "Region": "Other Europe",
+         "2016": "2.55",
+         "2017": "2.54"
       },
       {
-         "Month": "Elina Svitolina (tennis)",
-         "Prize money": "4.6",
-         "Endorsements": "1.5"
+         "Region": "North Africa",
+         "2016": "2.19",
+         "2017": "2.51"
       },
       {
-         "Month": "Venus Williams (tennis)",
-         "Prize money": "0.9",
-         "Endorsements": "5.0"
+         "Region": "Middle East",
+         "2016": "2.36",
+         "2017": "2.34"
       },
       {
-         "Month": "Garbine Muguruza (tennis)",
-         "Prize money": "2.4",
-         "Endorsements": "3.5"
+         "Region": "Oceania",
+         "2016": "0.92",
+         "2017": "0.89"
       },
       {
-         "Month": "Alex Morgan (soccer)",
-         "Prize money": "0.25",
-         "Endorsements": "5.5"
+         "Region": "Caribbean",
+         "2016": "0.73",
+         "2017": "0.76"
       },
       {
-         "Month": "P.V. Sindhu (badminton)",
-         "Prize money": "0.5",
-         "Endorsements": "5.0"
-      },
-      {
-         "Month": "Madison Keys (tennis)",
-         "Prize money": "2.5",
-         "Endorsements": "3.0"
-      },
-      {
-         "Month": "Ariya Jutanugarn (golf)",
-         "Prize money": "3.3",
-         "Endorsements": "2.0"
+         "Region": "Central Asia",
+         "2016": "0.57",
+         "2017": "0.38"
       }
-   ]
+   ],
+   "gold": "This statistic shows the direct contribution of travel and tourism to employment worldwide from 2016 to 2017 , by region . Travel and tourism directly contributed approximately 14.46 million jobs to the South East Asian economy in 2017 .\n"
 }

@@ -1,0 +1,20 @@
+{
+   "title": "Global organic chocolate market size 2012 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Market size in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the number of consumer cloud-based online service users worldwide . In 2018 , approximately 3.6 billion internet users are projected to access cloud computing services , up from 2.4 billion users in 2013 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Market size in million U.S. dollars": 886.0
+      },
+      {
+         "Year": "2012",
+         "Market size in million U.S. dollars": 734.0
+      }
+   ]
+}

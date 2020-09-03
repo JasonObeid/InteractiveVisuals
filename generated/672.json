@@ -1,79 +1,106 @@
 {
-   "title": "Smartphone users in the United States 2010 to 2023",
-   "xAxis": "Year",
-   "yAxis": "Smartphone users in millions",
+   "title": "Birth rate in Italy 2018 , by region",
+   "xAxis": "Month",
+   "yAxis": "Birth rate per thousand inhabitants",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows Smartphone conceptions in United States and leading to 2023 from 2010 to 2023 . ",
-      "The figures show a general decrease in the Smartphone of 2023 , amounting to under 62.6 thousand in 2010 ."
+      "In 2018 , the highest Birth rate was registered in the South of Italy . ",
+      "Trentino-South_Tyrol , Campania and Sicily , the three regions where the shares of citizens without a job exceeded 8.1 thousand , led in the ranking of Italian regions with the highest Birth rates . ",
+      "The disparities in Birth indicators can be observed not only on the regional level , but also among genders ."
    ],
    "trends": [
+      {},
       {
-         "13": "13",
-         "15": "0"
+         "0": "0",
+         "2": "1",
+         "5": "2",
+         "19": "2"
       },
-      {
-         "16": "13",
-         "19": "13"
-      }
+      {}
    ],
    "data": [
       {
-         "Year": "2023",
-         "Smartphone users in millions": "285.3"
+         "Month": "Trentino-South Tyrol",
+         "Birth rate per thousand inhabitants": "9.0"
       },
       {
-         "Year": "2022",
-         "Smartphone users in millions": "281.9"
+         "Month": "Campania",
+         "Birth rate per thousand inhabitants": "8.3"
       },
       {
-         "Year": "2021",
-         "Smartphone users in millions": "277.8"
+         "Month": "Sicily",
+         "Birth rate per thousand inhabitants": "8.1"
       },
       {
-         "Year": "2020",
-         "Smartphone users in millions": "272.6"
+         "Month": "Calabria",
+         "Birth rate per thousand inhabitants": "7.8"
       },
       {
-         "Year": "2019",
-         "Smartphone users in millions": "265.9"
+         "Month": "Lombardy",
+         "Birth rate per thousand inhabitants": "7.5"
       },
       {
-         "Year": "2018",
-         "Smartphone users in millions": "257.3"
+         "Month": "Emilia-Romagna",
+         "Birth rate per thousand inhabitants": "7.3"
       },
       {
-         "Year": "2017",
-         "Smartphone users in millions": "246.6"
+         "Month": "Lazio",
+         "Birth rate per thousand inhabitants": "7.2"
       },
       {
-         "Year": "2016",
-         "Smartphone users in millions": "208.61"
+         "Month": "Apulia",
+         "Birth rate per thousand inhabitants": "7.2"
       },
       {
-         "Year": "2015",
-         "Smartphone users in millions": "190.64"
+         "Month": "Aosta Valley",
+         "Birth rate per thousand inhabitants": "7.2"
       },
       {
-         "Year": "2014",
-         "Smartphone users in millions": "171.0"
+         "Month": "Veneto",
+         "Birth rate per thousand inhabitants": "7.2"
       },
       {
-         "Year": "2013",
-         "Smartphone users in millions": "144.5"
+         "Month": "Abruzzo",
+         "Birth rate per thousand inhabitants": "6.8"
       },
       {
-         "Year": "2012",
-         "Smartphone users in millions": "122.0"
+         "Month": "Piedmont",
+         "Birth rate per thousand inhabitants": "6.7"
       },
       {
-         "Year": "2011",
-         "Smartphone users in millions": "92.8"
+         "Month": "Tuscany",
+         "Birth rate per thousand inhabitants": "6.7"
       },
       {
-         "Year": "2010",
-         "Smartphone users in millions": "62.6"
+         "Month": "Marche",
+         "Birth rate per thousand inhabitants": "6.7"
+      },
+      {
+         "Month": "Umbria",
+         "Birth rate per thousand inhabitants": "6.6"
+      },
+      {
+         "Month": "Basilicata",
+         "Birth rate per thousand inhabitants": "6.6"
+      },
+      {
+         "Month": "Friuli-Venezia Giulia",
+         "Birth rate per thousand inhabitants": "6.4"
+      },
+      {
+         "Month": "Molise",
+         "Birth rate per thousand inhabitants": "6.2"
+      },
+      {
+         "Month": "Liguria",
+         "Birth rate per thousand inhabitants": "5.8"
+      },
+      {
+         "Month": "Sardinia",
+         "Birth rate per thousand inhabitants": "5.7"
       }
-   ]
+   ],
+   "gold": "In 2018 , Trentino-South Tyrol was the region in Italy with the highest birth rate nationwide , with nine births per every 1,000 inhabitants . The following three positions of the ranking were occupied by Southern regions : Campania , Sicily , and Calabria . Indeed , South-Italy was the macro-region with the largest birth-rate in Italy .\n"
 }

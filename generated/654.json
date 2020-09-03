@@ -1,93 +1,79 @@
 {
-   "title": "Total recalls of children 's products in the U.S. 2001 to 2018",
-   "xAxis": "Year",
-   "yAxis": "Number of recalls",
+   "title": "Personal goals of health/fitness club members 2014",
+   "xAxis": "Reasons to Reasons for joining",
+   "yAxis": "Percentage of respondents",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "In 2018 , the Number of German recalls amounted to 52 million , an increase compared to the previous Year at 93 % . ",
-      "This Number has only been increased in recent years . ",
-      "Considering current German population numbers stand at almost 83 million , such a high Number of recalls is significant in itself and also for predicting future trends on digitalization and online connectivity in the country ."
+      "The statistic shows the club members instant 2014 on in the United Kingdom ( Personal ) in 2014 . ",
+      "In 2014 , 64 percentage of the respondents members To_stay_healthy club on their 2014 phone . ",
+      "The second club common result is To_feel_better_about_myself ( 52 percentage ) ."
    ],
    "trends": [
-      {
-         "1": "0"
-      },
       {},
-      {}
+      {
+         "3": "0",
+         "9": "0"
+      },
+      {
+         "6": "1",
+         "8": "1"
+      }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Number of recalls": "52"
+         "Reasons to Reasons for joining": "To stay healthy",
+         "Percentage of respondents": "64"
       },
       {
-         "Year": "2017",
-         "Number of recalls": "93"
+         "Reasons to Reasons for joining": "To feel better about myself",
+         "Percentage of respondents": "52"
       },
       {
-         "Year": "2016",
-         "Number of recalls": "76"
+         "Reasons to Reasons for joining": "To stay in shape",
+         "Percentage of respondents": "46"
       },
       {
-         "Year": "2015",
-         "Number of recalls": "68"
+         "Reasons to Reasons for joining": "To look better",
+         "Percentage of respondents": "45"
       },
       {
-         "Year": "2014",
-         "Number of recalls": "75"
+         "Reasons to Reasons for joining": "To lose weight",
+         "Percentage of respondents": "45"
       },
       {
-         "Year": "2013",
-         "Number of recalls": "114"
+         "Reasons to Reasons for joining": "To get in shape",
+         "Percentage of respondents": "44"
       },
       {
-         "Year": "2012",
-         "Number of recalls": "97"
+         "Reasons to Reasons for joining": "To maintain strength",
+         "Percentage of respondents": "43"
       },
       {
-         "Year": "2011",
-         "Number of recalls": "124"
+         "Reasons to Reasons for joining": "To stay flexible",
+         "Percentage of respondents": "40"
       },
       {
-         "Year": "2010",
-         "Number of recalls": "148"
+         "Reasons to Reasons for joining": "To build muscle",
+         "Percentage of respondents": "39"
       },
       {
-         "Year": "2009",
-         "Number of recalls": "143"
+         "Reasons to Reasons for joining": "To maintain weight",
+         "Percentage of respondents": "27"
       },
       {
-         "Year": "2008",
-         "Number of recalls": "209"
+         "Reasons to Reasons for joining": "For a specific health concern",
+         "Percentage of respondents": "15"
       },
       {
-         "Year": "2007",
-         "Number of recalls": "232"
+         "Reasons to Reasons for joining": "To impress others",
+         "Percentage of respondents": "5"
       },
       {
-         "Year": "2006",
-         "Number of recalls": "111"
-      },
-      {
-         "Year": "2005",
-         "Number of recalls": "122"
-      },
-      {
-         "Year": "2004",
-         "Number of recalls": "87"
-      },
-      {
-         "Year": "2003",
-         "Number of recalls": "66"
-      },
-      {
-         "Year": "2002",
-         "Number of recalls": "90"
-      },
-      {
-         "Year": "2001",
-         "Number of recalls": "118"
+         "Reasons to Reasons for joining": "To gain weight",
+         "Percentage of respondents": "3"
       }
-   ]
+   ],
+   "gold": "The statistic shows the results of a survey concerned with the reasons why people are members in health clubs in the U.S. 45 percent of the respondents said that one of the reasons for their health club membership was that they want to lose weight .\n"
 }

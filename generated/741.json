@@ -1,44 +1,46 @@
 {
-   "title": "Sales of Firehouse Subs in the U.S. 2014 to 2018",
+   "title": "BTS album total sales in South Korea 2013 to 2017",
    "xAxis": "Year",
-   "yAxis": "Sales in million U.S. dollars",
+   "yAxis": "Number of sold albums in thousand copies",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic depicts the Sales ' Firehouse industry Subs and U.S. ( R & D ) Sales from 2014 to 2018 . ",
-      "In 2018 , the Sales on Firehouse R & D in the Sales came to some 794.0 U.S. dollars ."
+      "The statistic shows the sales South albums rate of the BTS Number sold from 2013 to 2017 . ",
+      "The Number sold is expected to grow by 2723 thousand from 2014 to 2015 ."
    ],
    "trends": [
       {
-         "18": "4",
-         "20": "0"
+         "14": "4",
+         "16": "0"
       },
       {
-         "1": "0",
-         "16": "0",
-         "17": "0"
+         "8": "0",
+         "11": "3",
+         "13": "2"
       }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Sales in million U.S. dollars": "794.0"
-      },
-      {
          "Year": "2017",
-         "Sales in million U.S. dollars": "715.9"
+         "Number of sold albums in thousand copies": "2723"
       },
       {
          "Year": "2016",
-         "Sales in million U.S. dollars": "683.54"
+         "Number of sold albums in thousand copies": "1459"
       },
       {
          "Year": "2015",
-         "Sales in million U.S. dollars": "648.53"
+         "Number of sold albums in thousand copies": "563"
       },
       {
          "Year": "2014",
-         "Sales in million U.S. dollars": "552.41"
+         "Number of sold albums in thousand copies": "218"
+      },
+      {
+         "Year": "2013",
+         "Number of sold albums in thousand copies": "58"
       }
-   ]
+   ],
+   "gold": "The South Korean K-pop boyband BTS , also known as the Bangtan Boys sold around 2.7 million copies of their albums up until 2017 . The boyband is known as the biggest boyband in South Korea and has fans all over the globe . The BTS phenomenon BTS , also known as \u2018 Bangtan Boys ' ( or Bangtan Sonyeondan in Korean ) , formed in 2010 and had their debut in 2013 .\n"
 }

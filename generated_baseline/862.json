@@ -4,45 +4,31 @@
    "yAxis": "Share of urban population in total population",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Share of urban population in total population, with a total of 11 data points. The chart has 4 significant trends.",
-      " The longest trend is  negative which exists from 2018 to 2012.",
-      " But, the next significant trend is  neutral which exists from 2010 to 2008.",
-      " But, the next significant trend is  neutral which exists from 2012 to 2011.",
-      " But, the next significant trend is  negative which exists from 2011 to 2010."
+      " The longest trend is extremely positive which exists from 2018 to 2012.",
+      " Likewise, the next significant trend is slightly neutral which exists from 2010 to 2008.",
+      " Likewise, the next significant trend is slightly neutral which exists from 2012 to 2011.",
+      " Likewise, the next significant trend is slightly positive which exists from 2011 to 2010."
    ],
    "trends": [
+      {},
       {
-         "Length": 7,
-         "direction": "negative",
-         "start": 0,
-         "end": 6,
-         "trend": "y=0.04x+-73.64",
-         "magnitude": ""
+         "1": "0",
+         "12": "6"
       },
       {
-         "Length": 3,
-         "direction": "neutral",
-         "start": 8,
-         "end": 10,
-         "trend": "y=0.0x+16.93",
-         "magnitude": ""
+         "3": "8",
+         "14": "10"
       },
       {
-         "Length": 2,
-         "direction": "neutral",
-         "start": 6,
-         "end": 7,
-         "trend": "y=0.0x+16.94",
-         "magnitude": ""
+         "3": "6",
+         "14": "7"
       },
       {
-         "Length": 2,
-         "direction": "negative",
-         "start": 7,
-         "end": 8,
-         "trend": "y=0.01x+-3.17",
-         "magnitude": ""
+         "3": "7",
+         "14": "8"
       }
    ],
    "data": [

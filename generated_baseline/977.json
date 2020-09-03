@@ -4,18 +4,16 @@
    "yAxis": "Population growth compared to the previous year",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Population growth compared to the previous year with a total of 11 data points. The chart has one significant trend.",
-      " This trend is extremely positive which exists from 2018 to 2008."
+      " This trend is negative which exists from 2018 to 2008."
    ],
    "trends": [
+      {},
       {
-         "Length": 11,
-         "direction": "positive",
-         "start": 0,
-         "end": 10,
-         "trend": "y=-0.04x+78.73",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "10"
       }
    ],
    "data": [

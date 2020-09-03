@@ -9,16 +9,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 8 categories for the x axis of Race representing Total, Male, Female, Unknown.",
+      "This grouped bar chart has 8 categories for the x axis of Race representing Total, Male, Female, and Unknown.",
       " The highest category is found at Total with a mean value of 7061.5.",
       " The second highest category is found at Not Hispanic or Latino with a mean value of 4533.0.",
       " This represents a difference of 43.6%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "6"
+         ],
+         "14": [
+            "4",
+            "6"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Race": "Total",

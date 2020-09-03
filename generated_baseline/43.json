@@ -4,63 +4,41 @@
    "yAxis": "Unemployment rate",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 27 data points. The chart has 6 significant trends.",
-      " The longest trend is extremely positive which exists from '18 to '12.",
-      " Correspondingly, the next significant trend is extremely negative which exists from '10 to '06.",
-      " Contrarily, the next significant trend is extremely positive which exists from '96 to '92.",
-      " Likewise, the next significant trend is extremely positive which exists from '06 to '03.",
-      " Similarly, the next significant trend is extremely negative which exists from '03 to '00.",
-      " But, the next significant trend is strongly positive which exists from '00 to '97."
+      " The longest trend is slightly negative which exists from '18 to '12.",
+      " But, the next significant trend is extremely positive which exists from '12 to '06.",
+      " Likewise, the next significant trend is slightly negative which exists from '97 to '92.",
+      " On the contrary, the next significant trend is slightly negative which exists from '06 to '03.",
+      " On the other hand, the next significant trend is extremely positive which exists from '03 to '00.",
+      " In a similar manner, the next significant trend is moderately negative which exists from '00 to '97."
    ],
    "trends": [
+      {},
       {
-         "Length": 7,
-         "direction": "positive",
-         "start": 0,
-         "end": 6,
-         "trend": "y=-0.74x+16.96",
-         "magnitude": "extremely"
+         "1": "0",
+         "12": "6"
       },
       {
-         "Length": 5,
-         "direction": "negative",
-         "start": 8,
-         "end": 12,
-         "trend": "y=1.19x+-3.24",
-         "magnitude": "extremely"
+         "3": "6",
+         "14": "12"
       },
       {
-         "Length": 5,
-         "direction": "positive",
-         "start": 22,
-         "end": 26,
-         "trend": "y=-0.64x+67.34",
-         "magnitude": "extremely"
+         "3": "21",
+         "14": "26"
       },
       {
-         "Length": 4,
-         "direction": "positive",
-         "start": 12,
-         "end": 15,
-         "trend": "y=-0.65x+8.35",
-         "magnitude": "extremely"
+         "3": "12",
+         "14": "15"
       },
       {
-         "Length": 4,
-         "direction": "negative",
-         "start": 15,
-         "end": 18,
-         "trend": "y=0.7x+4.4",
-         "magnitude": "extremely"
+         "3": "15",
+         "14": "18"
       },
       {
-         "Length": 4,
-         "direction": "positive",
-         "start": 18,
-         "end": 21,
-         "trend": "y=0.01x+4.51",
-         "magnitude": "strongly"
+         "3": "18",
+         "14": "21"
       }
    ],
    "data": [

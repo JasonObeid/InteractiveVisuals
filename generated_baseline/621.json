@@ -4,36 +4,31 @@
    "yAxis": "Net income in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Net income in million U.S. dollars, with a total of 13 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely negative which exists from 2015 to 2011.",
-      " On the contrary, the next significant trend is extremely negative which exists from 2018 to 2016.",
-      " Differently, the next significant trend is extremely positive which exists from 2009 to 2007."
+      "This line chart has an x axis representing Year and a y axis representing Net income in million U.S. dollars, with a total of 13 data points. The chart has 4 significant trends.",
+      " The longest trend is extremely positive which exists from 2016 to 2011.",
+      " Additionally, the next significant trend is extremely positive which exists from 2019 to 2016.",
+      " Similarly, the next significant trend is moderately positive which exists from 2011 to 2009.",
+      " Likewise, the next significant trend is slightly negative which exists from 2009 to 2007."
    ],
    "trends": [
+      {},
       {
-         "Length": 5,
-         "direction": "negative",
-         "start": 4,
-         "end": 8,
-         "trend": "y=150.4x+-302153.8",
-         "magnitude": "extremely"
+         "1": "3",
+         "12": "8"
       },
       {
-         "Length": 3,
-         "direction": "negative",
-         "start": 1,
-         "end": 3,
-         "trend": "y=563.5x+-1135226.5",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "3"
       },
       {
-         "Length": 3,
-         "direction": "positive",
-         "start": 10,
-         "end": 12,
-         "trend": "y=-175.5x+352871.33",
-         "magnitude": "extremely"
+         "3": "8",
+         "14": "10"
+      },
+      {
+         "3": "10",
+         "14": "12"
       }
    ],
    "data": [

@@ -4,15 +4,24 @@
    "yAxis": "Number of goals scored",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 21 categories for the x axis representing Countries, and a y axis representing Number of goals scored.",
       " The highest category is found at Brazil_2014 where Number of goals scored is 171.0.",
       " The lowest category is found at Italy_1934 where Number of goals scored is 70.0."
    ],
-   "trends": {
-      "maxIndex": 1,
-      "minIndex": 19
-   },
+   "trends": [
+      {},
+      {
+         "7": 1,
+         "12": 1
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
    "data": [
       {
          "Countries": "Russia 2018",

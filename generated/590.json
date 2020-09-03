@@ -1,69 +1,43 @@
 {
-   "title": "Urbanization in Tanzania 2018",
-   "xAxis": "Year",
-   "yAxis": "Share of urban population in total population",
+   "title": "Distribution of Instagram.com traffic 2019 , by country",
+   "xAxis": "Country",
+   "yAxis": "Share of desktop traffic",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the degree of Urbanization in Tanzania from 2008 to 2018 . ",
-      "Urbanization means the Share of urban population in the total population of a country . ",
-      "In 2018 , 33.78 % of Tanzania 's total population lived in urban areas and cities ."
+      "This statistic shows the percentage of worldwide desktop to Instagram.com in 2019 , sorted country . ",
+      "It was found that 3.24 % of global Instagram.com desktop were from Turkey , whereas approximately one quarter of desktop to the search platform came from the United_States ."
    ],
    "trends": [
-      {
-         "10": "10",
-         "12": "0"
-      },
       {},
       {
-         "1": "0",
-         "3": "0"
+         "4": "4",
+         "12": "4",
+         "27": "0"
       }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Share of urban population in total population": "33.78"
+         "Country": "United States",
+         "Share of desktop traffic": "17.77"
       },
       {
-         "Year": "2017",
-         "Share of urban population in total population": "33.05"
+         "Country": "Brazil",
+         "Share of desktop traffic": "8.22"
       },
       {
-         "Year": "2016",
-         "Share of urban population in total population": "32.33"
+         "Country": "Russia",
+         "Share of desktop traffic": "7.06"
       },
       {
-         "Year": "2015",
-         "Share of urban population in total population": "31.62"
+         "Country": "United Kingdom",
+         "Share of desktop traffic": "3.6"
       },
       {
-         "Year": "2014",
-         "Share of urban population in total population": "30.9"
-      },
-      {
-         "Year": "2013",
-         "Share of urban population in total population": "30.2"
-      },
-      {
-         "Year": "2012",
-         "Share of urban population in total population": "29.49"
-      },
-      {
-         "Year": "2011",
-         "Share of urban population in total population": "28.8"
-      },
-      {
-         "Year": "2010",
-         "Share of urban population in total population": "28.11"
-      },
-      {
-         "Year": "2009",
-         "Share of urban population in total population": "27.44"
-      },
-      {
-         "Year": "2008",
-         "Share of urban population in total population": "26.78"
+         "Country": "Turkey",
+         "Share of desktop traffic": "3.24"
       }
-   ]
+   ],
+   "gold": "As of October 2019 , the United States generated 17.77 percent of Instagram desktop traffic , while visitors from the United Kingdom accounted for 3.6 percent of site visits . Instagram is one of the most popular social networks in the United States with a 31 percent membership reach among online adults in the United States . During a February 2019 survey , it was found that 93 percent of adults in the United States were aware of the photo sharing app .\n"
 }

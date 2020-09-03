@@ -4,18 +4,16 @@
    "yAxis": "Share of the rural population",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Share of the rural population with a total of 13 data points. The chart has one significant trend.",
-      " This trend is extremely positive which exists from 2018 to 2006."
+      " This trend is negative which exists from 2018 to 2006."
    ],
    "trends": [
+      {},
       {
-         "Length": 13,
-         "direction": "positive",
-         "start": 0,
-         "end": 12,
-         "trend": "y=-0.26x+543.99",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "12"
       }
    ],
    "data": [

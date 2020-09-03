@@ -1,66 +1,178 @@
 {
-   "title": "Salaries of heads of state and government\n",
-   "xAxis": "Month",
-   "yAxis": "Annual salary (in U.S. dollars)",
-   "columnType": "two",
-   "graphType": "bar",
-   "summary": [
-      "This bar chart has 12 categories for the x axis representing Month, and a y axis representing Annual salary (in U.S. dollars).",
-      " The highest category is found at Lee_Hsien_Loong_(Singapore) where Annual salary (in U.S. dollars) is 2183500.0.",
-      " The lowest category is found at David_Cameron_(United_Kingdom) where Annual salary (in U.S. dollars) is 215400.0."
+   "title": "U.S. Senate - composition by political party affiliation 1983 to 2019",
+   "labels": [
+      "Year",
+      "Democrat",
+      "Republican",
+      "Other parties"
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 11
-   },
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 3 lines.",
+      " The line representing Republican had the highest values across Year with a mean value of 49.7.",
+      " This peaked at 109th_Congress_2005 with a value of 55.0. ",
+      " The line with the second highest values was Democrat with a mean value of 49.3.",
+      " This line peaked at 103d_Congress_1993 with a value of 57.0"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "18",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "9": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "18",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "10": [
+            "0",
+            "0"
+         ]
+      }
+   ],
    "data": [
       {
-         "Month": "Lee Hsien Loong (Singapore)",
-         "Annual salary (in U.S. dollars)": 2183500.0
+         "Year": "116th Congress 2019",
+         "Democrat": "45",
+         "Republican": "53",
+         "Other parties": "2"
       },
       {
-         "Month": "Mwai Kibaki (Kenya)",
-         "Annual salary (in U.S. dollars)": 427900.0
+         "Year": "115th Congress 2017",
+         "Democrat": "46",
+         "Republican": "52",
+         "Other parties": "2"
       },
       {
-         "Month": "Barack Obama (United States)",
-         "Annual salary (in U.S. dollars)": 400000.0
+         "Year": "114th Congress 2015",
+         "Democrat": "44",
+         "Republican": "54",
+         "Other parties": "2"
       },
       {
-         "Month": "Nicolas Sarkozy (France)",
-         "Annual salary (in U.S. dollars)": 302400.0
+         "Year": "113th Congress 2013",
+         "Democrat": "53",
+         "Republican": "45",
+         "Other parties": "2"
       },
       {
-         "Month": "Stephen Harper (Canada)",
-         "Annual salary (in U.S. dollars)": 296400.0
+         "Year": "112th Congress 2011",
+         "Democrat": "51",
+         "Republican": "47",
+         "Other parties": "2"
       },
       {
-         "Month": "Brian Cowen (Ireland)",
-         "Annual salary (in U.S. dollars)": 287900.0
+         "Year": "111th Congress 2009",
+         "Democrat": "55",
+         "Republican": "41",
+         "Other parties": "2"
       },
       {
-         "Month": "Julia Gillard (Australia)",
-         "Annual salary (in U.S. dollars)": 286800.0
+         "Year": "110th Congress 2007",
+         "Democrat": "49",
+         "Republican": "49",
+         "Other parties": "2"
       },
       {
-         "Month": "Angela Merkel (Germany)",
-         "Annual salary (in U.S. dollars)": 283600.0
+         "Year": "109th Congress 2005",
+         "Democrat": "44",
+         "Republican": "55",
+         "Other parties": "1"
       },
       {
-         "Month": "Naoto Kan (Japan)",
-         "Annual salary (in U.S. dollars)": 273700.0
+         "Year": "108th Congress 2003",
+         "Democrat": "48",
+         "Republican": "51",
+         "Other parties": "1"
       },
       {
-         "Month": "Jacob Zuma (South Africa)",
-         "Annual salary (in U.S. dollars)": 272300.0
+         "Year": "107th Congress 2001",
+         "Democrat": "50",
+         "Republican": "50",
+         "Other parties": "0"
       },
       {
-         "Month": "John Key (New Zealand)",
-         "Annual salary (in U.S. dollars)": 271800.0
+         "Year": "106th Congress 1999",
+         "Democrat": "45",
+         "Republican": "55",
+         "Other parties": "0"
       },
       {
-         "Month": "David Cameron (United Kingdom)",
-         "Annual salary (in U.S. dollars)": 215400.0
+         "Year": "105th Congress 1997",
+         "Democrat": "45",
+         "Republican": "55",
+         "Other parties": "0"
+      },
+      {
+         "Year": "104th Congress 1995",
+         "Democrat": "45",
+         "Republican": "55",
+         "Other parties": "0"
+      },
+      {
+         "Year": "103d Congress 1993",
+         "Democrat": "57",
+         "Republican": "43",
+         "Other parties": "0"
+      },
+      {
+         "Year": "102d Congress 1991",
+         "Democrat": "57",
+         "Republican": "43",
+         "Other parties": "0"
+      },
+      {
+         "Year": "101st Congress 1989",
+         "Democrat": "55",
+         "Republican": "45",
+         "Other parties": "0"
+      },
+      {
+         "Year": "100th Congress 1987",
+         "Democrat": "55",
+         "Republican": "45",
+         "Other parties": "0"
+      },
+      {
+         "Year": "99th Congress 1985",
+         "Democrat": "47",
+         "Republican": "53",
+         "Other parties": "0"
+      },
+      {
+         "Year": "98th Congress 1983",
+         "Democrat": "46",
+         "Republican": "54",
+         "Other parties": "0"
       }
    ]
 }

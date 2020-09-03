@@ -1,65 +1,65 @@
 {
-   "title": "Hot beverage consumption by type in the United Kingdom ( UK ) 2015",
-   "xAxis": "Response",
-   "yAxis": "Share of respondents",
+   "title": "Most popular product brands on Facebook 2020",
+   "xAxis": "Platform",
+   "yAxis": "Facebook fans in millions",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This survey shows the Hot United gave beverage not reporting cases of by on their premises to the Instant_coffee in United Kingdom and UK in 2015 . ",
-      "Of respondents , 44 % claimed they did not Premium_instant_coffee the incident as there was no Tea or damage the crime was too trivial to Premium_instant_coffee the Instant_coffee ."
+      "This statistic brands the Most popular Platform brands in 2020 , based on the Facebook of fans on BitTorrent . ",
+      "'Game of Facebook ' was the most-pirated Platform in 2020 . ",
+      "The most-downloaded episode of the American fantasy television series created for HBO was downloaded 214.62 millions times ."
    ],
    "trends": [
+      {},
       {
-         "18": "1"
+         "2": "0"
       },
       {
-         "3": "0",
-         "9": "5",
-         "16": "0",
-         "26": "5",
-         "29": "1"
+         "14": "0"
       }
    ],
    "data": [
       {
-         "Response": "Tea",
-         "Share of respondents": "44"
+         "Platform": "Facebook",
+         "Facebook fans in millions": "214.62"
       },
       {
-         "Response": "Instant coffee",
-         "Share of respondents": "21"
+         "Platform": "Samsung",
+         "Facebook fans in millions": "160.05"
       },
       {
-         "Response": "Ground coffee",
-         "Share of respondents": "7"
+         "Platform": "Coca-Cola",
+         "Facebook fans in millions": "107.11"
       },
       {
-         "Response": "Hot chocolate",
-         "Share of respondents": "7"
+         "Platform": "YouTube",
+         "Facebook fans in millions": "84.35"
       },
       {
-         "Response": "Green tea",
-         "Share of respondents": "6"
+         "Platform": "McDonald's",
+         "Facebook fans in millions": "79.86"
       },
       {
-         "Response": "Premium instant coffee",
-         "Share of respondents": "5"
+         "Platform": "Candy Crush Saga",
+         "Facebook fans in millions": "71.54"
       },
       {
-         "Response": "Fruit/herbal tea",
-         "Share of respondents": "4"
+         "Platform": "Criminal Case",
+         "Facebook fans in millions": "65.88"
       },
       {
-         "Response": "Coffee from pods",
-         "Share of respondents": "4"
+         "Platform": "Texas HoldEm Poker",
+         "Facebook fans in millions": "63.66"
       },
       {
-         "Response": "Coffee from a coffee shop",
-         "Share of respondents": "2"
+         "Platform": "Instagram",
+         "Facebook fans in millions": "60.34"
       },
       {
-         "Response": "Vending machine coffee",
-         "Share of respondents": "0"
+         "Platform": "KFC",
+         "Facebook fans in millions": "55.0"
       }
-   ]
+   ],
+   "gold": "Coca-Cola is one of the most recognizable brands worldwide , which in this case translates to over 107 million Facebook followers . Due its global reach , advertisers and marketers have recognized Facebook 's potential as a marketing tool to reach new and existing customers and as a result have come up with new and innovative ways of connecting with their target audiences .\n"
 }

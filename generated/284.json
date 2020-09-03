@@ -1,69 +1,96 @@
 {
-   "title": "The adidas Group 's global apparel production from 2008 to 2018",
-   "xAxis": "Year",
-   "yAxis": "Apparel production in million units",
-   "columnType": "two",
-   "graphType": "line",
+   "title": "Importance in decision-making process when purchasing CE in the U.S. 2013",
+   "labels": [
+      "Response",
+      "18-49",
+      "50+"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
    "summary": [
-      "This statistic shows the adidas Group of The adidas Group from 2008 to 2018 . ",
-      "The adidas Group is the average Apparel of production a units will have during her child-bearing years . ",
-      "In 2018 , the adidas Group of The adidas Group 's population was 457 production units ."
+      "This statistic shows the CE of process when purchasing across CE as of 2015 , broken down 2013 group . ",
+      "During the reported period , the highest purchasing CE belonged to consumers between the ages of 35 to 49 across all regions in CE , with 21 % ."
    ],
    "trends": [
-      {
-         "9": "10",
-         "11": "0"
-      },
       {},
       {
-         "1": "0",
-         "11": "0"
+         "26": [
+            "13",
+            "2"
+         ]
       }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Apparel production in million units": "457"
+         "Response": "Price",
+         "18-49": "83",
+         "50+": "95"
       },
       {
-         "Year": "2017",
-         "Apparel production in million units": "404"
+         "Response": "Quality",
+         "18-49": "82",
+         "50+": "94"
       },
       {
-         "Year": "2016",
-         "Apparel production in million units": "382"
+         "Response": "Product features",
+         "18-49": "81",
+         "50+": "91"
       },
       {
-         "Year": "2015",
-         "Apparel production in million units": "364"
+         "Response": "Ease of use",
+         "18-49": "80",
+         "50+": "90"
       },
       {
-         "Year": "2014",
-         "Apparel production in million units": "309"
+         "Response": "Product reviews",
+         "18-49": "73",
+         "50+": "75"
       },
       {
-         "Year": "2013",
-         "Apparel production in million units": "292"
+         "Response": "Warranty",
+         "18-49": "70",
+         "50+": "83"
       },
       {
-         "Year": "2012",
-         "Apparel production in million units": "262"
+         "Response": "Style of design",
+         "18-49": "70",
+         "50+": "65"
       },
       {
-         "Year": "2011",
-         "Apparel production in million units": "267"
+         "Response": "Previous experience with brand",
+         "18-49": "67",
+         "50+": "78"
       },
       {
-         "Year": "2010",
-         "Apparel production in million units": "301"
+         "Response": "Brand",
+         "18-49": "65",
+         "50+": "69"
       },
       {
-         "Year": "2009",
-         "Apparel production in million units": "239"
+         "Response": "Friend/family member/co-worker recommendation",
+         "18-49": "54",
+         "50+": "51"
       },
       {
-         "Year": "2008",
-         "Apparel production in million units": "284"
+         "Response": "Environmental friendliness of product",
+         "18-49": "41",
+         "50+": "35"
+      },
+      {
+         "Response": "Salesperson recommendation",
+         "18-49": "35",
+         "50+": "32"
+      },
+      {
+         "Response": "Family members have it",
+         "18-49": "32",
+         "50+": "28"
+      },
+      {
+         "Response": "Friends have it",
+         "18-49": "32",
+         "50+": "21"
       }
-   ]
+   ],
+   "gold": "This statistic shows the results of a 2013 survey regarding the decision-making process when purchasing CE in the U.S. in 2013 . The survey revealed that 83 percent of the respondents between the ages of 18 - 49 said the price is very or somewhat important to their decision-making process when buying consumer electronics .\n"
 }

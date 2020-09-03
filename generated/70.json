@@ -1,107 +1,143 @@
 {
-   "title": "BHP 's production of selected metals 2008 to 2019",
-   "labels": [
-      "Year",
-      "Copper",
-      "Nickel",
-      "Iron ore"
-   ],
-   "columnType": "multi",
+   "title": "Poverty rate of black families in the U.S. 1990 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Percentage of poor black families",
+   "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the BHP of 's in the BHP selected of 2008 under 18 from 2008 to 2019 . ",
-      "Just over seven % 's had three or ore 2008 under 18 living in the household in 2019 ."
+      "This statistic shows the percentage of black , families black a families in the 2018 who live below the Percentage level from 1990 to 2018 . ",
+      "In 2018 , 17.7 percentage of black , families black a families were living below the Percentage level in the 2018 . ",
+      "Percentage is the state of one who lacks a certain amount of material possessions or money ."
    ],
    "trends": [
       {
-         "17": [
-            "11",
-            "0"
-         ],
-         "19": [
-            "0",
-            "0"
-         ]
+         "24": "28",
+         "26": "0"
       },
       {
-         "17": [
-            "0",
-            "0"
-         ]
-      }
+         "1": "0",
+         "3": "0"
+      },
+      {}
    ],
    "data": [
       {
-         "Year": "2019",
-         "Copper": "1689.3",
-         "Nickel": "87.4",
-         "Iron ore": "237694"
-      },
-      {
          "Year": "2018",
-         "Copper": "1753.3",
-         "Nickel": "93.0",
-         "Iron ore": "238421"
+         "Percentage of poor black families": "17.7"
       },
       {
          "Year": "2017",
-         "Copper": "1326.0",
-         "Nickel": "85.8",
-         "Iron ore": "231352"
+         "Percentage of poor black families": "18.2"
       },
       {
          "Year": "2016",
-         "Copper": "1579.8",
-         "Nickel": "80.7",
-         "Iron ore": "226958"
+         "Percentage of poor black families": "19"
       },
       {
          "Year": "2015",
-         "Copper": "1708.0",
-         "Nickel": "90.0",
-         "Iron ore": "232508"
+         "Percentage of poor black families": "21.1"
       },
       {
          "Year": "2014",
-         "Copper": "1727.0",
-         "Nickel": "99.0",
-         "Iron ore": "203564"
+         "Percentage of poor black families": "22.9"
       },
       {
          "Year": "2013",
-         "Copper": "1689.0",
-         "Nickel": "154.1",
-         "Iron ore": "169856"
+         "Percentage of poor black families": "22.8"
       },
       {
          "Year": "2012",
-         "Copper": "1468.0",
-         "Nickel": "157.9",
-         "Iron ore": "159478"
+         "Percentage of poor black families": "23.7"
       },
       {
          "Year": "2011",
-         "Copper": "1139.4",
-         "Nickel": "152.7",
-         "Iron ore": "134406"
+         "Percentage of poor black families": "24.2"
       },
       {
          "Year": "2010",
-         "Copper": "1075.2",
-         "Nickel": "176.2",
-         "Iron ore": "124962"
+         "Percentage of poor black families": "24.1"
       },
       {
          "Year": "2009",
-         "Copper": "1207.1",
-         "Nickel": "173.1",
-         "Iron ore": "114415"
+         "Percentage of poor black families": "22.7"
       },
       {
          "Year": "2008",
-         "Copper": "1375.5",
-         "Nickel": "167.9",
-         "Iron ore": "112260"
+         "Percentage of poor black families": "22"
+      },
+      {
+         "Year": "2007",
+         "Percentage of poor black families": "22.1"
+      },
+      {
+         "Year": "2006",
+         "Percentage of poor black families": "21.6"
+      },
+      {
+         "Year": "2005",
+         "Percentage of poor black families": "22.1"
+      },
+      {
+         "Year": "2004",
+         "Percentage of poor black families": "22.8"
+      },
+      {
+         "Year": "2003",
+         "Percentage of poor black families": "22.3"
+      },
+      {
+         "Year": "2002",
+         "Percentage of poor black families": "21.5"
+      },
+      {
+         "Year": "2001",
+         "Percentage of poor black families": "20.7"
+      },
+      {
+         "Year": "2000",
+         "Percentage of poor black families": "19.3"
+      },
+      {
+         "Year": "1999",
+         "Percentage of poor black families": "21.8"
+      },
+      {
+         "Year": "1998",
+         "Percentage of poor black families": "23.4"
+      },
+      {
+         "Year": "1997",
+         "Percentage of poor black families": "23.6"
+      },
+      {
+         "Year": "1996",
+         "Percentage of poor black families": "26.1"
+      },
+      {
+         "Year": "1995",
+         "Percentage of poor black families": "26.4"
+      },
+      {
+         "Year": "1994",
+         "Percentage of poor black families": "27.3"
+      },
+      {
+         "Year": "1993",
+         "Percentage of poor black families": "31.3"
+      },
+      {
+         "Year": "1992",
+         "Percentage of poor black families": "31.1"
+      },
+      {
+         "Year": "1991",
+         "Percentage of poor black families": "30.4"
+      },
+      {
+         "Year": "1990",
+         "Percentage of poor black families": "29.3"
       }
-   ]
+   ],
+   "gold": "This statistic shows the percentage of black families in the U.S. who live below the poverty level from 1990 to 2018 . In 2018 , 17.7 percent of black families were living below the poverty line in the United States . Poverty is the state of one who lacks a certain amount of material possessions or money .\n"
 }

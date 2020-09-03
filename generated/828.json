@@ -1,196 +1,78 @@
 {
-   "title": "Active social media penetration in European countries 2019",
-   "xAxis": "Country",
-   "yAxis": "Active social media penetration",
+   "title": "Breakdown of the Department of Homeland Security budget by organization 2020",
+   "xAxis": "Organisation",
+   "yAxis": "Budget authority in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic displays the Active of internet social media in single offender countries in European 2019 . ",
-      "Albania was the Country with the highest suppression of Active social media in European with 99 ."
+      "The statistic shows the Budget operating by authority on selected Department Homeland Security Department Homeland Security in 2020 . ",
+      "In that year , trucks had an Budget operating authority of just over 28708.82 million U.S. dollars in U.S._Coast_Guard , Florida ."
    ],
    "trends": [
       {},
       {
-         "0": "0",
-         "15": "28"
+         "13": "0",
+         "18": "2"
       }
    ],
    "data": [
       {
-         "Country": "Albania",
-         "Active social media penetration": "51"
+         "Organisation": "Federal Emergency Management Agency",
+         "Budget authority in million U.S. dollars": "28708.82"
       },
       {
-         "Country": "Andorra",
-         "Active social media penetration": "65"
+         "Organisation": "U.S. Customs and Border Protection",
+         "Budget authority in million U.S. dollars": "20850.39"
       },
       {
-         "Country": "Austria",
-         "Active social media penetration": "50"
+         "Organisation": "U.S. Coast Guard",
+         "Budget authority in million U.S. dollars": "11339.98"
       },
       {
-         "Country": "Belarus",
-         "Active social media penetration": "40"
+         "Organisation": "U.S. Immigration and Customs Enforcement",
+         "Budget authority in million U.S. dollars": "9308.59"
       },
       {
-         "Country": "Belgium",
-         "Active social media penetration": "65"
+         "Organisation": "Transportation Security Administration",
+         "Budget authority in million U.S. dollars": "7785.63"
       },
       {
-         "Country": "Bosnia & Herzegovina",
-         "Active social media penetration": "49"
+         "Organisation": "United States Citizenship and Immigration Services",
+         "Budget authority in million U.S. dollars": "4840.41"
       },
       {
-         "Country": "Bulgaria",
-         "Active social media penetration": "54"
+         "Organisation": "Cybersecurity and Infrastructure Security Agency",
+         "Budget authority in million U.S. dollars": "3168.08"
       },
       {
-         "Country": "Croatia",
-         "Active social media penetration": "48"
+         "Organisation": "U.S. Secret Service",
+         "Budget authority in million U.S. dollars": "2573.98"
       },
       {
-         "Country": "Czechia",
-         "Active social media penetration": "54"
+         "Organisation": "Management Directorate",
+         "Budget authority in million U.S. dollars": "1698.6"
       },
       {
-         "Country": "Denmark",
-         "Active social media penetration": "71"
+         "Organisation": "Science and Technology Directorate",
+         "Budget authority in million U.S. dollars": "582.12"
       },
       {
-         "Country": "Estonia",
-         "Active social media penetration": "57"
+         "Organisation": "Countering Weapons of Mass Destruction",
+         "Budget authority in million U.S. dollars": "423.16"
       },
       {
-         "Country": "Finland",
-         "Active social media penetration": "59"
+         "Organisation": "Federal Law Enforcement Training Centers",
+         "Budget authority in million U.S. dollars": "350.94"
       },
       {
-         "Country": "France",
-         "Active social media penetration": "58"
+         "Organisation": "Analysis and Operations",
+         "Budget authority in million U.S. dollars": "276.64"
       },
       {
-         "Country": "Germany",
-         "Active social media penetration": "46"
-      },
-      {
-         "Country": "Gibraltar",
-         "Active social media penetration": "72"
-      },
-      {
-         "Country": "Greece",
-         "Active social media penetration": "54"
-      },
-      {
-         "Country": "Guernsey",
-         "Active social media penetration": "58"
-      },
-      {
-         "Country": "Hungary",
-         "Active social media penetration": "62"
-      },
-      {
-         "Country": "Iceland",
-         "Active social media penetration": "83"
-      },
-      {
-         "Country": "Republic of Ireland",
-         "Active social media penetration": "66"
-      },
-      {
-         "Country": "Italy",
-         "Active social media penetration": "59"
-      },
-      {
-         "Country": "Kosovo",
-         "Active social media penetration": "40"
-      },
-      {
-         "Country": "Latvia",
-         "Active social media penetration": "51"
-      },
-      {
-         "Country": "Liechtenstein",
-         "Active social media penetration": "44"
-      },
-      {
-         "Country": "Lithuania",
-         "Active social media penetration": "59"
-      },
-      {
-         "Country": "Luxembourg",
-         "Active social media penetration": "62"
-      },
-      {
-         "Country": "Malta",
-         "Active social media penetration": "88"
-      },
-      {
-         "Country": "Moldova",
-         "Active social media penetration": "30"
-      },
-      {
-         "Country": "Monaco",
-         "Active social media penetration": "99"
-      },
-      {
-         "Country": "Montenegro",
-         "Active social media penetration": "60"
-      },
-      {
-         "Country": "Netherlands",
-         "Active social media penetration": "64"
-      },
-      {
-         "Country": "Norway",
-         "Active social media penetration": "71"
-      },
-      {
-         "Country": "Poland",
-         "Active social media penetration": "47"
-      },
-      {
-         "Country": "Portugal",
-         "Active social media penetration": "65"
-      },
-      {
-         "Country": "Romania",
-         "Active social media penetration": "56"
-      },
-      {
-         "Country": "Serbia",
-         "Active social media penetration": "43"
-      },
-      {
-         "Country": "Slovakia",
-         "Active social media penetration": "50"
-      },
-      {
-         "Country": "Slovenia",
-         "Active social media penetration": "53"
-      },
-      {
-         "Country": "Spain",
-         "Active social media penetration": "60"
-      },
-      {
-         "Country": "Sweden",
-         "Active social media penetration": "72"
-      },
-      {
-         "Country": "Switzerland",
-         "Active social media penetration": "51"
-      },
-      {
-         "Country": "The Faroe Islands",
-         "Active social media penetration": "75"
-      },
-      {
-         "Country": "Ukraine",
-         "Active social media penetration": "39"
-      },
-      {
-         "Country": "United Kingdom (UK)",
-         "Active social media penetration": "67"
+         "Organisation": "Office of Inspector General",
+         "Budget authority in million U.S. dollars": "170.19"
       }
-   ]
+   ],
+   "gold": "This statistic gives a breakdown of how the budget of the Department of Homeland is allocated amongst the various organizations administered by the agency in FY 2020 . The second budget of President Trump in FY 2020 saw funding for U.S. Customs and Border Protection increase by around 4.16 billion dollars from the 2018 figure to 20.85 billion U.S. dollars .\n"
 }

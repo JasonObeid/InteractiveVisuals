@@ -4,36 +4,31 @@
    "yAxis": "Consumption in trillion cubic feet",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Consumption in trillion cubic feet, with a total of 16 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely negative which exists from 2016 to 2009.",
-      " But, the next significant trend is moderately positive which exists from 2006 to 1995.",
-      " In a similar manner, the next significant trend is extremely negative which exists from 2008 to 2006."
+      "This line chart has an x axis representing Year and a y axis representing Consumption in trillion cubic feet, with a total of 16 data points. The chart has 4 significant trends.",
+      " The longest trend is moderately positive which exists from 2016 to 2009.",
+      " Correspondingly, the next significant trend is moderately positive which exists from 2009 to 2006.",
+      " Likewise, the next significant trend is slightly negative which exists from 2006 to 1995.",
+      " On the other hand, the next significant trend is extremely negative which exists from 2018 to 2016."
    ],
    "trends": [
+      {},
       {
-         "Length": 8,
-         "direction": "negative",
-         "start": 2,
-         "end": 9,
-         "trend": "y=0.65x+-1278.02",
-         "magnitude": "extremely"
+         "1": "2",
+         "12": "9"
       },
       {
-         "Length": 4,
-         "direction": "positive",
-         "start": 12,
-         "end": 15,
-         "trend": "y=-0.06x+143.83",
-         "magnitude": "moderately"
+         "3": "9",
+         "14": "12"
       },
       {
-         "Length": 3,
-         "direction": "negative",
-         "start": 10,
-         "end": 12,
-         "trend": "y=0.79x+-1562.84",
-         "magnitude": "extremely"
+         "3": "12",
+         "14": "15"
+      },
+      {
+         "3": "0",
+         "14": "2"
       }
    ],
    "data": [

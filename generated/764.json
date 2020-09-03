@@ -1,149 +1,62 @@
 {
-   "title": "Paid circulation of daily newspapers in the U.S. 1985 to 2018",
+   "title": "DOTA 2 The International prize pool 2011 to 2019",
    "xAxis": "Year",
-   "yAxis": "Circulation in thousands",
+   "yAxis": "Prize pool in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Circulation of thousands in the newspapers from 1985 to 2018 . ",
-      "In 2018 , around 8.32 thousands were in the newspapers ."
+      "The statistics presents the prize of DOTA Holdings from 2011 years to 2019 . ",
+      "In the last 2011 Year that ended 31 , 2019 DOTA reported a profit of 34.33 U.S. dollars ."
    ],
    "trends": [
-      {},
-      {}
+      {
+         "12": "8",
+         "14": "0"
+      },
+      {
+         "9": "0",
+         "16": "0",
+         "17": "0"
+      }
    ],
    "data": [
       {
-         "Year": "'18",
-         "Circulation in thousands": "28554"
+         "Year": "2019",
+         "Prize pool in million U.S. dollars": "34.33"
       },
       {
-         "Year": "'17",
-         "Circulation in thousands": "30948"
+         "Year": "2018",
+         "Prize pool in million U.S. dollars": "25.53"
       },
       {
-         "Year": "'16",
-         "Circulation in thousands": "34657"
+         "Year": "2017",
+         "Prize pool in million U.S. dollars": "24.69"
       },
       {
-         "Year": "'15",
-         "Circulation in thousands": "37711"
+         "Year": "2016",
+         "Prize pool in million U.S. dollars": "20.77"
       },
       {
-         "Year": "'14",
-         "Circulation in thousands": "40420"
+         "Year": "2015",
+         "Prize pool in million U.S. dollars": "18.43"
       },
       {
-         "Year": "'13",
-         "Circulation in thousands": "40712"
+         "Year": "2014",
+         "Prize pool in million U.S. dollars": "10.93"
       },
       {
-         "Year": "'12",
-         "Circulation in thousands": "43433"
+         "Year": "2013",
+         "Prize pool in million U.S. dollars": "2.87"
       },
       {
-         "Year": "'11",
-         "Circulation in thousands": "44421"
+         "Year": "2012",
+         "Prize pool in million U.S. dollars": "1.6"
       },
       {
-         "Year": "'09",
-         "Circulation in thousands": "45653"
-      },
-      {
-         "Year": "'08",
-         "Circulation in thousands": "48597"
-      },
-      {
-         "Year": "'07",
-         "Circulation in thousands": "50742"
-      },
-      {
-         "Year": "'06",
-         "Circulation in thousands": "52329"
-      },
-      {
-         "Year": "'05",
-         "Circulation in thousands": "53345"
-      },
-      {
-         "Year": "'04",
-         "Circulation in thousands": "54626"
-      },
-      {
-         "Year": "'03",
-         "Circulation in thousands": "55185"
-      },
-      {
-         "Year": "'02",
-         "Circulation in thousands": "55186"
-      },
-      {
-         "Year": "'01",
-         "Circulation in thousands": "55578"
-      },
-      {
-         "Year": "'00",
-         "Circulation in thousands": "55773"
-      },
-      {
-         "Year": "'99",
-         "Circulation in thousands": "55979"
-      },
-      {
-         "Year": "'98",
-         "Circulation in thousands": "56182"
-      },
-      {
-         "Year": "'97",
-         "Circulation in thousands": "56728"
-      },
-      {
-         "Year": "'96",
-         "Circulation in thousands": "56983"
-      },
-      {
-         "Year": "'95",
-         "Circulation in thousands": "58193"
-      },
-      {
-         "Year": "'94",
-         "Circulation in thousands": "59305"
-      },
-      {
-         "Year": "'93",
-         "Circulation in thousands": "59812"
-      },
-      {
-         "Year": "'92",
-         "Circulation in thousands": "60164"
-      },
-      {
-         "Year": "'91",
-         "Circulation in thousands": "60687"
-      },
-      {
-         "Year": "'90",
-         "Circulation in thousands": "62328"
-      },
-      {
-         "Year": "'89",
-         "Circulation in thousands": "62649"
-      },
-      {
-         "Year": "'88",
-         "Circulation in thousands": "62695"
-      },
-      {
-         "Year": "'87",
-         "Circulation in thousands": "62826"
-      },
-      {
-         "Year": "'86",
-         "Circulation in thousands": "62502"
-      },
-      {
-         "Year": "'85",
-         "Circulation in thousands": "62766"
+         "Year": "2011",
+         "Prize pool in million U.S. dollars": "1.6"
       }
-   ]
+   ],
+   "gold": "The timeline presents the Defense of the Ancients 2 The International championships prize pool from 2012 to 2019 . The International 9 , DOTA 's 2019 championship , which took place in Shanghai , had a prize pool of 34.33 million U.S. dollars , up from 25.53 million a year earlier .\n"
 }

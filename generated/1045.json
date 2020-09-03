@@ -1,31 +1,45 @@
 {
-   "title": "Child abuse in the U.S. - number of victims by gender 2018",
-   "xAxis": "Gender",
-   "yAxis": "Number of child abuse cases",
+   "title": "GM 's research and development expenditures 2015 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Expenditures in billion U.S. dollars",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic depicts the percentage of abuse child in the number in 2018 , victims Gender . ",
-      "In 2018 , 346957 % of abuse child in the number were child ."
+      "The statistic shows the forecast GM of Expenditures billion development from 2015 to 2019 . ",
+      "The GM of Expenditures billion is forecast to grow 6.8 billion in 2018 ."
    ],
    "trends": [
-      {},
       {
-         "3": "0"
+         "11": "0",
+         "13": "4"
+      },
+      {
+         "10": "4",
+         "13": "3"
       }
    ],
    "data": [
       {
-         "Gender": "Girls",
-         "Number of child abuse cases": "346957"
+         "Year": "2015",
+         "Expenditures in billion U.S. dollars": "6.0"
       },
       {
-         "Gender": "Boys",
-         "Number of child abuse cases": "328281"
+         "Year": "2016",
+         "Expenditures in billion U.S. dollars": "6.6"
       },
       {
-         "Gender": "Unknown",
-         "Number of child abuse cases": "2291"
+         "Year": "2017",
+         "Expenditures in billion U.S. dollars": "7.3"
+      },
+      {
+         "Year": "2018",
+         "Expenditures in billion U.S. dollars": "7.8"
+      },
+      {
+         "Year": "2019",
+         "Expenditures in billion U.S. dollars": "6.8"
       }
-   ]
+   ],
+   "gold": "General Motors incurred around 6.8 billion U.S. dollars in R & D costs in 2019 . This figure puts the car manufacturer 's R & D intensity at five percent . That said , the company declared interest to enter into cost sharing arrangements with third parties .\n"
 }

@@ -1,60 +1,78 @@
 {
-   "title": "Alphabet : global annual revenue 2011 to 2019",
+   "title": "MINI - worldwide sales volume 2006 to 2018",
    "xAxis": "Year",
-   "yAxis": "Revenue in million U.S. dollars",
+   "yAxis": "Sales in units",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the annual Revenue of the Alphabet from 2011 to 2019 . ",
-      "In the last reported Year , the Alphabet 's dating Revenue amounted to 161857 million U.S. dollars . ",
-      "Up until early 2020 , the Alphabet belongs to IAC and includes online dating platforms such as the eponymous Match.com , OkCupid Tinder , PlentyofFish and others ."
+      "MINI reported Sales units of 371881 million units in 2017 , a record high for the firm . ",
+      "After 2008 , its Sales units increased , consistently posted above 90 million units each Year . ",
+      "Why is Sales units important ? Sales units gives an idea of how much money a firm takes in , subtracting the cost of goods and services sold ."
    ],
    "trends": [
       {
-         "10": "8",
-         "12": "0"
+         "5": "1",
+         "10": "1"
       },
       {
-         "13": "0"
+         "1": "10"
       },
       {}
    ],
    "data": [
       {
-         "Year": "2019",
-         "Revenue in million U.S. dollars": "161857"
-      },
-      {
          "Year": "2018",
-         "Revenue in million U.S. dollars": "136819"
+         "Sales in units": "361531"
       },
       {
          "Year": "2017",
-         "Revenue in million U.S. dollars": "110855"
+         "Sales in units": "371881"
       },
       {
          "Year": "2016",
-         "Revenue in million U.S. dollars": "90272"
+         "Sales in units": "360233"
       },
       {
          "Year": "2015",
-         "Revenue in million U.S. dollars": "74989"
+         "Sales in units": "338466"
       },
       {
          "Year": "2014",
-         "Revenue in million U.S. dollars": "66001"
+         "Sales in units": "302183"
       },
       {
          "Year": "2013",
-         "Revenue in million U.S. dollars": "55519"
+         "Sales in units": "305030"
       },
       {
          "Year": "2012",
-         "Revenue in million U.S. dollars": "46039"
+         "Sales in units": "301526"
       },
       {
          "Year": "2011",
-         "Revenue in million U.S. dollars": "37905"
+         "Sales in units": "285060"
+      },
+      {
+         "Year": "2010",
+         "Sales in units": "234175"
+      },
+      {
+         "Year": "2009",
+         "Sales in units": "216538"
+      },
+      {
+         "Year": "2008",
+         "Sales in units": "232425"
+      },
+      {
+         "Year": "2007",
+         "Sales in units": "222875"
+      },
+      {
+         "Year": "2006",
+         "Sales in units": "188077"
       }
-   ]
+   ],
+   "gold": "Deliveries of BMW MINI-badged cars stood at about 361,500 units in 2018 . BMW has operated the MINI brand since 2000 and adapted the trademark compact style originally designed by Birmingham-based British Motor Corporation ( BMC ) to meet modern preferences . In the UK , the MINI brand was launched with great success .\n"
 }

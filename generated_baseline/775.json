@@ -4,15 +4,24 @@
    "yAxis": "Number of passengers in millions",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 10 categories for the x axis representing Airlines, and a y axis representing Number of passengers in millions.",
       " The highest category is found at American where Number of passengers in millions is 203.7.",
       " The lowest category is found at Air_China where Number of passengers in millions is 110.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 9
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
    "data": [
       {
          "Airlines": "American",

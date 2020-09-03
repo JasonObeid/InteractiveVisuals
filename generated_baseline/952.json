@@ -4,36 +4,51 @@
    "yAxis": "FIFA World Ranking position",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing FIFA World Ranking position, with a total of 27 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely positive which exists from 2002 to 2007.",
-      " Likewise, the next significant trend is extremely negative which exists from 2013 to 2016.",
-      " On the contrary, the next significant trend is extremely positive which exists from 2016 to 2019."
+      "This line chart has an x axis representing Year and a y axis representing FIFA World Ranking position, with a total of 27 data points. The chart has 8 significant trends.",
+      " The longest trend is extremely negative which exists from 2002 to 2007.",
+      " On the contrary, the next significant trend is moderately negative which exists from 1993 to 1996.",
+      " Contrarily, the next significant trend is moderately positive which exists from 1996 to 1999.",
+      " Also, the next significant trend is moderately positive which exists from 1999 to 2002.",
+      " Similarly, the next significant trend is slightly negative which exists from 2007 to 2010.",
+      " Conversely, the next significant trend is extremely negative which exists from 2010 to 2013.",
+      " Differently, the next significant trend is slightly positive which exists from 2013 to 2016.",
+      " Likewise, the next significant trend is extremely negative which exists from 2016 to 2019."
    ],
    "trends": [
+      {},
       {
-         "Length": 6,
-         "direction": "positive",
-         "start": 9,
-         "end": 14,
-         "trend": "y=16.17x+-32269.3",
-         "magnitude": "extremely"
+         "1": "9",
+         "12": "14"
       },
       {
-         "Length": 4,
-         "direction": "negative",
-         "start": 20,
-         "end": 23,
-         "trend": "y=-26.8x+54102.1",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "3"
       },
       {
-         "Length": 4,
-         "direction": "positive",
-         "start": 23,
-         "end": 26,
-         "trend": "y=6.0x+-12010.5",
-         "magnitude": "extremely"
+         "3": "3",
+         "14": "6"
+      },
+      {
+         "3": "6",
+         "14": "9"
+      },
+      {
+         "3": "14",
+         "14": "17"
+      },
+      {
+         "3": "17",
+         "14": "20"
+      },
+      {
+         "3": "20",
+         "14": "23"
+      },
+      {
+         "3": "23",
+         "14": "26"
       }
    ],
    "data": [

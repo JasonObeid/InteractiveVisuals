@@ -1,114 +1,76 @@
 {
-   "title": "Global sulfur production by country 2019",
-   "xAxis": "Country",
-   "yAxis": "Price in U.S. dollars per ton",
-   "columnType": "two",
-   "graphType": "bar",
+   "title": "Boston Celtics concession stand prices ( beer , soft drink , hot dog ) 2010 to 2016",
+   "labels": [
+      "Year",
+      "Beer",
+      "Soft drink",
+      "Hot dog"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
    "summary": [
-      "This statistic shows the Global sulfur the production by of country 2019 in . ",
-      "That year , India had an index Price of around 17400 and was tied in first sulfur nine other Global . ",
-      "Global sulfur the production by of country 2019 \u2013 additional informationIn today 's culture , many people can not imagine life without country ."
+      "The statistic depicts the concession stand prices at games of the Boston Celtics Celtics ( NBA ) from 2010/11 to 2015/16 . ",
+      "In the 2012/13 season , a 12 ounce beer cost 8.0 U.S. dollars ."
    ],
    "trends": [
-      {},
       {
-         "3": "8",
-         "10": "0"
+         "17": [
+            "5",
+            "0"
+         ],
+         "19": [
+            "0",
+            "0"
+         ]
       },
-      {}
+      {
+         "2": [
+            "3",
+            "0"
+         ],
+         "10": [
+            "3",
+            "1"
+         ]
+      }
    ],
    "data": [
       {
-         "Country": "China",
-         "Price in U.S. dollars per ton": "17400"
+         "Year": "2015/16",
+         "Beer": "8.5",
+         "Soft drink": "5.0",
+         "Hot dog": "5.5"
       },
       {
-         "Country": "United States",
-         "Price in U.S. dollars per ton": "8800"
+         "Year": "2014/15",
+         "Beer": "8.5",
+         "Soft drink": "5.0",
+         "Hot dog": "5.5"
       },
       {
-         "Country": "Russia",
-         "Price in U.S. dollars per ton": "7100"
+         "Year": "2013/14",
+         "Beer": "8.25",
+         "Soft drink": "5.5",
+         "Hot dog": "5.5"
       },
       {
-         "Country": "Saudi Arabia",
-         "Price in U.S. dollars per ton": "6600"
+         "Year": "2012/13",
+         "Beer": "8.0",
+         "Soft drink": "4.0",
+         "Hot dog": "4.75"
       },
       {
-         "Country": "Canada",
-         "Price in U.S. dollars per ton": "5300"
+         "Year": "2011/12",
+         "Beer": "7.25",
+         "Soft drink": "3.75",
+         "Hot dog": "4.5"
       },
       {
-         "Country": "Other",
-         "Price in U.S. dollars per ton": "3900"
-      },
-      {
-         "Country": "Kazakhstan",
-         "Price in U.S. dollars per ton": "3600"
-      },
-      {
-         "Country": "United Arab Emirates",
-         "Price in U.S. dollars per ton": "3400"
-      },
-      {
-         "Country": "India",
-         "Price in U.S. dollars per ton": "3400"
-      },
-      {
-         "Country": "Japan",
-         "Price in U.S. dollars per ton": "3400"
-      },
-      {
-         "Country": "South Korea",
-         "Price in U.S. dollars per ton": "3100"
-      },
-      {
-         "Country": "Iran",
-         "Price in U.S. dollars per ton": "2200"
-      },
-      {
-         "Country": "Qatar",
-         "Price in U.S. dollars per ton": "2100"
-      },
-      {
-         "Country": "Chile",
-         "Price in U.S. dollars per ton": "1500"
-      },
-      {
-         "Country": "Poland",
-         "Price in U.S. dollars per ton": "1230"
-      },
-      {
-         "Country": "Finland",
-         "Price in U.S. dollars per ton": "940"
-      },
-      {
-         "Country": "Kuwait",
-         "Price in U.S. dollars per ton": "900"
-      },
-      {
-         "Country": "Australia",
-         "Price in U.S. dollars per ton": "900"
-      },
-      {
-         "Country": "Germany",
-         "Price in U.S. dollars per ton": "870"
-      },
-      {
-         "Country": "Venezuela",
-         "Price in U.S. dollars per ton": "700"
-      },
-      {
-         "Country": "Italy",
-         "Price in U.S. dollars per ton": "550"
-      },
-      {
-         "Country": "Netherlands",
-         "Price in U.S. dollars per ton": "520"
-      },
-      {
-         "Country": "Brazil",
-         "Price in U.S. dollars per ton": "500"
+         "Year": "2010/11",
+         "Beer": "7.25",
+         "Soft drink": "3.75",
+         "Hot dog": "4.5"
       }
-   ]
+   ],
+   "gold": "The statistic depicts the concession stand prices at games of the Boston Celtics ( NBA ) from 2010/11 to 2015/16 . In the 2013/14 season , a 16 ounce beer cost 8.25 U.S. dollars .\n"
 }

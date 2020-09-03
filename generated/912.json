@@ -1,212 +1,123 @@
 {
-   "title": "Clothing , footwear and textiles retail store sales in Great Britain 2016 to 2019",
-   "xAxis": "Month",
-   "yAxis": "Retail sales in thousand GBP",
+   "title": "Median age of first alcohol use among U.S. youth 1991 to 2015",
+   "xAxis": "Year",
+   "yAxis": "Average age in years",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Great Britain textiles Retail of footwear ( average for all footwear varieties ) from 2016 to 2019 . ",
-      "In Jun_19 2017 , the footwear textiles Retail amounted to 4579545 ."
+      "The statistic shows the Average age at the 2013\u20132015 Games events from 2013\u20132015 to 1991\u20131993 . ",
+      "In 2013\u20132015 , Average 2013\u20132015 Games age was 14.64 . ",
+      "The 2013\u20132015 Games is an event organized by U.S. and features competitions in action sports like skiing , snowboarding and snowmobiling ."
    ],
    "trends": [
-      {},
       {
-         "1": "6",
-         "10": "30"
+         "8": "0",
+         "12": "0",
+         "14": "22"
+      },
+      {
+         "1": "0",
+         "4": "0",
+         "8": "0"
+      },
+      {
+         "1": "0"
       }
    ],
    "data": [
       {
-         "Month": "Dec 19",
-         "Retail sales in thousand GBP": "6413719"
+         "Year": "2013\u20132015",
+         "Average age in years": "14.64"
       },
       {
-         "Month": "Nov 19",
-         "Retail sales in thousand GBP": "4103639"
+         "Year": "2012\u20132014",
+         "Average age in years": "14.56"
       },
       {
-         "Month": "Oct 19",
-         "Retail sales in thousand GBP": "3684260"
+         "Year": "2011\u20132013",
+         "Average age in years": "14.47"
       },
       {
-         "Month": "Sep 19",
-         "Retail sales in thousand GBP": "4570809"
+         "Year": "2010\u20132012",
+         "Average age in years": "14.4"
       },
       {
-         "Month": "Aug 19",
-         "Retail sales in thousand GBP": "3755191"
+         "Year": "2009\u20132011",
+         "Average age in years": "14.35"
       },
       {
-         "Month": "Jul 19",
-         "Retail sales in thousand GBP": "4000259"
+         "Year": "2008\u20132010",
+         "Average age in years": "14.29"
       },
       {
-         "Month": "Jun 19",
-         "Retail sales in thousand GBP": "4735522"
+         "Year": "2007\u20132009",
+         "Average age in years": "14.22"
       },
       {
-         "Month": "May 19",
-         "Retail sales in thousand GBP": "3534680"
+         "Year": "2006\u20132008",
+         "Average age in years": "14.14"
       },
       {
-         "Month": "Apr 19",
-         "Retail sales in thousand GBP": "3614324"
+         "Year": "2005\u20132007",
+         "Average age in years": "14.06"
       },
       {
-         "Month": "Mar 19",
-         "Retail sales in thousand GBP": "4110860"
+         "Year": "2004\u20132006",
+         "Average age in years": "13.97"
       },
       {
-         "Month": "Feb 19",
-         "Retail sales in thousand GBP": "2979949"
+         "Year": "2003\u20132005",
+         "Average age in years": "13.9"
       },
       {
-         "Month": "Jan 19",
-         "Retail sales in thousand GBP": "3182274"
+         "Year": "2002\u20132004",
+         "Average age in years": "13.85"
       },
       {
-         "Month": "Dec 18",
-         "Retail sales in thousand GBP": "6562771"
+         "Year": "2001\u20132003",
+         "Average age in years": "13.82"
       },
       {
-         "Month": "Nov 18",
-         "Retail sales in thousand GBP": "4164350"
+         "Year": "2000\u20132002",
+         "Average age in years": "13.81"
       },
       {
-         "Month": "Oct 18",
-         "Retail sales in thousand GBP": "3610727"
+         "Year": "1999\u20132001",
+         "Average age in years": "13.81"
       },
       {
-         "Month": "Sep 18",
-         "Retail sales in thousand GBP": "4412748"
+         "Year": "1998\u20132000",
+         "Average age in years": "13.88"
       },
       {
-         "Month": "Aug 18",
-         "Retail sales in thousand GBP": "3624307"
+         "Year": "1997\u20131999",
+         "Average age in years": "13.91"
       },
       {
-         "Month": "Jul 18",
-         "Retail sales in thousand GBP": "3942695"
+         "Year": "1996\u20131998",
+         "Average age in years": "13.94"
       },
       {
-         "Month": "Jun 18",
-         "Retail sales in thousand GBP": "4571299"
+         "Year": "1995\u20131997",
+         "Average age in years": "13.85"
       },
       {
-         "Month": "May 18",
-         "Retail sales in thousand GBP": "3507200"
+         "Year": "1994\u20131996",
+         "Average age in years": "13.8"
       },
       {
-         "Month": "Apr 18",
-         "Retail sales in thousand GBP": "3274802"
+         "Year": "1993\u20131995",
+         "Average age in years": "13.76"
       },
       {
-         "Month": "Mar 18",
-         "Retail sales in thousand GBP": "3862707"
+         "Year": "1992\u20131994",
+         "Average age in years": "13.76"
       },
       {
-         "Month": "Feb 18",
-         "Retail sales in thousand GBP": "2851154"
-      },
-      {
-         "Month": "Jan 18",
-         "Retail sales in thousand GBP": "3047687"
-      },
-      {
-         "Month": "Dec 17",
-         "Retail sales in thousand GBP": "6357075"
-      },
-      {
-         "Month": "Nov 17",
-         "Retail sales in thousand GBP": "4094224"
-      },
-      {
-         "Month": "Oct 17",
-         "Retail sales in thousand GBP": "3585331"
-      },
-      {
-         "Month": "Sep 17",
-         "Retail sales in thousand GBP": "4446848"
-      },
-      {
-         "Month": "Aug 17",
-         "Retail sales in thousand GBP": "3681833"
-      },
-      {
-         "Month": "Jul 17",
-         "Retail sales in thousand GBP": "3866902"
-      },
-      {
-         "Month": "Jun 17",
-         "Retail sales in thousand GBP": "4579545"
-      },
-      {
-         "Month": "May 17",
-         "Retail sales in thousand GBP": "3462317"
-      },
-      {
-         "Month": "Apr 17",
-         "Retail sales in thousand GBP": "3385237"
-      },
-      {
-         "Month": "Mar 17",
-         "Retail sales in thousand GBP": "3983710"
-      },
-      {
-         "Month": "Feb 17",
-         "Retail sales in thousand GBP": "2904247"
-      },
-      {
-         "Month": "Jan 17",
-         "Retail sales in thousand GBP": "3052591"
-      },
-      {
-         "Month": "Dec 16",
-         "Retail sales in thousand GBP": "6275529"
-      },
-      {
-         "Month": "Nov 16",
-         "Retail sales in thousand GBP": "3991563"
-      },
-      {
-         "Month": "Oct 16",
-         "Retail sales in thousand GBP": "3650714"
-      },
-      {
-         "Month": "Sept 16",
-         "Retail sales in thousand GBP": "4170853"
-      },
-      {
-         "Month": "Aug 16",
-         "Retail sales in thousand GBP": "3547220"
-      },
-      {
-         "Month": "July 16",
-         "Retail sales in thousand GBP": "3809540"
-      },
-      {
-         "Month": "June 16",
-         "Retail sales in thousand GBP": "4298271"
-      },
-      {
-         "Month": "May 16",
-         "Retail sales in thousand GBP": "3333118"
-      },
-      {
-         "Month": "Apr 16",
-         "Retail sales in thousand GBP": "3126633"
-      },
-      {
-         "Month": "Mar 16",
-         "Retail sales in thousand GBP": "3750005"
-      },
-      {
-         "Month": "Feb 16",
-         "Retail sales in thousand GBP": "2778610"
-      },
-      {
-         "Month": "Jan 16",
-         "Retail sales in thousand GBP": "2996428"
+         "Year": "1991\u20131993",
+         "Average age in years": "13.65"
       }
-   ]
+   ],
+   "gold": "This statistic shows the average age youths aged 12 to 20 years first drank alcohol in the U.S. from 1991 to 2015 . In the period 2013 to 2015 , on average those aged 12 to 20 years first drank alcohol when they were 14.64 years old .\n"
 }

@@ -1,69 +1,88 @@
 {
-   "title": "Urbanization in Kazakhstan 2018",
+   "title": "Sales volume of USB flash drives in Germany 2004 to 2018",
    "xAxis": "Year",
-   "yAxis": "Share of urban population in total population",
+   "yAxis": "Sales volume in millions",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the degree of Urbanization in Kazakhstan from 2008 to 2018 . ",
-      "Urbanization means the Share of urban population in the total population of a country . ",
-      "In 2018 , 57.43 % of Kazakhstan 's total population lived in urban areas and cities ."
+      "This statistic shows the Sales of USB products drives from 2004 to 2018 . ",
+      "In 2018 , the Sales generated from USB products drives amounted to about 16.17 12.88 millions . ",
+      "When it comes to sustainable development , trade can be the best of servants , but the worst of masters ."
    ],
    "trends": [
       {
-         "10": "10",
+         "10": "14",
          "12": "0"
       },
-      {},
       {
          "1": "0",
-         "3": "0"
-      }
+         "13": "2",
+         "14": "0"
+      },
+      {}
    ],
    "data": [
       {
          "Year": "2018",
-         "Share of urban population in total population": "57.43"
+         "Sales volume in millions": "12.88"
       },
       {
          "Year": "2017",
-         "Share of urban population in total population": "57.34"
+         "Sales volume in millions": "13.51"
       },
       {
          "Year": "2016",
-         "Share of urban population in total population": "57.26"
+         "Sales volume in millions": "16.17"
       },
       {
          "Year": "2015",
-         "Share of urban population in total population": "57.19"
+         "Sales volume in millions": "15.94"
       },
       {
          "Year": "2014",
-         "Share of urban population in total population": "57.12"
+         "Sales volume in millions": "15.46"
       },
       {
          "Year": "2013",
-         "Share of urban population in total population": "57.05"
+         "Sales volume in millions": "13.5"
       },
       {
          "Year": "2012",
-         "Share of urban population in total population": "56.97"
+         "Sales volume in millions": "15.85"
       },
       {
          "Year": "2011",
-         "Share of urban population in total population": "56.9"
+         "Sales volume in millions": "13.82"
       },
       {
          "Year": "2010",
-         "Share of urban population in total population": "56.83"
+         "Sales volume in millions": "11.78"
       },
       {
          "Year": "2009",
-         "Share of urban population in total population": "56.76"
+         "Sales volume in millions": "12.99"
       },
       {
          "Year": "2008",
-         "Share of urban population in total population": "56.68"
+         "Sales volume in millions": "13.0"
+      },
+      {
+         "Year": "2007",
+         "Sales volume in millions": "8.18"
+      },
+      {
+         "Year": "2006",
+         "Sales volume in millions": "5.0"
+      },
+      {
+         "Year": "2005",
+         "Sales volume in millions": "3.2"
+      },
+      {
+         "Year": "2004",
+         "Sales volume in millions": "2.03"
       }
-   ]
+   ],
+   "gold": "USB flash drives experienced fluctuating sales numbers in recent years , with almost 12.9 million units sold in 2018 . Meanwhile , revenue generated amounted to 155 million euros in the same year , a decrease on the one before . Storage media USB flash drives revolutionized data storage for computer users everywhere when they emerged on the market , joining such well-known storage media as floppy discs , hard drives and optical storage units like CD-R and CD-RW discs .\n"
 }

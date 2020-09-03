@@ -1,99 +1,102 @@
 {
-   "title": "Pennsylvania - real GDP 2000 to 2018",
+   "title": "GDP of New Brunswick , Canada 2000 to 2018",
    "xAxis": "Year",
-   "yAxis": "Real GDP in billion U.S. dollars",
+   "yAxis": "GDP in million chained 2012 Canadian dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the development of Pennsylvania ' GDP from 2000 to 2018 . ",
-      "In 2018 , the GDP of Pennsylvania was 712.1 billion U.S. dollars ."
+      "This statistic shows the gross domestic product ( GDP ) of New Brunswick from 2000 to 2018 . ",
+      "In 2018 , New Brunswick 's GDP was 30446.6 million chained 2012 Canadian dollars ."
    ],
    "trends": [
       {
-         "10": "18",
-         "12": "0"
+         "13": "18",
+         "15": "0"
       },
       {
          "1": "0",
-         "8": "0"
+         "7": "0",
+         "10": "6"
       }
    ],
    "data": [
       {
          "Year": "2018",
-         "Real GDP in billion U.S. dollars": "712.1"
+         "GDP in million chained 2012 Canadian dollars": "30446.6"
       },
       {
          "Year": "2017",
-         "Real GDP in billion U.S. dollars": "697.18"
+         "GDP in million chained 2012 Canadian dollars": "30223.9"
       },
       {
          "Year": "2016",
-         "Real GDP in billion U.S. dollars": "685.46"
+         "GDP in million chained 2012 Canadian dollars": "29546.0"
       },
       {
          "Year": "2015",
-         "Real GDP in billion U.S. dollars": "677.87"
+         "GDP in million chained 2012 Canadian dollars": "29275.7"
       },
       {
          "Year": "2014",
-         "Real GDP in billion U.S. dollars": "664.79"
+         "GDP in million chained 2012 Canadian dollars": "29039.6"
       },
       {
          "Year": "2013",
-         "Real GDP in billion U.S. dollars": "651.32"
+         "GDP in million chained 2012 Canadian dollars": "29017.0"
       },
       {
          "Year": "2012",
-         "Real GDP in billion U.S. dollars": "641.32"
+         "GDP in million chained 2012 Canadian dollars": "29117.4"
       },
       {
          "Year": "2011",
-         "Real GDP in billion U.S. dollars": "631.37"
+         "GDP in million chained 2012 Canadian dollars": "29467.6"
       },
       {
          "Year": "2010",
-         "Real GDP in billion U.S. dollars": "622.47"
+         "GDP in million chained 2012 Canadian dollars": "29404.4"
       },
       {
          "Year": "2009",
-         "Real GDP in billion U.S. dollars": "605.5"
+         "GDP in million chained 2012 Canadian dollars": "28802.1"
       },
       {
          "Year": "2008",
-         "Real GDP in billion U.S. dollars": "623.82"
+         "GDP in million chained 2012 Canadian dollars": "29215.2"
       },
       {
          "Year": "2007",
-         "Real GDP in billion U.S. dollars": "612.02"
+         "GDP in million chained 2012 Canadian dollars": "28962.4"
       },
       {
          "Year": "2006",
-         "Real GDP in billion U.S. dollars": "592.03"
+         "GDP in million chained 2012 Canadian dollars": "28787.2"
       },
       {
          "Year": "2005",
-         "Real GDP in billion U.S. dollars": "588.05"
+         "GDP in million chained 2012 Canadian dollars": "28281.0"
       },
       {
          "Year": "2004",
-         "Real GDP in billion U.S. dollars": "578.03"
+         "GDP in million chained 2012 Canadian dollars": "28008.6"
       },
       {
          "Year": "2003",
-         "Real GDP in billion U.S. dollars": "562.43"
+         "GDP in million chained 2012 Canadian dollars": "27240.8"
       },
       {
          "Year": "2002",
-         "Real GDP in billion U.S. dollars": "550.25"
+         "GDP in million chained 2012 Canadian dollars": "26653.8"
       },
       {
          "Year": "2001",
-         "Real GDP in billion U.S. dollars": "544.79"
+         "GDP in million chained 2012 Canadian dollars": "25444.8"
       },
       {
          "Year": "2000",
-         "Real GDP in billion U.S. dollars": "537.22"
+         "GDP in million chained 2012 Canadian dollars": "25058.0"
       }
-   ]
+   ],
+   "gold": "This statistic shows the gross domestic product ( GDP ) of New Brunswick from 2000 to 2018 . In 2018 , New Brunswick 's GDP was 30.44 billion chained 2012 Canadian dollars .\n"
 }

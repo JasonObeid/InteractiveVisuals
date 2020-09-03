@@ -1,0 +1,20 @@
+{
+   "title": "Survey on regretting tattoos in the U.S. 2015\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the results of a survey conducted in the country in 2017 on whether the respondents believe in love , or not . During the survey , some 94 percent of respondents stated they believe in true love .\n",
+   "trends": {},
+   "data": [
+      {
+         "Response": "Yes",
+         "Share of respondents": 23.0
+      },
+      {
+         "Response": "No",
+         "Share of respondents": 77.0
+      }
+   ]
+}

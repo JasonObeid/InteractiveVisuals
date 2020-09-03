@@ -1,106 +1,42 @@
 {
-   "title": "Distribution of gross domestic product ( GDP ) across economic sectors Costa Rica 2018",
-   "labels": [
-      "Year",
-      "Agriculture",
-      "Industry",
-      "Services"
-   ],
-   "columnType": "multi",
-   "graphType": "line",
+   "title": "Internet service provider market share in Australia fourth quarter 2013",
+   "xAxis": "Telecommunications Company",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "In 2018 , Agriculture contributed around 4.58 % to the GDP of Costa Rica , 19.47 % came from Industry , and 68.35 % from the Services sector . ",
-      "The same Year , the Australian inflation rate , another important key indicator for its economic situation , amounted to 1.96 % . ",
-      "Why is the inflation rate important ? Inflation is the steady increase in price levels for consumer goods and Services during a certain timespan ."
+      "The statistic shows the Market share of Internet service companies in the fourth in 2013 . ",
+      "Telstra 's Market share of the Australia Internet service Market stood at 46.3 % in 2013 ."
    ],
    "trends": [
-      {
-         "1": [
-            "0",
-            "0"
-         ],
-         "6": [
-            "0",
-            "1"
-         ],
-         "14": [
-            "0",
-            "2"
-         ],
-         "21": [
-            "0",
-            "3"
-         ]
-      },
       {},
-      {}
+      {
+         "0": "0",
+         "12": "0"
+      }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Agriculture": "4.58",
-         "Industry": "19.47",
-         "Services": "68.35"
+         "Telecommunications Company": "Telstra",
+         "Market share": "46.3"
       },
       {
-         "Year": "2017",
-         "Agriculture": "5.01",
-         "Industry": "18.99",
-         "Services": "68.07"
+         "Telecommunications Company": "Optus",
+         "Market share": "15.9"
       },
       {
-         "Year": "2016",
-         "Agriculture": "5.13",
-         "Industry": "19.14",
-         "Services": "67.51"
+         "Telecommunications Company": "iiNet",
+         "Market share": "15.1"
       },
       {
-         "Year": "2015",
-         "Agriculture": "4.96",
-         "Industry": "19.42",
-         "Services": "67.39"
+         "Telecommunications Company": "TPG",
+         "Market share": "11.6"
       },
       {
-         "Year": "2014",
-         "Agriculture": "5.12",
-         "Industry": "20.17",
-         "Services": "66.38"
-      },
-      {
-         "Year": "2013",
-         "Agriculture": "5.04",
-         "Industry": "20.76",
-         "Services": "65.69"
-      },
-      {
-         "Year": "2012",
-         "Agriculture": "5.41",
-         "Industry": "21.93",
-         "Services": "64.14"
-      },
-      {
-         "Year": "2011",
-         "Agriculture": "5.84",
-         "Industry": "22.32",
-         "Services": "63.11"
-      },
-      {
-         "Year": "2010",
-         "Agriculture": "6.59",
-         "Industry": "23.24",
-         "Services": "61.8"
-      },
-      {
-         "Year": "2009",
-         "Agriculture": "7.09",
-         "Industry": "23.65",
-         "Services": "60.84"
-      },
-      {
-         "Year": "2008",
-         "Agriculture": "7.02",
-         "Industry": "23.69",
-         "Services": "59.18"
+         "Telecommunications Company": "Australia Other",
+         "Market share": "11"
       }
-   ]
+   ],
+   "gold": "The statistic depicts a breakdown of the internet service provider ( ISP ) market in Australia in the fourth quarter of 2013 . The internet service provider Telstra held a market share of 46.3 percent . The total number of internet service subscribers in Australia was at around 6.15 million in the fourth quarter of 2013 .\n"
 }

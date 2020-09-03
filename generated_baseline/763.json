@@ -1,58 +1,130 @@
 {
-   "title": "YouTube : most viewed movie trailers 2014\n",
-   "xAxis": "Movie",
-   "yAxis": "Number of YouTube views in millions",
-   "columnType": "two",
-   "graphType": "bar",
-   "summary": [
-      "This bar chart has 10 categories for the x axis representing Movie, and a y axis representing Number of YouTube views in millions.",
-      " The highest category is found at Fifty_Shades_Of_Grey_-_Official_Trailer_(Universal_Pictures)_HD where Number of YouTube views in millions is 67.0.",
-      " The lowest category is found at Official_Call_of_Duty:_Advanced_Warfare_Reveal_Trailer where Number of YouTube views in millions is 26.0."
+   "title": "Distribution of gross domestic product ( GDP ) across economic sectors Costa Rica 2018",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 9
-   },
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 3 lines.",
+      " The line representing Services had the highest values across Year with a mean value of 64.7.",
+      " This peaked at 2018 with a value of 68.3. ",
+      " The line with the second highest values was Industry with a mean value of 21.1.",
+      " This line peaked at 2009 with a value of 23.6"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "16": [
+            "10",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "2"
+         ],
+         "9": [
+            "0",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "10": [
+            "0",
+            "1"
+         ]
+      }
+   ],
    "data": [
       {
-         "Movie": "Fifty Shades Of Grey - Official Trailer (Universal Pictures) HD",
-         "Number of YouTube views in millions": 67.0
+         "Year": "2018",
+         "Agriculture": "4.58",
+         "Industry": "19.47",
+         "Services": "68.35"
       },
       {
-         "Movie": "Marvel's \"Avengers: Age of Ultron\" - Teaser Trailer (OFFICIAL)",
-         "Number of YouTube views in millions": 64.0
+         "Year": "2017",
+         "Agriculture": "5.01",
+         "Industry": "18.99",
+         "Services": "68.07"
       },
       {
-         "Movie": "Star Wars: Episode VII - The Force Awakens Official Teaser Trailer #1 (2015) - J.J. Abrams Movie HD",
-         "Number of YouTube views in millions": 52.0
+         "Year": "2016",
+         "Agriculture": "5.13",
+         "Industry": "19.14",
+         "Services": "67.51"
       },
       {
-         "Movie": "Jurassic World - Official Trailer (HD)",
-         "Number of YouTube views in millions": 44.0
+         "Year": "2015",
+         "Agriculture": "4.96",
+         "Industry": "19.42",
+         "Services": "67.39"
       },
       {
-         "Movie": "TEENAGE MUTANT NINJA TURTLES - Official Trailer (2014) [HD]",
-         "Number of YouTube views in millions": 43.0
+         "Year": "2014",
+         "Agriculture": "5.12",
+         "Industry": "20.17",
+         "Services": "66.38"
       },
       {
-         "Movie": "Furious 7 - Official Trailer (HD)",
-         "Number of YouTube views in millions": 37.0
+         "Year": "2013",
+         "Agriculture": "5.04",
+         "Industry": "20.76",
+         "Services": "65.69"
       },
       {
-         "Movie": "Godzilla - Official Main Trailer [HD]",
-         "Number of YouTube views in millions": 36.0
+         "Year": "2012",
+         "Agriculture": "5.41",
+         "Industry": "21.93",
+         "Services": "64.14"
       },
       {
-         "Movie": "Lucy TRAILER 1 (2014) - Luc Besson Scarlett Johansson Movie HD",
-         "Number of YouTube views in millions": 36.0
+         "Year": "2011",
+         "Agriculture": "5.84",
+         "Industry": "22.32",
+         "Services": "63.11"
       },
       {
-         "Movie": "The Fault In Our Stars Official Trailer [HD] 20th Century FOX",
-         "Number of YouTube views in millions": 29.0
+         "Year": "2010",
+         "Agriculture": "6.59",
+         "Industry": "23.24",
+         "Services": "61.8"
       },
       {
-         "Movie": "Official Call of Duty: Advanced Warfare Reveal Trailer",
-         "Number of YouTube views in millions": 26.0
+         "Year": "2009",
+         "Agriculture": "7.09",
+         "Industry": "23.65",
+         "Services": "60.84"
+      },
+      {
+         "Year": "2008",
+         "Agriculture": "7.02",
+         "Industry": "23.69",
+         "Services": "59.18"
       }
    ]
 }

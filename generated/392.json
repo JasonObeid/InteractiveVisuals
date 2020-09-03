@@ -1,127 +1,99 @@
 {
-   "title": "Alabama - unemployment rate 1992 to 2018",
-   "xAxis": "Year",
-   "yAxis": "Unemployment rate",
-   "columnType": "two",
+   "title": "Cisco employees by region 2010 to 2019",
+   "labels": [
+      "Year",
+      "United States",
+      "Rest of World"
+   ],
+   "columnType": "multi",
    "graphType": "line",
    "summary": [
-      "This statistic displays the Unemployment rate in Alabama from 1992 to 2018 . ",
-      "In 2018 , Unemployment in Alabama was 3.9 % ."
+      "The Cisco of region at Cisco has been steadily decreasing in recent years , with 38350 United region and 32350 Rest region in 2010 . ",
+      "This compares to 36052 United region and 30587 Rest region in 2012 . ",
+      "Cisco Sonic Cisco is the operating company of the 2010 drive-through quick service chain Cisco ."
    ],
    "trends": [
-      {},
       {
-         "7": "0"
-      }
+         "15": [
+            "0",
+            "1"
+         ],
+         "19": [
+            "0",
+            "2"
+         ],
+         "23": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "3": [
+            "2",
+            "1"
+         ],
+         "7": [
+            "2",
+            "2"
+         ],
+         "11": [
+            "2",
+            "0"
+         ]
+      },
+      {}
    ],
    "data": [
       {
-         "Year": "'18",
-         "Unemployment rate": "3.9"
+         "Year": "2010",
+         "United States": "38350",
+         "Rest of World": "32350"
       },
       {
-         "Year": "'17",
-         "Unemployment rate": "4.4"
+         "Year": "2011",
+         "United States": "37300",
+         "Rest of World": "34525"
       },
       {
-         "Year": "'16",
-         "Unemployment rate": "5.8"
+         "Year": "2012",
+         "United States": "36052",
+         "Rest of World": "30587"
       },
       {
-         "Year": "'15",
-         "Unemployment rate": "6.1"
+         "Year": "2013",
+         "United States": "37275",
+         "Rest of World": "37774"
       },
       {
-         "Year": "'14",
-         "Unemployment rate": "6.8"
+         "Year": "2014",
+         "United States": "36725",
+         "Rest of World": "37317"
       },
       {
-         "Year": "'13",
-         "Unemployment rate": "7.2"
+         "Year": "2015",
+         "United States": "36222",
+         "Rest of World": "35611"
       },
       {
-         "Year": "'12",
-         "Unemployment rate": "8"
+         "Year": "2016",
+         "United States": "37550",
+         "Rest of World": "36150"
       },
       {
-         "Year": "'11",
-         "Unemployment rate": "9.7"
+         "Year": "2017",
+         "United States": "37000",
+         "Rest of World": "35900"
       },
       {
-         "Year": "'10",
-         "Unemployment rate": "10.5"
+         "Year": "2018",
+         "United States": "37800",
+         "Rest of World": "36400"
       },
       {
-         "Year": "'09",
-         "Unemployment rate": "11"
-      },
-      {
-         "Year": "'08",
-         "Unemployment rate": "5.7"
-      },
-      {
-         "Year": "'07",
-         "Unemployment rate": "4"
-      },
-      {
-         "Year": "'06",
-         "Unemployment rate": "4"
-      },
-      {
-         "Year": "'05",
-         "Unemployment rate": "4.5"
-      },
-      {
-         "Year": "'04",
-         "Unemployment rate": "5.7"
-      },
-      {
-         "Year": "'03",
-         "Unemployment rate": "6"
-      },
-      {
-         "Year": "'02",
-         "Unemployment rate": "5.9"
-      },
-      {
-         "Year": "'01",
-         "Unemployment rate": "5.1"
-      },
-      {
-         "Year": "'00",
-         "Unemployment rate": "4.6"
-      },
-      {
-         "Year": "'99",
-         "Unemployment rate": "4.7"
-      },
-      {
-         "Year": "'98",
-         "Unemployment rate": "4.4"
-      },
-      {
-         "Year": "'97",
-         "Unemployment rate": "5"
-      },
-      {
-         "Year": "'96",
-         "Unemployment rate": "5.2"
-      },
-      {
-         "Year": "'95",
-         "Unemployment rate": "6"
-      },
-      {
-         "Year": "'94",
-         "Unemployment rate": "6.2"
-      },
-      {
-         "Year": "'93",
-         "Unemployment rate": "7.3"
-      },
-      {
-         "Year": "'92",
-         "Unemployment rate": "7.6"
+         "Year": "2019",
+         "United States": "39000",
+         "Rest of World": "36900"
       }
-   ]
+   ],
+   "gold": "This statistic shows the number of employees at Cisco by geography from fiscal year 2010 to 2019 . Cisco employed 39 thousand people in the United States in FY2019 .\n"
 }

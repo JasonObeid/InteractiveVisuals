@@ -8,16 +8,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 6 categories for the x axis of Month representing All India, Urban, Rural.",
-      " The highest category is found at June with a mean value of 142.86666666666667.",
-      " The second highest category is found at May with a mean value of 141.96666666666667.",
+      "This grouped bar chart has 6 categories for the x axis of Month representing All India, Urban, and Rural.",
+      " The highest category is found at June with a mean value of 142.87.",
+      " The second highest category is found at May with a mean value of 141.97.",
       " This represents a difference of 0.6%."
    ],
-   "trends": {
-      "maxIndex": 5,
-      "secondIndex": 5
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "5"
+         ],
+         "13": [
+            "3",
+            "5"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "4"
+         ],
+         "14": [
+            "3",
+            "4"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Month": "January",

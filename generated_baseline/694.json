@@ -4,15 +4,24 @@
    "yAxis": "Number of U.S. patents",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 20 categories for the x axis representing Company, and a y axis representing Number of U.S. patents.",
       " The highest category is found at Samsung where Number of U.S. patents is 47855.0.",
       " The lowest category is found at Amazon where Number of U.S. patents is 448.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 19
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
    "data": [
       {
          "Company": "Samsung",

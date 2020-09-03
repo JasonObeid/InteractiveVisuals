@@ -4,15 +4,24 @@
    "yAxis": "Revenue in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 8 categories for the x axis representing Teams, and a y axis representing Revenue in million U.S. dollars.",
       " The highest category is found at Hendrick_Motorsports where Revenue in million U.S. dollars is 180.0.",
       " The lowest category is found at Front_Row_Motorsports where Revenue in million U.S. dollars is 19.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 7
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
    "data": [
       {
          "Teams": "Hendrick Motorsports",

@@ -4,15 +4,24 @@
    "yAxis": "Number of reactors",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 30 categories for the x axis representing Country, and a y axis representing Number of reactors.",
       " The highest category is found at United_States where Number of reactors is 97.0.",
       " The lowest category is found at Iran where Number of reactors is 1.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 26
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 26,
+         "12": 26
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "United States",

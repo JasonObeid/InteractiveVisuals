@@ -1,137 +1,86 @@
 {
-   "title": "Facebook : quarterly MAU in Europe Q4 2012-Q2 2019",
-   "xAxis": "Quarter",
-   "yAxis": "Number of monthly active users (MAU) in millions",
+   "title": "Average U.S. brand response rate on social media 2017 , by vertical",
+   "xAxis": "Month",
+   "yAxis": "Average response rate",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "In the third Quarter of Q2_2019 , the MAU ( IT ) sector of the Technical Consumer Goods industry generated a Number of approximately 2.302 millions British pounds . ",
-      "This represents growth of five millions on Q2_2019 Q3_2018 . ",
-      "Number is traditionally higher during the fourth Quarter of each year , exceeding 381 millions British pounds in Q3_2018 , the first time that mark had been broken since Q3_2018 Q4_2012 ."
+      "The statistic shows the U.S. brand in U.S. as of 2017 , based on social media . ",
+      "At that point in time , Education Utilities led the ranking with social media amounting to 18 % rate , followed rate Education Retail Healthcare Panam\u00e1 , with 16 % rate worth of media ."
    ],
    "trends": [
+      {},
       {
-         "5": "0"
-      },
-      {
+         "6": "12",
          "7": "0",
-         "8": "3"
-      },
-      {
-         "13": "2",
-         "18": "3",
-         "29": "3",
-         "30": "27"
+         "16": "0",
+         "23": "12",
+         "24": "1",
+         "25": "9"
       }
    ],
    "data": [
       {
-         "Quarter": "Q2 2019",
-         "Number of monthly active users (MAU) in millions": "385"
+         "Month": "Utilities",
+         "Average response rate": "18"
       },
       {
-         "Quarter": "Q1 2019",
-         "Number of monthly active users (MAU) in millions": "384"
+         "Month": "Retail",
+         "Average response rate": "16"
       },
       {
-         "Quarter": "Q4 2018",
-         "Number of monthly active users (MAU) in millions": "381"
+         "Month": "Consumer Goods",
+         "Average response rate": "14"
       },
       {
-         "Quarter": "Q3 2018",
-         "Number of monthly active users (MAU) in millions": "375"
+         "Month": "Banking/Finance",
+         "Average response rate": "13"
       },
       {
-         "Quarter": "Q2 2018",
-         "Number of monthly active users (MAU) in millions": "376"
+         "Month": "Travel/Hospitality",
+         "Average response rate": "12"
       },
       {
-         "Quarter": "Q1 2018",
-         "Number of monthly active users (MAU) in millions": "377"
+         "Month": "Internet/Technology",
+         "Average response rate": "11"
       },
       {
-         "Quarter": "Q4 2017",
-         "Number of monthly active users (MAU) in millions": "370"
+         "Month": "Marketing/Advertising",
+         "Average response rate": "11"
       },
       {
-         "Quarter": "Q3 2017",
-         "Number of monthly active users (MAU) in millions": "364"
+         "Month": "Automotive",
+         "Average response rate": "11"
       },
       {
-         "Quarter": "Q2 2017",
-         "Number of monthly active users (MAU) in millions": "360"
+         "Month": "Real Estate",
+         "Average response rate": "10"
       },
       {
-         "Quarter": "Q1 2017",
-         "Number of monthly active users (MAU) in millions": "354"
+         "Month": "Healthcare",
+         "Average response rate": "9"
       },
       {
-         "Quarter": "Q4 2016",
-         "Number of monthly active users (MAU) in millions": "349"
+         "Month": "Professional Services",
+         "Average response rate": "9"
       },
       {
-         "Quarter": "Q3 2016",
-         "Number of monthly active users (MAU) in millions": "342"
+         "Month": "Government",
+         "Average response rate": "8"
       },
       {
-         "Quarter": "Q2 2016",
-         "Number of monthly active users (MAU) in millions": "338"
+         "Month": "Education",
+         "Average response rate": "7"
       },
       {
-         "Quarter": "Q1 2016",
-         "Number of monthly active users (MAU) in millions": "333"
+         "Month": "Nonprofit",
+         "Average response rate": "7"
       },
       {
-         "Quarter": "Q4 2015",
-         "Number of monthly active users (MAU) in millions": "323"
-      },
-      {
-         "Quarter": "Q3 2015",
-         "Number of monthly active users (MAU) in millions": "315"
-      },
-      {
-         "Quarter": "Q2 2015",
-         "Number of monthly active users (MAU) in millions": "311"
-      },
-      {
-         "Quarter": "Q1 2015",
-         "Number of monthly active users (MAU) in millions": "307"
-      },
-      {
-         "Quarter": "Q4 2014",
-         "Number of monthly active users (MAU) in millions": "301"
-      },
-      {
-         "Quarter": "Q3 2014",
-         "Number of monthly active users (MAU) in millions": "296"
-      },
-      {
-         "Quarter": "Q2 2014",
-         "Number of monthly active users (MAU) in millions": "292"
-      },
-      {
-         "Quarter": "Q1 2014",
-         "Number of monthly active users (MAU) in millions": "289"
-      },
-      {
-         "Quarter": "Q4 2013",
-         "Number of monthly active users (MAU) in millions": "282"
-      },
-      {
-         "Quarter": "Q3 2013",
-         "Number of monthly active users (MAU) in millions": "276"
-      },
-      {
-         "Quarter": "Q2 2013",
-         "Number of monthly active users (MAU) in millions": "272"
-      },
-      {
-         "Quarter": "Q1 2013",
-         "Number of monthly active users (MAU) in millions": "269"
-      },
-      {
-         "Quarter": "Q4 2012",
-         "Number of monthly active users (MAU) in millions": "261"
+         "Month": "Media/Entertainment",
+         "Average response rate": "6"
       }
-   ]
+   ],
+   "gold": "This statistic presents the average brand response rate on social media in the United States as of the third quarter of 2017 , by vertical . According to the findings , the retail industry had an average response rate of 16 percent to communicating back to their consumers on social media , while the consumer goods industry reported in 14 percent .\n"
 }

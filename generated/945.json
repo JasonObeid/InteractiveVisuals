@@ -1,67 +1,93 @@
 {
-   "title": "Gross domestic product ( GDP ) growth in Spain 2024",
-   "xAxis": "Year",
-   "yAxis": "GDP growth rate compared to previous year",
-   "columnType": "two",
+   "title": "Number of Qdoba restaurants from 2011 to 2017",
+   "labels": [
+      "Year",
+      "Franchise",
+      "Company-owned"
+   ],
+   "columnType": "multi",
    "graphType": "line",
    "summary": [
-      "The statistic depicts Spain 's Gross domestic product ( GDP ) growth rate from 2014 to 2018 , with projections up until 2024 . ",
-      "GDP refers to the total market value of all goods and services that are produced within a country per Year . ",
-      "It is an important indicator of the economic strength of a country ."
+      "This forecast shows the number of Qdoba in from 2011 to 2017 . ",
+      "For 2015 , the number of Qdoba in is estimated to reach 339 million , and could reach almost 341 million by 2017 . ",
+      "The number of Qdoba worldwide is predicted to rise around 2.32 million in 2015 and could increase to 2.71 million by 2017 ."
    ],
    "trends": [
       {
-         "14": "10",
-         "16": "6",
-         "22": "0"
+         "11": [
+            "6",
+            "0"
+         ],
+         "13": [
+            "0",
+            "0"
+         ]
       },
-      {},
-      {}
+      {
+         "1": [
+            "2",
+            "0"
+         ],
+         "14": [
+            "2",
+            "1"
+         ],
+         "21": [
+            "0",
+            "1"
+         ],
+         "24": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "15": [
+            "2",
+            "0"
+         ],
+         "23": [
+            "0",
+            "0"
+         ]
+      }
    ],
    "data": [
       {
-         "Year": "2024",
-         "GDP growth rate compared to previous year": "1.59"
-      },
-      {
-         "Year": "2023",
-         "GDP growth rate compared to previous year": "1.65"
-      },
-      {
-         "Year": "2022",
-         "GDP growth rate compared to previous year": "1.67"
-      },
-      {
-         "Year": "2021",
-         "GDP growth rate compared to previous year": "1.7"
-      },
-      {
-         "Year": "2020",
-         "GDP growth rate compared to previous year": "1.85"
-      },
-      {
-         "Year": "2019",
-         "GDP growth rate compared to previous year": "2.18"
-      },
-      {
-         "Year": "2018",
-         "GDP growth rate compared to previous year": "2.58"
-      },
-      {
          "Year": "2017",
-         "GDP growth rate compared to previous year": "2.98"
+         "Franchise": "341",
+         "Company-owned": "385"
       },
       {
          "Year": "2016",
-         "GDP growth rate compared to previous year": "3.17"
+         "Franchise": "332",
+         "Company-owned": "367"
       },
       {
          "Year": "2015",
-         "GDP growth rate compared to previous year": "3.65"
+         "Franchise": "339",
+         "Company-owned": "322"
       },
       {
          "Year": "2014",
-         "GDP growth rate compared to previous year": "1.38"
+         "Franchise": "328",
+         "Company-owned": "310"
+      },
+      {
+         "Year": "2013",
+         "Franchise": "319",
+         "Company-owned": "296"
+      },
+      {
+         "Year": "2012",
+         "Franchise": "311",
+         "Company-owned": "316"
+      },
+      {
+         "Year": "2011",
+         "Franchise": "338",
+         "Company-owned": "245"
       }
-   ]
+   ],
+   "gold": "Fast casual restaurant chain Qdoba Mexican Eats had a total of 726 restaurants in 2017 . Of these , 385 were company-owned restaurants and 341 were franchised . This figure steadily increased over the course of the last four years , reaching its peak in 2017 .\n"
 }

@@ -4,18 +4,16 @@
    "yAxis": "Number of U.S. households with broadband internet access (in millions)",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
       "This line chart has an x axis representing Year and a y axis representing Number of U.S. households with broadband internet access (in millions) with a total of 19 data points. The chart has one significant trend.",
-      " This trend is extremely negative which exists from 2018 to 2000."
+      " This trend is positive which exists from 2018 to 2000."
    ],
    "trends": [
+      {},
       {
-         "Length": 19,
-         "direction": "negative",
-         "start": 0,
-         "end": 18,
-         "trend": "y=5.9x+-11777.94",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "18"
       }
    ],
    "data": [

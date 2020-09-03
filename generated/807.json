@@ -1,56 +1,64 @@
 {
-   "title": "Square annual gross payment volume 2012 to 2019",
+   "title": "Southwest Airlines - available seat miles 2011 to 2019",
    "xAxis": "Year",
-   "yAxis": "Gross payment volume in billion U.S. dollars",
+   "yAxis": "ASMs in billions",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows Square 's Gross payment volume ( GPV ) from 2012 to 2019 . ",
-      "In the most recent fiscal period , the company 's Gross payment volume amounted to 106.24 billion U.S. dollars , up from 84.65 billion in 2018 ."
+      "The statistic shows the available seat , miles and 2011 ASMs of Southwest Airlines from 2011 to 2019 . ",
+      "Southwest Airlines Airlines seat , miles and 2011 ASMs have gradually increased since 2011 , reaching 157.25 billions in 2018 . ",
+      "The Southwest Airlines Corporation is a billions medical technology company headquartered in Kalamazoo , Michigan ."
    ],
    "trends": [
       {
-         "12": "7",
-         "14": "0"
+         "14": "8",
+         "16": "0"
       },
       {
+         "12": "8",
          "15": "0",
-         "22": "1",
-         "25": "1"
-      }
+         "20": "1"
+      },
+      {}
    ],
    "data": [
       {
          "Year": "2019",
-         "Gross payment volume in billion U.S. dollars": "106.24"
+         "ASMs in billions": "157.25"
       },
       {
          "Year": "2018",
-         "Gross payment volume in billion U.S. dollars": "84.65"
+         "ASMs in billions": "159.8"
       },
       {
          "Year": "2017",
-         "Gross payment volume in billion U.S. dollars": "65.34"
+         "ASMs in billions": "153.81"
       },
       {
          "Year": "2016",
-         "Gross payment volume in billion U.S. dollars": "49.68"
+         "ASMs in billions": "148.52"
       },
       {
          "Year": "2015",
-         "Gross payment volume in billion U.S. dollars": "35.64"
+         "ASMs in billions": "140.5"
       },
       {
          "Year": "2014",
-         "Gross payment volume in billion U.S. dollars": "23.78"
+         "ASMs in billions": "131.0"
       },
       {
          "Year": "2013",
-         "Gross payment volume in billion U.S. dollars": "14.82"
+         "ASMs in billions": "130.34"
       },
       {
          "Year": "2012",
-         "Gross payment volume in billion U.S. dollars": "6.52"
+         "ASMs in billions": "128.14"
+      },
+      {
+         "Year": "2011",
+         "ASMs in billions": "120.58"
       }
-   ]
+   ],
+   "gold": "Southwest Airlines grew its available seat miles ( ASMs ) from 120.58 billion in 2011 to 157.25 billion in 2019 . ASMs are calculated by the total number of seats multiplied by the total distance traveled . When describing the airline industry , people consider ASMs as a measure of capacity .\n"
 }

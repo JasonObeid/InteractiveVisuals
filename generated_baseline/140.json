@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 19 categories for the x axis of Community representing Male, Female.",
+      "This grouped bar chart has 19 categories for the x axis of Community representing Male, and Female.",
       " The highest category is found at Andalusia with a mean value of 4223280.5.",
       " The second highest category is found at Catalonia with a mean value of 3804749.5.",
       " This represents a difference of 10.4%."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "secondIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Community": "Andalusia",

@@ -1,70 +1,73 @@
 {
-   "title": "Most popular leisure activities among Millennials in the U.S. 2013",
-   "xAxis": "Activity",
-   "yAxis": "Share of respondents",
+   "title": "Average regular season home attendance of the Chicago Bears 2008 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Average attendance",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic presents the distribution of a survey among Millennials adult popular . ",
-      "The survey was fielded online by Harris Interactive in 2014 , asking the respondents where they usually activities their shampoo and/or U.S.",
-      "Some 16 % of Millennials adults indicated that they buy their shampoo/conditioner Computer/internet ."
+      "This graph depicts the Average regular season home attendance of the Chicago Bears from 2008 to 2019 . ",
+      "In 2019 , the Average attendance at home games of the Chicago Bears was 61916 ."
    ],
    "trends": [
-      {},
-      {},
       {
-         "1": "3",
-         "12": "3"
+         "14": "11",
+         "16": "0"
+      },
+      {
+         "1": "0",
+         "14": "0"
       }
    ],
    "data": [
       {
-         "Activity": "Watch TV",
-         "Share of respondents": "38"
+         "Year": "2019",
+         "Average attendance": "61916"
       },
       {
-         "Activity": "Reading",
-         "Share of respondents": "31"
+         "Year": "2018",
+         "Average attendance": "61815"
       },
       {
-         "Activity": "Spending time with family and friends",
-         "Share of respondents": "19"
+         "Year": "2017",
+         "Average attendance": "61142"
       },
       {
-         "Activity": "Computer/internet",
-         "Share of respondents": "16"
+         "Year": "2016",
+         "Average attendance": "60368"
       },
       {
-         "Activity": "Playing video games and computer/internet games",
-         "Share of respondents": "16"
+         "Year": "2015",
+         "Average attendance": "62035"
       },
       {
-         "Activity": "Watching/going to the movies",
-         "Share of respondents": "13"
+         "Year": "2014",
+         "Average attendance": "61681"
       },
       {
-         "Activity": "Exercise/working out",
-         "Share of respondents": "13"
+         "Year": "2013",
+         "Average attendance": "62358"
       },
       {
-         "Activity": "Concerts/listening to/playing music",
-         "Share of respondents": "10"
+         "Year": "2012",
+         "Average attendance": "62329"
       },
       {
-         "Activity": "Walking/running/jogging",
-         "Share of respondents": "5"
+         "Year": "2011",
+         "Average attendance": "62145"
       },
       {
-         "Activity": "Eating/going to restaurants",
-         "Share of respondents": "5"
+         "Year": "2010",
+         "Average attendance": "62195"
       },
       {
-         "Activity": "Cooking/baking",
-         "Share of respondents": "5"
+         "Year": "2009",
+         "Average attendance": "62250"
       },
       {
-         "Activity": "Shopping",
-         "Share of respondents": "5"
+         "Year": "2008",
+         "Average attendance": "62034"
       }
-   ]
+   ],
+   "gold": "This graph depicts the average regular season home attendance of the Chicago Bears from 2008 to 2019 . In 2019 , the average attendance at home games of the Chicago Bears was 61,916 .\n"
 }

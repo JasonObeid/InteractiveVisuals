@@ -1,43 +1,77 @@
 {
-   "title": "UK : length of wait for security screening in Luton Airport 2018",
+   "title": "Average ticket price of the Los Angeles Chargers 2006 to 2019",
    "xAxis": "Year",
-   "yAxis": "Share of respondents",
+   "yAxis": "Average ticket price in U.S. dollars",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic presents the UK network size of teenage UK users in the length . ",
-      "During the 2015 survey , it was found that 48 % of respondents had 1-5_mins to followers on the social network . ",
-      "The length wait UK was 95 followers ."
+      "This graph depicts the Average ticket price for Los Angeles Chargers games in the National Football League from 2006 to 2019 . ",
+      "In 2019 , the Average ticket price was at 165.77 U.S. dollars ."
    ],
    "trends": [
-      {},
       {
-         "9": "1",
-         "14": "1",
-         "16": "1"
+         "16": "12",
+         "18": "0"
       },
-      {}
+      {
+         "1": "0",
+         "9": "0"
+      }
    ],
    "data": [
       {
-         "Year": "0 mins",
-         "Share of respondents": "14"
+         "Year": "2019",
+         "Average ticket price in U.S. dollars": "165.77"
       },
       {
-         "Year": "1-5 mins",
-         "Share of respondents": "48"
+         "Year": "2018",
+         "Average ticket price in U.S. dollars": "199.1"
       },
       {
-         "Year": "6-10 mins",
-         "Share of respondents": "25"
+         "Year": "2016",
+         "Average ticket price in U.S. dollars": "84.55"
       },
       {
-         "Year": "11-20 mins",
-         "Share of respondents": "12"
+         "Year": "2015",
+         "Average ticket price in U.S. dollars": "84.55"
       },
       {
-         "Year": "21-30 mins",
-         "Share of respondents": "1"
+         "Year": "2014",
+         "Average ticket price in U.S. dollars": "84.55"
+      },
+      {
+         "Year": "2013",
+         "Average ticket price in U.S. dollars": "84.55"
+      },
+      {
+         "Year": "2012",
+         "Average ticket price in U.S. dollars": "80.3"
+      },
+      {
+         "Year": "2011",
+         "Average ticket price in U.S. dollars": "80.3"
+      },
+      {
+         "Year": "2010",
+         "Average ticket price in U.S. dollars": "81.39"
+      },
+      {
+         "Year": "2009",
+         "Average ticket price in U.S. dollars": "81.39"
+      },
+      {
+         "Year": "2008",
+         "Average ticket price in U.S. dollars": "81.39"
+      },
+      {
+         "Year": "2007",
+         "Average ticket price in U.S. dollars": "73.64"
+      },
+      {
+         "Year": "2006",
+         "Average ticket price in U.S. dollars": "62.82"
       }
-   ]
+   ],
+   "gold": "This graph depicts the average ticket price for Los Angeles Chargers games in the National Football League from 2006 to 2019 . In 2019 , the average ticket price was at 165.77 U.S. dollars .\n"
 }

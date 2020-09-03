@@ -4,15 +4,24 @@
    "yAxis": "Revenue in million euros",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 15 categories for the x axis representing Country, and a y axis representing Revenue in million euros.",
       " The highest category is found at England where Revenue in million euros is 3210.0.",
       " The lowest category is found at Austria where Revenue in million euros is 22.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 14
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 14,
+         "12": 14
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "England",

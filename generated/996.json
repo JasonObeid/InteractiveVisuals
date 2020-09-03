@@ -1,187 +1,72 @@
 {
-   "title": "Gross domestic product ( GDP ) in Poland 2024",
-   "xAxis": "Year",
-   "yAxis": "GDP in billion U.S. dollars",
+   "title": "Twitter : number of monetizable daily active U.S. users 2017 to 2019",
+   "xAxis": "Quarter",
+   "yAxis": "Number of monetizable daily active users in millions",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the GDP of the Poland between 1984 and 2018 , with projections up until 2024 , in US dollars.Private-sector-led economic recovery GDP is counted among the primary indicators that are used to gauge the state of health a national economy . ",
-      "GDP is the total value of all completed goods and services that have been produced within a country in a given period of time , usually a Year . ",
-      "GDP figures allow us to gain a broader understanding of a country 's economy in a clear way ."
+      "This statistic shows the number monetizable daily sales of Twitter Inc. as of the fourth Quarter of 2017 . ",
+      "During that period , the C2C e-commerce company generated Number of 31 millions daily active , up from 27 millions daily active in the corresponding Quarter of the previous year . ",
+      "This represents a 32.8 millions year-on-year growth ."
    ],
    "trends": [
-      {
-         "9": "40",
-         "11": "6",
-         "17": "0"
-      },
       {},
+      {
+         "11": "0",
+         "18": "4"
+      },
       {}
    ],
    "data": [
       {
-         "Year": "2024",
-         "GDP in billion U.S. dollars": "777.24"
+         "Quarter": "Q4 '19",
+         "Number of monetizable daily active users in millions": "31"
       },
       {
-         "Year": "2023",
-         "GDP in billion U.S. dollars": "729.84"
+         "Quarter": "Q3 '19",
+         "Number of monetizable daily active users in millions": "30"
       },
       {
-         "Year": "2022",
-         "GDP in billion U.S. dollars": "685.94"
+         "Quarter": "Q2 '19",
+         "Number of monetizable daily active users in millions": "29"
       },
       {
-         "Year": "2021",
-         "GDP in billion U.S. dollars": "645.42"
+         "Quarter": "Q1 '19",
+         "Number of monetizable daily active users in millions": "28"
       },
       {
-         "Year": "2020",
-         "GDP in billion U.S. dollars": "606.73"
+         "Quarter": "Q4 '18",
+         "Number of monetizable daily active users in millions": "27"
       },
       {
-         "Year": "2019",
-         "GDP in billion U.S. dollars": "565.85"
+         "Quarter": "Q3 '18",
+         "Number of monetizable daily active users in millions": "26"
       },
       {
-         "Year": "2018",
-         "GDP in billion U.S. dollars": "585.82"
+         "Quarter": "Q2 '18",
+         "Number of monetizable daily active users in millions": "26"
       },
       {
-         "Year": "2017",
-         "GDP in billion U.S. dollars": "526.75"
+         "Quarter": "Q1 '18",
+         "Number of monetizable daily active users in millions": "26"
       },
       {
-         "Year": "2016",
-         "GDP in billion U.S. dollars": "471.84"
+         "Quarter": "Q4 '17",
+         "Number of monetizable daily active users in millions": "25"
       },
       {
-         "Year": "2015",
-         "GDP in billion U.S. dollars": "477.57"
+         "Quarter": "Q3 '17",
+         "Number of monetizable daily active users in millions": "26"
       },
       {
-         "Year": "2014",
-         "GDP in billion U.S. dollars": "545.28"
+         "Quarter": "Q2 '17",
+         "Number of monetizable daily active users in millions": "25"
       },
       {
-         "Year": "2013",
-         "GDP in billion U.S. dollars": "524.4"
-      },
-      {
-         "Year": "2012",
-         "GDP in billion U.S. dollars": "500.85"
-      },
-      {
-         "Year": "2011",
-         "GDP in billion U.S. dollars": "528.57"
-      },
-      {
-         "Year": "2010",
-         "GDP in billion U.S. dollars": "479.16"
-      },
-      {
-         "Year": "2009",
-         "GDP in billion U.S. dollars": "440.14"
-      },
-      {
-         "Year": "2008",
-         "GDP in billion U.S. dollars": "533.8"
-      },
-      {
-         "Year": "2007",
-         "GDP in billion U.S. dollars": "429.47"
-      },
-      {
-         "Year": "2006",
-         "GDP in billion U.S. dollars": "344.76"
-      },
-      {
-         "Year": "2005",
-         "GDP in billion U.S. dollars": "306.15"
-      },
-      {
-         "Year": "2004",
-         "GDP in billion U.S. dollars": "255.28"
-      },
-      {
-         "Year": "2003",
-         "GDP in billion U.S. dollars": "217.51"
-      },
-      {
-         "Year": "2002",
-         "GDP in billion U.S. dollars": "198.68"
-      },
-      {
-         "Year": "2001",
-         "GDP in billion U.S. dollars": "190.43"
-      },
-      {
-         "Year": "2000",
-         "GDP in billion U.S. dollars": "171.28"
-      },
-      {
-         "Year": "1999",
-         "GDP in billion U.S. dollars": "167.8"
-      },
-      {
-         "Year": "1998",
-         "GDP in billion U.S. dollars": "172.05"
-      },
-      {
-         "Year": "1997",
-         "GDP in billion U.S. dollars": "157.18"
-      },
-      {
-         "Year": "1996",
-         "GDP in billion U.S. dollars": "156.68"
-      },
-      {
-         "Year": "1995",
-         "GDP in billion U.S. dollars": "139.09"
-      },
-      {
-         "Year": "1994",
-         "GDP in billion U.S. dollars": "103.68"
-      },
-      {
-         "Year": "1993",
-         "GDP in billion U.S. dollars": "90.37"
-      },
-      {
-         "Year": "1992",
-         "GDP in billion U.S. dollars": "88.71"
-      },
-      {
-         "Year": "1991",
-         "GDP in billion U.S. dollars": "80.45"
-      },
-      {
-         "Year": "1990",
-         "GDP in billion U.S. dollars": "62.08"
-      },
-      {
-         "Year": "1989",
-         "GDP in billion U.S. dollars": "66.9"
-      },
-      {
-         "Year": "1988",
-         "GDP in billion U.S. dollars": "68.61"
-      },
-      {
-         "Year": "1987",
-         "GDP in billion U.S. dollars": "63.71"
-      },
-      {
-         "Year": "1986",
-         "GDP in billion U.S. dollars": "73.68"
-      },
-      {
-         "Year": "1985",
-         "GDP in billion U.S. dollars": "70.78"
-      },
-      {
-         "Year": "1984",
-         "GDP in billion U.S. dollars": "75.51"
+         "Quarter": "Q1 '17",
+         "Number of monetizable daily active users in millions": "26"
       }
-   ]
+   ],
+   "gold": "This statistic shows a timeline with the amount of monetizable daily active Twitter users in the United States as of the fourth quarter of 2019 . In the last reported quarter , the number of mDAU in the U.S. amounted to 31 million users . Total monthly active Twitter users in the United States amounted to 68 million .\n"
 }

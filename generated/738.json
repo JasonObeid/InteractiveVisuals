@@ -1,50 +1,61 @@
 {
-   "title": "Google vs. Microsoft Advertising : U.S. mobile click share 2019",
+   "title": "Cars of the future - expectations",
    "labels": [
-      "unknown",
-      "Google",
-      "Microsoft Advertising"
+      "Race",
+      "I mostly agree",
+      "I totally agree"
    ],
    "columnType": "multi",
    "graphType": "bar",
    "summary": [
-      "This statistic shows the number of Google vs. Advertising and Microsoft U.S. that were in operation as of year-end 2019 . ",
-      "At that moment , the company Microsoft 65 Phone Tablet . ",
-      "Google , which is short for the full name Petr\u00f3leo Brasileiro S.A. , is a Brazilian multinational energy corporation ."
+      "The graph shows the Race and future of Cars expectations in the expectations in , expectations . ",
+      "In , about 21.2 % That_it_is_mainly_functional expectations were I expectations ."
    ],
    "trends": [
       {},
       {
-         "7": [
-            "2",
-            "1"
-         ],
-         "8": [
-            "2",
-            "0"
-         ],
-         "9": [
-            "1",
+         "6": [
+            "4",
             "0"
          ]
-      },
-      {}
+      }
    ],
    "data": [
       {
-         "unknown": "Combined",
-         "Google": "70",
-         "Microsoft Advertising": "29"
+         "Race": "Maximal safety",
+         "I mostly agree": "17.3",
+         "I totally agree": "75.3"
       },
       {
-         "unknown": "Tablet",
-         "Google": "5",
-         "Microsoft Advertising": "7"
+         "Race": "Economic mobility",
+         "I mostly agree": "25.1",
+         "I totally agree": "63.7"
       },
       {
-         "unknown": "Phone",
-         "Google": "65",
-         "Microsoft Advertising": "22"
+         "Race": "Highest comfortwhen travelling",
+         "I mostly agree": "34.1",
+         "I totally agree": "51.8"
+      },
+      {
+         "Race": "Sustainability andenvironmental friendliness",
+         "I mostly agree": "27.6",
+         "I totally agree": "58.1"
+      },
+      {
+         "Race": "That it is mainly functional",
+         "I mostly agree": "37.1",
+         "I totally agree": "41.6"
+      },
+      {
+         "Race": "Driving enjoyment -Driving should be fun",
+         "I mostly agree": "35",
+         "I totally agree": "40"
+      },
+      {
+         "Race": "Reflecting my socialstatus/my self-image",
+         "I mostly agree": "21.2",
+         "I totally agree": "13.7"
       }
-   ]
+   ],
+   "gold": "The statistic shows people 's expectations of cars in the future . 75.3 percent of respondents totally agree that cars of the future should be as save as possible .\n"
 }

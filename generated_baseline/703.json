@@ -9,16 +9,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 7 categories for the x axis of Ticket Type representing Cat 1, Cat 2, Cat 3, Cat 4.",
+      "This grouped bar chart has 7 categories for the x axis of Ticket Type representing Cat 1, Cat 2, Cat 3, and Cat 4.",
       " The highest category is found at Final (64) with a mean value of 593.75.",
       " The second highest category is found at Semi-finals (61 to 62) with a mean value of 396.25.",
       " This represents a difference of 39.9%."
    ],
-   "trends": {
-      "maxIndex": 6,
-      "secondIndex": 6
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "6"
+         ],
+         "13": [
+            "4",
+            "6"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "4"
+         ],
+         "14": [
+            "4",
+            "4"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Ticket Type": "Opening match (1)",

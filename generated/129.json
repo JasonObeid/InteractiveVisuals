@@ -1,130 +1,69 @@
 {
-   "title": "Brand value of Serie A ( Italy ) football teams 2018",
-   "labels": [
-      "unknown",
-      "2011",
-      "2012",
-      "2013",
-      "2014",
-      "2015",
-      "2016",
-      "2017",
-      "2018"
-   ],
-   "columnType": "multi",
-   "graphType": "bar",
+   "title": "Venezuela 's budget balance in relation to GDP 2018",
+   "xAxis": "Year",
+   "yAxis": "Budget balance in relation to GDP",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic presents the average Brand value of Serie Italy in Serie A Italy from 2018 to , 2018 unknown . ",
-      "The average cost for Brand value in Serie A Italy 2018 was 0 U.S. dollars ."
+      "The statistic shows Venezuela 's Budget balance between the 2008 and 2018 fiscal years . ",
+      "Venezuela 's 's Budget balance reached around -30.56 billion GDP ( or about 33 billion U.S. dollars ) in its 2018 fiscal Year ."
    ],
    "trends": [
-      {},
       {
-         "11": [
-            "8",
-            "3"
-         ]
+         "10": "10",
+         "12": "0"
+      },
+      {
+         "7": "0",
+         "20": "0"
       }
    ],
    "data": [
       {
-         "unknown": "Juventus FC",
-         "2011": "184",
-         "2012": "160",
-         "2013": "180",
-         "2014": "247",
-         "2015": "350",
-         "2016": "287",
-         "2017": "492",
-         "2018": "605"
+         "Year": "2018",
+         "Budget balance in relation to GDP": "-30.56"
       },
       {
-         "unknown": "FC Internazionale Milano",
-         "2011": "263",
-         "2012": "215",
-         "2013": "151",
-         "2014": "152",
-         "2015": "160",
-         "2016": "151",
-         "2017": "217",
-         "2018": "475"
+         "Year": "2017",
+         "Budget balance in relation to GDP": "-16.61"
       },
       {
-         "unknown": "AC Milan",
-         "2011": "273",
-         "2012": "292",
-         "2013": "263",
-         "2014": "236",
-         "2015": "244",
-         "2016": "207",
-         "2017": "286",
-         "2018": "315"
+         "Year": "2016",
+         "Budget balance in relation to GDP": "-10.83"
       },
       {
-         "unknown": "AS Roma",
-         "2011": "101",
-         "2012": "85",
-         "2013": "82",
-         "2014": "108",
-         "2015": "117",
-         "2016": "131",
-         "2017": "180",
-         "2018": "264"
+         "Year": "2015",
+         "Budget balance in relation to GDP": "-10.65"
       },
       {
-         "unknown": "SSC Napoli",
-         "2011": "70",
-         "2012": "85",
-         "2013": "101",
-         "2014": "121",
-         "2015": "147",
-         "2016": "118",
-         "2017": "177",
-         "2018": "183"
+         "Year": "2014",
+         "Budget balance in relation to GDP": "-15.55"
       },
       {
-         "unknown": "SSC Lazio",
-         "2011": "55",
-         "2012": "46",
-         "2013": "52",
-         "2014": "62",
-         "2015": "78",
-         "2016": "0",
-         "2017": "0",
-         "2018": "155"
+         "Year": "2013",
+         "Budget balance in relation to GDP": "-11.27"
       },
       {
-         "unknown": "Atalanta",
-         "2011": "0",
-         "2012": "0",
-         "2013": "0",
-         "2014": "0",
-         "2015": "0",
-         "2016": "0",
-         "2017": "0",
-         "2018": "136"
+         "Year": "2012",
+         "Budget balance in relation to GDP": "-10.45"
       },
       {
-         "unknown": "ACF Fiorentina",
-         "2011": "56",
-         "2012": "46",
-         "2013": "52",
-         "2014": "0",
-         "2015": "76",
-         "2016": "0",
-         "2017": "0",
-         "2018": "0"
+         "Year": "2011",
+         "Budget balance in relation to GDP": "-8.24"
       },
       {
-         "unknown": "Udinese Calcio",
-         "2011": "0",
-         "2012": "20",
-         "2013": "0",
-         "2014": "0",
-         "2015": "0",
-         "2016": "0",
-         "2017": "0",
-         "2018": "0"
+         "Year": "2010",
+         "Budget balance in relation to GDP": "-4.74"
+      },
+      {
+         "Year": "2009",
+         "Budget balance in relation to GDP": "-8.69"
+      },
+      {
+         "Year": "2008",
+         "Budget balance in relation to GDP": "-3.46"
       }
-   ]
+   ],
+   "gold": "The statistic shows Venezuela 's budget balance in relation to GDP between 2008 and 2017 , with projections up until 2018 . A positive value indicates a budget surplus , a negative value indicates a deficit . In 2017 , the budget deficit of Venezuela amounted to around 16.61 percent of GDP .\n"
 }

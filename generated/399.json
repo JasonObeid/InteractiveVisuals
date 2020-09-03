@@ -1,88 +1,69 @@
 {
-   "title": "NCAA men 's college basketball championships by team 1939 to 2019",
-   "xAxis": "State",
-   "yAxis": "Number of titles",
+   "title": "U.S. cities with the highest annual temperatures",
+   "xAxis": "Us City",
+   "yAxis": "Average temperature in Fahrenheit per year",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The city of UCLA holds the record for the highest Number titles of men 's college in the NCAA , as of October 1939 , with an Duke Number of some 11 Duke titles . ",
-      "According to recent data , 1939 2021 , recreational college sales in the Duke are expected to triple . ",
-      "Recreational cannabis use Recreational cannabis is not legal in all Duke states ; however , many consumers use the drug illicitly ."
+      "This statistic shows the cities Average of U.S. in the Us in , temperatures Us . ",
+      "In , about 87.2 million Fahrenheit of Phoenix_Arizona were temperature in the temperatures ."
    ],
    "trends": [
+      {},
       {
-         "3": "0",
-         "28": "4",
-         "32": "0",
-         "33": "4"
-      },
-      {
-         "13": "4"
-      },
-      {
-         "10": "4"
+         "8": "0"
       }
    ],
    "data": [
       {
-         "State": "UCLA",
-         "Number of titles": "11"
+         "Us City": "Phoenix Arizona",
+         "Average temperature in Fahrenheit per year": "87.2"
       },
       {
-         "State": "Kentucky",
-         "Number of titles": "8"
+         "Us City": "Miami Florida",
+         "Average temperature in Fahrenheit per year": "84.3"
       },
       {
-         "State": "North Carolina",
-         "Number of titles": "6"
+         "Us City": "Orlando Florida",
+         "Average temperature in Fahrenheit per year": "82.8"
       },
       {
-         "State": "Indiana",
-         "Number of titles": "5"
+         "Us City": "Riverside California",
+         "Average temperature in Fahrenheit per year": "80.9"
       },
       {
-         "State": "Duke",
-         "Number of titles": "5"
+         "Us City": "Austin Texas",
+         "Average temperature in Fahrenheit per year": "79.8"
       },
       {
-         "State": "Connecticut",
-         "Number of titles": "4"
+         "Us City": "Houston Texas",
+         "Average temperature in Fahrenheit per year": "79.7"
       },
       {
-         "State": "Kansas",
-         "Number of titles": "3"
+         "Us City": "San Antonio Texas",
+         "Average temperature in Fahrenheit per year": "80.3"
       },
       {
-         "State": "Villanova",
-         "Number of titles": "3"
+         "Us City": "Las Vegas Nevada",
+         "Average temperature in Fahrenheit per year": "80.1"
       },
       {
-         "State": "Louisville",
-         "Number of titles": "3"
+         "Us City": "Jacksonville Florida",
+         "Average temperature in Fahrenheit per year": "79.3"
       },
       {
-         "State": "Cincinnati",
-         "Number of titles": "2"
+         "Us City": "New Orleans Louisiana",
+         "Average temperature in Fahrenheit per year": "78.2"
       },
       {
-         "State": "Florida",
-         "Number of titles": "2"
+         "Us City": "Tampa Florida",
+         "Average temperature in Fahrenheit per year": "81.7"
       },
       {
-         "State": "Michigan St.",
-         "Number of titles": "2"
-      },
-      {
-         "State": "North Carolina State",
-         "Number of titles": "2"
-      },
-      {
-         "State": "Oklahoma A&M",
-         "Number of titles": "2"
-      },
-      {
-         "State": "San Francisco",
-         "Number of titles": "2"
+         "Us City": "Los Angeles California",
+         "Average temperature in Fahrenheit per year": "75.2"
       }
-   ]
+   ],
+   "gold": "This statistic shows cities in the United States with the highest average annual temperatures . Data is based on recordings from 1971 to 2000 . In Houston , Texas the average temperature is 80 degreed fahrenheit .\n"
 }

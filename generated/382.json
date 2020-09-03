@@ -1,70 +1,101 @@
 {
-   "title": "Number of Royal Dutch Shell shares 2008 to 2018",
+   "title": "Massachusetts - Poverty rate 2000 to 2018",
    "xAxis": "Year",
-   "yAxis": "Number of shares in millions",
+   "yAxis": "Percentage of population",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the total Number of shares millions Dutch Royal Dutch Shell plc in the United Kingdom ( UK ) between 2008 and 2018 . ",
-      "Passenger numbers for the UK based airline have been increasing since 2010 and reached 8283 millions Dutch 2018 . ",
-      "This figure excludes the company 's subsidiary BA CityFlyer ."
+      "This statistic shows the Poverty rate in Massachusetts from 2000 to 2018 . ",
+      "In 2018 , about 10 percentage of Massachusetts 's population lived below the Poverty line ."
    ],
    "trends": [
       {
-         "20": "10",
-         "22": "0"
+         "9": "18",
+         "11": "0"
       },
       {
-         "11": "8",
-         "14": "0",
-         "17": "0"
-      },
-      {}
+         "1": "0",
+         "4": "0"
+      }
    ],
    "data": [
       {
          "Year": "2018",
-         "Number of shares in millions": "8283"
+         "Percentage of population": "10"
       },
       {
          "Year": "2017",
-         "Number of shares in millions": "8223"
+         "Percentage of population": "10.5"
       },
       {
          "Year": "2016",
-         "Number of shares in millions": "7834"
+         "Percentage of population": "10.4"
       },
       {
          "Year": "2015",
-         "Number of shares in millions": "6320"
+         "Percentage of population": "11.5"
       },
       {
          "Year": "2014",
-         "Number of shares in millions": "6311"
+         "Percentage of population": "11.6"
       },
       {
          "Year": "2013",
-         "Number of shares in millions": "6291"
+         "Percentage of population": "11.9"
       },
       {
          "Year": "2012",
-         "Number of shares in millions": "6261"
+         "Percentage of population": "11.9"
       },
       {
          "Year": "2011",
-         "Number of shares in millions": "6213"
+         "Percentage of population": "11.6"
       },
       {
          "Year": "2010",
-         "Number of shares in millions": "6133"
+         "Percentage of population": "11.4"
       },
       {
          "Year": "2009",
-         "Number of shares in millions": "6125"
+         "Percentage of population": "10.3"
       },
       {
          "Year": "2008",
-         "Number of shares in millions": "6159"
+         "Percentage of population": "10"
+      },
+      {
+         "Year": "2007",
+         "Percentage of population": "9.9"
+      },
+      {
+         "Year": "2006",
+         "Percentage of population": "9.9"
+      },
+      {
+         "Year": "2005",
+         "Percentage of population": "10.3"
+      },
+      {
+         "Year": "2004",
+         "Percentage of population": "9.2"
+      },
+      {
+         "Year": "2003",
+         "Percentage of population": "9.4"
+      },
+      {
+         "Year": "2002",
+         "Percentage of population": "8.9"
+      },
+      {
+         "Year": "2001",
+         "Percentage of population": "8.7"
+      },
+      {
+         "Year": "2000",
+         "Percentage of population": "9.6"
       }
-   ]
+   ],
+   "gold": "This statistic shows the poverty rate in Massachusetts from 2000 to 2018 . In 2018 , 10 percent of Massachusetts ' population lived below the poverty line .\n"
 }

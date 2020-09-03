@@ -1,131 +1,81 @@
 {
-   "title": "Most valuable Turkish brands 2019",
-   "xAxis": "Brand",
-   "yAxis": "Brand value in million U.S. dollars",
+   "title": "Average wine consumption per U.S. resident 2005 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Consumption per resident in gallons",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows a ranking of Most valuable Turkish brands in 2019 , sorted by Brand value . ",
-      "With a Brand value of approximately 1735 million U.S. , the Turkish automotive manufacturer Turkish_Airlines was the Most valuable Turkish Brand in 2019 , marginally ahead of automotive rival Ziraat_Bankas\u0131 . ",
-      "The two car brands have a large margin to the next Brand on the list , with Garanti valued at roughly half of Ziraat_Bankas\u0131 's value , at 1344 million euros.Despite having the slightly lower Brand value in 2019 , Ziraat_Bankas\u0131 actually outsold Turkish_Airlines in Europe on sheer number of units , selling 748,176 units in 2019 compared with the 737,278 units sold by Mercedes_Benz.Despite leading Germany , neither Turkish_Airlines or Ziraat_Bankas\u0131 appear on the list of the world 's 20 Most valuable brands ."
+      "The total resident of Consumption per , including fuel , reached a peak resident of over 423 billion British pounds in 2018 . ",
+      "This marked an increase of about 18 million British pounds on the previous Year . ",
+      "For the Consumption industry excluding fuel per , this figure similarly indicated a record resident in 2018 with a significant rise on the Year prior ."
    ],
    "trends": [
+      {
+         "21": "0"
+      },
       {},
       {
-         "6": "0",
-         "14": "0",
-         "29": "1"
-      },
-      {
-         "17": "2",
-         "23": "1",
-         "28": "2",
-         "40": "1",
-         "43": "0",
-         "69": "0",
-         "71": "1"
+         "16": "0"
       }
    ],
    "data": [
       {
-         "Brand": "Turkish Airlines",
-         "Brand value in million U.S. dollars": "1735"
+         "Year": "2018",
+         "Consumption per resident in gallons": "2.95"
       },
       {
-         "Brand": "Ziraat Bankas\u0131",
-         "Brand value in million U.S. dollars": "1637"
+         "Year": "2017",
+         "Consumption per resident in gallons": "2.94"
       },
       {
-         "Brand": "Garanti",
-         "Brand value in million U.S. dollars": "1344"
+         "Year": "2016",
+         "Consumption per resident in gallons": "2.93"
       },
       {
-         "Brand": "T\u00fcrk Telekom",
-         "Brand value in million U.S. dollars": "1185"
+         "Year": "2015",
+         "Consumption per resident in gallons": "2.86"
       },
       {
-         "Brand": "Turkcell",
-         "Brand value in million U.S. dollars": "1182"
+         "Year": "2014",
+         "Consumption per resident in gallons": "2.82"
       },
       {
-         "Brand": "\u0130\u015f Bankas\u0131",
-         "Brand value in million U.S. dollars": "1135"
+         "Year": "2013",
+         "Consumption per resident in gallons": "2.83"
       },
       {
-         "Brand": "Akbank",
-         "Brand value in million U.S. dollars": "934"
+         "Year": "2012",
+         "Consumption per resident in gallons": "2.78"
       },
       {
-         "Brand": "Ar\u00e7elik",
-         "Brand value in million U.S. dollars": "837"
+         "Year": "2011",
+         "Consumption per resident in gallons": "2.72"
       },
       {
-         "Brand": "Yap\u0131 Kredi",
-         "Brand value in million U.S. dollars": "647"
+         "Year": "2010",
+         "Consumption per resident in gallons": "2.58"
       },
       {
-         "Brand": "Ford Otosan",
-         "Brand value in million U.S. dollars": "458"
+         "Year": "2009",
+         "Consumption per resident in gallons": "2.54"
       },
       {
-         "Brand": "BSH",
-         "Brand value in million U.S. dollars": "441"
+         "Year": "2008",
+         "Consumption per resident in gallons": "2.45"
       },
       {
-         "Brand": "Halkbank",
-         "Brand value in million U.S. dollars": "428"
+         "Year": "2007",
+         "Consumption per resident in gallons": "2.47"
       },
       {
-         "Brand": "\u00dclker Bisk\u00fcvi",
-         "Brand value in million U.S. dollars": "409"
+         "Year": "2006",
+         "Consumption per resident in gallons": "2.36"
       },
       {
-         "Brand": "Vak\u0131fBank",
-         "Brand value in million U.S. dollars": "396"
-      },
-      {
-         "Brand": "DenizBank",
-         "Brand value in million U.S. dollars": "371"
-      },
-      {
-         "Brand": "Opet",
-         "Brand value in million U.S. dollars": "364"
-      },
-      {
-         "Brand": "Anadolu Efes",
-         "Brand value in million U.S. dollars": "315"
-      },
-      {
-         "Brand": "Bim",
-         "Brand value in million U.S. dollars": "308"
-      },
-      {
-         "Brand": "Tofa\u015f",
-         "Brand value in million U.S. dollars": "299"
-      },
-      {
-         "Brand": "Vestel",
-         "Brand value in million U.S. dollars": "265"
-      },
-      {
-         "Brand": "\u015ei\u015fe Cam",
-         "Brand value in million U.S. dollars": "242"
-      },
-      {
-         "Brand": "S\u00fcta\u015f",
-         "Brand value in million U.S. dollars": "236"
-      },
-      {
-         "Brand": "Migros",
-         "Brand value in million U.S. dollars": "235"
-      },
-      {
-         "Brand": "TEB",
-         "Brand value in million U.S. dollars": "204"
-      },
-      {
-         "Brand": "Pegasus",
-         "Brand value in million U.S. dollars": "203"
+         "Year": "2005",
+         "Consumption per resident in gallons": "2.32"
       }
-   ]
+   ],
+   "gold": "Wine consumption has been increasing in the United States . Since 2005 , the average annual consumption per resident has increased by 27 percent to a high of 2.95 gallons in 2018 .\n"
 }

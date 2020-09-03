@@ -1,99 +1,134 @@
 {
-   "title": "Georgia - real GDP 2000 to 2018",
-   "xAxis": "Year",
-   "yAxis": "Real GDP in billion U.S. dollars",
+   "title": "NFL teams ranked by number of Super Bowl appearances all time 2020",
+   "xAxis": "Team",
+   "yAxis": "Number of Super Bowl appearances",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the development of Georgia ' GDP from 2000 to 2018 . ",
-      "In 2018 , the GDP of Georgia was 522.42 billion U.S. dollars ."
+      "The statistic shows the NFL teams of the by number of the Super Bowl from 2020 to . ",
+      "In 2019 , New_England_Patriots received a NFL teams ranked of 11 % Super Bowl appearances ."
    ],
    "trends": [
+      {},
       {
-         "10": "18",
-         "12": "0"
-      },
-      {
-         "1": "0",
-         "8": "0"
+         "3": "0",
+         "10": "0"
       }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Real GDP in billion U.S. dollars": "522.42"
+         "Team": "New England Patriots",
+         "Number of Super Bowl appearances": "11"
       },
       {
-         "Year": "2017",
-         "Real GDP in billion U.S. dollars": "509.42"
+         "Team": "Pittsburgh Steelers",
+         "Number of Super Bowl appearances": "8"
       },
       {
-         "Year": "2016",
-         "Real GDP in billion U.S. dollars": "495.23"
+         "Team": "Dallas Cowboys",
+         "Number of Super Bowl appearances": "8"
       },
       {
-         "Year": "2015",
-         "Real GDP in billion U.S. dollars": "479.24"
+         "Team": "Denver Broncos",
+         "Number of Super Bowl appearances": "8"
       },
       {
-         "Year": "2014",
-         "Real GDP in billion U.S. dollars": "464.06"
+         "Team": "San Francisco 49ers",
+         "Number of Super Bowl appearances": "7"
       },
       {
-         "Year": "2013",
-         "Real GDP in billion U.S. dollars": "450.77"
+         "Team": "Washington Redskins",
+         "Number of Super Bowl appearances": "5"
       },
       {
-         "Year": "2012",
-         "Real GDP in billion U.S. dollars": "444.13"
+         "Team": "Green Bay Packers",
+         "Number of Super Bowl appearances": "5"
       },
       {
-         "Year": "2011",
-         "Real GDP in billion U.S. dollars": "439.89"
+         "Team": "Miami Dolphins",
+         "Number of Super Bowl appearances": "5"
       },
       {
-         "Year": "2010",
-         "Real GDP in billion U.S. dollars": "433.03"
+         "Team": "New York Giants",
+         "Number of Super Bowl appearances": "5"
       },
       {
-         "Year": "2009",
-         "Real GDP in billion U.S. dollars": "426.26"
+         "Team": "Oakland Raiders",
+         "Number of Super Bowl appearances": "5"
       },
       {
-         "Year": "2008",
-         "Real GDP in billion U.S. dollars": "443.42"
+         "Team": "Buffalo Bills",
+         "Number of Super Bowl appearances": "4"
       },
       {
-         "Year": "2007",
-         "Real GDP in billion U.S. dollars": "453.06"
+         "Team": "Minnesota Vikings",
+         "Number of Super Bowl appearances": "4"
       },
       {
-         "Year": "2006",
-         "Real GDP in billion U.S. dollars": "450.58"
+         "Team": "Indianapolis Colts",
+         "Number of Super Bowl appearances": "4"
       },
       {
-         "Year": "2005",
-         "Real GDP in billion U.S. dollars": "445.53"
+         "Team": "Los Angeles Rams",
+         "Number of Super Bowl appearances": "4"
       },
       {
-         "Year": "2004",
-         "Real GDP in billion U.S. dollars": "429.31"
+         "Team": "Philadelphia Eagles",
+         "Number of Super Bowl appearances": "3"
       },
       {
-         "Year": "2003",
-         "Real GDP in billion U.S. dollars": "410.59"
+         "Team": "Kansas City Chiefs",
+         "Number of Super Bowl appearances": "3"
       },
       {
-         "Year": "2002",
-         "Real GDP in billion U.S. dollars": "400.09"
+         "Team": "Seattle Seahawks",
+         "Number of Super Bowl appearances": "3"
       },
       {
-         "Year": "2001",
-         "Real GDP in billion U.S. dollars": "396.88"
+         "Team": "Carolina Panthers",
+         "Number of Super Bowl appearances": "2"
       },
       {
-         "Year": "2000",
-         "Real GDP in billion U.S. dollars": "393.2"
+         "Team": "Atlanta Falcons",
+         "Number of Super Bowl appearances": "2"
+      },
+      {
+         "Team": "Baltimore Ravens",
+         "Number of Super Bowl appearances": "2"
+      },
+      {
+         "Team": "Cincinnati Bengals",
+         "Number of Super Bowl appearances": "2"
+      },
+      {
+         "Team": "Chicago Bears",
+         "Number of Super Bowl appearances": "2"
+      },
+      {
+         "Team": "New Orleans Saints",
+         "Number of Super Bowl appearances": "1"
+      },
+      {
+         "Team": "Arizona Cardinals",
+         "Number of Super Bowl appearances": "1"
+      },
+      {
+         "Team": "Tennessee Titans",
+         "Number of Super Bowl appearances": "1"
+      },
+      {
+         "Team": "Tampa Bay Buccaneers",
+         "Number of Super Bowl appearances": "1"
+      },
+      {
+         "Team": "Los Angeles Chargers",
+         "Number of Super Bowl appearances": "1"
+      },
+      {
+         "Team": "New York Jets",
+         "Number of Super Bowl appearances": "1"
       }
-   ]
+   ],
+   "gold": "Which team has appeared most often in the Super Bowl ? The New England Patriots have appeared in the National Football League 's annual championship game a record 11 times , winning the Super Bowl six times . The Patriots and the Pittsburgh Steelers share the honor of winning the Super Bowl the highest number of times ( six wins each ) . All of the Patriots six Super Bowl wins have come with Bill Belichick as the head coach and Tom Brady under center at the quarterback position .\n"
 }

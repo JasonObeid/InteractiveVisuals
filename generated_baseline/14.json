@@ -10,16 +10,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 6 categories for the x axis of Actor representing Very favorable, Somewhat favorable, Somewhat unfavorable, Very unfavorable, Don't know/no opinion.",
+      "This grouped bar chart has 6 categories for the x axis of Actor representing Very favorable, Somewhat favorable, Somewhat unfavorable, Very unfavorable, and Don't know/no opinion.",
       " The highest category is found at Daniel Craig with a mean value of 20.2.",
       " The second highest category is found at Roger Moore with a mean value of 20.2.",
       " This represents a difference of 0.0%."
    ],
-   "trends": {
-      "maxIndex": 3,
-      "secondIndex": 3
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "13": [
+            "5",
+            "3"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "14": [
+            "5",
+            "2"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "Actor": "Sean Connery",

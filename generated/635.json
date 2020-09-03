@@ -1,94 +1,66 @@
 {
-   "title": "Tottenham Hotspur revenue by stream 2018/19",
-   "labels": [
-      "Season",
-      "Matchday",
-      "Broadcasting",
-      "Commercial"
-   ],
-   "columnType": "multi",
+   "title": "Distribution of consumer transactions worldwide 2018 , by payment channel",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "Broadcasting is the largest source of revenue for Tottenham Hotspur . ",
-      "In 2018/2019 , the club earned approximately 276.7 million euros from Broadcasting , more than triple in 2010/2011 . ",
-      "The second biggest revenue stream is the Commercial one ."
+      "The statistic reveals the IT Distribution most commonly consumer by IT leaders transactions , as of 2018 . ",
+      "In 2018 , In-store development was consumer by 41 % of respondents ."
    ],
    "trends": [
       {},
       {
-         "7": [
-            "0",
-            "2"
-         ]
-      },
-      {}
+         "3": "0",
+         "8": "0"
+      }
    ],
    "data": [
       {
-         "Season": "2018/19",
-         "Matchday": "92.5",
-         "Broadcasting": "276.7",
-         "Commercial": "151.9"
+         "Response": "In-store",
+         "Share of respondents": "41"
       },
       {
-         "Season": "2017/18",
-         "Matchday": "85.2",
-         "Broadcasting": "226.6",
-         "Commercial": "116.5"
+         "Response": "Other online",
+         "Share of respondents": "14"
       },
       {
-         "Season": "2016/17",
-         "Matchday": "52.7",
-         "Broadcasting": "219.0",
-         "Commercial": "83.9"
+         "Response": "Buy buttons",
+         "Share of respondents": "9"
       },
       {
-         "Season": "2015/16",
-         "Matchday": "54.6",
-         "Broadcasting": "147.6",
-         "Commercial": "77.5"
+         "Response": "Other mobile transfers",
+         "Share of respondents": "8"
       },
       {
-         "Season": "2014/15",
-         "Matchday": "54.2",
-         "Broadcasting": "125.2",
-         "Commercial": "78.1"
+         "Response": "P2P transfer",
+         "Share of respondents": "7"
       },
       {
-         "Season": "2013/14",
-         "Matchday": "52.5",
-         "Broadcasting": "113.3",
-         "Commercial": "50.0"
+         "Response": "Mobile messenger apps",
+         "Share of respondents": "7"
       },
       {
-         "Season": "2012/13",
-         "Matchday": "46.9",
-         "Broadcasting": "72.7",
-         "Commercial": "52.4"
+         "Response": "QR codes",
+         "Share of respondents": "5"
       },
       {
-         "Season": "2011/12",
-         "Matchday": "50.8",
-         "Broadcasting": "76.1",
-         "Commercial": "51.3"
+         "Response": "Other in-app payments",
+         "Share of respondents": "4"
       },
       {
-         "Season": "2010/11",
-         "Matchday": "47.9",
-         "Broadcasting": "92.0",
-         "Commercial": "41.1"
+         "Response": "Smart home device",
+         "Share of respondents": "2"
       },
       {
-         "Season": "2009/10",
-         "Matchday": "44.9",
-         "Broadcasting": "62.9",
-         "Commercial": "38.5"
+         "Response": "Wearables / contactless",
+         "Share of respondents": "2"
       },
       {
-         "Season": "2008/09",
-         "Matchday": "46.3",
-         "Broadcasting": "52.6",
-         "Commercial": "33.8"
+         "Response": "Other",
+         "Share of respondents": "2"
       }
-   ]
+   ],
+   "gold": "This statistic presents the most popular payment methods for everyday transactions according to internet users worldwide as of June 2018 . When asked to think about they payment methods for their ten most recent transactions , it was found that seven percent were made via P2P transfer . In-store still accounted for the single largest share of everyday transactions with 41 percent .\n"
 }

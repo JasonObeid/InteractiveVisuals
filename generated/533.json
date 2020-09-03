@@ -1,188 +1,74 @@
 {
-   "title": "Inflation rate in Algeria 2024",
-   "xAxis": "Year",
-   "yAxis": "Inflation rate compared to previous year",
-   "columnType": "two",
-   "graphType": "line",
+   "title": "U.S. TV viewership selected games 2014 FIFA World Cup in Brazil",
+   "labels": [
+      "2014 World Cup Matches",
+      "ESPN/ABC",
+      "Univision"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
    "summary": [
-      "This statistic shows the average Inflation rate in Algeria from 1984 to 2018 , with projections up until 2024 . ",
-      "In 2018 , the average Inflation rate in Algeria amounted to about 5.59 % compared to the previous Year ."
+      "The statistic shows the U.S. TV 2014 of and games FIFA selected their pets in the World in 2014 . ",
+      "In 2014 , American 2014 FIFA reckoned they spent a median amount of some 374 Brazil dollars on medical costs between Opening_match_-_Brazil_vs._Croatia_(06/12/14)(Univision_&_ESPN) and Group_match_-_USA_vs._Germany_(06/22/14)(Univision_&_ESPN) Opening_match_-_Brazil_vs._Croatia_(06/12/14)(Univision_&_ESPN) for their pet ."
    ],
    "trends": [
+      {},
       {
-         "10": "40",
-         "12": "6",
-         "18": "0"
-      },
-      {
-         "1": "6",
-         "12": "7"
+         "21": [
+            "0",
+            "0"
+         ],
+         "23": [
+            "3",
+            "0"
+         ],
+         "24": [
+            "0",
+            "0"
+         ]
       }
    ],
    "data": [
       {
-         "Year": "2024",
-         "Inflation rate compared to previous year": "8.7"
+         "2014 World Cup Matches": "Opening match - Brazil vs. Croatia (06/12/14)(Univision & ESPN)",
+         "ESPN/ABC": "4.4",
+         "Univision": "5.1"
       },
       {
-         "Year": "2023",
-         "Inflation rate compared to previous year": "7.9"
+         "2014 World Cup Matches": "Group match - USA vs. Ghana (06/17/14)(Univision & ESPN)",
+         "ESPN/ABC": "11.1",
+         "Univision": "4.8"
       },
       {
-         "Year": "2022",
-         "Inflation rate compared to previous year": "6.7"
+         "2014 World Cup Matches": "Group match - USA vs. Portugal (06/22/14)(Univision & ESPN)",
+         "ESPN/ABC": "18.2",
+         "Univision": "6.5"
       },
       {
-         "Year": "2021",
-         "Inflation rate compared to previous year": "5.5"
+         "2014 World Cup Matches": "Group match - USA vs. Germany (06/22/14)(Univision & ESPN)",
+         "ESPN/ABC": "10.8",
+         "Univision": "3.4"
       },
       {
-         "Year": "2020",
-         "Inflation rate compared to previous year": "4.1"
+         "2014 World Cup Matches": "Round of 16 - USA vs. Belgium (07/01/14)(Univision & ESPN)",
+         "ESPN/ABC": "16.5",
+         "Univision": "5.1"
       },
       {
-         "Year": "2019",
-         "Inflation rate compared to previous year": "2"
+         "2014 World Cup Matches": "Semifinal - Brazil vs. Germany (07/08/14)(Univision & ESPN)",
+         "ESPN/ABC": "6.6",
+         "Univision": "5.8"
       },
       {
-         "Year": "2018",
-         "Inflation rate compared to previous year": "4.27"
+         "2014 World Cup Matches": "Semifinal - Argentina vs. Netherlands (07/09/14)(Univision & ESPN)",
+         "ESPN/ABC": "6.8",
+         "Univision": "5.4"
       },
       {
-         "Year": "2017",
-         "Inflation rate compared to previous year": "5.59"
-      },
-      {
-         "Year": "2016",
-         "Inflation rate compared to previous year": "6.4"
-      },
-      {
-         "Year": "2015",
-         "Inflation rate compared to previous year": "4.78"
-      },
-      {
-         "Year": "2014",
-         "Inflation rate compared to previous year": "2.92"
-      },
-      {
-         "Year": "2013",
-         "Inflation rate compared to previous year": "3.26"
-      },
-      {
-         "Year": "2012",
-         "Inflation rate compared to previous year": "8.92"
-      },
-      {
-         "Year": "2011",
-         "Inflation rate compared to previous year": "4.5"
-      },
-      {
-         "Year": "2010",
-         "Inflation rate compared to previous year": "3.91"
-      },
-      {
-         "Year": "2009",
-         "Inflation rate compared to previous year": "5.74"
-      },
-      {
-         "Year": "2008",
-         "Inflation rate compared to previous year": "4.86"
-      },
-      {
-         "Year": "2007",
-         "Inflation rate compared to previous year": "3.67"
-      },
-      {
-         "Year": "2006",
-         "Inflation rate compared to previous year": "2.32"
-      },
-      {
-         "Year": "2005",
-         "Inflation rate compared to previous year": "1.38"
-      },
-      {
-         "Year": "2004",
-         "Inflation rate compared to previous year": "3.97"
-      },
-      {
-         "Year": "2003",
-         "Inflation rate compared to previous year": "4.26"
-      },
-      {
-         "Year": "2002",
-         "Inflation rate compared to previous year": "1.43"
-      },
-      {
-         "Year": "2001",
-         "Inflation rate compared to previous year": "4.2"
-      },
-      {
-         "Year": "2000",
-         "Inflation rate compared to previous year": "0.3"
-      },
-      {
-         "Year": "1999",
-         "Inflation rate compared to previous year": "2.6"
-      },
-      {
-         "Year": "1998",
-         "Inflation rate compared to previous year": "4.95"
-      },
-      {
-         "Year": "1997",
-         "Inflation rate compared to previous year": "5.7"
-      },
-      {
-         "Year": "1996",
-         "Inflation rate compared to previous year": "18.7"
-      },
-      {
-         "Year": "1995",
-         "Inflation rate compared to previous year": "29.8"
-      },
-      {
-         "Year": "1994",
-         "Inflation rate compared to previous year": "29"
-      },
-      {
-         "Year": "1993",
-         "Inflation rate compared to previous year": "20.5"
-      },
-      {
-         "Year": "1992",
-         "Inflation rate compared to previous year": "31.7"
-      },
-      {
-         "Year": "1991",
-         "Inflation rate compared to previous year": "25.9"
-      },
-      {
-         "Year": "1990",
-         "Inflation rate compared to previous year": "9.27"
-      },
-      {
-         "Year": "1989",
-         "Inflation rate compared to previous year": "9.17"
-      },
-      {
-         "Year": "1988",
-         "Inflation rate compared to previous year": "5.94"
-      },
-      {
-         "Year": "1987",
-         "Inflation rate compared to previous year": "5.86"
-      },
-      {
-         "Year": "1986",
-         "Inflation rate compared to previous year": "10.01"
-      },
-      {
-         "Year": "1985",
-         "Inflation rate compared to previous year": "10.43"
-      },
-      {
-         "Year": "1984",
-         "Inflation rate compared to previous year": "6.31"
+         "2014 World Cup Matches": "World Cup Final - Germany vs. Argentina (07/13/14)(Univision & ABC)",
+         "ESPN/ABC": "17.3",
+         "Univision": "9.2"
       }
-   ]
+   ],
+   "gold": "The graph shows the TV viewership of selected games at the 2014 FIFA World Cup in Brazil . The opening match on June 12 between Brazil and Croatia had a total TV viewership of 9.5 million viewers in the United States .\n"
 }

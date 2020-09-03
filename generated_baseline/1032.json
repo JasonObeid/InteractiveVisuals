@@ -4,15 +4,24 @@
    "yAxis": "Revenue in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 2 categories for the x axis representing Game, and a y axis representing Revenue in million U.S. dollars.",
       " The highest category is found at Clash_Royale where Revenue in million U.S. dollars is 597.0.",
       " The lowest category is found at Clash_of_Clans where Revenue in million U.S. dollars is 567.0."
    ],
-   "trends": {
-      "maxIndex": 1,
-      "minIndex": 0
-   },
+   "trends": [
+      {},
+      {
+         "7": 1,
+         "12": 1
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
    "data": [
       {
          "Game": "Clash of Clans",

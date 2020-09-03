@@ -4,15 +4,24 @@
    "yAxis": "Percentage dividend yield",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 35 categories for the x axis representing Company, and a y axis representing Percentage dividend yield.",
       " The highest category is found at Mediaset where Percentage dividend yield is 8.46.",
       " The lowest category is found at Arcelormittal where Percentage dividend yield is 0.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 34
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 34,
+         "12": 34
+      },
+      {}
+   ],
    "data": [
       {
          "Company": "Mediaset",

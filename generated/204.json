@@ -1,87 +1,57 @@
 {
-   "title": "Market share of UK gambling industry sectors by GGY 2009 to 2014",
-   "labels": [
-      "Year",
-      "Betting",
-      "Casino",
-      "Remote",
-      "Bingo",
-      "Arcades",
-      "Lottery"
-   ],
-   "columnType": "multi",
-   "graphType": "line",
+   "title": "Toys and games market : market segmentation by value 2009",
+   "xAxis": "Name",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the Market of share UK in the UK from 2013/14 to 2009/10 , GGY the 2009 of the 2014 . ",
-      "In 2013/14 , 5 marathons took place in the UK ."
+      "Other was the market Name with the largest Market share in Toys , as of 2020 . ",
+      "The Market share of Other made up 30.5 % of the total Market in Toys . ",
+      "Infant/Pre-school_toys , second in this list , had roughly 16.2 % of all Swedish page views ."
    ],
    "trends": [
       {
-         "12": [
-            "0",
-            "0"
-         ],
-         "14": [
-            "4",
-            "0"
-         ]
+         "0": "0"
       },
       {
-         "1": [
-            "0",
-            "0"
-         ],
-         "3": [
-            "0",
-            "5"
-         ]
+         "4": "0",
+         "7": "0"
+      },
+      {
+         "0": "1",
+         "9": "1"
       }
    ],
    "data": [
       {
-         "Year": "2013/14",
-         "Betting": "46",
-         "Casino": "16",
-         "Remote": "19",
-         "Bingo": "9",
-         "Arcades": "5",
-         "Lottery": "5"
+         "Name": "Other",
+         "Market share": "30.5"
       },
       {
-         "Year": "2012/13",
-         "Betting": "48",
-         "Casino": "16",
-         "Remote": "16",
-         "Bingo": "10",
-         "Arcades": "5",
-         "Lottery": "4"
+         "Name": "Infant/Pre-school toys",
+         "Market share": "16.2"
       },
       {
-         "Year": "2011/12",
-         "Betting": "50",
-         "Casino": "15",
-         "Remote": "13",
-         "Bingo": "12",
-         "Arcades": "5",
-         "Lottery": "5"
+         "Name": "Activity toys",
+         "Market share": "15.1"
       },
       {
-         "Year": "2010/11",
-         "Betting": "52",
-         "Casino": "15",
-         "Remote": "12",
-         "Bingo": "11",
-         "Arcades": "7",
-         "Lottery": "3"
+         "Name": "Dolls",
+         "Market share": "12.2"
       },
       {
-         "Year": "2009/10",
-         "Betting": "52",
-         "Casino": "14",
-         "Remote": "12",
-         "Bingo": "11",
-         "Arcades": "8",
-         "Lottery": "3"
+         "Name": "Ride-ons",
+         "Market share": "11.4"
+      },
+      {
+         "Name": "Games and puzzles",
+         "Market share": "9.5"
+      },
+      {
+         "Name": "Plush toys",
+         "Market share": "5.1"
       }
-   ]
+   ],
+   "gold": "This graph depicts the share of toy categories of the total market value in 2009 . Activity toys accounted for 15.1 percent of total toys and games market revenue .\n"
 }

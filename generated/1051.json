@@ -1,69 +1,70 @@
 {
-   "title": "Urbanization in China 2008 to 2018",
+   "title": "Gross domestic product ( GDP ) growth rate in Mozambique 2024",
    "xAxis": "Year",
-   "yAxis": "Share of urban population",
+   "yAxis": "GDP growth compared to previous year",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the degree of Urbanization in China from 2008 to 2018 . ",
-      "Urbanization is measured as the proportion of urban population in the total population . ",
-      "In 2018 , around 59.58 % of the Mexican population lived in urban areas ."
+      "The statistic shows the growth in real GDP in Mozambique from 2014 to 2018 , with projections up until 2024 . ",
+      "In 2018 , Mozambique 's real Gross domestic product increased by around 11.47 % compared to the previous Year ."
    ],
    "trends": [
       {
-         "10": "10",
-         "12": "0"
+         "11": "10",
+         "13": "6",
+         "19": "0"
       },
-      {},
       {
-         "1": "0",
-         "4": "0"
+         "1": "6",
+         "12": "0"
       }
    ],
    "data": [
       {
+         "Year": "2024",
+         "GDP growth compared to previous year": "11.47"
+      },
+      {
+         "Year": "2023",
+         "GDP growth compared to previous year": "9.24"
+      },
+      {
+         "Year": "2022",
+         "GDP growth compared to previous year": "4"
+      },
+      {
+         "Year": "2021",
+         "GDP growth compared to previous year": "4"
+      },
+      {
+         "Year": "2020",
+         "GDP growth compared to previous year": "6.04"
+      },
+      {
+         "Year": "2019",
+         "GDP growth compared to previous year": "1.8"
+      },
+      {
          "Year": "2018",
-         "Share of urban population": "59.58"
+         "GDP growth compared to previous year": "3.27"
       },
       {
          "Year": "2017",
-         "Share of urban population": "58.52"
+         "GDP growth compared to previous year": "3.74"
       },
       {
          "Year": "2016",
-         "Share of urban population": "57.35"
+         "GDP growth compared to previous year": "3.76"
       },
       {
          "Year": "2015",
-         "Share of urban population": "56.1"
+         "GDP growth compared to previous year": "6.59"
       },
       {
          "Year": "2014",
-         "Share of urban population": "54.77"
-      },
-      {
-         "Year": "2013",
-         "Share of urban population": "53.73"
-      },
-      {
-         "Year": "2012",
-         "Share of urban population": "52.57"
-      },
-      {
-         "Year": "2011",
-         "Share of urban population": "51.27"
-      },
-      {
-         "Year": "2010",
-         "Share of urban population": "49.95"
-      },
-      {
-         "Year": "2009",
-         "Share of urban population": "48.34"
-      },
-      {
-         "Year": "2008",
-         "Share of urban population": "46.99"
+         "GDP growth compared to previous year": "7.44"
       }
-   ]
+   ],
+   "gold": "The statistic shows the growth in real GDP in Mozambique from 2014 to 2018 , with projections up until 2024 . In 2018 , Mozambique 's real gross domestic product increased by around 3.27 percent compared to the previous year .\n"
 }

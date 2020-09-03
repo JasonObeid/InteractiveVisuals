@@ -1,147 +1,111 @@
 {
-   "title": "Sky News viewers reached quarterly in the United Kingdom ( UK ) Q1 2012-Q3 2019",
-   "xAxis": "Quarter",
-   "yAxis": "Viewers in thousands",
+   "title": "Top countries by pharmaceutical industry employment 2014",
+   "xAxis": "Country",
+   "yAxis": "Number of employees",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "The statistic shows the market Viewers of Sky News in the reached quarterly market ( unit thousands ) from the first Quarter of Q1_2012 to the third Quarter of Q1_2012 . ",
-      "In the fourth Quarter of Q1_2012 , Sky News News market Viewers in the quarterly market was at 17035 thousands ."
+      "As of Top 2014 , the China had the highest Number of incarcerated individuals worldwide , countries about 2301534 million people in prison . ",
+      "The U.S. was followed by India , United_States the Germany , and Brazil . ",
+      "The incarceration problem The China has an incredibly high Number of incarcerated individuals ."
    ],
    "trends": [
       {
-         "22": "0",
-         "28": "0"
+         "6": "0",
+         "18": "0"
       },
       {
-         "5": "0",
-         "17": "0"
+         "5": "1",
+         "7": "2",
+         "10": "3",
+         "13": "4"
+      },
+      {
+         "4": "0"
       }
    ],
    "data": [
       {
-         "Quarter": "Q1 2012",
-         "Viewers in thousands": "17035"
+         "Country": "China",
+         "Number of employees": "2301534"
       },
       {
-         "Quarter": "Q2 2012",
-         "Viewers in thousands": "15922"
+         "Country": "India",
+         "Number of employees": "567469"
       },
       {
-         "Quarter": "Q3 2012",
-         "Viewers in thousands": "15900"
+         "Country": "United States",
+         "Number of employees": "251995"
       },
       {
-         "Quarter": "Q4 2012",
-         "Viewers in thousands": "18754"
+         "Country": "Germany",
+         "Number of employees": "128000"
       },
       {
-         "Quarter": "Q1 2013",
-         "Viewers in thousands": "16892"
+         "Country": "Brazil",
+         "Number of employees": "105253"
       },
       {
-         "Quarter": "Q2 2013",
-         "Viewers in thousands": "17358"
+         "Country": "Japan",
+         "Number of employees": "91529"
       },
       {
-         "Quarter": "Q3 2013",
-         "Viewers in thousands": "15288"
+         "Country": "Russian Federation",
+         "Number of employees": "66523"
       },
       {
-         "Quarter": "Q4 2013",
-         "Viewers in thousands": "15789"
+         "Country": "Indonesia",
+         "Number of employees": "64059"
       },
       {
-         "Quarter": "Q1 2014",
-         "Viewers in thousands": "17526"
+         "Country": "Italy",
+         "Number of employees": "59300"
       },
       {
-         "Quarter": "Q2 2014",
-         "Viewers in thousands": "15056"
+         "Country": "Mexico",
+         "Number of employees": "51125"
       },
       {
-         "Quarter": "Q3 2014",
-         "Viewers in thousands": "15324"
+         "Country": "Thailand",
+         "Number of employees": "48000"
       },
       {
-         "Quarter": "Q4 2014",
-         "Viewers in thousands": "14579"
+         "Country": "Egypt",
+         "Number of employees": "47753"
       },
       {
-         "Quarter": "Q1 2015",
-         "Viewers in thousands": "14872"
+         "Country": "France",
+         "Number of employees": "47000"
       },
       {
-         "Quarter": "Q2 2015",
-         "Viewers in thousands": "14915"
+         "Country": "Spain",
+         "Number of employees": "43723"
       },
       {
-         "Quarter": "Q3 2015",
-         "Viewers in thousands": "14384"
+         "Country": "Switzerland",
+         "Number of employees": "43258"
       },
       {
-         "Quarter": "Q4 2015",
-         "Viewers in thousands": "17713"
+         "Country": "United Kingdom",
+         "Number of employees": "41690"
       },
       {
-         "Quarter": "Q1 2016",
-         "Viewers in thousands": "14437"
+         "Country": "Vietnam",
+         "Number of employees": "39749"
       },
       {
-         "Quarter": "Q2 2016",
-         "Viewers in thousands": "15563"
+         "Country": "Poland",
+         "Number of employees": "38000"
       },
       {
-         "Quarter": "Q3 2016",
-         "Viewers in thousands": "14379"
+         "Country": "Pakistan",
+         "Number of employees": "36336"
       },
       {
-         "Quarter": "Q4 2016",
-         "Viewers in thousands": "14754"
-      },
-      {
-         "Quarter": "Q1 2017",
-         "Viewers in thousands": "14536"
-      },
-      {
-         "Quarter": "Q2 2017",
-         "Viewers in thousands": "17194"
-      },
-      {
-         "Quarter": "Q3 2017",
-         "Viewers in thousands": "14183"
-      },
-      {
-         "Quarter": "Q4 2017",
-         "Viewers in thousands": "13466"
-      },
-      {
-         "Quarter": "Q1 2018",
-         "Viewers in thousands": "12434"
-      },
-      {
-         "Quarter": "Q2 2018",
-         "Viewers in thousands": "12380"
-      },
-      {
-         "Quarter": "Q3 2018",
-         "Viewers in thousands": "11734"
-      },
-      {
-         "Quarter": "Q4 2018",
-         "Viewers in thousands": "12904"
-      },
-      {
-         "Quarter": "Q1 2019",
-         "Viewers in thousands": "12957"
-      },
-      {
-         "Quarter": "Q2 2019",
-         "Viewers in thousands": "12504"
-      },
-      {
-         "Quarter": "Q3 2019",
-         "Viewers in thousands": "12633"
+         "Country": "Turkey",
+         "Number of employees": "35100"
       }
-   ]
+   ],
+   "gold": "This statistic displays the top 20 countries worldwide based on the number of people employed in the pharmaceutical industry as of 2014 . The pharmaceutical industry in Japan counted over 91,500 employees that year .\n"
 }

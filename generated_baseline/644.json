@@ -4,15 +4,24 @@
    "yAxis": "Number of gas stations",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 9 categories for the x axis representing Company, and a y axis representing Number of gas stations.",
       " The highest category is found at Total where Number of gas stations is 121.0.",
       " The lowest category is found at Dyneff where Number of gas stations is 8.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 8
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
    "data": [
       {
          "Company": "Total",

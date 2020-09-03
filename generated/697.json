@@ -1,76 +1,67 @@
 {
-   "title": "Number of members of FC Bayern Munich 2005 to 2018",
-   "xAxis": "Month",
-   "yAxis": "Number of members in thousands",
-   "columnType": "two",
+   "title": "Market share of leading smartphone brands in the Netherlands 2017 to 2018",
+   "labels": [
+      "Race",
+      "2017",
+      "2018"
+   ],
+   "columnType": "multi",
    "graphType": "bar",
    "summary": [
-      "This statistic shows the leading Number of members thousands in FC Bayern Munich 2018 , Bayern Month . ",
-      "In 2018 , the Number of members thousands in Nov_2018 was 291.0 thousand ."
+      "Samsung and Apple ( Outlook.com ) were still the most used share services in the Netherlands , according to survey respondents in 2018 . ",
+      "Compared to earlier years , the use of both Google 's as well Microsoft 's free e-mail service saw an increase in their usage among Dutch consumers , whilst e-mail services provided by domestic leading ( such as KPN and Ziggo ) saw much less use . ",
+      "Sending and receiving e-mails is a popular online communication method across all age groups in the country ."
    ],
    "trends": [
-      {},
       {
-         "9": "0",
-         "11": "0"
-      }
+         "0": [
+            "0",
+            "0"
+         ],
+         "2": [
+            "1",
+            "0"
+         ]
+      },
+      {},
+      {}
    ],
    "data": [
       {
-         "Month": "Nov 2018",
-         "Number of members in thousands": "291.0"
+         "Race": "Samsung",
+         "2017": "41",
+         "2018": "38"
       },
       {
-         "Month": "2017/18",
-         "Number of members in thousands": "290.0"
+         "Race": "Apple",
+         "2017": "32",
+         "2018": "34"
       },
       {
-         "Month": "2016/17",
-         "Number of members in thousands": "284.04"
+         "Race": "Huawei",
+         "2017": "6",
+         "2018": "7"
       },
       {
-         "Month": "2015/16",
-         "Number of members in thousands": "270.33"
+         "Race": "Sony",
+         "2017": "5",
+         "2018": "0"
       },
       {
-         "Month": "2014/15",
-         "Number of members in thousands": "251.32"
+         "Race": "LG",
+         "2017": "4",
+         "2018": "0"
       },
       {
-         "Month": "2013/14",
-         "Number of members in thousands": "233.43"
+         "Race": "Microsoft",
+         "2017": "3",
+         "2018": "0"
       },
       {
-         "Month": "2012/13",
-         "Number of members in thousands": "195.69"
-      },
-      {
-         "Month": "2011/12",
-         "Number of members in thousands": "187.87"
-      },
-      {
-         "Month": "2010/11",
-         "Number of members in thousands": "171.35"
-      },
-      {
-         "Month": "2009/10",
-         "Number of members in thousands": "162.18"
-      },
-      {
-         "Month": "2008/09",
-         "Number of members in thousands": "151.23"
-      },
-      {
-         "Month": "2007/08",
-         "Number of members in thousands": "147.07"
-      },
-      {
-         "Month": "2006/07",
-         "Number of members in thousands": "135.75"
-      },
-      {
-         "Month": "2005/06",
-         "Number of members in thousands": "121.12"
+         "Race": "Other",
+         "2017": "9",
+         "2018": "0"
       }
-   ]
+   ],
+   "gold": "In 2018 , Samsung was the biggest smartphone brand in the Netherlands with a market share of close to 40 percent . This is a decrease compared to the previous year . Second in the Netherlands was Apple .\n"
 }

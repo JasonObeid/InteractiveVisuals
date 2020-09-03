@@ -7,16 +7,37 @@
    ],
    "columnType": "multi",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 8 categories for the x axis of TV Channel representing Total audience (3 years and older), 14-49 years.",
+      "This grouped bar chart has 8 categories for the x axis of TV Channel representing Total audience (3 years and older), and 14-49 years.",
       " The highest category is found at RTL with a mean value of 10.2.",
-      " The second highest category is found at ZDF with a mean value of 9.149999999999999.",
+      " The second highest category is found at ZDF with a mean value of 9.15.",
       " This represents a difference of 10.9%."
    ],
-   "trends": {
-      "maxIndex": 2,
-      "secondIndex": 2
-   },
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "13": [
+            "2",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "2",
+            "0"
+         ]
+      },
+      {}
+   ],
    "data": [
       {
          "TV Channel": "ZDF",

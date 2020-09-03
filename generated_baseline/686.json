@@ -4,15 +4,24 @@
    "yAxis": "Higher education outlay in billion U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 12 categories for the x axis representing Fiscal Year, and a y axis representing Higher education outlay in billion U.S. dollars.",
       " The highest category is found at '19 where Higher education outlay in billion U.S. dollars is 33.0.",
       " The lowest category is found at '20 where Higher education outlay in billion U.S. dollars is 2.0."
    ],
-   "trends": {
-      "maxIndex": 11,
-      "minIndex": 10
-   },
+   "trends": [
+      {},
+      {
+         "7": 11,
+         "12": 11
+      },
+      {
+         "7": 10,
+         "12": 10
+      },
+      {}
+   ],
    "data": [
       {
          "Fiscal Year": "'30",

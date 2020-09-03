@@ -1,67 +1,50 @@
 {
-   "title": "Smartphone penetration as share of population in Australia 2012 to 2022",
-   "xAxis": "Year",
-   "yAxis": "Smartphone penetration rate",
+   "title": "MoviePass subscribers in the U.S. 2019",
+   "xAxis": "Month",
+   "yAxis": "Number of subscribers in thousands",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Smartphone penetration of Australia from 2012 to 2022 . ",
-      "In 2022 , the Smartphone penetration of Australia was estimated at approximately 74.44 Smartphone penetration rate ."
+      "The statistic shows the Number of MoviePass subscribers U.S. in the country in 2019 , broken down 2019 Month . ",
+      "In 2019 , MoviePass subscribers U.S. amounted to 3000 thousands , up from 3000 thousands in the previous year ."
    ],
    "trends": [
+      {},
       {
-         "9": "10",
-         "11": "0"
-      },
-      {
-         "1": "0",
-         "12": "0"
+         "9": "1",
+         "15": "1"
       }
    ],
    "data": [
       {
-         "Year": "2022",
-         "Smartphone penetration rate": "74.44"
+         "Month": "April 2019",
+         "Number of subscribers in thousands": "225"
       },
       {
-         "Year": "2021",
-         "Smartphone penetration rate": "73.72"
+         "Month": "June 2018",
+         "Number of subscribers in thousands": "3000"
       },
       {
-         "Year": "2020",
-         "Smartphone penetration rate": "72.78"
+         "Month": "March 2018",
+         "Number of subscribers in thousands": "2000"
       },
       {
-         "Year": "2019",
-         "Smartphone penetration rate": "71.59"
+         "Month": "January 2018",
+         "Number of subscribers in thousands": "1500"
       },
       {
-         "Year": "2018",
-         "Smartphone penetration rate": "70.1"
+         "Month": "September 2017",
+         "Number of subscribers in thousands": "500"
       },
       {
-         "Year": "2017",
-         "Smartphone penetration rate": "68.26"
+         "Month": "August 2017",
+         "Number of subscribers in thousands": "150"
       },
       {
-         "Year": "2016",
-         "Smartphone penetration rate": "66.06"
-      },
-      {
-         "Year": "2015",
-         "Smartphone penetration rate": "63.52"
-      },
-      {
-         "Year": "2014",
-         "Smartphone penetration rate": "61.2"
-      },
-      {
-         "Year": "2013",
-         "Smartphone penetration rate": "53.2"
-      },
-      {
-         "Year": "2012",
-         "Smartphone penetration rate": "43.7"
+         "Month": "December 2016",
+         "Number of subscribers in thousands": "20"
       }
-   ]
+   ],
+   "gold": "As of April 2019 , it was estimated that MoviePass had just 225 thousand subscribers in the United States , a significant drop from the three million recorded in June 2018 . MoviePass is no stranger to media attention , but after the recent claims from a source that they had obtained internal data about MoviePass 's floundering subscriber base , the company is once again in the spotlight . What is MoviePass ? MoviePass is a subscription-based movie ticketing service , designed to allow subscribers to buy a select amount of movie tickets each month for a single fee .\n"
 }

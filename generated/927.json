@@ -1,87 +1,106 @@
 {
-   "title": "Commodity prices of wheat in the United Kingdom ( UK ) 2002 to 2015",
-   "xAxis": "Year",
-   "yAxis": "Price per tonne in GBP",
+   "title": "Most played PC games 2015",
+   "xAxis": "Video Game",
+   "yAxis": "Share of playing time",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Price of the per in United Kingdom on 2002 1st , 2002 United Kingdom UK . ",
-      "In 2015 , people aged under 2015 accounted for more 2015 17 % of the total French per , whereas slightly more 2015 65.02 % of the per were 2002 2015 and 2002 . ",
-      "United comparison , the number of members the per over the Kingdom of 2004 2015 has increased even more prominently , increasing United 3.92 % , amounting to 80.3 % in 2017 ."
+      "The statistic shows the PC played games losses 2015 from to 2015 . ",
+      "It was found that League_of_Legends , hitting the country and League_of_Legends of in 2005 , was the PC expensive Video since 2015 , as it incurred insured losses amounting to approximately 22.92 % Fallout_4 time . ",
+      "Insuring against natural PC Insuring is the practice of transferring risk from one entity to another in exchange for payment ."
    ],
    "trends": [
       {},
       {
-         "1": "0",
-         "6": "0",
+         "4": "0",
          "10": "0",
-         "22": "0",
-         "23": "13",
-         "29": "13",
-         "30": "0",
-         "32": "13"
+         "12": "0",
+         "34": "2"
       },
-      {
-         "14": "11",
-         "15": "0"
-      }
+      {}
    ],
    "data": [
       {
-         "Year": "2015",
-         "Price per tonne in GBP": "127.15"
+         "Video Game": "League of Legends",
+         "Share of playing time": "22.92"
       },
       {
-         "Year": "2014",
-         "Price per tonne in GBP": "143.06"
+         "Video Game": "Counter-Strike: Global Offensive",
+         "Share of playing time": "6.88"
       },
       {
-         "Year": "2013",
-         "Price per tonne in GBP": "175.95"
+         "Video Game": "Fallout 4",
+         "Share of playing time": "5.78"
       },
       {
-         "Year": "2012",
-         "Price per tonne in GBP": "179.26"
+         "Video Game": "DOTA 2",
+         "Share of playing time": "5.09"
       },
       {
-         "Year": "2011",
-         "Price per tonne in GBP": "169.17"
+         "Video Game": "World of Warcraft",
+         "Share of playing time": "4.82"
       },
       {
-         "Year": "2010",
-         "Price per tonne in GBP": "123.76"
+         "Video Game": "World of Tanks",
+         "Share of playing time": "3.48"
       },
       {
-         "Year": "2009",
-         "Price per tonne in GBP": "107.05"
+         "Video Game": "Hearthstone: Heroes of Warcraft",
+         "Share of playing time": "2.14"
       },
       {
-         "Year": "2008",
-         "Price per tonne in GBP": "137.87"
+         "Video Game": "Minecraft",
+         "Share of playing time": "1.97"
       },
       {
-         "Year": "2007",
-         "Price per tonne in GBP": "120.97"
+         "Video Game": "Smite",
+         "Share of playing time": "1.3"
       },
       {
-         "Year": "2006",
-         "Price per tonne in GBP": "78.88"
+         "Video Game": "Grand Theft Auto V",
+         "Share of playing time": "1.29"
       },
       {
-         "Year": "2005",
-         "Price per tonne in GBP": "67.43"
+         "Video Game": "Heroes of the Storm",
+         "Share of playing time": "1.16"
       },
       {
-         "Year": "2004",
-         "Price per tonne in GBP": "80.3"
+         "Video Game": "ARK: Survival Evolved",
+         "Share of playing time": "1.15"
       },
       {
-         "Year": "2003",
-         "Price per tonne in GBP": "79.32"
+         "Video Game": "Guild Wars 2",
+         "Share of playing time": "1.12"
       },
       {
-         "Year": "2002",
-         "Price per tonne in GBP": "65.02"
+         "Video Game": "Star Wars:The Old Republic",
+         "Share of playing time": "1.1"
+      },
+      {
+         "Video Game": "Diablo III",
+         "Share of playing time": "1.08"
+      },
+      {
+         "Video Game": "StarCraft II",
+         "Share of playing time": "1.04"
+      },
+      {
+         "Video Game": "Spider Solitaire",
+         "Share of playing time": "0.89"
+      },
+      {
+         "Video Game": "Battlefield 4",
+         "Share of playing time": "0.8"
+      },
+      {
+         "Video Game": "Final Fantasy XIV Online",
+         "Share of playing time": "0.73"
+      },
+      {
+         "Video Game": "Call of Duty: Black Ops III",
+         "Share of playing time": "0.72"
       }
-   ]
+   ],
+   "gold": "The statistic presents the most-played PC games on the online gaming platform Raptr in November 2015 , by share of total time played . According to Raptr 's blog , 4.82 percent of all time spent gaming on their platform in November 2015 was dedicated to playing World of Warcraft . In the fourth quarter of 2014 , World of Warcraft gained more than 10 million subscribers , mostly owing to 'Warlords of Draenor ' expansion release in November 2014 .\n"
 }

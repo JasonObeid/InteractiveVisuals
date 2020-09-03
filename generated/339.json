@@ -1,111 +1,119 @@
 {
-   "title": "Price of oil per metric ton : manufacturing industry in the UK 2010 to 2018",
+   "title": "Most popular online dating services in selected countries as of February 2014",
    "labels": [
-      "Year",
-      "Small consumer",
-      "Medium consumer",
-      "Large consumer",
-      "Average"
+      "Country",
+      "Facebook",
+      "Twitter",
+      "MySpace",
+      "Shaadi",
+      "Match",
+      "Badoo"
    ],
    "columnType": "multi",
-   "graphType": "line",
+   "graphType": "bar",
    "summary": [
-      "This statistic shows the Price oil of UK inhabitants from 2010 to 2018 . ",
-      "In 2018 , about 572.49 % of inhabitants were aged 0 to 14 years , while approximately 522.95 % were aged 15 to 64 , and 447.91 % of UK inhabitants were aged consumer or older ."
+      "The statistic shows sources of online dating and services for Twitter users in selected countries in 2014 . ",
+      "Among Twitter users from the Vietnam , 85 % named Facebook as their February popular of online dating and services , whereas 15 % stated the Twitter was their February popular of such information ."
    ],
    "trends": [
+      {},
       {
-         "10": [
-            "8",
+         "5": [
+            "3",
             "0"
          ],
-         "12": [
-            "0",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "0"
-         ],
-         "4": [
-            "0",
+         "7": [
+            "3",
             "1"
          ],
-         "17": [
-            "0",
+         "22": [
+            "8",
             "2"
-         ],
-         "26": [
-            "0",
-            "3"
          ]
       }
    ],
    "data": [
       {
-         "Year": "2018",
-         "Small consumer": "572.49",
-         "Medium consumer": "522.95",
-         "Large consumer": "447.91",
-         "Average": "480.41"
+         "Country": "India",
+         "Facebook": "51",
+         "Twitter": "12",
+         "MySpace": "0",
+         "Shaadi": "14",
+         "Match": "0",
+         "Badoo": "0"
       },
       {
-         "Year": "2017",
-         "Small consumer": "519.71",
-         "Medium consumer": "413.2",
-         "Large consumer": "400.49",
-         "Average": "413.81"
+         "Country": "Indonesia",
+         "Facebook": "82",
+         "Twitter": "41",
+         "MySpace": "10",
+         "Shaadi": "0",
+         "Match": "0",
+         "Badoo": "0"
       },
       {
-         "Year": "2016",
-         "Small consumer": "415.19",
-         "Medium consumer": "385.5",
-         "Large consumer": "327.99",
-         "Average": "359.49"
+         "Country": "Philippines",
+         "Facebook": "70",
+         "Twitter": "29",
+         "MySpace": "0",
+         "Shaadi": "0",
+         "Match": "18",
+         "Badoo": "0"
       },
       {
-         "Year": "2015",
-         "Small consumer": "406.28",
-         "Medium consumer": "411.49",
-         "Large consumer": "313.02",
-         "Average": "359.6"
+         "Country": "Vietnam",
+         "Facebook": "85",
+         "Twitter": "25",
+         "MySpace": "13",
+         "Shaadi": "0",
+         "Match": "0",
+         "Badoo": "0"
       },
       {
-         "Year": "2014",
-         "Small consumer": "558.8",
-         "Medium consumer": "519.4",
-         "Large consumer": "519.1",
-         "Average": "524.4"
+         "Country": "Kenya",
+         "Facebook": "64",
+         "Twitter": "29",
+         "MySpace": "13",
+         "Shaadi": "0",
+         "Match": "0",
+         "Badoo": "0"
       },
       {
-         "Year": "2013",
-         "Small consumer": "675.4",
-         "Medium consumer": "581.7",
-         "Large consumer": "570.5",
-         "Average": "588.2"
+         "Country": "Nigeria",
+         "Facebook": "64",
+         "Twitter": "14",
+         "MySpace": "0",
+         "Shaadi": "0",
+         "Match": "0",
+         "Badoo": "17"
       },
       {
-         "Year": "2012",
-         "Small consumer": "651.8",
-         "Medium consumer": "592.8",
-         "Large consumer": "605.8",
-         "Average": "607.3"
+         "Country": "South Africa",
+         "Facebook": "58",
+         "Twitter": "14",
+         "MySpace": "0",
+         "Shaadi": "0",
+         "Match": "17",
+         "Badoo": "0"
       },
       {
-         "Year": "2011",
-         "Small consumer": "625.6",
-         "Medium consumer": "537.5",
-         "Large consumer": "581.8",
-         "Average": "572.0"
+         "Country": "Brazil",
+         "Facebook": "49",
+         "Twitter": "9",
+         "MySpace": "0",
+         "Shaadi": "0",
+         "Match": "0",
+         "Badoo": "9"
       },
       {
-         "Year": "2010",
-         "Small consumer": "506.9",
-         "Medium consumer": "461.0",
-         "Large consumer": "496.6",
-         "Average": "471.5"
+         "Country": "Mexico",
+         "Facebook": "62",
+         "Twitter": "15",
+         "MySpace": "9",
+         "Shaadi": "0",
+         "Match": "0",
+         "Badoo": "0"
       }
-   ]
+   ],
+   "gold": "The statistic shows the most popular online dating services and social media sites to find a partner in selected countries as of February 2014 . During a survey , nine percent of respondents from Brazil stated they had used Twitter to find a romantic partner .\n"
 }

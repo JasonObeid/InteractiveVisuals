@@ -4,15 +4,24 @@
    "yAxis": "Black elected officials",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 51 categories for the x axis representing State, and a y axis representing Black elected officials.",
       " The highest category is found at Florida where Black elected officials is 56.0.",
       " The lowest category is found at Texas where Black elected officials is 0.0."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 44
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 44,
+         "12": 44
+      },
+      {}
+   ],
    "data": [
       {
          "State": "Florida",

@@ -4,36 +4,36 @@
    "yAxis": "Net interest margin",
    "columnType": "two",
    "graphType": "line",
+   "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Net interest margin, with a total of 25 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely positive which exists from 2008 to 2002.",
-      " Similarly, the next significant trend is extremely positive which exists from 2015 to 2010.",
-      " Correspondingly, the next significant trend is extremely negative which exists from 2019 to 2015."
+      "This line chart has an x axis representing Year and a y axis representing Net interest margin, with a total of 25 data points. The chart has 5 significant trends.",
+      " The longest trend is moderately negative which exists from 2010 to 2002.",
+      " But, the next significant trend is slightly negative which exists from 2015 to 2010.",
+      " But, the next significant trend is extremely positive which exists from 2019 to 2015.",
+      " Similarly, the next significant trend is moderately neutral which exists from 1999 to 1995.",
+      " Similarly, the next significant trend is moderately negative which exists from 2002 to 1999."
    ],
    "trends": [
+      {},
       {
-         "Length": 7,
-         "direction": "positive",
-         "start": 11,
-         "end": 17,
-         "trend": "y=-0.12x+244.9",
-         "magnitude": "extremely"
+         "1": "9",
+         "12": "17"
       },
       {
-         "Length": 6,
-         "direction": "positive",
-         "start": 4,
-         "end": 9,
-         "trend": "y=-0.16x+317.28",
-         "magnitude": "extremely"
+         "3": "4",
+         "14": "9"
       },
       {
-         "Length": 5,
-         "direction": "negative",
-         "start": 0,
-         "end": 4,
-         "trend": "y=0.1x+-202.57",
-         "magnitude": "extremely"
+         "3": "0",
+         "14": "4"
+      },
+      {
+         "3": "20",
+         "14": "24"
+      },
+      {
+         "3": "17",
+         "14": "20"
       }
    ],
    "data": [

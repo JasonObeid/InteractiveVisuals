@@ -1,107 +1,68 @@
 {
-   "title": "Cost of EpiPens in the U.S. 2004 to 2016",
-   "xAxis": "Year",
-   "yAxis": "Cost of EpiPens in U.S. Dollars",
+   "title": "Global leading countries in wine export 2018 , based on volume",
+   "xAxis": "Country",
+   "yAxis": "Export volume in million hectoliters",
    "columnType": "two",
-   "graphType": "line",
+   "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic shows the Cost of EpiPens in the EpiPens U.S. from 1st_November_2004 to 27th_July_2012 . ",
-      "In 27th_July_2012 , there were a total 608.61 EpiPens reported in the 2004 ."
+      "The statistic shows the Export of volume and leading million in France and Global countries in 2018 . ",
+      "The Export of volume 2018 leading million in Italy was at 21.0 in 2018 ."
    ],
    "trends": [
       {
-         "12": "0",
-         "14": "12"
+         "11": "2"
       },
       {
-         "1": "12",
-         "7": "20"
+         "8": "1",
+         "11": "0"
       }
    ],
    "data": [
       {
-         "Year": "1st November 2004",
-         "Cost of EpiPens in U.S. Dollars": "106.32"
+         "Country": "Spain",
+         "Export volume in million hectoliters": "21.0"
       },
       {
-         "Year": "23rd February 2005",
-         "Cost of EpiPens in U.S. Dollars": "106.96"
+         "Country": "Italy",
+         "Export volume in million hectoliters": "19.7"
       },
       {
-         "Year": "23rd February 2006",
-         "Cost of EpiPens in U.S. Dollars": "107.76"
+         "Country": "France",
+         "Export volume in million hectoliters": "14.1"
       },
       {
-         "Year": "22nd February 2007",
-         "Cost of EpiPens in U.S. Dollars": "108.96"
+         "Country": "Chile",
+         "Export volume in million hectoliters": "9.3"
       },
       {
-         "Year": "16th January 2008",
-         "Cost of EpiPens in U.S. Dollars": "110.18"
+         "Country": "Australia",
+         "Export volume in million hectoliters": "8.6"
       },
       {
-         "Year": "14th January 2009",
-         "Cost of EpiPens in U.S. Dollars": "116.1"
+         "Country": "South Africa",
+         "Export volume in million hectoliters": "4.2"
       },
       {
-         "Year": "12th October 2009",
-         "Cost of EpiPens in U.S. Dollars": "139.42"
+         "Country": "Germany",
+         "Export volume in million hectoliters": "3.8"
       },
       {
-         "Year": "3rd August 2010",
-         "Cost of EpiPens in U.S. Dollars": "150.76"
+         "Country": "United States",
+         "Export volume in million hectoliters": "3.5"
       },
       {
-         "Year": "15th December 2010",
-         "Cost of EpiPens in U.S. Dollars": "165.68"
+         "Country": "Portugal",
+         "Export volume in million hectoliters": "3.0"
       },
       {
-         "Year": "12th May 2011",
-         "Cost of EpiPens in U.S. Dollars": "176.5"
+         "Country": "Argentina",
+         "Export volume in million hectoliters": "2.8"
       },
       {
-         "Year": "18th October 2011",
-         "Cost of EpiPens in U.S. Dollars": "193.96"
-      },
-      {
-         "Year": "6th March 2012",
-         "Cost of EpiPens in U.S. Dollars": "208.84"
-      },
-      {
-         "Year": "27th July 2012",
-         "Cost of EpiPens in U.S. Dollars": "229.52"
-      },
-      {
-         "Year": "7th November 2012",
-         "Cost of EpiPens in U.S. Dollars": "252.24"
-      },
-      {
-         "Year": "17th July 2013",
-         "Cost of EpiPens in U.S. Dollars": "273.24"
-      },
-      {
-         "Year": "8th November 2013",
-         "Cost of EpiPens in U.S. Dollars": "313.94"
-      },
-      {
-         "Year": "2nd May 2014",
-         "Cost of EpiPens in U.S. Dollars": "354.94"
-      },
-      {
-         "Year": "5th Nov 2014",
-         "Cost of EpiPens in U.S. Dollars": "407.84"
-      },
-      {
-         "Year": "1st May 2015",
-         "Cost of EpiPens in U.S. Dollars": "468.06"
-      },
-      {
-         "Year": "23rd November 2015",
-         "Cost of EpiPens in U.S. Dollars": "537.8"
-      },
-      {
-         "Year": "16th May 2016",
-         "Cost of EpiPens in U.S. Dollars": "608.61"
+         "Country": "New Zealand",
+         "Export volume in million hectoliters": "2.6"
       }
-   ]
+   ],
+   "gold": "Spain edged ahead of Italy to become the world 's top exporter of wine in 2018 . The country shipped 21 million hectoliters of the beverage in that year , compared to Italy 's 19.7 million and France 's 14.1 million . 2018 was also a peak year for wine production worldwide .\n"
 }

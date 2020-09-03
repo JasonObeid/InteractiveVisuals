@@ -1,82 +1,115 @@
 {
-   "title": "Real GDP of Michigan 2018 , by industry",
-   "xAxis": "Industry",
-   "yAxis": "Real value added in billion chained (2012) U.S. dollars",
+   "title": "Unemployment rate in Northern Ireland ( UK ) 2000 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
    "columnType": "two",
-   "graphType": "bar",
+   "graphType": "line",
+   "summaryType": "nlp",
    "summary": [
-      "This graph shows the Manufacturing value added to the Gross Domestic Product ( GDP ) of Michigan in 2018 , by Industry . ",
-      "In 2018 , the Transportation_and_warehousing Industry added 11.63 billion chained 2012 U.S. dollars of value to the state GDP ."
+      "The Unemployment rate of the Northern Ireland in 2019 was 2.7 % , the lowest it has been since the mid-1970s . ",
+      "From 2000 until the 2008 financial crash the Unemployment rate in the UK fluctuated between 4.6 and 4.4 percent , before it increased suddenly in 2009 to 7.5 % . ",
+      "After peaking at 7.5 % in 2013 , the Unemployment rate gradually declined before returning to the levels seen in the early 2000s by 2015 ."
    ],
    "trends": [
       {
-         "4": "0"
+         "7": "0",
+         "9": "0"
       },
       {
-         "4": "10",
-         "7": "10"
+         "1": "19",
+         "4": "11",
+         "15": "14",
+         "17": "11",
+         "25": "10",
+         "27": "6"
+      },
+      {
+         "3": "6",
+         "6": "6",
+         "24": "4"
       }
    ],
    "data": [
       {
-         "Industry": "Manufacturing",
-         "Real value added in billion chained (2012) U.S. dollars": "88.79"
+         "Year": "2019",
+         "Unemployment rate": "2.7"
       },
       {
-         "Industry": "Finance insurance real estate rental and leasing",
-         "Real value added in billion chained (2012) U.S. dollars": "76.55"
+         "Year": "2018",
+         "Unemployment rate": "3.6"
       },
       {
-         "Industry": "Professional and business services",
-         "Real value added in billion chained (2012) U.S. dollars": "65.72"
+         "Year": "2017",
+         "Unemployment rate": "4.6"
       },
       {
-         "Industry": "Government and government enterprises",
-         "Real value added in billion chained (2012) U.S. dollars": "47.6"
+         "Year": "2016",
+         "Unemployment rate": "5.7"
       },
       {
-         "Industry": "Educational services health care and social assistance",
-         "Real value added in billion chained (2012) U.S. dollars": "44.72"
+         "Year": "2015",
+         "Unemployment rate": "6.1"
       },
       {
-         "Industry": "Wholesale trade",
-         "Real value added in billion chained (2012) U.S. dollars": "32.33"
+         "Year": "2014",
+         "Unemployment rate": "6.4"
       },
       {
-         "Industry": "Retail trade",
-         "Real value added in billion chained (2012) U.S. dollars": "31.09"
+         "Year": "2013",
+         "Unemployment rate": "7.5"
       },
       {
-         "Industry": "Construction",
-         "Real value added in billion chained (2012) U.S. dollars": "16.71"
+         "Year": "2012",
+         "Unemployment rate": "7.4"
       },
       {
-         "Industry": "Arts entertainment recreation accommodation and food services",
-         "Real value added in billion chained (2012) U.S. dollars": "15.81"
+         "Year": "2011",
+         "Unemployment rate": "7.2"
       },
       {
-         "Industry": "Information",
-         "Real value added in billion chained (2012) U.S. dollars": "14.24"
+         "Year": "2010",
+         "Unemployment rate": "7.1"
       },
       {
-         "Industry": "Transportation and warehousing",
-         "Real value added in billion chained (2012) U.S. dollars": "11.63"
+         "Year": "2009",
+         "Unemployment rate": "6.4"
       },
       {
-         "Industry": "Other services (except government and government enterprises)",
-         "Real value added in billion chained (2012) U.S. dollars": "10.14"
+         "Year": "2008",
+         "Unemployment rate": "4.4"
       },
       {
-         "Industry": "Utilities",
-         "Real value added in billion chained (2012) U.S. dollars": "9.24"
+         "Year": "2007",
+         "Unemployment rate": "3.9"
       },
       {
-         "Industry": "Agriculture forestry fishing and hunting",
-         "Real value added in billion chained (2012) U.S. dollars": "4.23"
+         "Year": "2006",
+         "Unemployment rate": "4.4"
       },
       {
-         "Industry": "Mining quarrying and oil and gas extraction",
-         "Real value added in billion chained (2012) U.S. dollars": "2.36"
+         "Year": "2005",
+         "Unemployment rate": "4.6"
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": "5"
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": "5.6"
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": "5.9"
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": "6"
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": "6.2"
       }
-   ]
+   ],
+   "gold": "This statistic shows the unemployment rate in Northern Ireland from 2000 to 2019 . Unemployment in Northern Ireland peaked in 2013 when there were 7.5 percent of the population unemployed , compared with just 2.7 percent in the most recent reporting year of 2019 .\n"
 }

@@ -4,15 +4,24 @@
    "yAxis": "Number of children with autism per 10,000 children studied",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 10 categories for the x axis representing Country, and a y axis representing Number of children with autism per 10,000 children studied.",
       " The highest category is found at United_States where Number of children with autism per 10,000 children studied is 168.0.",
       " The lowest category is found at Portugal where Number of children with autism per 10,000 children studied is 9.2."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 9
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
    "data": [
       {
          "Country": "United States",

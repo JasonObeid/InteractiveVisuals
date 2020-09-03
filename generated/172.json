@@ -1,67 +1,34 @@
 {
-   "title": "Total Apple App Store iOS developer payout 2014 to 2020",
-   "xAxis": "Month",
-   "yAxis": "Cumulative developer payout in billion U.S. dollars",
+   "title": "Global distribution systems : company revenues 2017",
+   "xAxis": "Company",
+   "yAxis": "Revenue in billion U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "nlp",
    "summary": [
-      "This statistic gives information on the Cumulative of developer payout in Apple App Store 2014 , broken down developer payout . ",
-      "In 2014 , more than 100 billion of Brazilian developer payout were developer ."
+      "In 2017 , Amadeus made up 5.81 billion of Global 's Revenue . ",
+      "Global , owned 2017 the Kering Group , had revenues of approximately 1.17 billion euros in 2017 ."
    ],
    "trends": [
-      {},
       {
-         "5": "2"
-      }
+         "3": "0",
+         "6": "0"
+      },
+      {}
    ],
    "data": [
       {
-         "Month": "Jan '20",
-         "Cumulative developer payout in billion U.S. dollars": "155"
+         "Company": "Amadeus",
+         "Revenue in billion U.S. dollars": "5.81"
       },
       {
-         "Month": "Jan '19",
-         "Cumulative developer payout in billion U.S. dollars": "120"
+         "Company": "Sabre",
+         "Revenue in billion U.S. dollars": "3.6"
       },
       {
-         "Month": "Jun '18",
-         "Cumulative developer payout in billion U.S. dollars": "100"
-      },
-      {
-         "Month": "Jan '18",
-         "Cumulative developer payout in billion U.S. dollars": "86"
-      },
-      {
-         "Month": "Jun '17",
-         "Cumulative developer payout in billion U.S. dollars": "70"
-      },
-      {
-         "Month": "Jan '17",
-         "Cumulative developer payout in billion U.S. dollars": "60"
-      },
-      {
-         "Month": "Jun '16",
-         "Cumulative developer payout in billion U.S. dollars": "50"
-      },
-      {
-         "Month": "Jan '16",
-         "Cumulative developer payout in billion U.S. dollars": "40"
-      },
-      {
-         "Month": "Aug '15",
-         "Cumulative developer payout in billion U.S. dollars": "33"
-      },
-      {
-         "Month": "Jan '15",
-         "Cumulative developer payout in billion U.S. dollars": "25"
-      },
-      {
-         "Month": "Jul '14",
-         "Cumulative developer payout in billion U.S. dollars": "20"
-      },
-      {
-         "Month": "Jan '14",
-         "Cumulative developer payout in billion U.S. dollars": "15"
+         "Company": "Travelport",
+         "Revenue in billion U.S. dollars": "2.45"
       }
-   ]
+   ],
+   "gold": "This statistic shows the revenue of selected global distribution systems in 2017 . The global distribution system Amadeus generated a revenue of approximately 5.81 billion U.S. dollars ( 4.85 billion euros ) in 2017 . The revenue of Amadeus has been consistent over the last four years , remaining above 4.1 billion U.S. dollars .\n"
 }

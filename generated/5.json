@@ -1,66 +1,127 @@
 {
-   "title": "New Year 's resolution of Americans for 2018",
-   "xAxis": "Response",
-   "yAxis": "Share of respondents",
-   "columnType": "two",
+   "title": "Average retail price for white sugar in Canada 2015 to 2019",
+   "labels": [
+      "Month",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
    "graphType": "bar",
    "summary": [
-      "A survey conducted in 2018 reveals that the largest groups of Italian respondents cheated on for Learn_a_new_skill_or_hobby either Year a Save_money or Year a Lose_weight_or_get_in_shape . ",
-      "In Have_more_sex , 53 % of interviewees in Italy stated that they betrayed for Learn_a_new_skill_or_hobby Year a Save_money , while 45 % did so Year a Lose_weight_or_get_in_shape . ",
-      "However , it was common to Americans Year strangers as well ."
+      "Average price of for white in Canada reached approximately 2.71 million Canadian dollars in 2019 . ",
+      "This figure has gradually increased over the given survey period \u2013 in 2015 the average price value was 2.79 billion dollars . ",
+      "Canadians prefer shopping in-store As of 2018 , there were over 15,600 for white located across Canada , signaling an ongoing demand for brick-and-mortar white , despite the rise of e-commerce in the Canadian retail sector ."
    ],
    "trends": [
       {
-         "16": "5",
-         "20": "0",
-         "24": "1"
+         "9": [
+            "7",
+            "4"
+         ]
       },
-      {
-         "1": "2",
-         "3": "0",
-         "14": "5",
-         "17": "0",
-         "20": "1",
-         "26": "1"
-      },
+      {},
       {}
    ],
    "data": [
       {
-         "Response": "Save money",
-         "Share of respondents": "53"
+         "Month": "Dec",
+         "2015": "2.57",
+         "2016": "2.64",
+         "2017": "2.69",
+         "2018": "2.56",
+         "2019": "2.41"
       },
       {
-         "Response": "Lose weight or get in shape",
-         "Share of respondents": "45"
+         "Month": "Nov",
+         "2015": "2.76",
+         "2016": "2.68",
+         "2017": "2.66",
+         "2018": "2.55",
+         "2019": "2.45"
       },
       {
-         "Response": "Have more sex",
-         "Share of respondents": "25"
+         "Month": "Oct",
+         "2015": "2.77",
+         "2016": "2.72",
+         "2017": "2.68",
+         "2018": "2.67",
+         "2019": "2.44"
       },
       {
-         "Response": "Travel more",
-         "Share of respondents": "24"
+         "Month": "Sep",
+         "2015": "2.83",
+         "2016": "2.8",
+         "2017": "2.74",
+         "2018": "2.61",
+         "2019": "2.52"
       },
       {
-         "Response": "Read more books",
-         "Share of respondents": "23"
+         "Month": "Aug",
+         "2015": "2.81",
+         "2016": "2.88",
+         "2017": "2.76",
+         "2018": "2.7",
+         "2019": "2.49"
       },
       {
-         "Response": "Learn a new skill or hobby",
-         "Share of respondents": "22"
+         "Month": "Jul",
+         "2015": "2.81",
+         "2016": "2.84",
+         "2017": "2.79",
+         "2018": "2.67",
+         "2019": "2.5"
       },
       {
-         "Response": "Buy a house",
-         "Share of respondents": "21"
+         "Month": "Jun",
+         "2015": "2.79",
+         "2016": "2.75",
+         "2017": "2.77",
+         "2018": "2.58",
+         "2019": "2.5"
       },
       {
-         "Response": "Quit smoking",
-         "Share of respondents": "16"
+         "Month": "May",
+         "2015": "2.81",
+         "2016": "2.76",
+         "2017": "2.94",
+         "2018": "2.71",
+         "2019": "2.56"
       },
       {
-         "Response": "Find love",
-         "Share of respondents": "15"
+         "Month": "Apr",
+         "2015": "2.78",
+         "2016": "2.78",
+         "2017": "2.78",
+         "2018": "2.71",
+         "2019": "2.53"
+      },
+      {
+         "Month": "Mar",
+         "2015": "2.81",
+         "2016": "2.69",
+         "2017": "2.83",
+         "2018": "2.58",
+         "2019": "2.59"
+      },
+      {
+         "Month": "Feb",
+         "2015": "2.81",
+         "2016": "2.73",
+         "2017": "2.75",
+         "2018": "2.69",
+         "2019": "2.48"
+      },
+      {
+         "Month": "Jan",
+         "2015": "2.88",
+         "2016": "2.77",
+         "2017": "2.82",
+         "2018": "2.7",
+         "2019": "2.61"
       }
-   ]
+   ],
+   "gold": "The average retail price for two kilograms of white sugar in Canada hit an all-time low of 2.41 Canadian dollars in December 2019 . This price has gradually decreased over time , from a monthly average of 2.79 dollars per two kilograms in 2015 . What is white sugar ? White sugar which we buy in stores is a refined sugar .\n"
 }

@@ -4,15 +4,24 @@
    "yAxis": "Market share of total grocers",
    "columnType": "two",
    "graphType": "bar",
+   "summaryType": "baseline",
    "summary": [
       "This bar chart has 10 categories for the x axis representing Grocery Stores, and a y axis representing Market share of total grocers.",
       " The highest category is found at E._Leclerc_Group where Market share of total grocers is 21.6.",
       " The lowest category is found at Other where Market share of total grocers is 0.7."
    ],
-   "trends": {
-      "maxIndex": 0,
-      "minIndex": 9
-   },
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
    "data": [
       {
          "Grocery Stores": "E. Leclerc Group",
